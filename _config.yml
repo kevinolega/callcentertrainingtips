@@ -3,7 +3,7 @@ title:       Pixyll
 email:       your_email@example.com
 author:      Kevin Olega
 description: "Tips For Shy Aspiring Call Center Agents."
-baseurl:     "/callcentertrainingtips"
+baseurl:     "/callcentertrainingtips/"
 url:         "http://callcentertrainingtips.com.com"
 date_format: "%b %-d, %Y"
 
