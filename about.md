@@ -4,12 +4,68 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Call Center Training Tips started as a list of tips on how to pass call center interviews, shared with four friends and grew into an extraordinary blog, a book and a [Facebook community](http://facebook.com/callcentertrainingtips/). 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I'm Kevin and I have been working on the lessons for seven years. I have been publishing the lessons since 2012 and this had reached thousands of Filipinos who want to work in a call center.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Several hundred people had sent me letters and messages, thanking and informing me of their success, that they are already hired in a call center. Some readers went as far as sent me gifts and donations to help keep this blog running.
+
+Some readers have hired me to assist them get better results in their job application or promotion interviews.
+
+I spend several hours every week publishing new lessons, refining and adjusting old lessons, asking and answering questions, sharing interesting thoughts on the facebook page, or senfing messages on my free online lessons newsletter.
+
+This blog has a lot of stories and lessons that had changed my life.
+
+I originally wrote the lessons on this blog to help some friends get hired in a call center. I thought, instead of explaining how to get hired for a few others to each one, I decided to just write the lessons down.
+
+This website was designed with shy people in mind. Most of my friends, including myself are introverts.
+
+A few years ago I accompanied friends to interviews and give them tips until they got hired. It normally takes us 4-6 call centers until they get hired. Then we go for pizza and buy me a few beers after.
+
+In 2005 I worked for a call center training school. I assisted students with the enrollment process and gave additional tips upon graduation.
+
+Over the years the mistakes, experience, studies and questions led me to accumulate a massive amount of tips.
+
+You'll find tips on how to improve confidence, speak better English, present well during interviews and job hunting strategies.
+
+I am grateful for the opportunity to contribute my experiences with you and I'm excited that you'll pick up something useful.
+
+I hope you enjoy reading and learning as I much as I enjoyed writing and putting this blog together.
+
+Website maintenance [by Kevin Olega](http://kevinolega.com).
+
+***
+
+## About Kevin Olega
+
+I'm Kevin Olega, the guy behind call center training tips. I work as an content management and virtual assistant to various foreign entrepreneurs. I enjoy writing,creating websites, learning new things and meeting new people on my free time. I'm from Paranaque City and I worked mostly in the Makati and Ortigas area.
+
+### Trivia:
+
+Here are some things about me.
+
+- I'm 30
+- I'm a minimalist. I live with less than 150 things.
+- I like reading, writing and talking to people.
+- I often order black brewed coffee at coffee shops and Chamomile tea in the evening.
+- I'm geeky when it comes to Naruto, Fairy Tail, Hannibal, How I Met Your Mother, Starcraft, Diablo 2, Tekken, Martial Arts and tech stuff.
+- I enjoy cooking, Crossfit, biking, and outdoor activities like hiking and trekking.
+
+
+### Some Common Questions
+
+**Who are your readers?**
+
+Shy people mostly. Male, Female, between 18 and 40 years old. Many of them want to work in a call center, some want to read up or connect with someone for English lessons. I decided to write the blog that I wanted to read. The blog I wish, existed when I started looking for work.
+
+**What is the best way to ask for your help?**
+
+You can start by the most recent tip you've read. What did you do with it? What happened and tell me about specific questions you might have. General questions like "can you give me some tips" pissed me off at first. These days I refer them to the basics page on this blog.
+
+**Who pays for all this?**
+
+I do. Every now and then someone asks me to assist them with their application and offers to treat me to coffee and pay me some money. I use the money to pay for this website's maintenance. I spend some buying books on learning and teaching.
+
+**What kind of help do you need?**
+
+I need a little help paying for the site. Hosting costs have increased over the years and I also pay someone to check my posts and assist with the editing. I'd love to get a new design for the site. I hope someone this site has helped gets to read this and consider contacting me to make a contribution.
