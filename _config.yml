@@ -38,4 +38,4 @@ jekyll-archives:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
