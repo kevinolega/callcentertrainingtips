@@ -26,6 +26,8 @@ I believe you can do better. With the right skills and a good mix of some ingred
 
 I’m currently learning how to cook and it turns out that watching a lot of cooking shows had made me better at my job and at teaching others. I’ll teach you a lot of new things in the next few posts.
 
-Do you want more of these kinds of posts? Please let me know by sending me a message or hitting like on Facebook. 
+Do you want more of these kinds of posts? Please let me know by sending me a message. 
 
-This is not a sponsored post so if you read until the end, show your support by buying our books, making a donation, hitting like and sharing this on your wall or to someone who needs it. 
+This is not a sponsored post so if you read until the end, show your love and support by [buying our books](http://callcentertrainingtips.com/promos/), [making a donation](http://callcentertrainingtips.com/support/), subscribing on  [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA) and sharing this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.
