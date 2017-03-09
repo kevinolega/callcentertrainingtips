@@ -48,7 +48,7 @@ A smile can be heard over the phone. A smile shows confidence. A smile puts the 
 
 Make it a game and you’ll have fun. Want to win but don’t be afraid of losing. Conquer defeat by taking more shots. Make friends. Learn and when you get hired earn. When you do send me a can of beer or wine or whatever. I’m looking forward to congratulating you. Thank you for reading. Let me know about your experience in the comments below. Have questions? I answer comments. Want more? Read the other posts.
 
-[Listen to me read this post](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/148146674) 
+[Listen to me read this post](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/148146674). 
 
 Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
 
