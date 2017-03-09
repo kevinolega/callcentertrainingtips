@@ -144,35 +144,6 @@ How do you answer questions before. How will you answer questions now?
 
 Did I miss a call center interview question? Send me a message to ask me a question or leave a comment below.
 
-I'm also selling a book. 
+Do you want more of these kinds of posts? Please let me know by sending me a message or hitting like on Facebook. 
 
-**A Shy Person's Guide on How to Get Hired in a Call Center** by Kevin Olega. 
-
-It's a printable, digital copy.
-
-**Budget Version** is Php 399 and comes with: 
-- 14 days of email lessons and activities
-- One hour of phone coaching and lessons.
-- unlimited chat support.
-
-**Sulit Version** is Php 799 and comes with: 
-- 30 days of email lessons and activities
-- How to Pass Call Center Training
-- Three hours of phone coaching and lessons 
-- unlimited chat support.
-
-**VIP Version** is Php 1499 and comes with: 
-- 30 days of email lessons and activities
-- Five hours of phone coaching and lessons
-- Guaranteed Job Assistance
-- Resume Assistance
-- How to Pass Call Center Training 
-- Application Coaching and Strategy
-- How to become Top Agent
-- Confidence building sessions
-- Lifetime VIP status.
-- Unlimited chat support.
-
-Payments are received through BPI, BDO and Paypal.
-
-Please inquire by sending an email or a Facebook message.
+This is not a sponsored post so if you read until the end, show your support by buying our books, making a donation, hitting like and sharing this on your wall or to someone who needs it. 
