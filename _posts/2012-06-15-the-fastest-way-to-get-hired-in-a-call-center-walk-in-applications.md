@@ -6,23 +6,28 @@ author: Kevin Olega
 comments: true
 categories: [Activity, Applicant, Lessons]
 ---
-<blockquote>They say that more than fifty percent of success comes from just showing up.</blockquote>
-In my experience, the fastest way to find work in a call center is through walk in applications.
+> They say that more than fifty percent of success comes from just showing up.
 
-The experience is quite different compared to applying for work at traditional companies.
+In my experience, the fastest way to find work in a call center is through walk in applications. 
 
-In traditional companies, you send out your application through email or (old school) snail mail and wait for a call or a letter inviting you to an interview and the application process may last you a few weeks or months. If we’re talking about a small company, the boss (usually the owner or the hiring manager) who does the screening and the hiring. That’s the reason why it takes so much time.
+The experience is quite different compared to applying for work at traditional companies. 
 
-A call center is different. Most reputable ones have a full time recruitment team who have requirements to fill up a certain number of call center seats (in other words job positions to fill). They will be checking emails, posting, jobs online, talking to recruitment partners, doing phone interviews etc. Their job is to fill these call center seats with qualified candidates and the faster, the better.
+In traditional companies, you send out your application through email or (old school) snail mail and wait for a call or a letter inviting you to an interview and the application process may last you a few weeks or months. If we’re talking about a small company, the boss (usually the owner or the hiring manager) who does the screening and the hiring. That’s the reason why it takes so much time. A call center is different. Most reputable ones have a full time recruitment team who have requirements to fill up a certain number of call center seats (in other words job positions to fill). 
 
-For some reason HR and recruitment people at call center companies prefer candidates who walk in. I don’t have the full reason from a call center HR but I’m thinking here are a few good reasons why they like walk-in applicants:
-<ul>
-	<li>They do not need to schedule you.</li>
-	<li>They do not need to call you.</li>
-	<li>They do not need to email you.</li>
-	<li>They do not need to confirm your attendance.</li>
-	<li>They do not need to do a phone interview with a fifty fifty chance of you not showing up to am interview in person if you pass.</li>
-</ul>
-The best part is they can process you in one day. It would greatly help you in your application to know if you passed or failed so you can move on with the next one.
+They will be checking emails, posting, jobs online, talking to recruitment partners, doing phone interviews etc. Their job is to fill these call center seats with qualified candidates and the faster, the better. For some reason HR and recruitment people at call center companies prefer candidates who walk in. 
 
-I’ll write about some strategies on how I walk in soon so I’ll keep you posted. Message me up at the contact page for questions.
+I don’t have the full reason from a call center HR but I’m thinking here are a few good reasons why they like walk-in applicants:
+
+- They do not need to schedule you.
+- They do not need to call you.
+- They do not need to email you.
+- They do not need to confirm your attendance.
+- They do not need to do a phone interview with a fifty fifty chance of you not showing up to am interview in person if you pass.
+
+The best part is they can process you in one day. It would greatly help you in your application to know if you passed or failed so you can move on with the next one. I’ll write about some strategies on how I walk in soon so I’ll keep you posted. 
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.
