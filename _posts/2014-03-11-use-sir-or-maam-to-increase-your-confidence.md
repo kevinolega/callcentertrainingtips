@@ -24,4 +24,10 @@ When you over use sir and ma'am it tells us that you didn't bother taking note o
 
 I only use sir and ma'am if I forget a person's name. I do everything I can to avoid doing it. Or when I'm speaking to someone who's name is extremely difficult to pronounce or remember or someone who's name sounds like a curse word.
 
-Don't call people sir or ma'am. When you apply for work or get to work in a call center it won't serve you well. This is not Game of Thrones. Might as well call them Milord and Milady.&nbsp;
+Don't call people sir or ma'am. When you apply for work or get to work in a call center it won't serve you well. This is not Game of Thrones. Might as well call them Milord and Milady.
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.
