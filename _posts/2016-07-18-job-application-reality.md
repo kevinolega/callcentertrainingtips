@@ -26,13 +26,20 @@ Company recruiters assume that you want to work for a company when you go to an 
 
 Who would want a husband that beats his wife and asks her to pay for all the expenses? Pick carefully and understand that no job like no guy or girl is worth stressing yourself over.
 
-<strong>Anyways here's a summary:</strong>
+**Anyways here's a summary:**
 First five applications suck. I usually say something stupid or I just fail the interview. So it's okay. That's just practice.
+
 Next five applications are bad companies: So I pass but this time they don't pass. The pay is too low. The work conditions are bad. The boss wants suicide bombers not employees or something like that.I walk away from these job offers.
+
 The final five are acceptable. They like me and I seem to like them. At this point I pick the best. You don't want to just pick the first good offer, you need to compare so you have a good deal. Don't compare it with too many though. Five is good.
+
 The final one, company number sixteen is where I'll work.
 
-<strong>Always remember:</strong>
+**Always remember:**
 Apply, make an offer, get a deal or walk away. Repeat about sixteen times.
 
-Send me a message if you have questions. I'm praying for your success. Kevin
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.
