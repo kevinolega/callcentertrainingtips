@@ -18,20 +18,34 @@ Reader
 
 Learning English takes time.&nbsp; To best approach is you need to start now and keep going until you get good.
 
-I'll need to tell you something important.&nbsp; <strong>You need to be interested in upgrading yourself and getting better</strong>.&nbsp; If not,&nbsp; you will stay the same. All improvements in life starts with our desire to be better people.&nbsp; Without that, we won't make progress.&nbsp; Sometimes we see something big and we say it's impossible.&nbsp; It's not.&nbsp; We were all born naked and unable to talk. We just learned to be good at what we do. If other people can do it so can you. Just copy from them. Make adjustments if you make mistakes and do what you need to do.
+I'll need to tell you something important.  **You need to be interested in upgrading yourself and getting better**.  If not,  you will stay the same. All improvements in life starts with our desire to be better people.  Without that, we won't make progress.  Sometimes we see something big and we say it's impossible.  It's not.  We were all born naked and unable to talk. We just learned to be good at what we do. If other people can do it so can you. Just copy from them. Make adjustments if you make mistakes and do what you need to do.
 
-<ol>
-<li><strong>Get exposed</strong>. Start reading English stories. Start watching English TV shows.&nbsp; Start listening to English media.&nbsp;&nbsp; Always remember to follow your interests.&nbsp; I'm interested in getting fit and learning business so I listen to freakonomics podcast,&nbsp; the Tim Ferriss Show, The James Altucher Show and Hardcore History often. If you're interested,&nbsp; just Google them and add the word podcast so you can listen too.&nbsp; One advantage of listening to it is we have something to talk about. </li>
-<li><strong>Get practiced</strong>.&nbsp; Start speaking in English on your own. If you listen to podcasts, write some quotes that you enjoy.&nbsp; Try saying them out loud.&nbsp; Try ordering food in English. Try speaking to people who speak in English and practice with them.&nbsp; Write your introduction.&nbsp; Write stories.&nbsp; Write your questions on any topic. Write instructions on your favorite skills. </li>
-<li><strong>Get corrected</strong>. Use a recorder and listen to yourself speak.&nbsp; Ask someone to correct you.&nbsp; Compare how you speak to good English speakers and learn how you can improve. </li>
-</ol>
+1.  **Get exposed**. Start reading English stories. Start watching English TV shows.  Start listening to English media.   Always remember to follow your interests.  I'm interested in getting fit and learning business so I listen to freakonomics podcast,  the Tim Ferriss Show, The James Altucher Show and Hardcore History often. If you're interested,  just Google them and add the word podcast so you can listen too.  One advantage of listening to it is we have something to talk about.
+2.  **Get practiced**.  Start speaking in English on your own. If you listen to podcasts, write some quotes that you enjoy.  Try saying them out loud.  Try ordering food in English. Try speaking to people who speak in English and practice with them.  Write your introduction.  Write stories.  Write your questions on any topic. Write instructions on your favorite skills.
+3.  **Get corrected**. Use a recorder and listen to yourself speak.  Ask someone to correct you.  Compare how you speak to good English speakers and learn how you can improve.
 
-Observation,&nbsp; imitation and correction is the fastest way to learn English. Here's what you need to focus on. 
-1. <strong>Introduction</strong>. Who are you? Where are you from? How do you spend your free time? What makes you awesome? 
-2. <strong>Tell stories</strong>. What are you good at?&nbsp; What challenges have you faced recently and how did you overcome it? 
-3. <strong>Give instructions</strong>. How do you commute from Makati to your house? How do you prepare you favorite meal? 
-4. <strong>Ask questions</strong>. Questions about call center. Questions about love life.&nbsp; Questions you ask someone to determine if they make a good friend. People who don't ask questions are often perceived as dumb people pretending to be smart. The quality of your life is determined by how good you are at asking questions.
+Observation,  imitation and correction is the fastest way to learn English. Here's what you need to focus on. 
 
-Write these down.&nbsp; Say them out loud.&nbsp; Do they sound right? If yes keep going.&nbsp; If no,&nbsp; make corrections. Keep going until you have everything you need to say and want to say.
+1\. **Introduction**. 
 
-I'm writing a book.&nbsp; It's about 50 sentences that you need to master to get hired in a call center.&nbsp; I plan to sell it for 200 pesos but if you want to help me and get a copy of the book for free,&nbsp; send me an email at callcentertrainingtips@gmail.com to volunteer. Send me all your questions.&nbsp; Thank you for reading.
+Who are you? Where are you from? How do you spend your free time? What makes you awesome? 
+
+2\. **Tell stories**. 
+
+What are you good at?  What challenges have you faced recently and how did you overcome it? 
+
+3\. **Give instructions**. 
+
+How do you commute from Makati to your house? How do you prepare you favorite meal? 
+
+4\. **Ask questions**. 
+
+Questions about call center. Questions about love life. Questions you ask someone to determine if they make a good friend. People who don't ask questions are often perceived as dumb people pretending to be smart. The quality of your life is determined by how good you are at asking questions.
+
+Write these down. Say them out loud.&nbsp; Do they sound right? If yes keep going.&nbsp; If no,&nbsp; make corrections. Keep going until you have everything you need to say and want to say.
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.
