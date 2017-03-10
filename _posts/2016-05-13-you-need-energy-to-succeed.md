@@ -16,15 +16,21 @@ Energy influences your ability to get things done.
 **Energy is a by product of properly maintaining your body. **
 
 If you want to improve your energy,&nbsp; let's start by taking a better look at your body. 
-1.<strong>Sleep</strong>. You need to get enough sleep. How many hours are you getting? I was living on six.&nbsp; Gradually I moved to getting seven.&nbsp; Now I sleep eight to nine hours a night. Lack of sleep is often associated with the lack of self control and often bad decisions. Get enough sleep.
 
-<ol>
-<li><strong>Food</strong>. You need to eat right.&nbsp; Get enough green leafy vegetables. Eat some eggs and meat. You don't need sugar,&nbsp; rice, potatoes and bread for breakfast or lunch because it makes you sleepy. I usually eat rice before going to sleep. Test it yourself.</p></li>
-<li><p><strong>Posture</strong>. How you carry yourself influences your attitude. If you sit or stand like a loser you will act like a loser. Sit straight. Stand straight and you'll act like a confident person. You'll look better,&nbsp; your energy will increase and your back will thank you.</p></li>
-<li><p><strong>Breathing</strong>. Take deep breaths. Start your day with taking ten really deep breaths. Form a habit of doing so then some time in the middle of the day take a breath break. I do this before I eat and I don't need to drink as much.</p></li>
-<li><p><strong>Water</strong>. I often forget to drink water. Often I find myself feeling hungry when in fact I'm just thirsty. You know how you need eight glasses of water? Get enough water in your body.</p></li>
-</ol>
+**1. Sleep**. You need to get enough sleep. How many hours are you getting? I was living on six.  Gradually I moved to getting seven.  Now I sleep eight to nine hours a night. Lack of sleep is often associated with the lack of self control and often bad decisions. Get enough sleep.
 
-<p>That said test what you learned and observe how you're feeling. Do you feel better? Do you have more energy? If not, look at the list again and see what you missed. Make corrections and I wish you well.
+**2. Food**. You need to eat right.  Get enough green leafy vegetables. Eat some eggs and meat. You don't need sugar,  rice, potatoes and bread for breakfast or lunch because it makes you sleepy. I usually eat rice before going to sleep. Test it yourself.
 
-Thank you for reading.
+**3. Posture**. How you carry yourself influences your attitude. If you sit or stand like a loser you will act like a loser. Sit straight. Stand straight and you'll act like a confident person. You'll look better,  your energy will increase and your back will thank you.
+
+**4. Breathing**. Take deep breaths. Start your day with taking ten really deep breaths. Form a habit of doing so then some time in the middle of the day take a breath break. I do this before I eat and I don't need to drink as much.
+
+**5. Water**. I often forget to drink water. Often I find myself feeling hungry when in fact I'm just thirsty. You know how you need eight glasses of water? Get enough water in your body.
+
+That said test what you learned and observe how you're feeling. Do you feel better? Do you have more energy? If not, look at the list again and see what you missed. Make corrections and I wish you well.
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.
