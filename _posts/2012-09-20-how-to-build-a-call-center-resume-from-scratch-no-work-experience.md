@@ -22,27 +22,29 @@ I also didn’t include a summary because I don’t have a lot of things to put 
 
 Here are some of the details I included. Do your best to stick to one page. Feel free to not include any of the optional as most of them were just used as fillers.
 
-<ol>
-<li>Name</li>
-<li>Mobile Number</li>
-<li>Landline (if any)</li>
-<li>Email Address - Please use a professional one.</li>
-<li>Physical Address</li>
-<li>Work Experience if any - Summer jobs and part time jobs also apply</li>
-<li>Education - College Only but if you need fillers feel free to add high school.</li>
-<li>Trainings and Seminars</li>
-<li>Extra Curricular Activities</li>
-<li>Skills and Interests - I normally don’t include this these days but if you need a filler this works too.</li>
-<li>Software - MS, Apple or Google Documents, Spreadsheets and Presentations. Photoshop. Wordpress or other tools will be useful.</li>
-<li>Reference - I don’t include this but if you need a filler this works just fine.</li>
-</ol>
+1.  Name
+2.  Mobile Number
+3.  Landline (if any)
+4.  Email Address - Please use a professional one.
+5.  Physical Address
+6.  Work Experience if any - Summer jobs and part time jobs also apply
+7.  Education - College Only but if you need fillers feel free to add high school.
+8.  Trainings and Seminars
+9.  Extra Curricular Activities
+10.  Skills and Interests - I normally don’t include this these days but if you need a filler this works too.
+11.  Software - MS, Apple or Google Documents, Spreadsheets and Presentations. Photoshop. Wordpress or other tools will be useful.
+12.  Reference - I don’t include this but if you need a filler this works just fine.
 
 I’d like to stick to the one page resume rule but my resume should not be less than 3/4th of the page so I include the following fillers.
 
-<ol>
-<li>Software</li>
-<li>Trainings and Seminars attended</li>
-<li>Reference</li>
-</ol>
+1.  Software
+2.  Trainings and Seminars attended
+3.  Reference
 
-So there you have it. I hope it helps. Let me know how the resume writing works for you. If you’d like me to <a title="Services" href="http://callcentertrainingtips.com/services/">build you a resume head over here</a>.
+So there you have it. I hope it helps. Let me know how the resume writing works for you.
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.

@@ -8,21 +8,26 @@ categories: [Lessons]
 ---
 My ten superpowers.
 
-<ol>
-<li>I can sense a cute girl 300 meters away from me even if I'm looking at the opposite direction. They all have enchanting smiles and chinita eyes.</p></li>
-<li><p>I can dodge, parry and block fast moving objects without needing to directly see them. I often stop or move back to dodge speeding cars I did not see.</p></li>
-<li><p>I have a fifty fifty percent chance of making you say yes. I also have a fifty fifty percent chance of making you smile.</p></li>
-<li><p>I can make you forget the passing of time if we get to talk. I can do it over the phone or in person. We can speak for hours and hours without you noticing.</p></li>
-<li><p>I can make smart girls smile, like me and tell me their life story. For some reason I can't get this power to work not too smart girls.</p></li>
-<li><p>I can use technology and my writing to teach you things and send you ideas even if I'm not physically present. I use the <a href="http://callcentertrainingtips.com">call center training tips blog</a> or the <a href="http://www.facebook.com/pages/Call-Center-Training-Tips/449507911746386">Facebook page</a> or my other blogs that <a href="http://kevinolega.com">you can check out here</a>.</p></li>
-<li><p>I have super human strength. I can lift things by myself that normally require two or three people to lift. Sometimes this hurts my back though.</p></li>
-<li><p>I can make time move slower when I am late. For some reason time moves slower when I am late. If I'm meeting you and I'm late waiting for me will feel like hours instead of minutes.</p></li>
-<li><p>I can copy super powers. Whenever I see an ability I find awesome I copy it, imitate and have it.</p></li>
-</ol>
+1.  I can sense a cute girl 300 meters away from me even if I'm looking at the opposite direction. They all have enchanting smiles and chinita eyes.
+2.  I can dodge, parry and block fast moving objects without needing to directly see them. I often stop or move back to dodge speeding cars I did not see.
 
-<p>10.I can make up superpowers. Whenever I want to do something really boring, I create superpowers to help me do it or to excite me to do it.
+3.  I have a fifty fifty percent chance of making you say yes. I also have a fifty fifty percent chance of making you smile.
 
-Bonus: <a href="http://kevinolega.com/how-i-lost-20-plus-pounds-of-fat-in-thirty-days-without-exercise-warning-contains-nudity-and-too-much-information/">I can lose 20lbs of fat in thirty days without exercise. More here</a>.
+4.  I can make you forget the passing of time if we get to talk. I can do it over the phone or in person. We can speak for hours and hours without you noticing.
+
+5.  I can make smart girls smile, like me and tell me their life story. For some reason I can't get this power to work not too smart girls.
+
+6.  I can use technology and my writing to teach you things and send you ideas even if I'm not physically present. I use the [call center training tips blog](http://callcentertrainingtips.com) or the [Facebook page](http://www.facebook.com/pages/Call-Center-Training-Tips/449507911746386) or my other blogs that [you can check out here](http://kevinolega.com).
+
+7.  I have super human strength. I can lift things by myself that normally require two or three people to lift. Sometimes this hurts my back though.
+
+8.  I can make time move slower when I am late. For some reason time moves slower when I am late. If I'm meeting you and I'm late waiting for me will feel like hours instead of minutes.
+
+9.  I can copy super powers. Whenever I see an ability I find awesome I copy it, imitate and have it.
+
+10.I can make up superpowers. Whenever I want to do something really boring, I create superpowers to help me do it or to excite me to do it.
+
+Bonus: [I can lose 20lbs of fat in thirty days without exercise. More here](http://kevinolega.com/how-i-lost-20-plus-pounds-of-fat-in-thirty-days-without-exercise-warning-contains-nudity-and-too-much-information/).
 
 Why is this important?
 
@@ -48,4 +53,10 @@ What I believe affects how I behave. So I pay attention to my thoughts. If I'm g
 
 Consider what I said and use superpowers instead of curses.
 
-Did what I just said made sense? Talk to me in the comments below.
+Did what I just said made sense? Talk to me.
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.

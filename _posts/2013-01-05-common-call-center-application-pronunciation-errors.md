@@ -12,9 +12,9 @@ Minor errors are forgivable. Everyone makes them. There are a few errors that st
 
 I wrote this post so you can easily correct your pronunciation on your own.
 
-<strong>Total read time 7 minutes</strong>
+**Total read time 7 minutes**
 
-<h3>The Z Sound</h3>
+### The Z Sound
 
 Tony is my best friend who grew up in Saudi. When he went to stay in the Philippines he studied in an international school.
 
@@ -24,7 +24,7 @@ You see, Americans pronounce the letter Z as in Zee. Kind of like when you say Z
 
 Its Zeebra not Zeybra.
 
-<h3>The American R Sound</h3>
+### The American R Sound
 
 I went to a school in Manila where some of my classmates were from the ghetto. One of my ghetto classmates called me and (I thought) complimented how I speak. He calls out to everyone and points out something strange in the way I speak. He asked me to read something from a piece of paper. It was the letter R . I said “Oh it’s easy. It’s the letter R (are).” He made me repeat it several times and they started laughing at me as if I’m from a different planet. My classmate said it should be Arrrrrg like a stereotype pirate would say it. I wanted to bury myself in shame.
 
@@ -32,17 +32,17 @@ A few months later I met this girl from a chat channel. She was the cutest thing
 
 Life was good.
 
-<h3>Local to International</h3>
+### Local to International
 
 I got myself a job at a recruitment company. It was a couple of months then. I call my new client to see if she got the email I sent her. She said not yet because their internet is down. I said out loud “Oh your internet (pronounced as innernet) is down. No problem. I could call you again and we’ll just discuss the email later.” She said great. I put down the phone. The boss says there might be something wrong with the internet (innernet) maybe we could restart the router. The other boss says wow Kevin’s new prospect is an international (innernational) company. A coworker shared she was almost late for work because of the severe traffic at the intersection (innersection). After 10 more words they asked me if they got that correctly. I said yes. I’m glad they didn’t use intercourse as an example. I cockily said I’m glad you’re all learning. They later forwarded all foreign phone calls to my number.
 
-<h2>Common Pronunciation Disqualifiers</h2>
+## Common Pronunciation Disqualifiers
 
-<h3>I and E sounds</h3>
+### I and E sounds
 
 The Yaya sound. I’m not trying to be offensive to yayas. I’m trying to be offensive to you. If you switch your i’s and e’s you sound like a yaya (local babysitter from the provice) and you won’t get hired in a call center. Now the good news. You can say the E and I sounds perfectly. You just have them on the words backwards. Try switching them. Find a word where you switch the E and I sounds and switch them back.
 
-<h3>P and F sounds</h3>
+### P and F sounds
 
 Here are some distinctions.
 P’s are when you close your mouth.
@@ -53,40 +53,42 @@ Trainer at the Call Center Training school taught everyone the rabbit. When you 
 
 Go to a mirror say F or V and you notice that when you produce the sounds of F and V you are smiling and biting your upper lip like a rabbit.
 
-<strong>P and F Exercise.</strong> Read aloud and learn to increase speed.
-<i>I sent a friend request to Pam’s parents on Facebook.</i>
+**P and F Exercise.** Read aloud and learn to increase speed. 
+
+_I sent a friend request to Pam’s parents on Facebook._
 
 Trivia: Almost everybody gets it right when they say “Puta” or “Fucker”. Apply the same pronunciation to the P and F sound.
 
-<h3>B and V sounds</h3>
+### B and V sounds
 
 Similarly to P and F B’s are when you close your mouth. Pronounced as Bee. V’s are when you do “the rabbit” (see P and F). Pronounced as Vee. If you position your mouth properly you can say Fee while maintaining “the rabbit.”
 
-<strong>B and V exercise.</strong> <i>If Jolibee and Voldemort fought who will win?</i>
+**B and V exercise.** 
 
-<strong>Want some more?</strong>
+_If Jolibee and Voldemort fought who will win?_ 
 
-<blockquote>Betty Botter bought some butter, but she said, “This butter’s bitter. If I put it in my batter, it will make my batter bitter”. So, she bought some better butter and she put it in her batter and it made her bitter batter better.</blockquote>
+**Want some more?**
 
-<strong>Want to try something harder?</strong>
+> Betty Botter bought some butter, but she said, “This butter’s bitter. If I put it in my batter, it will make my batter bitter”. So, she bought some better butter and she put it in her batter and it made her bitter batter better.
 
-&nbsp;
+**Want to try something harder?**
 
-<blockquote>Voila! In view humble vaudevillian veteran, cast vicariously as both victim and villain by the vicissitudes of fate. This visage, no mere veneer of vanity, is a vestige of the vox populi now vacant, vanished. However, this valorous visitation of a bygone vexation stands vivified, and has vowed to vanquish these venal and virulent vermin, vanguarding vice and vouchsafing the violently vicious and voracious violation of volition. The only verdict is vengeance; a vendetta, held as a votive not in vain, for the value and veracity of such shall one day vindicate the vigilant and the virtuous. Verily this vichyssoise of verbiage veers most verbose, so let me simply add that its my very good honour to meet you and you may call me V.</blockquote>
-
+> <blockquote>Voila! In view humble vaudevillian veteran, cast vicariously as both victim and villain by the vicissitudes of fate. This visage, no mere veneer of vanity, is a vestige of the vox populi now vacant, vanished. However, this valorous visitation of a bygone vexation stands vivified, and has vowed to vanquish these venal and virulent vermin, vanguarding vice and vouchsafing the violently vicious and voracious violation of volition. The only verdict is vengeance; a vendetta, held as a votive not in vain, for the value and veracity of such shall one day vindicate the vigilant and the virtuous. Verily this vichyssoise of verbiage veers most verbose, so let me simply add that its my very good honour to meet you and you may call me V.
 <iframe src="http://www.youtube.com/embed/IQyqx1K495U" height="315" width="420" allowfullscreen="" frameborder="0"></iframe>
 
 Trivia: Almost everybody can pronounce Bitch and Vagina. Apply the same pronunciation to the B and V sound.
 
-<h3>Th sounds</h3>
+### Th sounds
 
 For the Th sound stick the tip of your tongue to the back of your top front teeth and slightly stick your tongue out a bit. Practice going thhhhhhhh for as long as you can while taking note of the sound. Do this a few times then start practicing some words with the th sound.
 
-<div><strong>Th sound exercise </strong>Read aloud and learn to increase speed. Thor is the Norse god of thunder from Asgard who got his ass kicked by Hulk and Ironman. <strong>Want some more?</strong></div>
+**Th sound exercise** Read aloud and learn to increase speed. Thor is the Norse god of thunder from Asgard who got his ass kicked by Hulk and Ironman. 
 
-<blockquote>The throng of thermometers from the Thuringian Thermometer folks arrived Thursday. There were a thousand thirty-three thick thermometers, though, instead of a thousand thirty-six thin thermometers, which was three thermometers fewer than the thousand thirty-six we were expecting , not to mention that they were thick ones rather than thin ones. We thoroughly thought that we had ordered a thousand thirty-six, not a thousand thirty-three thermometers and asked the Thuringian Thermometer folks to reship the thermometers; thin, not thick. They apologized for sending only a thousand thirty-three thermometers rather than a thousand thirty-six and promised to replace the thick thermometers with thin thermometers.</blockquote>
+**Want some more?**
 
-<strong>Final Tips:</strong> Whenever you’re speaking ask yourself...
+> The throng of thermometers from the Thuringian Thermometer folks arrived Thursday. There were a thousand thirty-three thick thermometers, though, instead of a thousand thirty-six thin thermometers, which was three thermometers fewer than the thousand thirty-six we were expecting , not to mention that they were thick ones rather than thin ones. We thoroughly thought that we had ordered a thousand thirty-six, not a thousand thirty-three thermometers and asked the Thuringian Thermometer folks to reship the thermometers; thin, not thick. They apologized for sending only a thousand thirty-three thermometers rather than a thousand thirty-six and promised to replace the thick thermometers with thin thermometers.
+
+**Final Tips:** Whenever you’re speaking ask yourself...
 
 How do foreigners say it?
 
@@ -95,3 +97,9 @@ How did the word sound?
 How can I improve it?
 
 Then practice speaking in English more often.
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.

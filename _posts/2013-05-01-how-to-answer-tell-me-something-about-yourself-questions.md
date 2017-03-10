@@ -38,58 +38,62 @@ What's your favorite quote?
 
 How many times should you apply before getting hired in a call center?
 
-<h5>Here are my answers.</h5>
+##### Here are my answers.
 
-<h5>What is your name?</h5>
+##### What is your name?
 
 My name is James Kevin Lopez Olega.
 
-<h5>Where are you from?</h5>
+##### Where are you from?
 
 I live in Sucat in Paranaque. I also lived in Alabang, QC, Mandaluyong and Makati.
 
-<h5>What was your past work?</h5>
+##### What was your past work?
 
 I used to work in sales and business development (a fancy way of saying, sales, marketing, training and whatever else the hell the boss or the client wants me to do).
 
-<h5>What did you do in that job?</h5>
+##### What did you do in that job?
 
 I offered products and services to clients (mostly companies) and took care of requests.
 
-<h5>What kind of traits can you take from that job and apply it in a call center job?</h5>
+##### What kind of traits can you take from that job and apply it in a call center job?
 
 Well since I was doing sales, I learned that how you say things is a big factor in convincing people to listen and act on the solution I'm presenting. I'm also dealing with difficult people whether they are prospects or clients.
 
-<h5>Why did you pick that job?</h5>
+##### Why did you pick that job?
 
 I used to be a really shy person. A close friend of mine advised that I overcome this by getting a job in sales. After a few months I was able to get over my fear of talking to people and now I'm used to it.
 
-<h5>Why did you pick this job?</h5>
+##### Why did you pick this job?
 
 I want to work in a call center because the pay is decent (I say decent because I've made bigger amounts of money in sales) and stable. Big companies pay on time all the time. I've worked with start ups and local businesses and I've experienced pays being delayed a lot. I also like the fact that work ends after work. If my shift is until 9:30am then I'm expected to leave at 9:30am. No homework. I can have a life after work.
 
-<h5>Where did you study?</h5>
+##### Where did you study?
 
 I studied in iAcademy in Makati.
 
-<h5>How do you spend your free time?</h5>
+##### How do you spend your free time?
 
 I like writing, meeting new people, exploring the net and recently I am learning how to cook.
 
-<h5>What do you enjoy doing?</h5>
+##### What do you enjoy doing?
 
 I enjoy travelling, writing, reading things, watching (feel good and inspiring) movies and collecting skills.
 
-<h5>What kind of people do you enjoy being with?</h5>
+##### What kind of people do you enjoy being with?
 
 I enjoy hanging out with people who are positive and fun to talk to. I like people who read books and blogs. I like people who like food and travel. I love meeting people who inspire me to be better.
 
-<h5>What's your favorite quote?</h5>
+##### What's your favorite quote?
 
 Today's Tragedies are Tomorrow's Comedies - Colin Wright.
 
-<h5>How many times should you apply before getting hired in a call center?</h5>
+##### How many times should you apply before getting hired in a call center?
 
-As many times as needed to get hired. Look do not mindlessly do things like you did in school. Treat your job application as you would when, you are playing DOTA, trying to pursue that hot partner of yours, or learning cooking or martial arts or something you are interested in. Be interested and learn what you need to learn. Apply that and get better until you get hired.
+As many times as needed to get hired. Look do not mindlessly do things like you did in school. Treat your job application as you would when, you are playing DOTA, trying to pursue that hot partner of yours, or learning cooking or martial arts or something you are interested in. Be interested and learn what you need to learn. Apply that and get better until you get hired. I'd love to hear your answers. Email away.
 
-I'd love to hear your answers. Email away.
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.

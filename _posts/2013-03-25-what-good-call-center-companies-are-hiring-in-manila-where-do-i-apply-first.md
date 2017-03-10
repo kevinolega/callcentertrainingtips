@@ -6,15 +6,14 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-<blockquote>Dear Kevin,
+> <blockquote>Dear Kevin,
+> 
+> What call center can I apply in? I’m new in Manila and I want to work as a call center agent. I hope you can help me. I don’t know where to start. What Call Center companies are hiring in Metro Manila? I hope to get your answer soon.
+> 
+> Sincerely,
 
-What call center can I apply in? I’m new in Manila and I want to work as a call center agent. I hope you can help me. I don’t know where to start. What Call Center companies are hiring in Metro Manila? I hope to get your answer soon.
+> New In Manila
 
-Sincerely,
-
-New In Manila</blockquote>
-
-&nbsp;
 
 Dear New in Manila,
 
@@ -30,27 +29,24 @@ Some of you may say, if I fail, I will lose the opportunity. To which, I answer,
 
 In no particular order here are some call center companies that are hiring in Metro Manila.
 
-<ul>
-    <li>Convergys</li>
-    <li>Aegis - (formerly People Support)</li>
-    <li>Teletech</li>
-    <li>Teleperformance</li>
-    <li>Stream -(formerly eTelecare)</li>
-    <li>West contact services (email me and I'll refer you)</li>
-    <li>Sutherland Global Services.</li>
-    <li>Sitel</li>
-    <li>Sykes</li>
-    <li>NCO</li>
-    <li>Genpact (alabang)</li>
-    <li>KGB (formerly Infonxx)</li>
-    <li>IBM</li>
-    <li>HSBC</li>
-    <li>Telus (formerly Ambergris)</li>
-    <li>24/7</li>
-    <li>Accenture</li>
-</ul>
-
-If you'd like to work for smaller call center companies, I have some friends who have openings. Please visit the <a href="http://callcentertrainingtips.com/category/job-openings/">job openings section of this site</a>.
+*   Convergys
+*   Aegis - (formerly People Support)
+*   Teletech
+*   Teleperformance
+*   Stream -(formerly eTelecare)
+*   West contact services (email me and I'll refer you)
+*   Sutherland Global Services.
+*   Sitel
+*   Sykes
+*   NCO
+*   Genpact (alabang)
+*   KGB (formerly Infonxx)
+*   IBM
+*   HSBC
+*   Telus (formerly Ambergris)
+*   24/7
+*   Accenture
+If you'd like to work for smaller call center companies, I have some friends who have openings. 
 
 (If you're a call center recruiter and you would like to be added to this list please email me.)
 
@@ -70,3 +66,9 @@ Whatever happens, just feel free to contact me with your questions. Just remembe
 God bless.
 
 Kevin of Call Center Training Tips Blog.
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.

@@ -21,3 +21,9 @@ If that doesn't work out<a title="Services" href="http://callcentertrainingtips.
 So here goes. I'm going to ask you nicely. <a title="Basics" href="http://callcentertrainingtips.com/basics/">Read the basics</a>. Then <a href="http://callcentertrainingtips.com/archives/">read the lessons again</a> and tell me what happens.
 
 I look forward to hearing your "how I got hired stories."
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.

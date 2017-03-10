@@ -6,38 +6,43 @@ author: Kevin Olega
 comments: true
 categories: [Applicant, Lessons]
 ---
-<h2>What the heck is a Call Center?</h2>
-<blockquote>Wikipedia says:<strong><strong>
-</strong></strong>A call centre or call center is a centralised office used for the purpose of receiving and transmitting a large volume of requests by <a href="http://en.wikipedia.org/wiki/Telephone">telephone</a>. A call centre is operated by a <a href="http://en.wikipedia.org/wiki/Company">company</a> to administer incoming product support or information inquiries from consumers. Outgoing calls for <a href="http://en.wikipedia.org/wiki/Telemarketing">telemarketing</a>, clientele, product services, and debt collection are also made.</blockquote>
-That’s true.
-The real question is:
-<h2>What the heck is a call center for me?</h2>
-<strong><strong>For different people there are different answers.
-</strong></strong>
-<ul>
-	<li>For a business owners it’s a place to outsource business related tasks we’d rather not handle on our own.</li>
-	<li>For some entrepreneurs it’s a business opportunity.</li>
-</ul>
-<strong><strong>But that’s not who I wrote this blog for.
-</strong></strong>
-<ul>
-	<li>You just retired from your work voluntarily or involuntarily and you’re bored with staying at home and looking for a source of income a call center maybe for you.</li>
-	<li>You’re a fresh graduate, looking to earn some money for yourself or to start a business later on.</li>
-	<li>You’re a new graduate and you can’t find a job in the field of study you took up in college.</li>
-	<li>You’re a single mom looking for a way to make ends meet.</li>
-	<li>You have someone you can’t support, who needs a job.</li>
-	<li>You want to learn business practices and how some foreign companies operate.</li>
-</ul>
-<strong>The call center is in no way the prefect solution. I myself am not currently employed in one. The pay is pretty okay and the shifts vary and you may like it or not like it depending on your lifestyle.
-I present it as a stepping stone to other opportunities like:
-</strong>
-<ul>
-	<li>Funding your going back to school budget.</li>
-	<li>Funding your own business.</li>
-	<li>Funding your migrate to abroad plan “I hope not!”</li>
-	<li>Paying for expenses and a source of income while you figure things out.</li>
-	<li>etc.</li>
-</ul>
+## What the heck is a Call Center?
+
+> Wikipedia says:A call centre or call center is a centralised office used for the purpose of receiving and transmitting a large volume of requests by [telephone](http://en.wikipedia.org/wiki/Telephone). A call centre is operated by a [company](http://en.wikipedia.org/wiki/Company) to administer incoming product support or information inquiries from consumers. Outgoing calls for [telemarketing](http://en.wikipedia.org/wiki/Telemarketing), clientele, product services, and debt collection are also made.
+
+That’s true. The real question is:
+
+## What the heck is a call center for me?
+
+****For different people there are different answers.****
+
+*   For a business owners it’s a place to outsource business related tasks we’d rather not handle on our own.
+*   For some entrepreneurs it’s a business opportunity.
+
+****But that’s not who I wrote this blog for.****
+
+*   You just retired from your work voluntarily or involuntarily and you’re bored with staying at home and looking for a source of income a call center maybe for you.
+*   You’re a fresh graduate, looking to earn some money for yourself or to start a business later on.
+*   You’re a new graduate and you can’t find a job in the field of study you took up in college.
+*   You’re a single mom looking for a way to make ends meet.
+*   You have someone you can’t support, who needs a job.
+*   You want to learn business practices and how some foreign companies operate.
+
+**The call center is in no way the prefect solution. I myself am not currently employed in one. The pay is pretty okay and the shifts vary and you may like it or not like it depending on your lifestyle. I present it as a stepping stone to other opportunities like:**
+
+*   Funding your going back to school budget.
+*   Funding your own business.
+*   Funding your migrate to abroad plan “I hope not!”
+*   Paying for expenses and a source of income while you figure things out.
+*   etc.
 Whatever it is it’s not limited to that. Use your imagination friend. That will be all for now from me.
 
-What is a call center for you? Send me an email.
+What is a call center for you? 
+
+**Trivia: One of the most common messages that we receive is "Hi I want to be a call center, can you give me some tips"**
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.

@@ -36,15 +36,17 @@ If you've actively tried to learn any skill, I feel you will agree that the same
 
 To sum it up:
 
-<ol>
-<li>Be positive.</li>
-<li>Look for solutions.</li>
-<li>Start small. Then increase as you move forward.</li>
-<li>Keep going.</li>
-<li>Improve gradually</li>
-<li>Look for ways to do it better.</li>
-<li>Celebrate</li>
-<li>Repeat</li>
-</ol>
+1.  Be positive.
+2.  Look for solutions.
+3.  Start small. Then increase as you move forward.
+4.  Keep going.
+5.  Improve gradually
+6.  Look for ways to do it better.
+7.  Celebrate
+8.  Repeat
 
-#callcentertrainingtips
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.

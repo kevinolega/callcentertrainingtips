@@ -6,9 +6,9 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-Disclaimer. If you’re a guy and you have friends who are violent when drunk do not do this. Then again if you always win drunken brawls like I do then you are free to do so.<br />
-</em><br />
-In a drinking session I sometimes start speaking or explaining things in English when I’m “half drunk.”</p>
+Disclaimer. If you’re a guy and you have friends who are violent when drunk do not do this. Then again if you always win drunken brawls like I do then you are free to do so.
+
+In a drinking session I sometimes start speaking or explaining things in English when I’m “half drunk.”
 
 At a certain point I realized that after speaking in straight English at a drinking session, I was pretty good. I often drink with friends who spoke in English, or are foreigners or friends who understand how crazy I can get when I drink too much.
 
@@ -19,3 +19,10 @@ There was one time when my best friend invited me to a drinking session at his h
 They bought my story. It was a fun drinking session. I somehow felt like I was being a dick but I think it was a good experience.
 
 Have you tried doing this in a drinking session? Share your experience in the comments.
+
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.

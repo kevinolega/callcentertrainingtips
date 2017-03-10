@@ -7,18 +7,24 @@ comments: true
 categories: [Announcements]
 ---
 Call Center Training Tips is a resource I put together for friends who are looking for work in a call center. Over the next few weeks I’ll be covering the following topics:
-<ul>
-	<li>What is a Call Center?</li>
-	<li>What is a BPO?</li>
-	<li>Call Center Application Requirements.</li>
-	<li>What the heck does inbound/outbound mean?</li>
-	<li>Common Call Center Jobs</li>
-	<li>Common Call Center Job: Customer Service</li>
-	<li>Common Call Center Job: Technical Support</li>
-	<li>Common Call Center Job: Sales</li>
-	<li>Why is there permanent hiring in a call center?</li>
-	<li>Call Center Application: 3 Skills Call Center Recruiters are Looking for.</li>
-	<li>Call Center Application: Common Pronunciation Mistakes</li>
-	<li>Call Center Application: 3 Ways To Get Hired.</li>
-</ul>
+
+*   What is a Call Center?
+*   What is a BPO?
+*   Call Center Application Requirements.
+*   What the heck does inbound/outbound mean?
+*   Common Call Center Jobs
+*   Common Call Center Job: Customer Service
+*   Common Call Center Job: Technical Support
+*   Common Call Center Job: Sales
+*   Why is there permanent hiring in a call center?
+*   Call Center Application: 3 Skills Call Center Recruiters are Looking for.
+*   Call Center Application: Common Pronunciation Mistakes
+*   Call Center Application: 3 Ways To Get Hired.
+
 Head back here every now and then for updates. I hope this helps you.
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.

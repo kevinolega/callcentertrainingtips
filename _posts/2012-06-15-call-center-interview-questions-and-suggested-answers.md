@@ -128,6 +128,7 @@ Spend some time thinking about these things. I recommend writing them down and a
 Here's a secret, in a call center interview the recruiter is secretly counting how many questions you asked in an interview. Why? That's because a call center job involves asking questions 90% of the time. Whether you do sales, customer service or tech support all you'll be doing is asking questions. So that's actually another test. They test your interest in the job and they test your communication skills by the number of questions you asked during the interview. So if you ever got this question at the end. This is to remind you that you should be asking a lot of questions. 
 
 ### Additional Interview Tips:
+
 1. The longer the interview the better for you.
 2. Confirm that you understand the answer.
 3. If you don't know the answer, tell them that it's your first time being asked the question and you need a minuter or two to think about it. Ask questions about the question.
@@ -135,6 +136,7 @@ Here's a secret, in a call center interview the recruiter is secretly counting h
 5. Don't take it seriously.
 
 ### In summary:
+
 1. Ask yourself the questions.
 2. Write down the answer.
 3. Be honest and be creative.
@@ -142,8 +144,8 @@ Here's a secret, in a call center interview the recruiter is secretly counting h
 5. Try to form a bond with your interviewer by asking some questions.
 How do you answer questions before. How will you answer questions now?
 
-Did I miss a call center interview question? Send me a message to ask me a question or leave a comment below.
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
 
-Do you want more of these kinds of posts? Please let me know by sending me a message or hitting like on Facebook. 
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
 
-This is not a sponsored post so if you read until the end, show your support by buying our books, making a donation, hitting like and sharing this on your wall or to someone who needs it. 
+Thank you for reading. If I can do it, you can do it. Praying for your success.

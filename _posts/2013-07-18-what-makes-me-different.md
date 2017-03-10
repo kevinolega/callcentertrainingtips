@@ -19,3 +19,9 @@ My goal is to screen the willing and not the qualified. If you are willing to le
 I look for the few things you are bad at that prevent you from getting hired and teach you how to overcome that.
 
 I charge higher than most training providers because my time is valuable and I won't feed you bullshit. If you're not willing to pay, I give out my training materials on http://callcentertrainingtips.com/ for free anyway and all you have to do is to read it and practice the lessons and you should be fine.
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.

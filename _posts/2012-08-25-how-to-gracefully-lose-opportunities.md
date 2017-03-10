@@ -6,7 +6,8 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-<blockquote>If I doubt myself then it's all over -Uzumaki Naruto</blockquote>
+> If I doubt myself then it's all over -Uzumaki Naruto
+ 
 
 I noticed that many people focus on the past opportunities that they missed that they no longer see the opportunities in the present.
 
@@ -20,4 +21,10 @@ There are more challenges ahead. Get better with your skills and your confidence
 
 You'll get it eventually just as I did. I'll be here to guide you along the way.
 
-<blockquote>Whether they say yes or no to you it's okay. You just used them for practice. </blockquote>
+> Whether they say yes or no to you it's okay. You just used them for practice. 
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. 
+
+This is not a sponsored post so if you read until the end, show your love and support by [buying our books](http://callcentertrainingtips.com/promos/), [making a donation](http://callcentertrainingtips.com/support/), subscribing on  [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA) and sharing this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.
