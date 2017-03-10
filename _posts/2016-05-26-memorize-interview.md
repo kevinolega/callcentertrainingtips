@@ -12,12 +12,10 @@ Instead of memorizing answers to interview questions you need to know who you ar
 
 Most people are dumb about who they are. Since I broke up with my girlfriend from five years ago I've dated different girls and the level of stupidity and the lack of self awareness that I encounter is just crazy.
 
-<ul>
-    <li>Many people doesn't know how to tell me about themselves.</li>
-    <li>Many people can't tell stories.</li>
-    <li>Many people can't ask questions.</li>
-    <li>Many people can't even decide what they want to fucking eat.</li>
-</ul>
+*   Many people doesn't know how to tell me about themselves.
+*   Many people can't tell stories.
+*   Many people can't ask questions.
+*   Many people can't even decide what they want to fucking eat.
 
 Here's the thing. Be self aware. Ask yourself questions.
 
@@ -52,3 +50,9 @@ How can you convince me to hire you?
 Don't be stupid about yourself. If you fail interviews maybe it's not the answers. Maybe the interviewer thinks you don't know why you're there or you don't know who your are.
 
 Ask yourself these questions. Write down your answers. Are you happy with your answers? Think of a better answer. Always ask yourself, "How can I say it better?"
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.
