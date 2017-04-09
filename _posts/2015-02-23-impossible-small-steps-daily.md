@@ -1,10 +1,10 @@
---- 
+---
 layout: post 
 title: Impossible Means Small Steps Every Day
-date: 2015–02-23
-permalink: /impossible-small-steps-daily/ 
+date: 2015–02-23 15:23
+permalink: impossible-small-steps-daily
 author: Kevin Olega 
---- 
+---
 
 I kept telling her we'd get married. I failed. She waited six years but got tired and left. Now she's married to someone else.
 
