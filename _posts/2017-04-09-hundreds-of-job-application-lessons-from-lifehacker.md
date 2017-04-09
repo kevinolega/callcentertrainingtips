@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Two Hundred Job Application Lessons from Lifehacker
+title: Literally Hundreds of Job Application Lessons from Lifehacker
 date: 2017-04-09 17:40
 author: Kevin Olega 
 --- 
@@ -18,6 +18,12 @@ There are a lot of tips that will save you time and money and at the same time a
 You go read them yourself and let me know what worked for you.
 
 I've been reading lifehacker since 2009 and over time, I had read a lot of the job hunting posts.
+
+If you do happen to read all the posts of Lifehacker and become a regular lifehacker reader, send me a message because I want you in my life. 
+
+Lifehacker will make you a better person. I replaced watching the news, gossiping with my coworkers and spending hours on facebook with reading Lifehacker.
+
+The best thing about lifehacker lessons are how you can apply them and achieve the benefit today.
 
 Here are some of my favorites.
 
