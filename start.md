@@ -91,22 +91,20 @@ Knowing this I will continue to search for the answer and I will not stop until 
 *   [Sound Better with Sossy Mode](http://callcentertrainingtips.com/how-to-sound-better-at-call-center-interviews-with-the-sossy-mode/)
 *   [Speak Confidently with Celebrity Mode](http://callcentertrainingtips.com/how-to-speak-better-at-a-call-center-job-interview-with-celebrity-mode/)
 *   [Perfect Your Pronunciation](http://callcentertrainingtips.com/common-call-center-application-pronunciation-errors/)
-*   [Call Center Interview Questions](http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers/)
+*   [Call Center Interview Questions](http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers)
 *   [Write Your Resume](http://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/)
 *   [Walk in and Get Hired Faster](http://callcentertrainingtips.com/tips-for-walk-in-call-center-applications/)
 *   [How to Get Hired This Week](http://callcentertrainingtips.com/ten-tips-to-get-hired-in-a-call-center-this-week/)
-*   [More Lessons](http://callcentertrainingtips.com/archives/)
 
 
 ### Here are some really popular lessons:
 
-*   [Call Center Interview Questions and Suggested Answers](http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers/ "Call Center Interview Questions and Suggested Answers")
+*   [Call Center Interview Questions and Suggested Answers](http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers)
 *   [How to Write a Resume for Call Center Application](http://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/ "How to Write a Resume for Call Center Application")
 *   [How I Introduce Myself In A Call Center Application](http://callcentertrainingtips.com/how-i-introduce-myself-in-a-call-center-application/ "How I Introduce Myself In A Call Center Application")
 *   [How to Build a Resume From Scratch (No Work Experience)](http://callcentertrainingtips.com/how-to-build-a-resume-from-scratch-no-work-experience/ "How to Build a Resume From Scratch (No Work Experience)")
 *   [Improve Conversational English Skills Fast with Five Tips](http://callcentertrainingtips.com/improve-conversational-english-skills-fast-with-five-tips/ "Improve Conversational English Skills Fast with Five Tips")
 *   [Ten Tips to Get Hired in a Call Center This Week.](http://callcentertrainingtips.com/ten-tips-to-get-hired-in-a-call-center-this-week/ "Ten Tips to Get Hired in a Call Center This Week.")
-*   [Practical Call Center Job Hunting 101](http://callcentertrainingtips.com/books/practical-call-center-job-hunting-101/ "Practical Call Center Job Hunting 101")
 *   [Homework For Free Call Center Training](http://callcentertrainingtips.com/homework-for-free-call-center-training/ "Homework For Free Call Center Training")
 *   [Call Center Interview 4 Questions About Yourself](http://callcentertrainingtips.com/call-center-interview-4-questions-about-yourself/ "Call Center Interview 4 Questions About Yourself")
 *   [How To Speak Better at a Call Center Job Interview With Celebrity Mode](http://callcentertrainingtips.com/how-to-speak-better-at-a-call-center-job-interview-with-celebrity-mode/ "How To Speak Better at a Call Center Job Interview With Celebrity Mode")
@@ -188,20 +186,19 @@ I'm also selling a book.
 
 It's a printable, digital copy. Mobile ebook now available.
 
-**Budget Version** is Php 299 and comes with: 
-- 14 days of email lessons and activities
-- One hour of phone coaching and lessons.
+**Budget Version** is Php 199 and comes with: 
+- Book
 - unlimited chat support.
 
-**Sulit Version** is Php 499 and comes with: 
-- 30 days of email lessons and activities
+**Sulit Version** is Php 399 and comes with: 
+- Online lessons and activities
 - How to Pass Call Center Training
-- Three hours of phone coaching and lessons 
+- One hour of phone coaching and lessons 
 - unlimited chat support.
 
-**VIP Version** is Php 999 and comes with: 
-- 30 days of email lessons and activities
-- Five hours of phone coaching and lessons
+**VIP Version** is Php 499 and comes with: 
+- Additional online lessons and activities
+- Three hours of phone coaching and lessons
 - Guaranteed Job Assistance
 - Resume Assistance
 - How to Pass Call Center Training 
