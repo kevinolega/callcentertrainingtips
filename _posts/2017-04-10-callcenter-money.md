@@ -2,9 +2,12 @@
 layout: post 
 title: How To Achieve Your Dreams With Call Center Money The Complete Guide
 date: 2017-04-10 06:22
-permalink: // 
 author: Kevin Olega 
 --- 
+
+The call center or BPO industry is a stepping stone to bigger income earning opportinites. Here's a complete list of ideas that will help you see different possiblities on how to make call center money work for you instead of you working for money forever. 
+
+## How To Build Your Dream Life With Call Center Money
 
 If you work for an international call center with a starting pay of 16-18k per month. After two years you can apply in a call center company that offers 21-25k per month. In two to three years, call center work can be a stepping stone to greater things.
 
