@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Achieve Your Dreams With Call Center Money The Complete Guide
-date: 2017-04-10 06:22
+date: 2017-04-09 06:22
 author: Kevin Olega
 ---
 
@@ -53,7 +53,11 @@ When we were all younger we received an allowance from our parents. When we got 
 - Do you always feel the need to jump to a new company for greener pasteurs?
 - Have you ever felt like the management does not care about you because of how low they pay you?
 
-Somehow we still see companies like our parents. We please our bosses and they take care of us. They grant us favors as they see us working hard. Unfortunately that's not the case. Companies, even call center companies are businesses. The primary business of a call center is to make money. A call center pays it's agents a specific amount and bills their clients a higher amount. It is in their interest to pay you within a range from as low as an agent is willing to accept to as high as they can (within the boundaries of their budget) to keep the agent happy. It might sound wicked but that's how it goes and it's not all that bad. Now that you know the rules, your goal is to make the rules work for you and not against you. **Your financial well being is not their concern and nor should you depend your financial future on anyone but yourself.** I'm not about to preach how to gain financial freedom. I'm not going to ask you to save and invest millons of pesos because it's not going to work out doing so in a call center. Unless you see call center life as your calling for ever and ever I don't recommend staying in a call center for very long. The objective has always been to build up resources and use the job as a stepping stone for bigger things as I have seen many people do.
+Somehow we still see companies like our parents. We please our bosses and they take care of us. They grant us favors as they see us working hard. Unfortunately that's not the case. Companies, even call center companies are businesses. The primary business of a call center is to make money. A call center pays it's agents a specific amount and bills their clients a higher amount. It is in their interest to pay you within a range from as low as an agent is willing to accept to as high as they can (within the boundaries of their budget) to keep the agent happy. It might sound wicked but that's how it goes and it's not all that bad. Now that you know the rules, your goal is to make the rules work for you and not against you. 
+
+**Your financial well being is not their concern and nor should you depend your financial future on anyone but yourself.**
+
+I'm not about to preach how to gain financial freedom. I'm not going to ask you to save and invest millons of pesos because it's not going to work out doing so in a call center. Unless you see call center life as your calling for ever and ever I don't recommend staying in a call center for very long. The objective has always been to build up resources and use the job as a stepping stone for bigger things as I have seen many people do.
 
 ### List your daily expenses
 
