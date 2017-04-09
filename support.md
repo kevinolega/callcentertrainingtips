@@ -37,3 +37,13 @@ This website is built to help friends who need help get hired in a call center. 
 
 1. [Free self study reviewer](http://callcentertrainingtips.com/start).
 2. [Premium Paid Training](http://callcentertrainingtips.com/promos).
+
+## Call Center Training Tips Testimonials
+
+## Kevin Olega's Testimonial During Call Center Work
+
+I'm not a perfect agent. I'm a consistently improving one though. Here's a short list of compliment's I received while I'm at work.
+
+> Of all the (company name removed) people I've worked with you are by far the most ultimately helpful. - Mr. Kaweseki.
+
+>You do not have a heavy Asian accent - Mr. (Name Removed)
