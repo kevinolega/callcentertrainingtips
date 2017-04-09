@@ -2,9 +2,9 @@
 layout: post
 title: How To Spend Call Center Money
 description: "This is a complete guide on how to wisely spend your hard earned call center income."
-date: 2017-04-10 06:22
-permalink: money
+date: 2017-04-10 05:54
 author: Kevin Olega
+permalink: complete-money
 ---
 
 The call center or BPO industry is a stepping stone to bigger income earning opportinites. Here's a complete list of ideas that will help you see different possiblities on how to make call center money work for you instead of you working for money forever. 
