@@ -91,7 +91,7 @@ This method enables you to add some freedom and at the same time have some extra
 
 An emergency fund is simply some money that you set aside for important events. Most financial planners tell you that it should be worth six months or one year of your income. If you follow the textbook definition you'll look at it and say you're screwed. Fuck that. I propose an alternate. Going back to your allowance method I recommend doing a gradual approach to doing it. Here's how. Your emergency fund defines how long you can live without an income. **If you look back and apply the allowance method, you will notice that you are not using your full income to survive.** You can decide to build up your emergency fund on a scale that suits you. Make it your goal to build few targets first and grow it as you form habits and build confidence. It is important that you don't increase the money you are putting away until you are confident that you are not starving yourself. Our goal is to build a small amount of extra money and form good money habits so that you will eventually grow that money into a significant amount so you can use it for what's important to you in the future. Let's go to the next step so I can explain better. I'm out of time but I have a lot more to share. I'll post updates soon.
 
-## How To Use Call Center Money To Improve Your Life
+### How To Use Call Center Money To Improve Your Life
 
 
 If you're working in a call center there's a good chance that you make extra money. 
@@ -113,7 +113,7 @@ I don't recommend this.
 
 This is going to be a post on how to spend your hard earned call center money based on my mistakes and experiences.
 
-### Don't spend money on:
+#### Don't spend money on:
 
 1.  **Networking**. Not a good idea. You spend money and kidnap friends to attend a seminar so they can buy products to start a business and repeat the process.
 2.  **Investment scams**. I don't need to explain this. Just don't do it. I don't care how much money your friend makes. How you make your money is more important than how much money you will make.
@@ -121,7 +121,7 @@ This is going to be a post on how to spend your hard earned call center money ba
 4.  **The most expensive cellphone**. Don't buy a Samsung galaxy shit. It's a waste of money. It's worth nothing next year. You are better off buying an old iPhone. Don't give me shit like android has better specs than iPhone. That is a lie. Learn to read and study. Don't be stupid.
 5.  **Loans**. You are not a bank. Don't loan your friends and relatives money. They will not pay you. Invest in yourself first. Give people money if they need it but don't expect it back. That way you'll never be dissapointed. The biggest scam in a call center is "Pautang and I'll give you my ATM as collateral." If they're not willing to give something valuable like their smartphone, laptop, car, house title, etc, then they are not sincere in their need and are only out to swindle you. Don't ask why. I don't know either. They just do.
 
-### Spend your money on:
+#### Spend your money on:
 
 1.  **Building an emergency fund**. You need money in the bank for emergencies. Imagine the person that you care about the most. Do you have money to take them to the hospital? How about the money for their funeral? I just tried to trigger your emotions but you get the idea. Typically you need 3-6months of expenses and you can grow that.
 2.  **Buy a laptop**. If you want to start a business or to work from home you need a good laptop. I recommend saving up for a Mac but that might be out of your budget. Start with an okay one and upgrade later.
