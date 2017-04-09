@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Common Call Center Jobs: (Customer Service, Sales and Tech Support)"
-date: 2012-06-15 19:31
+date: 2012-06-15 19:31:00
 author: Kevin Olega
 comments: true
 categories: [Applicant, Lessons]
