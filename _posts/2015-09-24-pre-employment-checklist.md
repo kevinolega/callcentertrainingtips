@@ -12,78 +12,118 @@ Pre employment requirments are a common chore that needs to be done to finalize 
 
 Primary requirements are often required immediately (usually the same week or the week) after hire date.
 
-<strong>SSS Document E-1 / E-4 /E-6 dully received by SSS.</strong> Any printout that came from SSS and has their full Name, SSS Number and Birthdate. You can <a href="http://sss.gov.ph">visit the SSS website</a> to obtain this.
+### These are the Call Center Pre Employment Requirements in the Philippines
 
-<strong>TIN Document</strong> .Previous ITR/BIR 2316 or Stamped/Received BIR 1905/BIT 1902/ BIR2305. You may <a href="http://bir.gov.ph">visit BIR for more information</a>.
+**SSS Document E-1 / E-4 /E-6 dully received by SSS.** 
 
-<strong>NBI Clearance </strong>(original copy) . In some situations you can get this same day and in other situations they require you to return after three days or so. I recommend paying the extra 100 pesos to have it delivered. It will often cost you more than Php 200 if you'll go back to just pick it up.
+Any printout that came from SSS and has their full Name, SSS Number and Birthdate. 
 
-<strong>Police Clearance</strong> (original copy). You just need to visit a nearby police station to obtain this.
+You can [visit the SSS website](http://sss.gov.ph) to obtain this. 
 
-<strong>Medical Exam</strong>. This is often provided for free when you apply at reputable call centers. Just ask the HR for details. Pick up your stool and urine container and enjoy the experience.
+**TIN Document.**
 
-<strong>Photocopy of ID's</strong>. Whenever you're submitting photocopy be sure to include both front and back of the ID.
+Previous ITR/BIR 2316 or Stamped/Received BIR 1905/BIT 1902/ BIR2305. 
 
-<em>Samples of Primary ID's include:</em>
+You may [visit BIR for more information](http://bir.gov.ph). 
 
-<strong>Unified or Digitized SSSID</strong>
+**NBI Clearance** (original copy) . 
 
-<strong>Drivers license. </strong>Should be current. By current they mean not expired.
+In some situations you can get this same day and in other situations they require you to return after three days or so. 
 
-<strong>Passport. </strong>Should be current. By current they mean not expired.<strong> </strong>
+I recommend paying the extra 100 pesos to have it delivered. It will often cost you more than Php 200 if you'll go back to just pick it up. 
 
-<strong>PRC ID. </strong>Should be current. By current they mean not expired.
+**Police Clearance** (original copy). 
 
-Secondary ID's include:
+You just need to visit a nearby police station to obtain this. 
 
-<strong>Postal ID</strong>. I got mine at a post office. Paid about Php 200.
+**Medical Exam**. 
 
-<strong>Voter's ID. </strong>I don't have one.
+This is often provided for free when you apply at reputable call centers. Just ask the HR for details. Pick up your stool and urine container and enjoy the experience. 
 
-<strong>TIN ID. </strong>I don't have one.
+**Photocopy of ID's**. 
 
-<strong>Philhealth ID with Photo. </strong>My previous employer provide this.
+Whenever you're submitting photocopy be sure to include both front and back of the ID. 
 
-<strong>Updated NBI Clearance. </strong>Turns out you can use your NBI clearance as additional ID
+_Samples of Primary ID's include:_ 
 
-Secondary pre employment requirements often required before hitting the end of your training or before you start production work.
+- **Unified or Digitized SSSID** 
+- **Drivers license. **Should be current. By current they mean not expired. 
+- **Passport. **Should be current. By current they mean not expired. 
+- **PRC ID. **Should be current. By current they mean not expired. Secondary ID's include: 
+- **Postal ID**. I got mine at a post office. Paid about Php 200. 
+- **Voter's ID. **I don't have one. 
+- **TIN ID. **I don't have one. 
+- **Philhealth ID with Photo.** My previous employer provide this. 
+- **Updated NBI Clearance.** Turns out you can use your NBI clearance as additional ID Secondary pre employment requirements often required before hitting the end of your training or before you start production work. 
 
-<em>Samples of secondary Pre Employment requirements include.</em>
+_Samples of secondary Pre Employment requirements include._
 
-<strong>Philhealth.</strong> Just give a photocopy to your HR.
+- **Philhealth.** Just give a photocopy to your HR. 
+- **Marriage contract.** I don't have one so just submit yours to HR. 
+- **Transcript of Records or Diploma.** Photocopy and give to HR. 
+- **Loan Information from SSS, Pagibig, or others).** 
 
-<strong>Marriage contract. </strong>I don't have one so just submit yours to HR.<strong> </strong>
+Submit your information if you have any. 
 
-<strong>Transcript of Records or Diploma.</strong> Photocopy and give to HR.
+**Birth Certificate.** 
 
-<strong>Loan Information from SSS, Pagibig, or others).</strong> Submit your information if you have any.
+I ordered mine online for 300 pesos I think. 
 
-<strong>Birth Certificate. </strong>I ordered mine online for 300 pesos I think. Please visit the <a href="https://nsohelpline.com/">NSO website to order.</a>
+Please visit the [NSO website to order.](https://nsohelpline.com/) 
 
-<strong>Dependent's Birth Certificate. </strong>If you have the records on hand just submit. If you don't have any just <a title="NSO" href="https://nsohelpline.com/">order from NSO</a>.
+**Dependent's Birth Certificate**
 
-<strong>Certificate of Employment. </strong>You can obtain this from the HR of your previous employer.
+If you have the records on hand just submit. 
 
-<strong>Tax Withheld Form/ITR. </strong>For more information <a href="http://www.bir.gov.ph/">visit the BIR website</a>.
+If you don't have any just [order from NSO](https://nsohelpline.com/ "NSO"). 
 
-<strong>1x1 or 2x2 photos. </strong>I get mine from Tronix all the time. It's less than Php 80 pesos and you can find it at almost any SM or mall.
+**Certificate of Employment.** 
 
-<strong>Some Technical Terms</strong>
+You can obtain this from the HR of your previous employer. 
 
-BIR 1902 form - For TIN application. You'll need to speak to the HR if you still don't have a TIN number so you can register online.
+**Tax Withheld Form/ITR.** 
 
-BIR 1905 form. to transfer your records from your previous RDO to the current employer's RDO.
+For more information [visit the BIR website](http://www.bir.gov.ph/). 
 
-BIR 2305 form. To update your employer information and tax status.
+**1x1 or 2x2 photos.** 
 
-<strong>Some notes:</strong>
+I get mine from Tronix all the time. It's less than Php 80 pesos and you can find it at almost any SM or mall. 
 
-When you look for work here are some requirements that you need to obtain and submit. I would encourage you to review the list so you can review the cost or the amount you need to prepare for your job application. I recommend getting a job offer before worrying about this. I often save about Php 3,000 extra on top of my job hunting expenses to pay for requirements so I don't get pressed for money whenever I need to switch.
+**Some Technical Terms** BIR 1902 form 
 
-If you're looking for required <a href="http://callcentertrainingtips.com/call-center-job-application-requirements/">skills in getting hired in a call center please visit this link</a>.
+For TIN application. You'll need to speak to the HR if you still don't have a TIN number so you can register online. BIR 1905 form. to transfer your records from your previous RDO to the current employer's RDO. BIR 2305 form. 
 
-Please leave a comment if you have some questions. I hope this pre employment information helps you in your job search.
+To update your employer information and tax status. 
 
-&nbsp;
+**Some notes:** 
 
-<strong>The post is written by <a href="http://kevinolega.com">Kevin Olega</a> follow him on <a href="http://twitter.com/kevinolega">twitter</a>.</strong>
+When you look for work here are some requirements that you need to obtain and submit. I would encourage you to review the list so you can review the cost or the amount you need to prepare for your job application. 
+
+I recommend getting a job offer before worrying about this. 
+
+I often save about Php 3,000 extra on top of my job hunting expenses to pay for requirements so I don't get pressed for money whenever I need to switch. 
+
+If you're looking for required [skills in getting hired in a call center please visit this link](http://callcentertrainingtips.com/call-center-job-application-requirements/).
+
+Often you'll be asked to undergo pre-employment medical examinations and the good call center companies will cover the expenses.
+You will also need secure your Philhealth MDR as well.
+
+Requirements vary from company to company however these are the common minimum requirements. Please inquire with your local HR for
+
+##Failure often leads to:
+
+- No job offer or widrawal of job offer.
+- Salary delays often requlting from lack of requirements needed for ATM creation.
+- Termination if found negligent in complying with the requirements.
+
+Don't sweat it just google "how to get (insert requirement)" and you'll find a site that has instructions. If you've ever taken a job with a company before, chances are you have undergone this process already.
+
+I wish you the best in your job hunt.
+
+Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
+
+This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
+
+Thank you for reading. If I can do it, you can do it. Praying for your success.
+
+[Stay in touch by signing up to my email list](http://eepurl.com/riFT1).
