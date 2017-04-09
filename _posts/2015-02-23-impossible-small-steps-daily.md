@@ -2,7 +2,7 @@
 layout: post 
 title: Impossible Means Small Steps Every Day
 date: 2015–02-23 15:25
-permalink: /impossible-means-small-steps-every-day/ 
+permalink: /impossible-means-small-steps-daily/ 
 author: Kevin Olega 
 --- 
 
