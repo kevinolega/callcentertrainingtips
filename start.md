@@ -27,6 +27,91 @@ Here are the top articles that you should read if you want to get hired in a cal
 
 [Don't miss these opportinities because you can't speak in English](http://callcentertrainingtips.com/missed-opportunities).
 
+### The Basics How To Succeed In Life and Call Center Work
+
+Anything you need to know can be learned.
+
+English is a skill.
+
+People skills are a skill.
+
+Salesmanship is a skill.
+
+Skills can be learned.
+
+Nobody is born with skills.
+
+People who are good at specific skills spend time, practice, made mistakes, learned and got better over time.
+
+The first attempt often looks silly.
+
+For things to change you need to change.
+
+If I don't change, my situation will stay the same.
+
+Those who succeed are positive about finding solutions to their problems.
+
+Negative people are passionate about how impossible it is to find solutions to their problems.
+
+There are only one or two things that I need to work on and all I need to do is to get it right and then repeat that the few times and then the habit forms and eventually it becomes permanent.
+
+The best way to learn is by doing.
+
+Mistakes can be corrected.
+
+A failure is an event not the person.
+
+I can fail many times but I am never a failure.
+
+If I fail, there is something wrong with my technique not with myself.
+
+There are people who have done this (my goal) before and if they can do it I can do it too.
+
+God has blessed me with all that I have and the ability to get better every day.
+
+Nothing is instant everything in nature grow slowly.
+
+There are no shortcuts.
+
+I will continue to get better until I reach my goal.
+
+Luck means preparation meeting opportunity.
+
+I will give no excuse because an excuse is a lie that I tell myself justify why I did not get what I want.
+
+In the event that I feel or am at a loss what to do next I will always remember that "the answer is always there and I just haven't found it yet."
+
+Knowing this I will continue to search for the answer and I will not stop until I find it.
+
+
+### Here are some lessons that I recommend that you read first:
+
+*   [Master English with Five Tips](http://callcentertrainingtips.com/improve-conversational-english-skills-fast-with-five-tips/)
+*   [How to Prepare Awesome Answers](http://callcentertrainingtips.com/call-center-job-interview-preparation-questions/)
+*   [Sound Better with Sossy Mode](http://callcentertrainingtips.com/how-to-sound-better-at-call-center-interviews-with-the-sossy-mode/)
+*   [Speak Confidently with Celebrity Mode](http://callcentertrainingtips.com/how-to-speak-better-at-a-call-center-job-interview-with-celebrity-mode/)
+*   [Perfect Your Pronunciation](http://callcentertrainingtips.com/common-call-center-application-pronunciation-errors/)
+*   [Call Center Interview Questions](http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers/)
+*   [Write Your Resume](http://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/)
+*   [Walk in and Get Hired Faster](http://callcentertrainingtips.com/tips-for-walk-in-call-center-applications/)
+*   [How to Get Hired This Week](http://callcentertrainingtips.com/ten-tips-to-get-hired-in-a-call-center-this-week/)
+*   [More Lessons](http://callcentertrainingtips.com/archives/)
+
+
+### Here are some really popular lessons:
+
+*   [Call Center Interview Questions and Suggested Answers](http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers/ "Call Center Interview Questions and Suggested Answers")
+*   [How to Write a Resume for Call Center Application](http://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/ "How to Write a Resume for Call Center Application")
+*   [How I Introduce Myself In A Call Center Application](http://callcentertrainingtips.com/how-i-introduce-myself-in-a-call-center-application/ "How I Introduce Myself In A Call Center Application")
+*   [How to Build a Resume From Scratch (No Work Experience)](http://callcentertrainingtips.com/how-to-build-a-resume-from-scratch-no-work-experience/ "How to Build a Resume From Scratch (No Work Experience)")
+*   [Improve Conversational English Skills Fast with Five Tips](http://callcentertrainingtips.com/improve-conversational-english-skills-fast-with-five-tips/ "Improve Conversational English Skills Fast with Five Tips")
+*   [Ten Tips to Get Hired in a Call Center This Week.](http://callcentertrainingtips.com/ten-tips-to-get-hired-in-a-call-center-this-week/ "Ten Tips to Get Hired in a Call Center This Week.")
+*   [Practical Call Center Job Hunting 101](http://callcentertrainingtips.com/books/practical-call-center-job-hunting-101/ "Practical Call Center Job Hunting 101")
+*   [Homework For Free Call Center Training](http://callcentertrainingtips.com/homework-for-free-call-center-training/ "Homework For Free Call Center Training")
+*   [Call Center Interview 4 Questions About Yourself](http://callcentertrainingtips.com/call-center-interview-4-questions-about-yourself/ "Call Center Interview 4 Questions About Yourself")
+*   [How To Speak Better at a Call Center Job Interview With Celebrity Mode](http://callcentertrainingtips.com/how-to-speak-better-at-a-call-center-job-interview-with-celebrity-mode/ "How To Speak Better at a Call Center Job Interview With Celebrity Mode")
+*   [27 Tips to Help You Get Hired In a Call Center](http://callcentertrainingtips.com/27-tips-to-help-you-get-hired-in-a-call-center/ "27 Tips to Help You Get Hired In a Call Center")
+
 ### Call Center Interview Tips
 
 If you need help with your interview skills.
