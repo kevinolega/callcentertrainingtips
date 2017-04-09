@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Spend Call Center Money
-description: "This is a complete guide on how to wisely spend your hard earned call center income."
+description: "This is a complete guide on how to wisely spend your hard earned call center income to improve your life and eventually achieve your dreams."
 date: 2017-04-10 05:54
 author: Kevin Olega
 permalink: complete-money
