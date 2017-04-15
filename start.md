@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Start Here
 author: Kevin Olega
 permalink: start
