@@ -2,7 +2,7 @@
 layout: post
 title: Start Here
 author: Kevin Olega
-permalink: start
+permalink: /start/
 ---
 
 Hi there.
