@@ -2,8 +2,8 @@
 layout: default
 ---
 <h1 class="post-headline">{{page.title}}</h1>
-<div class="meta"><span>{{page.date | date: '%B %d, %Y'}}</span>  written by {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+<div class="meta"><span>{{page.date | date: '%B %d, %Y'}}</span> {% if page.author %}
+        • written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}</div>
 {% include advertisements.html %}
 {{content}}
