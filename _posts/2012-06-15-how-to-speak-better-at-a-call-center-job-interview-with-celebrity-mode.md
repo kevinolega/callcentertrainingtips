@@ -17,7 +17,7 @@ From my eyes, it’s as if he suddenly got scared.
 People don’t usually admit this but one big reason why were not comfortable speaking in English is that we’re not used to it. We only had one hour or two hours of English class at school and we don’t usually have someone who speaks in English well.
 
 Plus points if you have friends who can speak in English well or you have an aunt or uncle from the States to help you practice. Unfortunately, not everyone has that.
-<h3>Enter celebrity mode.</h3>
+#### Enter celebrity mode.
 My friend was a music lover. He likes rock bands. At first I asked him to introduce himself starting with his name where he was from and that he’s applying for work at a call center.
 
 Try it for your self. Hi my names is Kevin and I’m from Parañaque and I’m applying for work in a call center.

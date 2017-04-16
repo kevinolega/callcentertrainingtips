@@ -32,7 +32,7 @@ If a friend told you that they are looking to fill a specific opening in their c
 
 I have a friend who never left her low paying job. She told me she'll practice English when she gets the chance. That was eight years ago. Last Friday I was making cookies and invited her over. The conversation led to the "preparation talk". Guess what? Eight years later, she had the same answer. Eight years after, her situation is the same.
 
-<strong>Before thinking about the country's economy, learn to take control of your personal economy first</strong>.
+**Before thinking about the country's economy, learn to take control of your personal economy first**.
 
 What resources do you lack right now and what are the solutions?
 **Money**- look for expenses that you should stop spending on, spend on what you want and need instead if mindlessly throwing away your money. 

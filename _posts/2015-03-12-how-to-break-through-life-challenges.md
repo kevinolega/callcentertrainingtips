@@ -12,7 +12,7 @@ I argue with my dad a lot. Sometimes it's an exchange of scathing remarks. Somet
 
 This is a post to remind myself and on the side, I'd like to encourage you.
 
-<h2>What is a breakthrough?</h2>
+### What is a breakthrough?
 
 A break through is a point where you achieve the result you are working for.
 
@@ -20,7 +20,7 @@ This may involve breaking through challenges and obstacles.
 
 A breakthrough is a point where difficult situation turns effortless because of a lesson, realization or mastery of an activity.
 
-<h2>How do you screw yourself up and get the opposite of a breakthrough?</h2>
+### How do you screw yourself up and get the opposite of a breakthrough?
 
 Whenever you aim for something great, opposition seems to line up and go against you. At this point, you have the option to continue or give up.
 
@@ -28,7 +28,7 @@ I learned in life that giving up is the point where you're about to achieve your
 
 At the most difficult points of your challenge you have the option to keep going and achieve a breakthrough or you can break down and give up. Breakdown is panic resulting from overwhelming amounts of emotion such as fear or despair. Hopelessness follows shortly and making  decisions you would tag stupid when you are emotionally stable would happen as a result.
 
-<h2>How to achieve a breakthrough?</h2>
+### How to achieve a breakthrough?
 
 Instead of breaking down, pause. Yes. I said pause.
 
@@ -40,10 +40,10 @@ If anything is emotionally charged, let it push yourself forward. If you're emot
 
 Here are more tips.
 
-<ul>
-    <li><strong>Make things winnable </strong>target something really small every day. If your goal is to get better at speaking, instead of forcing yourself to read, just write down a few lines and think of the best time to use it in a conversation.</li>
-    <li><strong>Don't overcommit</strong> do as little as needed and never as much as possible. Start with the smallest thing and don't force yourself to speed up your progress. Always try to slow down. Speeding up often causes a waste in your resources and many missed opportunities. Slow progress is the key. If things get overwhelming slow down.</li>
-</ul>
+
+    - **Make things winnable **target something really small every day. If your goal is to get better at speaking, instead of forcing yourself to read, just write down a few lines and think of the best time to use it in a conversation.
+    - **Don't overcommit** do as little as needed and never as much as possible. Start with the smallest thing and don't force yourself to speed up your progress. Always try to slow down. Speeding up often causes a waste in your resources and many missed opportunities. Slow progress is the key. If things get overwhelming slow down.
+
 
 What breakthrough's are you praying for and working on this week?
 

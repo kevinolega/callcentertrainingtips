@@ -14,7 +14,7 @@ The thing is, a lot of the advice out there is bad advice and not effective for 
 
 The first advice they give you is to practice things that will bore you to death. After killing your enthusiasm and excitement, they will use your frustration to sell you more materials and more training hours.
 
-<strong>The quality of the materials and your interest level is more important than the amount of training materials and hours of practice that you consume.</strong>
+**The quality of the materials and your interest level is more important than the amount of training materials and hours of practice that you consume.**
 
 The goal of learning is to acquire a skill, put it into practice and experience the benefit.
 
@@ -43,7 +43,7 @@ Aside from the lessons you're about to learn, just do a regular check.
 - Can I give good instructions? How can I give better instructions?
 - Are my fillers appropriate?
 
-<strong>Writing is refined thought.</strong> If you write things down you will be able to clarify with yourself what you're trying to say not just to your others but to yourself as well. In this activity get a sheet of paper and write down a list of things about...
+**Writing is refined thought.** If you write things down you will be able to clarify with yourself what you're trying to say not just to your others but to yourself as well. In this activity get a sheet of paper and write down a list of things about...
 - Your plans
 - Your dreams
 - What you want to achieve while you are alive
@@ -56,7 +56,7 @@ Aside from the lessons you're about to learn, just do a regular check.
 
 Write down as many as you can and try to expand. Write down your answer in the first sentence and expand to the next two or three sentence. Include some details and add with the reasons why your answer is your answer. This is an exercise in how to explain things well.
 
-<h2>Introductions</h2>
+#### Introductions
 
 The following are the most common problems of people who are not   used to communicating in English.
 1. Lack of confidence
@@ -70,64 +70,65 @@ The solution is simple.
 
 Practice basic english by answering or asking yourself the questions.
 
-<blockquote>
-  <strong>If you’re a Filipina who’s thinking, I’m already good in English and I’m chatting with foreigners and they think my English is good, think again. They might just think you’re hot and anything you say is good to them. In a work environment, the mastery of basics will lead to the excellent results.</strong>
-</blockquote>
+
+>If you’re a Filipina who’s thinking, I’m already good in English and I’m chatting with foreigners and they think my English is good, think again. They might just think you’re hot and anything you say is good to them. In a work environment, the mastery of basics will lead to the excellent results.**
+
 
 The most common information discussed in English in ah interview and social setting are as follows. I’ll do my best to teach you everything I know on this post. If you benefit. Please send me your feedback.
 
-People ask me for an answer. I used to enjoy it but every time I answer questions for others my answers often complicated things. Instead <strong>you might want to consider asking yourself the question and writing down the answer</strong>. Get your pad and ask yourself the questions I have prepared.
+People ask me for an answer. I used to enjoy it but every time I answer questions for others my answers often complicated things. Instead **you might want to consider asking yourself the question and writing down the answer**. Get your pad and ask yourself the questions I have prepared.
 
-<blockquote>
-  Instead of asking for answers consider evaluating your own answer.
-</blockquote>
+
+> Instead of asking for answers consider evaluating your own answer.
+
 
 If the answer calls for a list write down a list. Then learn to expand your answers from one word into a sentence. Once you have a sentence. See if you can expand it into two sentences. There is more than one way to say anything. If you have two ways of saying something you can pick the better one.
 
-<h3>1. Basic Introduction.</h3>
+####1. Basic Introduction.
 
-<ul>
-<li>Where are you from? </li>
-<li>What do you do for work?</li>
-<li>What do you enjoy doing?</li>
-<li>Why do you want to work in a call center?</li>
-<li>What do you think are your advantages?</li>
-<li>What do you think are disadvantages?</li>
-</ul>
 
-<h3>2. Personal Information</h3>
+- Where are you from? 
+- What do you do for work?
+- What do you enjoy doing?
+- Why do you want to work in a call center?
+- What do you think are your advantages?
+- What do you think are disadvantages?
 
-<ul>
-<li>Where are you from?</li>
-<li>How do you spend your free time?</li>
-<li>What skill did you learn recently?</li>
-<li>What skills are you proud of?</li>
-<li>What are your favourite tv shows?</li>
-<li>What are your favourite movies?</li>
-<li>What kind of food do you like?</li>
-<li>What kind of music do you listen to?</li>
-<li>What do you want your life to be like 5 years from now?</li>
-</ul>
 
-<h3>3. Professional Information</h3>
+#### 2. Personal Information
 
-<ul>
-<li>What is your job?</li>
-<li>What do you like about your job?</li>
-<li>What do you hate about your job?</li>
-<li>What is your dream job?</li>
-<li>What do you enjoy doing the most about your job?</li>
-<li>What do you want to happen to your career five years from now?</li>
-<li>Why do you want to work in a call center?</li>
-<li>If the call center industry didn’t exist what would your job be?</li>
-</ul>
 
-<strong>Here are some good habits when speaking.</strong>
-1. <strong>Speak loud and clear</strong>. If you're whispering when you say your words, your interviewer won't understand you or worse, misunderstand you.
-2. <strong>Sit/Stand straight</strong>. If your posture is bad you will have a hard time speaking right. Practice good posture.<br />
-3. <strong>Smile and breathe</strong>. The guaranteed method to sounding 100 times better. Smile, take a deep breath then talk. Listen to how you sound.
+- Where are you from?
+- How do you spend your free time?
+- What skill did you learn recently?
+- What skills are you proud of?
+- What are your favourite tv shows?
+- What are your favourite movies?
+- What kind of food do you like?
+- What kind of music do you listen to?
+- What do you want your life to be like 5 years from now?
 
-<h2>Questions</h2>
+
+#### 3. Professional Information
+
+
+- What is your job?
+- What do you like about your job?
+- What do you hate about your job?
+- What is your dream job?
+- What do you enjoy doing the most about your job?
+- What do you want to happen to your career five years from now?
+- Why do you want to work in a call center?
+- If the call center industry didn’t exist what would your job be?
+
+
+**Here are some good habits when speaking.**
+
+1. **Speak loud and clear**. If you're whispering when you say your words, your interviewer won't understand you or worse, misunderstand you.
+2. **Sit/Stand straight**. If your posture is bad you will have a hard time speaking right. Practice good posture.<br />
+3. **Smile and breathe**. The guaranteed method to sounding 100 times better. Smile, take a deep breath then talk. Listen to how you sound.
+
+#### Questions
 
 Questions are a part of the conversation where you get a response from the other person. In an interview situation, your interviewer is asking you questions and observing your responses not just the words of your answers. If you do the previous steps well you will do better with your first impression.
 
@@ -146,15 +147,12 @@ Topics you can start with to build rapport:
 - Occupation
 - Recreation
 
-<blockquote>
-  If you don't ask you'll never know.
 
-  If you don't ask, the answer is always no.
+> If you don't ask you'll never know.
 
-  Questions are the answers.
-</blockquote>
+> If you don't ask, the answer is always no.
 
-<h2>Instruction</h2>
+#### Instruction
 
 I get a lot of good feeback with how I explain things well to the customer. I tell the customer I watch a lot of cooking shows. I just imitate people who are good at giving instructions and try to give instructions as if I was them.
 
@@ -163,28 +161,31 @@ Problems I previously encountered:
 2. A lot of time is spent but there are no results.
 
 Instructions should be prepared in the following format.
-1. <strong>Simplified</strong>. 1-2 sentence format or the shortest version possible for quick explainations
-2. <strong>Long form</strong>. The complete step by step procedure.
 
-<strong>Which is better?</strong>
+1. **Simplified**. 1-2 sentence format or the shortest version possible for quick explainations
+2. **Long form**. The complete step by step procedure.
+
+**Which is better?**
+
 Have both so you have a version for people who have knowledge and people who have no knowledge.
 
-<strong>How do you dummy proof your instructions?</strong>
+**How do you dummy proof your instructions?**
+
 Just add a description. Instead of saying the word, describe it in detail, tell the other person where to find it, what colour, what other things help identify it and tell them what to do.
 
-<strong>Where you can go to get better instructions:</strong>
-1. <strong>Watch cooking shows</strong>. My favourite chefs are Jamie Oliver, Gordon Ramsay and Heston Blumenthal.
-2. <strong>Read how to guides</strong>. I read a lot of how to guides at Lifehacker.com
-3. <strong>Emulate great teachers</strong>. I have a short list of people I look up to. I’ll share it in the future.
+**Where you can go to get better instructions:**
+1. **Watch cooking shows**. My favourite chefs are Jamie Oliver, Gordon Ramsay and Heston Blumenthal.
+2. **Read how to guides**. I read a lot of how to guides at Lifehacker.com
+3. **Emulate great teachers**. I have a short list of people I look up to. I’ll share it in the future.
 
-<h1>Continue here</h1>
+##### Continue here
 
-<h2>Pronunciation</h2>
+#### Pronunciation
 
 Problems you might have encountered with pronunciation:
-1. <strong>Pronunciation are the most visible errors in the English language</strong>.
-2. <strong>Bad pronunciation can trigger social biases for your interviewer</strong>. People with good pronunciation are seen as part of the elite and people with bad pronunciation are seen as part of the lower class.
-3. <strong>Bad Pronunciation can cause others to misunderstand you</strong>. See SBC Packers by Rex Navarette on You Tube. Google is your friend.
+1. **Pronunciation are the most visible errors in the English language**.
+2. **Bad pronunciation can trigger social biases for your interviewer**. People with good pronunciation are seen as part of the elite and people with bad pronunciation are seen as part of the lower class.
+3. **Bad Pronunciation can cause others to misunderstand you**. See SBC Packers by Rex Navarette on You Tube. Google is your friend.
 
 You don’t need years to have good pronunciation. A lot of people spend years learning how to do it right. Most filipinos in low income situations can’t be bothered. Some people get promoted from low income jobs.
 
@@ -192,17 +193,17 @@ My celebrity crush since I was a kid was Heart Evangelista. Some people say that
 
 Here are a few things to master.
 
-<h3>1. Count from one to fifty</h3>
+#### 1. Count from one to fifty
 
-<h3>2. P and F, B and V, TH sounds</h3>
+#### 2. P and F, B and V, TH sounds
 
-<h3>100 most used words in the English Language</h3>
+#### 100 most used words in the English Language
 
 Remember:
 1. Say things right
 2. Practice regularly
 
-<h2>Fillers</h2>
+#### Fillers
 
 Fillers done wrong can make you sound like an idiot. Examples are going ughs and uhhmm during conversations.
 
@@ -216,3 +217,5 @@ How to delay having to give an answer.
 You don’t always have an answer but what do you do in the event that you don’t have an answer?
 
 Please come back on a regular basis to this page because I’ll be adding more lessons. If you need additional help with this specific lesson send me a message.
+
+Book Potential

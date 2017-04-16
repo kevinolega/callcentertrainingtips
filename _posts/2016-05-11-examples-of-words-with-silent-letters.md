@@ -10,131 +10,131 @@ Here are commonly used words with silent letters for your reference. There's no 
 
 ### Words with silent B:
 
-*   lamb
-*   thumb
-*   numb
-*   crumb
-*   climbing
-*   bomb
-*   comb
-*   doubt
-*   plumber
-*   limb
-*   debt
-*   tomb
+- lamb
+- thumb
+- numb
+- crumb
+- climbing
+- bomb
+- comb
+- doubt
+- plumber
+- limb
+- debt
+- tomb
 
 ### Words with silent D:
 
-*   edge
-*   hedge
-*   Wednesday
-*   handsome
-*   handkerchief
-*   badge
-*   wedge
+- edge
+- hedge
+- Wednesday
+- handsome
+- handkerchief
+- badge
+- wedge
 
 ### Words with silent G:
 
-*   gnome
-*   gnarl
-*   sign
-*   resign -design
-*   foreigner
+- gnome
+- gnarl
+- sign
+- resign -design
+- foreigner
 
 ### Words with silent H:
 
-*   what
-*   when
-*   why
-*   which
-*   whether
-*   ghost
-*   honest
-*   hour
-*   while
-*   white
-*   where
-*   rhythm
+- what
+- when
+- why
+- which
+- whether
+- ghost
+- honest
+- hour
+- while
+- white
+- where
+- rhythm
 
 ### Words with Silent K:
 
-*   knife
-*   knee
-*   knot
-*   knitting
-*   know
-*   knob
-*   knock
-*   knickers
-*   knuckle
-*   knight
-*   knack
-*   knew
+- knife
+- knee
+- knot
+- knitting
+- know
+- knob
+- knock
+- knickers
+- knuckle
+- knight
+- knack
+- knew
 
 ### Words with silent L:
 
-*   almond
-*   palm
-*   kolk
-*   calm
-*   salmon
-*   calf
-*   half
-*   chalk
-*   talk
-*   walk
-*   folk
+- almond
+- palm
+- kolk
+- calm
+- salmon
+- calf
+- half
+- chalk
+- talk
+- walk
+- folk
 
 ### Words with silent N:
 
-*   Autumn
-*   damn
-*   hymn
-*   column
+- Autumn
+- damn
+- hymn
+- column
 
 ### Words with silent T:
 
-*   witch
-*   fasten
-*   castle
-*   watch
-*   butcher
-*   scratch
-*   listen
-*   match
-*   Christmas
-*   mortgage
-*   soften
-*   often
+- witch
+- fasten
+- castle
+- watch
+- butcher
+- scratch
+- listen
+- match
+- Christmas
+- mortgage
+- soften
+- often
 
 ### Words with silent U:
 
-*   guest
-*   guess
-*   guitar
-*   guard
-*   building
-*   guilty
-*   rogue -vogue
-*   vague
-*   biscuit
-*   tongue
+- guest
+- guess
+- guitar
+- guard
+- building
+- guilty
+- rogue -vogue
+- vague
+- biscuit
+- tongue
 
 ### Words with silent W:
 
-*   wren
-*   wrote
-*   wrestling
-*   wriggle
-*   wrinkle
-*   sword
-*   whole
-*   wreck
-*   two
-*   wrap
-*   wrong
-*   wrist
-*   writing
+- wren
+- wrote
+- wrestling
+- wriggle
+- wrinkle
+- sword
+- whole
+- wreck
+- two
+- wrap
+- wrong
+- wrist
+- writing
 
 In case you're wondering the word I often mispronounce is **"almond"** and **"salmon"** two of my favorite food and both have "silent L".
 

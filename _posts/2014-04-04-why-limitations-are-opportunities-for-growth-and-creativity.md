@@ -8,11 +8,7 @@ categories: [Lessons]
 ---
 Your limitations are opportunities to be creative.&nbsp;
 
-<blockquote>You can't do what you want when you want all the time. That would be boring
-
-</blockquote>
-
-.
+> You can't do what you want when you want all the time. That would be boring.
 
 I started looking for work early because my family didn't have enough money to pay for my school tuition fees. I wanted to work in a call center at an early age because I heard that the good companies pay really well. For the longest time my dad told me that he has a college educated teacher who worked as his maid. Working as a security guard required a good number of years in college. My mom told me that I should get a low paying job at a fast food or a department store and eventually pay for my tuition.
 

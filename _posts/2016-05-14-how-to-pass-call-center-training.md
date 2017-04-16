@@ -19,11 +19,11 @@ I often get a message that goes something like this.
 
 Companies have different training practices. For some there's some English training then product training. Others jump immediately to product training. Here are some tips on how to pass the training.
 
-1.  **Attendance.** Be sure to arrive on time all the time.
-2.  **Speak English**. Follow the "English Only Policy". That's your time to practice before you start talking to customers.
-3.  **Get enough rest**. Go home immediately after training.  Don't go to drinking after training.
-4.  **Take notes**.  You can remember important things better if you write things down. Write down lessons,  questions,  tips,  everything important.
-5.  **Pick your friends**. Be wise. Not everyone you meet is your friend. Stick to people who inspire you to do better.  Avoid people who encourage you to do bad habits. Bad habits have consequences. Avoid people who borrow money.
+**1. Attendance.** Be sure to arrive on time all the time.
+**2. Speak English**. Follow the "English Only Policy". That's your time to practice before you start talking to customers.
+**3. Get enough rest**. Go home immediately after training.  Don't go to drinking after training.
+**4. Take notes**.  You can remember important things better if you write things down. Write down lessons,  questions,  tips,  everything important.
+**5. Pick your friends**. Be wise. Not everyone you meet is your friend. Stick to people who inspire you to do better.  Avoid people who encourage you to do bad habits. Bad habits have consequences. Avoid people who borrow money.
 
 Following these tips will let you avoid the five thousand peso penalty. 
 

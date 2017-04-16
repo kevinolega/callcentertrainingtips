@@ -41,31 +41,31 @@ Each dream has goals. Goals requires some tasks to be completed. Tasks require s
 
 If your goal is to get hired in a call center, here's a breakdown of what is needed:
 
-<h3>Three Job Offers</h3>
+#### Three Job Offers
 
 To get hired in a call center where you're really happy with the job I recommend having three job offers. You can have more than 3-5 but you generally need three to choose one where you'll be satisfied with the offer.
 
-<h3>Ten good interviews</h3>
+#### Ten good interviews
 
 Ten good interviews doesn't mean you need a job offer at the end. These are interviews where you felt you've given your best. You came prepared and you delivered your best introduction, you arrived on time, you gave them a clean resume. You felt you explained clearly what makes you a good fit for the job and win or lose you've given it your best so you feel it is a good interview.
 
-<h3>Five bad interviews.</h3>
+#### Five bad interviews.
 
 None of us are professional job applicants. This might be the first time in a long time where you're applying for a job. You're a bit rusty with your introductions. You don't know the area and you arrive late or worse, looking like a mess. There's an interview answer that you feel would be a good answer that's actually a bad answer. You're not confident with your delivery and hesitating with your answer makes the interviewer think you're giving them bullshit. You haven't read about how to prepare for an interview and you forgot something important. I experience this all the time. I've switched jobs many times and I'm sure I've messed up at least three interviews every time I switch jobs. You know those examples I'm giving out? I've had these problems. I know them well because I've encountered these problems personally. The good news is nobody gives a shit about you enough to keep a record of who you are and your past mistakes. So the next interview is always an opportunity to do better. If you're playing a game and you die, you can try again. Same thing happens with interviews. You might use time and money to play but you get experience and you get to play better.
 
-<h3>A list of fifteen companies you're going to</h3>
+#### A list of fifteen companies you're going to
 
 It's hard to remember objectives when things get emotional. As I've said, you might make a few mistakes and it will cause you to want to quit. It's embarrassing to make mistakes. The three hardest words in the English language are "I don't know" we have a hard time admitting we are wrong. I guess the second hardest is "I messed up". Whenever the emotions are high we end up doing dumber things until we reach our lowest point. It takes practice and a few skills and lots of reminders to pick yourself up from a fall. I smoked a lot when I felt bad. I spend a lot of money when I'm depressed. We both know those things are harmful but when you're there and the emotion is felt, it's extremely hard to resist. A list tells you that you haven't done everything you can yet. If you feel like quitting and you haven't crossed off every company yet, then you have work to do, you'll tell yourself. Make a list and visit each company. Walk in if you have to. Just cross out every company on the list.
 
-<h3>Fifty Online Applications</h3>
+#### Fifty Online Applications
 
 If you're looking for a call center job, you'll just need to send out applications. This is both the easiest step and the reason why most people fail. It's also easy not to do. All you need to do here is put up your resume on Jobstreet and JobsDB and submit an application to fifty companies. It'll take you maybe two hours and you'll just need to send the applications.
 
-<h3>A simple resume</h3>
+#### A simple resume
 
 A resume is simply a piece of paper with your contact information, work history and skills. Make sure it tells them what you were responsible for and in charge of. Highlight skills and experiences that you might find useful. Do not include your personal info like height and weight, you're applying for call center work and not as a promo girl.
 
-<h3>Money to get started.</h3>
+#### Money to get started.
 
 If you're going to quit your job, or something don't do so until you can support yourself. If you have bills to pay or responsibilities due to people you are supporting, don't do so until you have enough money. Here's my computation and these are based on my situation. I live in Paranaque and I applied for Jobs in Makati and Ortigas. Some days I spend Php 100 - Php 150 on transportation and Php 50- Php 100 on food. It's always cool to have extra money for other expenses. I strongly recommend that you make a computation based on your situation but if you want a quick estimate or a format.
 One month of expenses.

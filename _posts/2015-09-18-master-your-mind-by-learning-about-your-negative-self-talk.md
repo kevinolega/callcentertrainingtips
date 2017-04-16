@@ -14,9 +14,9 @@ I’ve been playing the scenario in my head for days then I realized that the si
 
 The next day I lost my keys. My house keys, my work locker keys, my gym locker keys and my bike keys. I can’t use my bike until I buy a new bike lock. I didn’t really notice how I lost it.
 
-I was feeling pretty good. I’ve been listening to Tara Brach and the lessons I learned was to <strong>accept reality and move forward without seeking, wishing, or insisting on changing the results of the situation because that’s all in the past. What happened just happens and it’s unnecessary to add emotion that would hurt me further in the situation.</strong>
+I was feeling pretty good. I’ve been listening to Tara Brach and the lessons I learned was to **accept reality and move forward without seeking, wishing, or insisting on changing the results of the situation because that’s all in the past. What happened just happens and it’s unnecessary to add emotion that would hurt me further in the situation.**
 
-<strong>The appearance of seemingly god-sized problems and obstacles are a reminder to you that God is in your party</strong> (a term used in RPG games and also means group or team) <strong>and that God sized battles are God’s battles and all I need to do is to trust God to win though every now and then I’ll be called in to contribute.</strong>
+**The appearance of seemingly god-sized problems and obstacles are a reminder to you that God is in your party** (a term used in RPG games and also means group or team) **and that God sized battles are God’s battles and all I need to do is to trust God to win though every now and then I’ll be called in to contribute.**
 
 I’ll just buy a new phone, I tell myself. I’ll pay off my card and buy a new one with a few days. I have some cash I tell myself. I’ll just wait for the announcement for the iPhone 6s on September 9 see if it’s worth it, decide on whether I should upgrade or get the same model as I lost (iPhone 6) and get myself another one.
 
@@ -68,38 +68,38 @@ Last week we talked about negative self talk.
 
 Sometimes I say I can do it.
 
-<strong>Sometimes I say I can’t do it.</strong>
+**Sometimes I say I can’t do it.**
 I should be able to. I’ve had success in the past. I have the ability to learn.
 
-<strong>I’m not good enough.</strong>
+**I’m not good enough.**
 I am. I just sometimes I believe that I’m not but I am. I am a shitty man. Despite that I’ve reached as far as I can reach. I’ve learned skills. I’ve built up my stuff from zero. It’s not perfect but if my goal is to make a little progress everyday, everything is within reach.
 
-<strong>My dad said I’m a failure. I’ll always be a loser. I’m the black sheep of the family.</strong>
+**My dad said I’m a failure. I’ll always be a loser. I’m the black sheep of the family.**
 Yes I am. My family has a history of perfect people “sarcasm” the shittiest member can accomplish amazing things. Besides my dad "was" a millionaire and the son of a former billionaire. Of course I’m a loser. I haven’t made a lot of money yet. I’m doing pretty well for a guy who only had one year of college and the problems that I encountered and had worked in a call center for three years. The other thing is my dad has difficulty communicating his love and appreciation to anyone. He was left by three wives and none of his nine children stayed to take over the family business. Fuck the money they tell him. What I’m currently praying for is that I’d get to understand him better and to finally learn what he’s (clumsily) trying to teach me and not let anything negative affect me negatively.
 
-<strong>My mom always tells me. Umayos ka nga. Or. Ayusin mo buhay mo. In English it means. Fix yourself. Or. Get your life in order. As if something was wrong with me.</strong>
+**My mom always tells me. Umayos ka nga. Or. Ayusin mo buhay mo. In English it means. Fix yourself. Or. Get your life in order. As if something was wrong with me.**
 Well my moms has a history of never giving compliments and had been bitter ever since I surpassed her income. It’s difficult for her and she doesn’t have any training to surpass me nor is she willing to learn from her offspring. I’m still working on making the relationship work. My current goal is to fix my communication skills by practicing precise communication so we can communicate well.
 
-<strong>Sometimes I remember how my ex left me. Maybe she realized I’m a loser and decided to cut her loses with me. Maybe I’ll just pull her down. I’m useless to her. Maybe I’m useless to anyone.</strong>
+**Sometimes I remember how my ex left me. Maybe she realized I’m a loser and decided to cut her loses with me. Maybe I’ll just pull her down. I’m useless to her. Maybe I’m useless to anyone.**
 That’s reality. I can’t stop being happy because someone decides she’s not happy with me. Whatever people decide is their thing and has nothing to do with me. It is exhausting and often counter productive to live your life thinking of what other people will say to you or think of you.
 
-<strong>I’m not financially successful yet. I’m almost thirty. When I was younger I said I’d be a millionaire by thirty and I’m only making my ends meet and buying a few luxuries every now and then. I’m a loser.</strong>
+**I’m not financially successful yet. I’m almost thirty. When I was younger I said I’d be a millionaire by thirty and I’m only making my ends meet and buying a few luxuries every now and then. I’m a loser.**
 Well there’s such a thing as character progression. If you make small progress consistently then you’ll be able to succeed. If you compare yourself with others you’ll end up being unhappy with yourself because there’s always someone better than you at something but that doesn’t mean they are better than you.
 
-<strong>I’m not that good in school. I didn’t finish college. I’m a lower being compared to my peers. I can work really hard to accumulate advantages catch up but in the end they will all overtake me. I’m not from a rich family or anything. I’ll always have to settle for leftovers for the rest of my life.</strong>
+**I’m not that good in school. I didn’t finish college. I’m a lower being compared to my peers. I can work really hard to accumulate advantages catch up but in the end they will all overtake me. I’m not from a rich family or anything. I’ll always have to settle for leftovers for the rest of my life.**
 Some of the greatest people didn’t finish college. I never let the lack of resources stop me from my education. I still read, study, learn and grow. Many of my colleagues who finished college have already been surpassed by me and the people who are ahead of me are not that far ahead. I’ll definitely eventually catch up. Might take longer but I will eventually.
 
-<strong>I haven’t gone to church for a few weeks. I haven’t prayed nor read the bible. God must really hate me now.</strong>
+**I haven’t gone to church for a few weeks. I haven’t prayed nor read the bible. God must really hate me now.**
 God judges the heart. God is fair. God gives grace. Grace means unmerited favour. God calls me to pray to him and will listen. I shouldn’t judge others harshly the bible says. That includes myself.
 
-<strong>At the gym I finished at the bottom. I’m such a weakling. How can I compete in events?</strong>
+**At the gym I finished at the bottom. I’m such a weakling. How can I compete in events?**
 I’m getting stronger and stronger. I look at myself in the mirror and see that I find my figure now more acceptable than a few months ago. I’m closer to my goal than I thought I was. I just need to keep going. My fat friends told me on many occasions that I wasted five thousand a month or so to participate in CrossFit workouts only to take better bathroom mirror selfies. I didn’t lose any weight. I’m still 183lbs. Despite that I have powerful legs now because I added I don’t know how much muscle mass in them all I know is that they look better and the leg part of my pants are tight now. The other thing is I lost two inches off my waist.
 
 Here are my responses to last weeks questions. If you master how you respond to your negative self talk then you have a better chance of mastering your mind.
 
-<strong>Will you tell yourself negative things? How will you respond? Will you take the negativity and think of a solution or will you use the negative thoughts as an excuse to inaction?</strong>
+**Will you tell yourself negative things? How will you respond? Will you take the negativity and think of a solution or will you use the negative thoughts as an excuse to inaction?**
 
-One last thing I’d like to part with you on this lesson is that <strong>every break through is a result of taking action while afraid instead of waiting for the fear to go away.</strong> If you wait for fear to go away the opportunity for the break through is much smaller than if you act while you have fear.
+One last thing I’d like to part with you on this lesson is that **every break through is a result of taking action while afraid instead of waiting for the fear to go away.** If you wait for fear to go away the opportunity for the break through is much smaller than if you act while you have fear.
 
 Thank you for reading. Your negative thoughts or self talk is a struggle you'll have for the rest of your life. Practice handling it well. I'll be here if you have questions. Thank you for your attention.
 

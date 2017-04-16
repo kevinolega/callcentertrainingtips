@@ -10,9 +10,9 @@ At the end of the questioning phase, the interview asks, do you have any questio
 
 Here's the most useful question I've discovered that I can ask when I was job hunting in the call center industry.
 
-<strong>It's my first time to apply and I was hoping you can give me some tips on the next part of my application.
+**It's my first time to apply and I was hoping you can give me some tips on the next part of my application.
 
-How did I do in my interview with you? Can you give me a few tips on what to improve?</strong>
+How did I do in my interview with you? Can you give me a few tips on what to improve?**
 
 Pull out your notebook and prepare to write down what your interviewer says. Shut up and wait for an answer.
 

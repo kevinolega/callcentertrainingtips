@@ -69,21 +69,21 @@ Define your expenses by listing down everything you spend on a daily basis for 
 
 After one week define your recurring daily expenses and apply the allowance method. What the hell is the allowance method? I noticed that I had the most money in my life back when I was in college. I got to eat where I wanted to eat, I got to buy the toys that I'd like, I'd get to treat my friends every now and then and I'd get to buy gifts for my crush. The thing there is I didn't have as money then as I did now and despite that I was able to achieve a reasonable amount of happiness with a very limited amount of income. Here's how I do it:
 
-*   I spend Php 100 on my transportation to work.
-*   I spend Php 50 every time I eat out at work.
-*   I give myself an allowance of Php 250 per day.
-*   I have an extra Php 100 per day every day.
-*   I am free to decide what I do with the Php 100.
-*   If I don't spend the extra Php 100.
-*   Every week I have an extra budget of Php 700.
-*   Every payout I have an extra budget of Php 1,400.
-*   Every month I have an extra budget of Php 3,000.
-*   Every year that's about Php 36,000.
-*   I don't expect you to save it. I expect you to use it wisely and play when you feel like it. Money is like sex. You have to be responsible, but you also need to enjoy it.
-*   I recommend that you do a computation of your own. How much do you comfortably spend on transportation? How much do you comfortably spend on food?
-*   Add about 30% or Php 100 whichever is higher.
-*   Separate your allowance when you get it on your pay day and have the teller break your money down in Php 50 bills then give yourself a daily allowance.
-*   Keep the extra money that you don't spend and build it up or spend it on what makes you happy.
+- I spend Php 100 on my transportation to work.
+- I spend Php 50 every time I eat out at work.
+- I give myself an allowance of Php 250 per day.
+- I have an extra Php 100 per day every day.
+- I am free to decide what I do with the Php 100.
+- If I don't spend the extra Php 100.
+- Every week I have an extra budget of Php 700.
+- Every payout I have an extra budget of Php 1,400.
+- Every month I have an extra budget of Php 3,000.
+- Every year that's about Php 36,000.
+- I don't expect you to save it. I expect you to use it wisely and play when you feel like it. Money is like sex. You have to be responsible, but you also need to enjoy it.
+- I recommend that you do a computation of your own. How much do you comfortably spend on transportation? How much do you comfortably spend on food?
+- Add about 30% or Php 100 whichever is higher.
+- Separate your allowance when you get it on your pay day and have the teller break your money down in Php 50 bills then give yourself a daily allowance.
+- Keep the extra money that you don't spend and build it up or spend it on what makes you happy.
 
 This method enables you to add some freedom and at the same time have some extra and teach you that you don't need to spend all your money by payday.
 
@@ -115,19 +115,19 @@ This is going to be a post on how to spend your hard earned call center money ba
 
 #### Don't spend money on:
 
-1.  **Networking**. Not a good idea. You spend money and kidnap friends to attend a seminar so they can buy products to start a business and repeat the process.
-2.  **Investment scams**. I don't need to explain this. Just don't do it. I don't care how much money your friend makes. How you make your money is more important than how much money you will make.
-3.  **Drinking with friends**. It's okay every now and then but if you find yourself drinking every week or every pay day there is something wrong with your priorities.
-4.  **The most expensive cellphone**. Don't buy a Samsung galaxy shit. It's a waste of money. It's worth nothing next year. You are better off buying an old iPhone. Don't give me shit like android has better specs than iPhone. That is a lie. Learn to read and study. Don't be stupid.
-5.  **Loans**. You are not a bank. Don't loan your friends and relatives money. They will not pay you. Invest in yourself first. Give people money if they need it but don't expect it back. That way you'll never be dissapointed. The biggest scam in a call center is "Pautang and I'll give you my ATM as collateral." If they're not willing to give something valuable like their smartphone, laptop, car, house title, etc, then they are not sincere in their need and are only out to swindle you. Don't ask why. I don't know either. They just do.
+**1. Networking**. Not a good idea. You spend money and kidnap friends to attend a seminar so they can buy products to start a business and repeat the process.
+**2. Investment scams**. I don't need to explain this. Just don't do it. I don't care how much money your friend makes. How you make your money is more important than how much money you will make.
+**3. Drinking with friends**. It's okay every now and then but if you find yourself drinking every week or every pay day there is something wrong with your priorities.
+**4. The most expensive cellphone**. Don't buy a Samsung galaxy shit. It's a waste of money. It's worth nothing next year. You are better off buying an old iPhone. Don't give me shit like android has better specs than iPhone. That is a lie. Learn to read and study. Don't be stupid.
+**5. Loans**. You are not a bank. Don't loan your friends and relatives money. They will not pay you. Invest in yourself first. Give people money if they need it but don't expect it back. That way you'll never be dissapointed. The biggest scam in a call center is "Pautang and I'll give you my ATM as collateral." If they're not willing to give something valuable like their smartphone, laptop, car, house title, etc, then they are not sincere in their need and are only out to swindle you. Don't ask why. I don't know either. They just do.
 
 #### Spend your money on:
 
-1.  **Building an emergency fund**. You need money in the bank for emergencies. Imagine the person that you care about the most. Do you have money to take them to the hospital? How about the money for their funeral? I just tried to trigger your emotions but you get the idea. Typically you need 3-6months of expenses and you can grow that.
-2.  **Buy a laptop**. If you want to start a business or to work from home you need a good laptop. I recommend saving up for a Mac but that might be out of your budget. Start with an okay one and upgrade later.
-3.  **Upgrade you home**. Buy a nicer bed, some pillows. Always remember if you spend time on something regularly you are allowed to upgrade it. I spend a lot of time writing so buying a nicer laptop is good for me. We all spend 8 hours in bed so a nicer bed is a good investment.
-4.  **Upgrade your mind**. Buy books. Take classes. Learn a skill. The best investment is one where you invest in yourself. I don't mean your clothes. I mean yourself.
-5.  **Upgrade your body**. A healthy body will enable a healthy mind. Go to the gym. Eat healthy food. Get enough sleep.
+**1. Building an emergency fund**. You need money in the bank for emergencies. Imagine the person that you care about the most. Do you have money to take them to the hospital? How about the money for their funeral? I just tried to trigger your emotions but you get the idea. Typically you need 3-6months of expenses and you can grow that.
+**2. Buy a laptop**. If you want to start a business or to work from home you need a good laptop. I recommend saving up for a Mac but that might be out of your budget. Start with an okay one and upgrade later.
+**3. Upgrade you home**. Buy a nicer bed, some pillows. Always remember if you spend time on something regularly you are allowed to upgrade it. I spend a lot of time writing so buying a nicer laptop is good for me. We all spend 8 hours in bed so a nicer bed is a good investment.
+**4. Upgrade your mind**. Buy books. Take classes. Learn a skill. The best investment is one where you invest in yourself. I don't mean your clothes. I mean yourself.
+**5. Upgrade your body**. A healthy body will enable a healthy mind. Go to the gym. Eat healthy food. Get enough sleep.
 
 The call center job is a good opportunity to prepare yourself for the higher things in life. Please do not waste it. One day there will be no call center jobs. When it does it will be a little harder. Call center companies pay a little higher than regular jobs that pay minimum wage. Please take advantage of the opportunity. You can be smart with your money and improve your life or you can do stupid things with it and wonder where the money went.
 

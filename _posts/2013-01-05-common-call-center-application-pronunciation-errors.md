@@ -73,8 +73,9 @@ _If Jolibee and Voldemort fought who will win?_
 
 **Want to try something harder?**
 
-> <blockquote>Voila! In view humble vaudevillian veteran, cast vicariously as both victim and villain by the vicissitudes of fate. This visage, no mere veneer of vanity, is a vestige of the vox populi now vacant, vanished. However, this valorous visitation of a bygone vexation stands vivified, and has vowed to vanquish these venal and virulent vermin, vanguarding vice and vouchsafing the violently vicious and voracious violation of volition. The only verdict is vengeance; a vendetta, held as a votive not in vain, for the value and veracity of such shall one day vindicate the vigilant and the virtuous. Verily this vichyssoise of verbiage veers most verbose, so let me simply add that its my very good honour to meet you and you may call me V.
-<iframe src="http://www.youtube.com/embed/IQyqx1K495U" height="315" width="420" allowfullscreen="" frameborder="0"></iframe>
+>Voila! In view humble vaudevillian veteran, cast vicariously as both victim and villain by the vicissitudes of fate. This visage, no mere veneer of vanity, is a vestige of the vox populi now vacant, vanished. However, this valorous visitation of a bygone vexation stands vivified, and has vowed to vanquish these venal and virulent vermin, vanguarding vice and vouchsafing the violently vicious and voracious violation of volition. The only verdict is vengeance; a vendetta, held as a votive not in vain, for the value and veracity of such shall one day vindicate the vigilant and the virtuous. Verily this vichyssoise of verbiage veers most verbose, so let me simply add that its my very good honour to meet you and you may call me V.
+
+[Watch it on YouTube](https://www.youtube.com/watch?v=ACUpr5GvVsE)
 
 Trivia: Almost everybody can pronounce Bitch and Vagina. Apply the same pronunciation to the B and V sound.
 

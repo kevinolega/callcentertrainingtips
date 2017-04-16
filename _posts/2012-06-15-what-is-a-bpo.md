@@ -28,21 +28,21 @@ Example of business processes include:
 
 Outsourcing is asking someone to do something for you and paying them for it. You outsource something because:
 
-*   it’s cheaper (cost-effective)
-*   they can do better than you (quality)
-*   you don’t have the time to do it yourself (convenience)
+- it’s cheaper (cost-effective)
+- they can do better than you (quality)
+- you don’t have the time to do it yourself (convenience)
 
 **We outsource tasks regularly.**
 
-*   laundry shops are places where we outsource our laundry
-*   fast foods and restaurants are where we outsource our food preparation
-*   public transportation is where we outsource our transportation needs.
+- laundry shops are places where we outsource our laundry
+- fast foods and restaurants are where we outsource our food preparation
+- public transportation is where we outsource our transportation needs.
 
 Business process outsourcing is the same as outsourcing our tasks, except they’re outsourcing business processes. Almost any business process can be outsourced. **Here are common outsourced business processes in a call center.**
 
-*   Customer Service
-*   Technical Support
-*   Sales
+- Customer Service
+- Technical Support
+- Sales
 
 These are the top three. A lot of Call Center Jobs are in these three fields. There are more but you’ll find out about that later. 
 

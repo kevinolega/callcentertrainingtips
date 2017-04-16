@@ -6,7 +6,7 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-**Post written by [Kevin Olega](http://kevinolega.com/) connect with him on [twitter](http://twitter.com/kevinolega) | [facebook](http://www.facebook.com/profile.php?id=100003220910840) | [g+](https://plus.google.com/107007774605671245935/posts)** 
+
 
 **Total read time:** 7 minutes 
 

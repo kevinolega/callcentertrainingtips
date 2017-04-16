@@ -10,11 +10,11 @@ Interviewers ask a lot of the same questions every day of their lives. What suck
 
 In the past ten years I have a guideline since I started looking for work.
 
-<ul>
-    <li>Did I get the interviewer to talk about himself or herself?</li>
-    <li>Are they smiling in the conversation?</li>
-    <li>Did I get to make them laugh once?</li>
-</ul>
+
+- Did I get the interviewer to talk about himself or herself?
+- Are they smiling in the conversation?
+- Did I get to make them laugh once?
+
 
 If I answered yes to all three questions I'm sure to get a job offer. I have been self evaluating my applications for the past ten years and whenever I get a yes to all three I'm good with a job offer.
 

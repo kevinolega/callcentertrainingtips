@@ -17,7 +17,7 @@ Apply this exercise to each section including the details. Your home address, yo
 
 Practice telling these stories.
 
-<strong>What's the point?</strong>
+**What's the point?**
 
 Ever want to come up with awesome answers to call center interviews? The kind of answers that keep your interviewer focused on you and wanting more? If you look at the Internet and copy the answers from others then there is a good chance that your interviewer had heard of that from somewhere before and it makes you a copying fake.
 
@@ -25,7 +25,7 @@ I'm confident my answers are pretty awesome but you know what? So are your answe
 
 Your stories are even more awesome. In fact I would like to hear them. Seriously. I enjoy reading every story I get in the email, the comments and in the Facebook page of the blog.
 
-<strong>Here are additional tips</strong>.
+**Here are additional tips**.
 Tell the stories again and again and check yourself for grammar and pronunciation errors.
 Write it down.
 Read it.

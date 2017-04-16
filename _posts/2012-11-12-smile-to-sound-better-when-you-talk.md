@@ -6,8 +6,8 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-<blockquote>A smile can often get you out of unfavorable situations.
--Sai (Naruto Shippuuden)</blockquote>
+> A smile can often get you out of unfavorable situations.
+-Sai (Naruto Shippuuden)
 
 Smile when you talk. They say a smile can be heard on the phone.
 

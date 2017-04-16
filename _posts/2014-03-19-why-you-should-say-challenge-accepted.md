@@ -6,8 +6,8 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-<blockquote>Today is your lucky day. I'm gonna teach you how to live.
-Barney Stinson</blockquote>
+> Today is your lucky day. I'm gonna teach you how to live.
+Barney Stinson
 
 The proper response to any difficulty is challenge accepted.
 
@@ -21,7 +21,7 @@ A few months later I'm part of the top 5% of the highest sales performers in our
 
 I couldn't believe it. Not only did I get to avoid getting fired but I also got recognized as a top performer.
 
-<strong>What changed?</strong>
+**What changed?**
 
 My results are results. Results are a product of my methods. If I change my methods I can change my results. There are several steps that I am doing correctly and several steps that I am doing incorrectly. If I identify the wrong steps and make adjustments I will be able to change the results. If I suck it means I haven't learned it yet.
 
@@ -37,8 +37,4 @@ Not to show of but to remind myself that difficulties are challenge that I can o
 
 How do you face challenges? Do you also say challenge accepted?
 
-Here's how to say it.
-
-<iframe src="//www.youtube.com/embed/4iOi_iPNC50?rel=0" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-
-]]>
+[Here's how to say it.](https://www.youtube.com/embed/4iOi_iPNC50?rel=0)

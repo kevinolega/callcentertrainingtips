@@ -9,15 +9,15 @@ permalink: what-kind-of-computer-skills-are-required-in-a-call-center
 ---
 Depending on what kind of call center work you’ll be doing computer skills are important. Forget that, computer skills are a basic skill in life right now. A lot of people I got to talk to tell me that they do not have computer skills or aren’t computer literate. When I asked further questions, I found out the opposite to be true. So instead of writing about the required call center computer skills, I’ll just ask you a few questions to determine your computer skill level. Are you cool with that?Great! Like you have a choice.
 
-*   Do you have a facebook (friendster, twitter, blog, etc) account?
-*   Did you type your resume in a computer?
-*   Do you check your email account?
-*   Do you know how to shut down a computer?
+- Do you have a facebook (friendster, twitter, blog, etc) account?
+- Did you type your resume in a computer?
+- Do you check your email account?
+- Do you know how to shut down a computer?
 
 Congratulations you’re computer literate. **Advanced questions:**
 
-*   Do you know how to search for things in Google?
-*   Do you know how to save your files in a USB flash drive?
+- Do you know how to search for things in Google?
+- Do you know how to save your files in a USB flash drive?
 
 Very good. You’re knowledgeable with computers. 
 

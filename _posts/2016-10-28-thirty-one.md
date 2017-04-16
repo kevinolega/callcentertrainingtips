@@ -152,7 +152,7 @@ Stop drinking alcohol or smoking.
 Stop lying to people.
 Stop staying too long on facebook.
 
-**20.Don’t lend anyone money in the call center**                                                                                                                                 
+**20.Don’t lend anyone money in the call center*-                                                                                                                               
 
 If someone approaches you to borrow money avoid them. They are scam artist. Unless you see hospital pics and you visit the hospital. Do not lend them money. If you do you will never get paid back. This happens a lot and I thought it was an isolated case. I have Zenette Hizon, Chalton Harvey Punla, Rushelle Raj Ylannan, Edsil Pastoral, Jonelyn Manezze, Myca Nitura and a bunch of other people I met in a call center who’ve borrowed money from me and disappeared. Lending money is the most disappointing thing in a call center. Don’t do it. Save yourself the heartache.
 

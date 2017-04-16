@@ -6,7 +6,6 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-<strong>Post written by <a href="http://kevinolega.com/">Kevin Olega</a> connect with him on <a href="http://twitter.com/kevinolega">twitter</a> | <a href="http://www.facebook.com/profile.php?id=100003220910840">facebook </a>| <a href="https://plus.google.com/107007774605671245935/posts">g+</a></strong>
 
 When I started working in a call centre.I had no idea what people are doing. They say customer service. At the back of my head, what the fuck is customer service. When I applied. The guard told me to wait. I said okay. The pretty reception girl, called my name, I went toward her and smiled. She guided me to a computer to fill out my details and I did. When I was done, she called me again and guided me to an interview room. The guy asked me about myself and I answered. I clumsily tried to explain why they should hire me. My over used traits included hard working and honest and I’m really smart. Blah blah blah. I had no idea what I was doing. She asked me to wait outside. The reception attendant guided me to a computer to take the exams. I took the exams. I was asked to record my voice. Do call simulations and come back for another interview. I kept saying yes. I didn’t know what was going to happen next.
 

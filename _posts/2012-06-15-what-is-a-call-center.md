@@ -16,25 +16,25 @@ That’s true. The real question is:
 
 ****For different people there are different answers.****
 
-*   For a business owners it’s a place to outsource business related tasks we’d rather not handle on our own.
-*   For some entrepreneurs it’s a business opportunity.
+- For a business owners it’s a place to outsource business related tasks we’d rather not handle on our own.
+- For some entrepreneurs it’s a business opportunity.
 
 ****But that’s not who I wrote this blog for.****
 
-*   You just retired from your work voluntarily or involuntarily and you’re bored with staying at home and looking for a source of income a call center maybe for you.
-*   You’re a fresh graduate, looking to earn some money for yourself or to start a business later on.
-*   You’re a new graduate and you can’t find a job in the field of study you took up in college.
-*   You’re a single mom looking for a way to make ends meet.
-*   You have someone you can’t support, who needs a job.
-*   You want to learn business practices and how some foreign companies operate.
+- You just retired from your work voluntarily or involuntarily and you’re bored with staying at home and looking for a source of income a call center maybe for you.
+- You’re a fresh graduate, looking to earn some money for yourself or to start a business later on.
+- You’re a new graduate and you can’t find a job in the field of study you took up in college.
+- You’re a single mom looking for a way to make ends meet.
+- You have someone you can’t support, who needs a job.
+- You want to learn business practices and how some foreign companies operate.
 
 **The call center is in no way the prefect solution. I myself am not currently employed in one. The pay is pretty okay and the shifts vary and you may like it or not like it depending on your lifestyle. I present it as a stepping stone to other opportunities like:**
 
-*   Funding your going back to school budget.
-*   Funding your own business.
-*   Funding your migrate to abroad plan “I hope not!”
-*   Paying for expenses and a source of income while you figure things out.
-*   etc.
+- Funding your going back to school budget.
+- Funding your own business.
+- Funding your migrate to abroad plan “I hope not!”
+- Paying for expenses and a source of income while you figure things out.
+- etc.
 Whatever it is it’s not limited to that. Use your imagination friend. That will be all for now from me.
 
 What is a call center for you? 

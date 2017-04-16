@@ -12,10 +12,10 @@ Instead of memorizing answers to interview questions you need to know who you ar
 
 Most people are dumb about who they are. Since I broke up with my girlfriend from five years ago I've dated different girls and the level of stupidity and the lack of self awareness that I encounter is just crazy.
 
-*   Many people doesn't know how to tell me about themselves.
-*   Many people can't tell stories.
-*   Many people can't ask questions.
-*   Many people can't even decide what they want to fucking eat.
+- Many people doesn't know how to tell me about themselves.
+- Many people can't tell stories.
+- Many people can't ask questions.
+- Many people can't even decide what they want to fucking eat.
 
 Here's the thing. Be self aware. Ask yourself questions.
 

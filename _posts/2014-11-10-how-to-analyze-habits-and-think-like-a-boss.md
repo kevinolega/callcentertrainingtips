@@ -17,7 +17,7 @@ Your habits form your destiny.
 
 Or something like that.
 
-<strong>Warning:</strong> This is the most judgemental post that I've written so far. The objective is not to hurt you but to wake you up and introduce you to practicing good judgement. If you disagree with me you can leave a comment about your thoughts or leave a comment "I demand trial by combat!" and I will erase your from the planet.
+**Warning:** This is the most judgemental post that I've written so far. The objective is not to hurt you but to wake you up and introduce you to practicing good judgement. If you disagree with me you can leave a comment about your thoughts or leave a comment "I demand trial by combat!" and I will erase your from the planet.
 
 If you have a habit of smoking, you will generally have lung cancer.
 If you eat until you become obese, you are guaranteeing your death by diabetes or heart disease.

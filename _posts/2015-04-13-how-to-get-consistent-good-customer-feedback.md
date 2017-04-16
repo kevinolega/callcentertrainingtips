@@ -6,7 +6,7 @@ author: Kevin Olega
 comments: true
 categories: [agent, Lessons]
 ---
-<strong>The post is written by <a href="http://kevinolega.com">Kevin Olega</a> follow him on <a href="http://twitter.com/kevinolega">twitter</a>.</strong>
+**The post is written by <a href="http://kevinolega.com">Kevin Olega</a> follow him on <a href="http://twitter.com/kevinolega">twitter</a>.**
 
 I couldn’t believe it. I was awarded Top Agent in the customer feedback category on the second or third month of my call center work. I don’t recall receiving an award before. I lived most of my life feeling stupid. I feel I have difficulty expressing myself to others. Many people say I’m antisocial because I don’t hang out with them or because I select my friends carefully.
 
@@ -42,7 +42,7 @@ Can you do anything about it? That's my proposition.
 
 What if you asked yourself in this format?
 
-<strong>The customer doesn’t know what to do about the situation. How can I guide the customer to achieve the result that they want effectively in a way that they are happy and my employer is happy?</strong>
+**The customer doesn’t know what to do about the situation. How can I guide the customer to achieve the result that they want effectively in a way that they are happy and my employer is happy?**
 
 Agents who complain about how stupid the customer is are missing the point.
 

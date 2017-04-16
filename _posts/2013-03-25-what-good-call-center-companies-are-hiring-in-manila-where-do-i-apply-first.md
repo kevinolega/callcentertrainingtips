@@ -6,7 +6,7 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-> <blockquote>Dear Kevin,
+> Dear Kevin,
 > 
 > What call center can I apply in? I’m new in Manila and I want to work as a call center agent. I hope you can help me. I don’t know where to start. What Call Center companies are hiring in Metro Manila? I hope to get your answer soon.
 > 
@@ -29,23 +29,23 @@ Some of you may say, if I fail, I will lose the opportunity. To which, I answer,
 
 In no particular order here are some call center companies that are hiring in Metro Manila.
 
-*   Convergys
-*   Aegis - (formerly People Support)
-*   Teletech
-*   Teleperformance
-*   Stream -(formerly eTelecare)
-*   West contact services (email me and I'll refer you)
-*   Sutherland Global Services.
-*   Sitel
-*   Sykes
-*   NCO
-*   Genpact (alabang)
-*   KGB (formerly Infonxx)
-*   IBM
-*   HSBC
-*   Telus (formerly Ambergris)
-*   24/7
-*   Accenture
+- Convergys
+- Aegis - (formerly People Support)
+- Teletech
+- Teleperformance
+- Stream -(formerly eTelecare)
+- West contact services (email me and I'll refer you)
+- Sutherland Global Services.
+- Sitel
+- Sykes
+- NCO
+- Genpact (alabang)
+- KGB (formerly Infonxx)
+- IBM
+- HSBC
+- Telus (formerly Ambergris)
+- 24/7
+- Accenture
 If you'd like to work for smaller call center companies, I have some friends who have openings. 
 
 (If you're a call center recruiter and you would like to be added to this list please email me.)

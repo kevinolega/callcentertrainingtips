@@ -16,9 +16,9 @@ How do you do it?
 
 You go to an area believed to have gold.
 You study the area to determine where to best dig for gold. Then you dig.
-The first part is always the hardest. Maybe the ground is too hard. Maybe you are not strong enough. You don't let that stop you though. Gold is valuable and <strong>valuable things are often difficult to come by</strong>.
+The first part is always the hardest. Maybe the ground is too hard. Maybe you are not strong enough. You don't let that stop you though. Gold is valuable and **valuable things are often difficult to come by**.
 
-<blockquote><strong>Every difficulty comes with it the seed of an equal or grater benefit.</strong></blockquote>
+>Every difficulty comes with it the seed of an equal or grater benefit.
 
 You know it's worth it so you get to work, you dig and in the process you move a lot of dirt. Mountains of dirt. How much gold do you find? Very little. Is the value of the gold worth it? Yes! Of course! The dirt you move is worth nothing but moving dirt is part of the process. It's hard work and it is expected.
 Before we begin. I want to make sure you understand the value of what I'm saying.
@@ -27,8 +27,11 @@ If you had the means to take care of your expenses and have some extra money to 
 How would being financially in control of your life make you feel?
 If you read this far and are willing to read some more, I'm excited for you.
 You're one of the few people who are willing to do that it takes to get the life that you want.
-Consider this. There are thousands of call center jobs out there but there are only a few people who get hired and many struggle to get in, The sad thing is, despite the money, few people succeed in this field at getting the life they want. The thing is many people are not willing to grow. I find that people who graduate from college had found themselves entitled to a job and would never touch a book again or would only be willing to read magazines and facebook posts or watch Aldup or Pastillas girl or something stupid. They see lessons and remember their worst teachers and would consider paying for a class or excited at buying a book like buying a coffin. I'm going to tell you the truth. <strong>If you spend more time entertaining yourself than you do educating yourself, your priorities are fucked up. I'm sorry it might hurt your feelings but that's true and I'm telling you this because I care about you and I want to alert you that something needs to be adjusted in your life so you can have the results that you want.</strong>
-<strong>The problem is not a lack of resources or the means, it's the willingness to take control of yourself and do the work needed</strong>.
+Consider this. There are thousands of call center jobs out there but there are only a few people who get hired and many struggle to get in, The sad thing is, despite the money, few people succeed in this field at getting the life they want. The thing is many people are not willing to grow. I find that people who graduate from college had found themselves entitled to a job and would never touch a book again or would only be willing to read magazines and facebook posts or watch Aldup or Pastillas girl or something stupid. They see lessons and remember their worst teachers and would consider paying for a class or excited at buying a book like buying a coffin. I'm going to tell you the truth. 
+
+**If you spend more time entertaining yourself than you do educating yourself, your priorities are fucked up. I'm sorry it might hurt your feelings but that's true and I'm telling you this because I care about you and I want to alert you that something needs to be adjusted in your life so you can have the results that you want.**
+
+**The problem is not a lack of resources or the means, it's the willingness to take control of yourself and do the work needed**.
 
 If you are somewhat afraid, I don't blame you. I felt afraid what I started. If you're willing, however then everything I'm about to tell you next is going to make a lot of sense.
 
@@ -40,7 +43,7 @@ There's a formula in sales for this. A ratio. 1:10. This means that for every te
 
 Some people complain that sales is hard because of the rejection but for the people who succeed and make a lot of money, they understand this rule called the law of averages. Other people call this rule the law of sowing and reaping. Now it's time to translate this to getting hired in a call center.
 
-Before I continue, I would like to point out that <strong>the people who succeed are not people who don't experience rejection or fear the rejection. Successful people experience fear of rejection and rejection often. I do so too. A lot. It's sometimes frustrating and depressing but if you can learn to control your emotions. See my previous posts. If you understand how the rules work and you know strongly in your heart that at the end all the hard work you will get your desired reward then instead of feeling fear you might feel excitement</strong>.
+Before I continue, I would like to point out that **the people who succeed are not people who don't experience rejection or fear the rejection. Successful people experience fear of rejection and rejection often. I do so too. A lot. It's sometimes frustrating and depressing but if you can learn to control your emotions. See my previous posts. If you understand how the rules work and you know strongly in your heart that at the end all the hard work you will get your desired reward then instead of feeling fear you might feel excitement**.
 The law of averages may be different for everybody but the one thing that's consistent is that if you put in enough activity you can expect to get a specific result.
 
 If your goal is to get a good job, you need a job offer. How many do you need? More than one. In my case I end up looking at three to five offers before I pick one. How do I get a job offer? I need to go to many interviews. For most people it's between ten and twenty. In my case it takes me around sixteen.
@@ -49,7 +52,7 @@ I actually mess up my first 3-5 or so interviews. I'm not a professional job hop
 No means next opportunity by the way. Don't get too attached to your results. Your job is to work on the needed activities and the results will get better as you get better. That's the reason why I do my best to submit 50 resumes online each day for three days or until I start getting a lot of interview schedules.
 I'll stop here. I know you're excited to get started. Make a jobstreet account and send your resume to 20 companies and see what happens. Once you're done send me an email. I would love to know who among my readers are taking action.
 
-It's okay to get rejected by others. That's part of the process to becoming a better communicator. It's part of the process to getting a job. I believe that <strong>it's not okay to reject yourself by not trying</strong>.
+It's okay to get rejected by others. That's part of the process to becoming a better communicator. It's part of the process to getting a job. I believe that **it's not okay to reject yourself by not trying**.
 I believe that you have what it takes to get better and get hired and that's why I'm willing to do this and when you do, I would love to hear from you.
 
 Praying for your success.

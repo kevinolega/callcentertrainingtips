@@ -6,7 +6,6 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-<strong>Post written by <a href="http://kevinolega.com/">Kevin Olega</a> connect with him on <a href="http://twitter.com/kevinolega">twitter</a>. </strong>
 
 Whatever your job is, you will be a problem solver. Your job is a solution to a problem. That's what they hire you. That's why they pay you money. If you want to make more money or to perform better, you need to be able to solve more problems for more people. That's just how things are.
 
