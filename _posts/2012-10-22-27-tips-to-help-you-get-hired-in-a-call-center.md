@@ -39,9 +39,3 @@ Yes it's okay to ask questions. Questions make you interesting. Questions put th
 **26.** **Smile. I'd like to clarify. Rephrase the question. My answer to "Insert original question" then give the answer.** I use this to stall. I don’t use it often but whenever my interviewer throws me a question I’m not prepared for, I use this technique to buy me time.
 **27. Be confident.** You just read a really long post on improving yourself. I'm so proud of you. Fist bump. We're almost at the end and I have to tell you that you can do it and I want to hear from you when you get hired. I also expect pizza or wine as a gift.
 **Bonus tip** If you send me an email or leave a comment I'll help you get hired in a call center by answering your questions.
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

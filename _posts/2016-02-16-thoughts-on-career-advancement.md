@@ -45,9 +45,3 @@ The more inspired you are the more energy you have. Often the win goes to the pe
 Insisting that you accomplish things now when the truth is that the activity or process takes time will often result in bad decisions that will bite you in the ass later. That's how people die in car accidents. Avoid rushing in anything. I recently learned that if you rush you only gain 3-5% speed improvement. If you relax you still get there maybe 5-10% slower but so what? You're not exhausted in the process. If you're not a professional racer you shouldn't be rushing anything.   
 
 **10\. Don't take things too seriously** . Everything is a game. Whenever you find yourself caught up in the game you are playing you always have the option to pause or quit. There is often very little consequence for taking a break. After you have rested and are relaxed you can try again. Then you will be relaxed and playful which also means creative and in a lot of ways more effective than those stressed motherfuckers.
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

@@ -66,4 +66,4 @@ Is it the right thing to do? I’m not going to argue.
 
 Is it worth it? My employer pays me an extra 20-30% to be effective at this KPI.
 
-If you want more posts like these let me know in the comments or send me a message. Thank you for reading.
+

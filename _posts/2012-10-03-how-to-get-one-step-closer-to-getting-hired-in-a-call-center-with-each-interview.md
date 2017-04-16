@@ -23,9 +23,3 @@ In my experience of doing this, I found out that interviewer's are generally nic
 Just ask. This way you'll find out what you need to work on faster. Otherwise they'll just assume that you don't care enough to improve yourself to get the job.
 
 Pay attention to the tips and improve in that area. Be better and try again.
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

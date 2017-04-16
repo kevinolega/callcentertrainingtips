@@ -71,5 +71,3 @@ I'm here if you have questions.
 To your success.
 
 Kevin.
-
-<strong>The post is written by <a href="http://kevinolega.com">Kevin Olega</a> follow him on <a href="http://twitter.com/kevinolega">twitter</a>.</strong>

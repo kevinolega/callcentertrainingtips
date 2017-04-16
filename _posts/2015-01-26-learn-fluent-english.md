@@ -216,5 +216,3 @@ How to delay having to give an answer.
 You don’t always have an answer but what do you do in the event that you don’t have an answer?
 
 Please come back on a regular basis to this page because I’ll be adding more lessons. If you need additional help with this specific lesson send me a message.
-
-I also do lessons on this specific topic for Php 1,000 because it will take four hours to cover everything.

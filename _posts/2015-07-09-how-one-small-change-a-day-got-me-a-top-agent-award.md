@@ -70,13 +70,3 @@ The little improvements tend to help you over time.&nbsp;
 </ul>
 
 I actually found the solution for the sales part but that's for another story. I'll tell you all about it on my other posts.
-
-If you enjoyed this post I would appreciate it if you like the facebook page.
-
-If you're new please sign up for the free email lessons so you'll receive updates and free lessons.
-
-I want to get to know you. Send me a message on the contact or facebook page.&nbsp;
-
-&lt;strong&gt;The post is written by &lt;a href="http://kevinolega.com"&gt;Kevin Olega&lt;/a&gt; follow him on &lt;a href="http://twitter.com/kevinolega"&gt;twitter&lt;/a&gt;.&lt;/strong&gt;&nbsp;
-<b>
-</b>

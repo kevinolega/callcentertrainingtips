@@ -105,9 +105,3 @@ Also asked as "Why shouldn't we hire you?"
 > "I have a hard time answering this question. Everything I'm currently good at right now is often something I'm terrible at in the past couple of years. The Kevin Olega you see right now is way different from last year's Kevin Olega and next year's Kevin Olega will be different too."
 
 Note: Sometimes you can just copy an element, from the list. In some situations, you can take what it means. Summarize it and just use the elements as examples._ Here's a breakdown of how I answer the most common questions. Did I miss anything? Find an error? Let me know.
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

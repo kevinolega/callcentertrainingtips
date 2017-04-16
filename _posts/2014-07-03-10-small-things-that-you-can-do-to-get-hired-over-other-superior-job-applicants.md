@@ -20,5 +20,3 @@ People base things on appearance. According to a study, employers are more likel
     <li><strong>Get more than 8 hours of sleep.</strong> The human body needs energy to accomplish tasks. Sleep enables your body to have enough for your interview.</li>
     <li><strong>Read your list of accomplishments.</strong> At many points on your way to your interview your negative self talk might give you trouble and self doubt. Don't let it. Use the list to remind you how awesome you are.</li>
 </ol>
-
-<strong>Post written by <a href="http://kevinolega.com/">Kevin Olega</a> connect on <a href="http://twitter.com/kevinolega">twitter</a> and <a href="http://www.facebook.com/kevinolega.blog ">facebook</a></strong>

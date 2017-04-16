@@ -33,4 +33,3 @@ Did the solution work? If yes, good. If no, try something else.
 
 It's okay to make mistakes as long as you don't repeat the same one.
 
-Did you find value in this post? If so please share your thoughts in the comments bellow.

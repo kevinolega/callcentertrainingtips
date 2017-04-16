@@ -23,9 +23,3 @@ I recently met another one who like me had terrible skills to begin with and des
 Knowing that other people who are like that and just started trying to learn things from the internet on your own well that's pretty amazing so I think you're awesome too anyways you are awesome you need to look for proof because I can't convince you you have to look at what you have try to point out which one makes you awesome and that's the reason why the call center companies are going to hire you.
 
 So its your turn now to tell me. What makes you awesome?
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

@@ -32,9 +32,3 @@ I'm not talking about training bonds.
 The five thousand peso penalty is a result of getting fired and having to look for another job. 
 
 I usually spend five thousand pesos if I'm looking for a job,  that's money to print out resumes,  transportation and food for going to interviews,  getting my documents like NBI clearance, and going to work until I get my first paycheck.
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

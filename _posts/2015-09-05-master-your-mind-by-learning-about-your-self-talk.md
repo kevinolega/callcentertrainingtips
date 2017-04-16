@@ -61,7 +61,3 @@ Next. Ask yourself why that's your answer? What is the reason you are positive o
 My final question is...
 
 Is that okay with you? I'm not saying your outlook is right or wrong. My question is are you okay with it? Do you want to change or stay the same?
-
-I want to hear what you think. Send me a message. Leave a comment. I'll share some more lessons. If you're interested, I'll teach you how to master your self talk.&nbsp;&nbsp;
-
-<strong>The post is written by <a href="http://kevinolega.com">Kevin Olega</a> follow him on <a href="http://twitter.com/kevinolega">twitter</a>.</strong>

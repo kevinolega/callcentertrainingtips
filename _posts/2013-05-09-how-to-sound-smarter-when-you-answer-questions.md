@@ -54,9 +54,3 @@ I don't use the same technique on all the questions but I do end up using it a f
 When answering interview questions, it's hard to know where to start. Random answers are unreliable because they are random and it's not wise to put your answers and job to fate.
 
 I hope these techniques will help you with your interviews. Do you have an effective interview technique that you use? Do you have questions? 
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

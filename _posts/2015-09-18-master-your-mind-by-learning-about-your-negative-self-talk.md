@@ -104,4 +104,4 @@ One last thing I’d like to part with you on this lesson is that <strong>every 
 Thank you for reading. Your negative thoughts or self talk is a struggle you'll have for the rest of your life. Practice handling it well. I'll be here if you have questions. Thank you for your attention.
 
 Kevin.
-<strong>The post is written by <a href="http://kevinolega.com">Kevin Olega</a> follow him on <a href="http://twitter.com/kevinolega">twitter</a>.</strong>
+

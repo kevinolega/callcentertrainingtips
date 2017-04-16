@@ -68,7 +68,3 @@ It takes some time to learn a skill. If you've read up to hear I would like to c
 Sincerely,
 
 Kevin.
-
-&nbsp;
-
-<strong>The post is written by <a href="http://kevinolega.com">Kevin Olega</a> follow him on <a href="http://twitter.com/kevinolega">twitter</a>.</strong>

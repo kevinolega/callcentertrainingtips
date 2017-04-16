@@ -46,4 +46,4 @@ Here are more tips.
 </ul>
 
 What breakthrough's are you praying for and working on this week?
-<strong>Post written by <a href="http://kevinolega.com/">Kevin Olega</a> connect on <a href="http://twitter.com/kevinolega">twitter</a> and <a href="http://www.facebook.com/kevinolega.blog ">facebook</a><strong>
+

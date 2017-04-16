@@ -21,9 +21,3 @@ categories: [Applicant, Lessons]
 **Will I get assigned to an inbound or outbound account?**
 
 I don’t know. It usually depends on what account is urgent, available and matches your profile. It also varies from company to company. Do you want an inbound based call center job or outbound based call center job?
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

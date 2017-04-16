@@ -83,9 +83,3 @@ More attempts lead to better chances. If you failed your interview the first thr
 There are a few hundred call center companies in Metro Manila alone. Each big center offers a few thousand jobs and every small one offers a minimum of 10 jobs. You’ll never run out of opportunities. 
 
 **Finally..** Whatever the result is remember to say it’s just practice and can do better next time. What can you apply now that will help you start? 
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

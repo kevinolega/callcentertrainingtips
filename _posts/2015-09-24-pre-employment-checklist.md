@@ -119,11 +119,3 @@ Requirements vary from company to company however these are the common minimum r
 Don't sweat it just google "how to get (insert requirement)" and you'll find a site that has instructions. If you've ever taken a job with a company before, chances are you have undergone this process already.
 
 I wish you the best in your job hunt.
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.
-
-[Stay in touch by signing up to my email list](http://eepurl.com/riFT1).

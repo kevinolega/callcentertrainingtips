@@ -28,4 +28,4 @@ Don't imagine metrics as requirements that you need to pass. See it as part of y
 
 Be positive and just do it. Forgive yourself if you suck but don't stop there think of solutions to get better. I believe you can do it. I used to be a problem agent but with the right attitude and the right strategy, you can make a little regular improvement then you'll eventually reach your goals.
 
-Do you like more posts like how to succeed with call center work? Please let me know. Thank you for reading.
+

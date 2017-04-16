@@ -13,9 +13,3 @@ I'm developing a technique you can do at home to work on your shyness. Pull out 
 Have the courage to look at yourself and what you suck at so you can get better. Notice your facial expression. Notice your voice. Notice how you project your message. That'll improve things a bit.
 
 Watch your show and learn to improve your performance. Great artists do this and I'm sure you can too.
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

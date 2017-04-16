@@ -448,11 +448,3 @@ Here are some of my favorites.
 [Job interview tips from a recruiter](http://lifehacker.com/188411/job-interview-tips-from-a-recruiter)
 
 [Resume no-no's](http://lifehacker.com/180816/resume-no-nos)
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.
-
-[Stay in touch by signing up to my email list](http://eepurl.com/riFT1).

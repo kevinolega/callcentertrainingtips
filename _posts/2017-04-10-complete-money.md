@@ -132,12 +132,3 @@ This is going to be a post on how to spend your hard earned call center money ba
 The call center job is a good opportunity to prepare yourself for the higher things in life. Please do not waste it. One day there will be no call center jobs. When it does it will be a little harder. Call center companies pay a little higher than regular jobs that pay minimum wage. Please take advantage of the opportunity. You can be smart with your money and improve your life or you can do stupid things with it and wonder where the money went.
 
 Do you have a wise way to spend call center money? Share it with me and I'll add it here.
-
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.
-
-[Stay in touch by signing up to my email list](http://eepurl.com/riFT1).

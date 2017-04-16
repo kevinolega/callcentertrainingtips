@@ -93,9 +93,3 @@ I thought some superior being who knows exactly what to say or do is before me a
 I'm not sure I need to convince you with this and I can't think of proof but take these thoughts in consideration and try to remember this some other time. Just be interested. I'm just a schmuck who doesn't know what he's doing but I would like to find out more about (insert topic) then I go do it and experiment on it. I guess that's the summary. If you feel insignificant go back to this post or look for other shy people and see what a shy person can do and believe that you can do something awesome as well. 
 
 **Are you also a shy person or a shy person in the past. The floor is yours. Feel free to share with others in the comments below.**
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

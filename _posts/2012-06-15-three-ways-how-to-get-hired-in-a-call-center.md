@@ -28,7 +28,3 @@ Several call center companies are ramping up on a regular basis. That means they
 These are the ones that have worked for me and for other people that I’ve observed that got hired in a call center. 
 
 Do you have a preferred job application method? 
-
-Do you want more of these kinds of posts? Please let me know by sending me a message or hitting like on Facebook. 
-
-This is not a sponsored post so if you read until the end, show your support by buying our books, making a donation, hitting like and sharing this on your wall or to someone who needs it. 

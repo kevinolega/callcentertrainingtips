@@ -27,9 +27,3 @@ If you use uhh, uhmm, ahh before answering questions or between sentences, you g
 Just so you know your goal in an interview is to sound calm and cool in the face of questions that you don't know the answer to. That's the reason why they throw you unexpected questions like what's your favorite good and how would you describe red to a blind person.
 
 Anyways I'll leave it at that. Give it a try. Practice then let me know how it works out for you. Send me a message if you think of better examples. I'll add it to the list.
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

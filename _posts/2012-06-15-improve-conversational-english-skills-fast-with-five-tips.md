@@ -41,9 +41,3 @@ Send me an introduction of yourself and that's good practice. Something like.
 >"Hi my name is Kevin. I live in Paranaque. I currently work as a writer for a website. I spend my free time going to the gym, learning how to cook and draw and whenever I can I go for outdoor activities like cycling and hiking. I don't have a girlfriend because I just got out of a long relationship. I also watch Game of Thrones, Walking Dead, How I Met Your Mother, 2 Broke Girls and anime like  Naruto, Fairy Tail, Log Horizon, Sword Art Online and a whole lot more. I read books by Tim Ferriss, Tony Robins and The Lifehacker blog. I hope I get to meet you some day.""
 
 Or something like that. Let's try it send me a message.
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

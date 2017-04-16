@@ -45,9 +45,3 @@ What I’m trying to say has nothing to do with pretending to be someone you’r
 Would you be willing to let go of stage fright and have fun playing with your celebrity mode?
 
 I've had a lot of fun writing this post. Let me know what you think by sending me a message. Say hi. Heck, say hi in celebrity mode.
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

@@ -25,9 +25,3 @@ I don’t have the full reason from a call center HR but I’m thinking here are
 - They do not need to do a phone interview with a fifty fifty chance of you not showing up to am interview in person if you pass.
 
 The best part is they can process you in one day. It would greatly help you in your application to know if you passed or failed so you can move on with the next one. I’ll write about some strategies on how I walk in soon so I’ll keep you posted. 
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

@@ -29,9 +29,3 @@ It's simple right?
 Your interviewers are also looking for this trait in you because <strong>you will be offering solutions as part of you work in a call center</strong>. A call center job is not one where you just wait for your boss to tell you what to do. Sure there is a script but you still have to offer solutions on a regular basis. Problem solving skills are essential. If you feel that you have bad problem solving skills then now is the time to start solving that problem.
 
 What questions do you have about offering solutions? I'd like to know in the comments below.
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

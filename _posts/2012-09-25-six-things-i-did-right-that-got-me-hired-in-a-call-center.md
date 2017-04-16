@@ -43,9 +43,3 @@ At first we said I wanted to apply as a call center agent. Later the smarter mov
 I had no idea what call center work was until I found out from smoking with call center agents. (I don't recommend you smoke.) If you're a girl make friends in the washroom or something. If you're a non smoker make friends in the applicant's waiting area or so.
 
 Just keep applying ask questions and get better. What are the things that you did right that got you hired in a call center?
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.

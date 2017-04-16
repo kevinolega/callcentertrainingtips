@@ -53,9 +53,3 @@ Each job helps me gain confidence. A CEO or Manager trusted me enough to pay me 
 I read the Bible, watch anime and movies. I like stories that will encourage me to move forward, even if it doesn't look good at the beginning. I'd rather find a way than just give up. Myths, are simplified ways of explaining things. It's a story of a struggle and how to overcome it with faith and action. Our lives mirror these stories and it makes things enjoyable. 
 
 We may never meet but I'm happy I get to contribute to you through my writing. Thank you for your attention.
-
-Do you want more of these kinds of posts? Please let me know by sending me a message. I'll do my best to answer when I'm online.
-
-This is not a sponsored post so if you read until the end, show your love and support. [Buy our books](http://callcentertrainingtips.com/promos/).  [Make a donation](http://callcentertrainingtips.com/support/) to keep this site alive. Subscribe on [Facebook](https://www.facebook.com/callcentertrainingtips/) and [YouTube](https://www.youtube.com/channel/UCSRyiovg_InMdQAe7Fn0LtA). When you're done, share this with your friends. 
-
-Thank you for reading. If I can do it, you can do it. Praying for your success.
