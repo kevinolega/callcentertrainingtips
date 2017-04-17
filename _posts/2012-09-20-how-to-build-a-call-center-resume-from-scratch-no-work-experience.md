@@ -4,10 +4,10 @@ title: How to Build a Call Center Resume From Scratch No Work Experience
 date: 2012-09-20 12:50
 author: Kevin Olega
 comments: true
-permalink: /how-to-build-a-resume-from-scratch-no-work-experience/
+permalink: /how-to-build-a-call-center-resume-from-scratch-no-work-experience/
 categories: [Activity, Applicant, Lessons]
 ---
-Since I get a lot of questions on how to build a resume from scratch <a href="https://dl.dropboxusercontent.com/u/4112874/KevinOlegaResumeNoWorkExperience.pdf">I created a sample resume that you can use</a>.
+Since I get a lot of questions on how to build a resume from scratch I created a [sample resume that you can use<](https://www.evernote.com/l/AI5b2_jFRg5BYbHXWJkLvs5STS9EjsNbh2o).
 
 I also added comments to each part so be sure to read my notes.
 
