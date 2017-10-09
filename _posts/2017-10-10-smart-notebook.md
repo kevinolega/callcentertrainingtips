@@ -32,7 +32,7 @@ If you do this everyday and do five instead of the minimum 2-3 you'll fill your 
 
 #### Step 3: 
 
-Review your notes.
+Review your notes. Writing things down helps you remember but reading enables you to continue learning.
 
 ### Can't think of what to write?
 
