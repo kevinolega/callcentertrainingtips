@@ -29,6 +29,13 @@ Write down two to three lines of lessons a day, every day.
 
 If you do this everyday and do five instead of the minimum 2-3 you'll fill your notebook in six months.
 
+
+#### Step 3: 
+
+Review your notes.
+
+### Can't think of what to write?
+
 The lessons you have to write down doesn't need to be profound.
 
 Think about simple changes and small improvements can make your life better over time.
@@ -80,4 +87,4 @@ All you need to do is write two or three lines every day.
 
 Do something smart and just apply this.
 
-Remember that success is the result of what you do consistently and not what you do occassionally.
+Remember that success is the result of what you do consistently and not what you do occasionally.
