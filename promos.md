@@ -24,15 +24,11 @@ The book comes with **Unlimited Chat support and Email Support for questions and
 
 So there are three options. The book is bundled with some training and job hunting assistance.  
 
-**Option 1:** Php 1,499 book, email lessons and activities, 8 hours of phone lessons (Globe/Landline/Skype), unlimited chat support, interview practice, job assistance, lifetime career coaching. 
+**Option 1:Basic** Php 600 book and access to online course that includes email lessons, activities, phone lessons (Globe/Landline/Skype), chat support, interview practice, job assistance, lifetime career coaching.
 
-**Option 2:** Php 799 book, 30 days of email lessons and activities, 5 hours phone lessons, unlimited chat support, interview practice, job assistance. 
+The book is in smartphone format and also printable. 
 
-**Option 3:** Php 399 book unlimited chat support, 2 hours phone lessons, 14 days email lessons, job assistance.
-
-The book is in digital format and easily printable. If you want me to print it and send it to you, additional fees will apply.
-
-Payments are made via BPI bank deposit. If you're interested, let me know which option, I'll send you the bank details.
+Payments are made via BPI bank deposit. If you're interested, let me, I'll send you the bank details.
 
 
 **English Tutorial Service**

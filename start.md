@@ -236,17 +236,17 @@ I'm also selling a book.
 
 It's a printable, digital copy. Mobile ebook now available.
 
-**Budget Version** is Php 199 and comes with: 
+**Budget Version** is Php 599 and comes with: 
 - Book
 - unlimited chat support.
 
-**Sulit Version** is Php 399 and comes with: 
+**Sulit Version** is Php 999 and comes with: 
 - Online lessons and activities
 - How to Pass Call Center Training
 - One hour of phone coaching and lessons 
 - unlimited chat support.
 
-**VIP Version** is Php 499 and comes with: 
+**VIP Version** is Php 1499 and comes with: 
 - Additional online lessons and activities
 - Three hours of phone coaching and lessons
 - Guaranteed Job Assistance

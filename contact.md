@@ -6,7 +6,7 @@ permalink: /contact/
 ---
 Thank you for visiting my website. Here are the best ways to contact me.
 
-1. Send an email to call center training tips at gmail dot com.
+1. [Click here to ask a question](https://goo.gl/forms/rJ1AjY5Oon6dZtg42).
 2. [Join the community by liking my page on facebook then send me a message](https://www.facebook.com/callcentertrainingtips).
 3. Join my mailing list for updates.
 ***
