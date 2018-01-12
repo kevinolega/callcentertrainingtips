@@ -228,7 +228,7 @@ Our relationship doesn't end when you get hired. I've written some tips on how t
 - [How to Pass Call Center Training](http://callcentertrainingtips.com/how-to-pass-call-center-training/)
 - [How to Use Call Center Money To Improve Your Life](http://callcentertrainingtips.com/call-center-money/)
 
-**Updated:10/19/2016**
+**Updated:1/13/2017**
 
 I'm also selling a book. 
 
@@ -236,29 +236,9 @@ I'm also selling a book.
 
 It's a printable, digital copy. Mobile ebook now available.
 
-**Budget Version** is Php 599 and comes with: 
-- Book
-- unlimited chat support.
-
-**Sulit Version** is Php 999 and comes with: 
-- Online lessons and activities
-- How to Pass Call Center Training
-- One hour of phone coaching and lessons 
-- unlimited chat support.
-
-**VIP Version** is Php 1499 and comes with: 
-- Additional online lessons and activities
-- Three hours of phone coaching and lessons
-- Guaranteed Job Assistance
-- Resume Assistance
-- How to Pass Call Center Training 
-- Application Coaching and Strategy
-- How to become Top Agent
-- Confidence building sessions
-- Lifetime VIP status.
-- Unlimited chat support.
-
 Payments are received through BPI, BDO and Paypal.
 
-Please inquire by sending an email or a Facebook message.
+[Click here to buy the book.](https://goo.gl/forms/M1MbBbdhieN7Ouvc2)
+
+
 

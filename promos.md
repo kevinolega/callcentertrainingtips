@@ -28,8 +28,9 @@ So there are three options. The book is bundled with some training and job hunti
 
 The book is in smartphone format and also printable. 
 
-Payments are made via BPI bank deposit. If you're interested, let me, I'll send you the bank details.
+Payments are made via BPI bank deposit. If you're interested, let me know, I'll send you the bank details.
 
+[Click here to buy my book.](https://goo.gl/forms/M1MbBbdhieN7Ouvc2)
 
 **English Tutorial Service**
 
