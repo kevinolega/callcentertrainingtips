@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Count Your Blessings.
+title: Count Your Blessings
 date: 2018-03-04 09:56
 permalink: /count-blessings/ 
 author: Kevin Olega 
