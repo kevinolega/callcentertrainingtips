@@ -38,6 +38,19 @@ I probably have written my introduction a few hundred times until I came up with
 
 I'd probably have a better answer if I try to write it again but you probably already get the idea.
 
+2. When I go out and hang out with someone new, I ask them to tell me stuff about them. They usually have no answer.
+
+
+When I ask them what they're interested in, it's usually vague, unclear or they're unable to express themselves.
+
+As a result I'm usually bored.
+
+Alternatively, people who have an answer to my getting to know you questions are a hundred times more interesting to me.
+
+It's the same in an interview situation.
+
+I've been interviewed, I've also interviewed people.
+
 Let me teach you something really cool.
 
 Get your notebook.
