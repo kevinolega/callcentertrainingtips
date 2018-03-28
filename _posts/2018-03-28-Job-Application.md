@@ -10,7 +10,7 @@ author: Kevin Olega
 - How to enter the call center
 - Walk in applications are the fastest way to get hired in a call center
 - 15 Tips for walk in applications
-- November is the best month to apply
+- Why November is the best month to apply
 - Ten tips on how to get hired in a call center this week
 - How to guarantee that each interview you go to will move you one step closer to getting hired in a call center
 - Bonus Tip: How to Get Hired in 30 Days or less
@@ -135,6 +135,23 @@ We don’t always make it on our first try. Luckily, the more attempts we make, 
 **Bring your list**. 
 
 In the home work, I asked you to make a list of things you’re proud of and a list of weaknesses you want to overcome. Read your list as you arrive at the Call Center Interview Site. Your list will help you answer the usual interview questions in a way that you’re uniquely you and at the same time, not boring your interviewer by copying somebody’s answer.
+
+### Why November is the best month to apply in a call center
+
+Welcome November! This is what I believe to be the best time to get hired in a call center. If you've been on the fence not sure when to make the jump and apply this is the month for it. November and December are the best days to look for work in general.
+
+A lot of people who are employed wouldn't want to switch because they are waiting for their thirteenth month pay and so on.
+
+First reason is nobody wants to leave their company because they're waiting for the 13th month pay. Second reason is nobody wants to work on applying because they are on vacation mode already.
+
+Because, everyone else is on vacation mode. Nobody wants to apply and look for work in these months. Everyone who's unemployed wouldn't miss this opportunity for the world. Maybe that's a bit exaggerated.
+
+But what's in this for you?
+
+Less competition. Not a lot of people are looking for work. Recruiters are working their butts of to hit their quota. You showing up to an interview will appear more like a blessing for them and if you did your homework well then it will surely be a blessing for them and for you.
+
+How will you take advantage of this opportunity?
+
 
 ### Additional Tips to Make Your Call Center Application Experience Fun:
 
