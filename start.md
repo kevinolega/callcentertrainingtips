@@ -165,7 +165,6 @@ My answer or whatever you are waiting for won"t bring you closer to your goals. 
 If you need help with your interview skills.
 
 - [Call Center Interview Questions and Suggested Answers](http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers)
-- [Call Center Job Application Requirements](http://callcentertrainingtips.com/call-center-job-application-requirements)
 - [How to Answer Call Center Interview Questions](http://callcentertrainingtips.com/answer-questions/)
 - [Avoid Fillers and Answer Every Question with Delaying Tactics](http://callcentertrainingtips.com/avoid-fillers-and-answer-every-question-with-delaying-tactics/)
 - [Call Center Job Interview Preparation Questions](http://callcentertrainingtips.com/call-center-job-interview-preparation-questions/)
