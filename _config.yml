@@ -42,5 +42,6 @@ sass:
 exclude:
 - README.md
 
+paginate: 40
 
 gems: [jekyll-seo-tag, jekyll-paginate]

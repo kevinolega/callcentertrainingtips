@@ -145,7 +145,6 @@ My answer or whatever you are waiting for won"t bring you closer to your goals. 
 
 - [Call Center Interview Questions and Suggested Answers](http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers)
 - [How to Write a Resume for Call Center Application](http://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/ "How to Write a Resume for Call Center Application")
-- [Ten Tips to Get Hired in a Call Center This Week.](http://callcentertrainingtips.com/ten-tips-to-get-hired-in-a-call-center-this-week/ "Ten Tips to Get Hired in a Call Center This Week.")
 - [27 Tips to Help You Get Hired In a Call Center](http://callcentertrainingtips.com/27-tips-to-help-you-get-hired-in-a-call-center/ "27 Tips to Help You Get Hired In a Call Center")
 
 #### Call Center Interview Tips
@@ -186,7 +185,6 @@ Confidence is important. The lack of confidence is the most common reason why pe
 
 If you're not getting hired, here are some general Call Call Center Job Application Tips
 
-- [Tips For Walk In Call Center Applications](http://callcentertrainingtips.com/tips-for-walk-in-call-center-applications/)
 - [27 Tips to Help You Get Hired In a Call Center](http://callcentertrainingtips.com/27-tips-to-help-you-get-hired-in-a-call-center/)
 
 
