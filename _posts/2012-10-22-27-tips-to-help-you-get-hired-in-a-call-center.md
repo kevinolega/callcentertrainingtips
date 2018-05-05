@@ -6,7 +6,7 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-Last Friday was my birthday. I turned 27. This year, I'm writing 27 tips on each of [my topic specific blogs](”http://kevinolega.com”). Here are 27 tips to help you get hired in a call center. I suggest you pick one or two tips and try it out until it is a part of you. Come back to this post to learn more and get better.
+Last Friday was my birthday. I turned 27. This year, I'm writing 27 tips on each of [my topic specific blogs](http://kevinolega.com). Here are 27 tips to help you get hired in a call center. I suggest you pick one or two tips and try it out until it is a part of you. Come back to this post to learn more and get better.
 
 **1. Smile** - A smile can be heard over the phone. How the heck is that? You sound better when you smile. You also look better if you smile. Smile a lot. Especially in difficult situations.
 **2. Listen well** - When you get hired, your job will be to listen to client concerns, process requests and recommend solutions to problems. Your listening skills will influence your answers. If you misunderstood the instruction or question that will mean that your next action or recommendation might not be the right one. Learn to listen.

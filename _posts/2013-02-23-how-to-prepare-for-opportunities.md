@@ -39,7 +39,7 @@ What resources do you lack right now and what are the solutions?
 
 **Time**-compute how many hours a day you spend on Facebook, TV or on drinking sessions. Omit as much time as you need so you can spend more time on what matters. 
 
-**Skills**-start reading about the skill you want to learn online for free. As interest increases, consider buying a book or [paying someone to teach you the skill](http://callcentertrainingtips.com/services). Start small and practice everyday. 
+**Skills**-start reading about the skill you want to learn online for free. As interest increases, consider buying a book or paying someone to teach you the skill. Start small and practice everyday. 
 
 **Connections**- spend more time with people who have what you want and learn from them. I have friends who speak in English all the time so I spent more time hanging out with them.
 

@@ -44,7 +44,7 @@ If you're a shy person who would like to move forward with what you want in life
 
 I recently learned that if you share your goals with others, you risk being acknowledged and as a result lose the willpower to make that goal a reality. So I decided to ditch telling people about my goals and just go after it. 
 
-I even wrote a post about that on [my personal blog](http://kevinolega.com/why-keep-goals-secret/). 
+I even wrote a post about that on [my personal blog](http://minimalchanges.com/why-keep-goals-secret/). 
 
 **2. Go after what excites you.** 
 

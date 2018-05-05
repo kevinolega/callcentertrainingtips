@@ -28,7 +28,7 @@ If you get these freebies, we both get a benefit.
 
 - **[Create a Dropbox account so we both get free 500mb online storage](https://db.tt/vTWX3Qpf)**. This is perfect for saving your resume, having a private backup of your photos and files that you can access from any computer. 
 - **[Create an Uber account so we both get free rides](https://www.uber.com/invite/kevino1009)**. Uber is better than taking a taxi. Install both Uber and Grab and you never need to buy a car in the city.
-- **[Create a Grab account and we both get a Php 40 discount](https://invite.grab.co/2ED97C)**. Grab is an alternate to uber and beats taking a taxi. Install both Uber and Grab and you never need to buy a car in the city.
+- **[Create a Grab account and we both get a Php 40 discount](https://r.grab.com/grabkevinolega)**. Grab is an alternate to uber and beats taking a taxi. Install both Uber and Grab and you never need to buy a car in the city. Use the code: GRABKEVINOLEGA
 - **[Buy from my Online Store](http://carousell.com/kevinolega)**. I'm selling some stuff I'm no longer using. If you find something you like, send me a message.
 
 ### How to Get Support

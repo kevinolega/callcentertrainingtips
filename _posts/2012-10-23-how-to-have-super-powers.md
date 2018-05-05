@@ -27,7 +27,7 @@ My ten superpowers.
 
 10.I can make up superpowers. Whenever I want to do something really boring, I create superpowers to help me do it or to excite me to do it.
 
-Bonus: [I can lose 20lbs of fat in thirty days without exercise. More here](http://kevinolega.com/how-i-lost-20-plus-pounds-of-fat-in-thirty-days-without-exercise-warning-contains-nudity-and-too-much-information/).
+Bonus: I can lose 20lbs of fat in thirty days without exercise.
 
 Why is this important?
 

@@ -201,7 +201,7 @@ When you know yourself and you know why they should hire you then confidence wil
 
 #### 7. Speak in English.
 
-They are hiring you because of your ability to solve problems and speak well in English. I know that you can do it. Just practice. Need additional help? Try [celebrity mode](http://callcentertrainingtips.com/how-to-speak-better-at-a-call-center-job-interview-with-celebrity-mode/) or go [sossy mode](http://callcentertrainingtips.com/how-to-sound-better-at-call-center-interviews-with-the-sossy-mode/).
+They are hiring you because of your ability to solve problems and speak well in English. I know that you can do it. Just practice. Need additional help? Try celebrity mode or go sossy mode.
 
 #### 8. Learn from your experience.
 

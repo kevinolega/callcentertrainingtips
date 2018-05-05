@@ -91,3 +91,5 @@ Today's Tragedies are Tomorrow's Comedies - Colin Wright.
 ##### How many times should you apply before getting hired in a call center?
 
 As many times as needed to get hired. Look do not mindlessly do things like you did in school. Treat your job application as you would when, you are playing DOTA, trying to pursue that hot partner of yours, or learning cooking or martial arts or something you are interested in. Be interested and learn what you need to learn. Apply that and get better until you get hired. I'd love to hear your answers. Email away.
+
+You can also checkout [this article](https://www.cleverism.com/tell-me-about-yourself//).

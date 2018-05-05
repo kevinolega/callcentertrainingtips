@@ -139,19 +139,13 @@ My answer or whatever you are waiting for won"t bring you closer to your goals. 
 - [How to Prepare Awesome Answers](http://callcentertrainingtips.com/call-center-job-interview-preparation-questions/)
 - [Call Center Interview Questions](http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers)
 - [Write Your Resume](http://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/)
-- [Walk in and Get Hired Faster](http://callcentertrainingtips.com/tips-for-walk-in-call-center-applications/)
-- [How to Get Hired This Week](http://callcentertrainingtips.com/ten-tips-to-get-hired-in-a-call-center-this-week/)
 
 
 ### Here are some really popular lessons:
 
 - [Call Center Interview Questions and Suggested Answers](http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers)
 - [How to Write a Resume for Call Center Application](http://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/ "How to Write a Resume for Call Center Application")
-- [How I Introduce Myself In A Call Center Application](http://callcentertrainingtips.com/how-i-introduce-myself-in-a-call-center-application/ "How I Introduce Myself In A Call Center Application")
-- [How to Build a Resume From Scratch (No Work Experience)](http://callcentertrainingtips.com/how-to-build-a-resume-from-scratch-no-work-experience/ "How to Build a Resume From Scratch (No Work Experience)")
 - [Ten Tips to Get Hired in a Call Center This Week.](http://callcentertrainingtips.com/ten-tips-to-get-hired-in-a-call-center-this-week/ "Ten Tips to Get Hired in a Call Center This Week.")
-- [Homework For Free Call Center Training](http://callcentertrainingtips.com/homework-for-free-call-center-training/ "Homework For Free Call Center Training")
-- [Call Center Interview 4 Questions About Yourself](http://callcentertrainingtips.com/call-center-interview-4-questions-about-yourself/ "Call Center Interview 4 Questions About Yourself")
 - [27 Tips to Help You Get Hired In a Call Center](http://callcentertrainingtips.com/27-tips-to-help-you-get-hired-in-a-call-center/ "27 Tips to Help You Get Hired In a Call Center")
 
 #### Call Center Interview Tips
@@ -178,7 +172,6 @@ English is a primary skill in a call center. Improve your English with these tip
 
 - [How To Start Improving Your English Skills](http://callcentertrainingtips.com/how-to-start-improving-your-english-skills/)
 - [Examples of Words With Silent Letters](http://callcentertrainingtips.com/examples-of-words-with-silent-letters/)
-- [Improve Conversational English Skills Fast with Five Tips](http://callcentertrainingtips.com/improve-conversational-english-skills-fast-with-five-tips/)
 - [My Pronunciation Cheat Sheet](http://callcentertrainingtips.com/my-pronunciation-cheat-sheet/)
 
 
@@ -204,7 +197,6 @@ Here are some tips about personal development, inspiration and motivation. Succe
 
 - [How To Set Goals](http://callcentertrainingtips.com/how-to-set-goals/)
 - [Ten Small Things That Give Me an Advantage When Looking for Work](http://callcentertrainingtips.com/ten-small-things-that-give-me-an-advantage-when-looking-for-work/)
-- [Ten Embarrassing Call Center Job Application Mistakes I Made](http://callcentertrainingtips.com/ten-embarrassing-call-center-job-application-mistakes-i-made/)
 - [What Can a Shy Person Do](http://callcentertrainingtips.com/what-can-a-shy-person-do/)
 - [Six Things I Did Right - That Got Me Hired In A Call Center](http://callcentertrainingtips.com/six-things-i-did-right-that-got-me-hired-in-a-call-center/)
 - [How to Level Up and Get Hired in a Call Center](http://callcentertrainingtips.com/how-to-level-up-and-get-hired-in-a-call-center/)
@@ -215,9 +207,9 @@ Here are some tips about personal development, inspiration and motivation. Succe
 Our relationship doesn't end when you get hired. I've written some tips on how to succeed in life as a call center agent.
 
 - [How to Pass Call Center Training](http://callcentertrainingtips.com/how-to-pass-call-center-training/)
-- [How to Use Call Center Money To Improve Your Life](http://callcentertrainingtips.com/call-center-money/)
 
-**Updated:1/13/2017**
+
+**Updated:1/13/2018**
 
 I'm also selling a book. 
 
