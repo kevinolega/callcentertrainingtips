@@ -7,7 +7,7 @@ author: Kevin Olega
 --- 
 
 
-The difference between a confident person and a person who is not confent is that with a confident person the words just flow out naturally.
+The difference between a confident person and a person who is not confident is that with a confident person the words just flow out naturally.
 
 The person who is not confident hesitates a lot.
 
@@ -15,7 +15,7 @@ The shortcut to being self confident is being familiar with yourself and enough 
 
 If you're not too familiar with how to introduce yourself and have no idea where to start.
 
-My shortcut is using horroscopes and personality tests.
+My shortcut is using horoscopes and personality tests.
 
 I don't believe in it 100 percent.
 
@@ -29,7 +29,7 @@ What positive traits do you have?
 
 What negative traits do you have?
 
-I colect both the positive and the negative that seems to match me.
+I collect both the positive and the negative that seems to match me.
 
 I use the words that I collected to describe myself, write my stories, work on my weaknesses and more.
 
