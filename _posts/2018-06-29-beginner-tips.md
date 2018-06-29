@@ -102,13 +102,11 @@ I understand how difficult the situation is now that your service is currently n
 
 **Interviewer (Sales):**
 
-One of the most challenging things about sales is how some customers initially not interested that's why in my previous job, we begin by asking our customers questions about what they like about their service provider, then we allow them to talk about it more then we listen to them and allow them to share what they like and eventually they share with us what they would like to change and afterwards we're talking about how they can purchase what we have. 
+One of the most challenging things about sales is how some customers initially are not interested that's why in my previous job, we begin by asking our customers questions about what they like about their service provider, then we allow them to talk about it more then we listen to them and allow them to share what they like and eventually they share with us what they would like to change and afterwards we're talking about how they can purchase what we have. 
 
 **Interviewer (General):**
 
 I used to be a really shy person but I learned from some friends that the pay is really good in this industry. I asked a lot of people, read a lot of books, studied and practiced a lot until I can improve myself. 
-
----
 
 In all these areas practice how you say your words.
 
@@ -138,7 +136,7 @@ You need to build an environment that will guarantee that you can get eight actu
 
 You need to eat well and stay healthy.
 
-In terms of attitude you need to cooperate with your boss and team leardrs.
+In terms of attitude you need to cooperate with your boss and team learders.
 
 You need to have the mindset of a problem solver.
 
@@ -154,7 +152,7 @@ You need to cooperate with the rules.
 
 You need to be attentive and take note of important rules and policies.
 
-You need to continually improve your listening skills and how you phrase your answers to questions you are asked. If you say something that offended a customers always ask yourself how you can say the exact same thing without getting the same response.
+You need to continually improve your listening skills and how you phrase your answers to questions you are asked. If you say something that offended a customers always ask yourself how you can say the exact same thing without getting the same negative response.
 
 Here are common questions that Interviewers usually ask new applicants.
 
@@ -166,9 +164,9 @@ I recommend you review your introduction answers and come up with your own answe
 
 ### 2.) Why are you applying in the call center industry?
 
-I usually try to answer this answer with my introduction but if you were asked this separately here's an example of how I'd answer using as a story..
+I usually try to answer this answer with my introduction but if you were asked this separately here's an example of how I'd answer using a story..
 
-I previously worked for a local company and I discovered from experience that the pay is sometimes not consistent. When I discovered that reputable call center companies pay well and pay on time that had been very exciting for me. I'm also aware that there's a lot of opportunity for advancement if I do well. 
+> "I previously worked for a local company and I discovered from experience that the pay is sometimes not consistent. When I discovered that reputable call center companies pay well and pay on time that had been very exciting for me. I'm also aware that there's a lot of opportunity for advancement if I do well."
 
 If you can't find a job with your particular course it's okay to share this.
 
