@@ -5,7 +5,6 @@ date: 2018-06-29 19:49
 permalink: /beginner/ 
 author: Kevin Olega 
 --- 
-
 Call center interviews are extremely intimidating for beginner applicants and call center newbies.
 
 You need to get the interviewer's approval by communicating confidently and speaking in English well in order to advance in the screening process.
