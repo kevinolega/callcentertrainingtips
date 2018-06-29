@@ -14,7 +14,7 @@ I've been working in the BPO for over ten years and it's important for you to kn
 
 The initial discussion will be to test your communication skills, professionalism and work ethics and finally, character and integrity.
 
-You don't need to reseach about specific companies, instead take the opportunity to ask the interviewer questions about the company.
+You don't need to research about specific companies, instead take the opportunity to ask the interviewer questions about the company.
 
 However with knowledge about yourself, I recommend that you come prepared.
 
@@ -88,7 +88,7 @@ It's important to remember the following when giving instructions.
 
 ### 4. Telling stories
 
-It is important to follow the same rules with instuctions as in stories.
+It is important to follow the same rules with instructions as in stories.
 
 Stories allow you to tell someone what you want to say without telling them directly what you want to say.
 
@@ -144,7 +144,7 @@ You need to have the mindset of a problem solver.
 
 You need to see the positive in every issue.
 
-You need to be emotionally detatched from the job and remain objective.
+You need to be emotionally detached from the job and remain objective.
 
 You need to be careful with your words.
 
@@ -216,7 +216,7 @@ The numbers here change. Here's the thing.
 
 **3-5 years:** I see myself qualifying for a higher position. I'm not really sure how things work in your company but from what I understand from what my friends have shared, if I would do well with my agent position, there are opportunities for internal hiring in different departments as well as higher positions such as team leader, trainer, QA, etc.
 
-**5-10 years:** It's difficult for me to determine how far exactly I'll be able to advance given my lack of knowledge in the call center heirarchy but I imagine that the first two years will be spent mastering my tasks in the agent level and if an opportunity opens, I'll go for the first promotion that I can go for and take it from there.
+**5-10 years:** It's difficult for me to determine how far exactly I'll be able to advance given my lack of knowledge in the call center hierarchy but I imagine that the first two years will be spent mastering my tasks in the agent level and if an opportunity opens, I'll go for the first promotion that I can go for and take it from there.
 
 ### 5.) Do you have any questions for me?
 
