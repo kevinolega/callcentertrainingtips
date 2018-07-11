@@ -5,8 +5,21 @@ date: 2018-07-11 07:43
 permalink: /call-simulation/ 
 author: Kevin Olega 
 --- 
+Call simulation is one of the most intimidating parts of the call center screening process.
 
+If you haven't experienced call simulation, you'll be asked to go to a space like a desk, cubicle or phone booth, put on the headset and wait for the phone to ring. 
 
+In some situations the phone is identical to the standard call center headset, in some situations, it's a regular phone.
+
+In some situations you're just talking to the same interviewer, sometimes it's a recruitment manager, sometimes it's a production team leader, sometimes it's a foreign staff. 
+
+I have once had a call simulation with an American and an Indian manager or client.
+
+In the screening process, call simulation is what most looks like the actual call center work.
+
+The call, will be what you will be doing for work everyday.
+
+When you get hired in a call center, you will be taking calls eight hours a day, five days a week.
 
 Many people report that they fail in the call simulation process. 
 
@@ -14,18 +27,49 @@ The call simulation is a way for the recruiter to check how you handle calls.
 
 To prepare you for the call simulation screening we need to prepare you so you never panic. 
 
+When you know the elements in advance, you will be better prepared.
+
 Here are some rules that we follow during a call.
 
-**Never panic**. You learn to do this by being familiar with the situation. You become familiar with the situation by study and experience. In my case I failed a few times until I understood common patterns. 
+**Never panic**. You learn to do this by being familiar with the situation. You become familiar with the situation by study and experience. In my case I failed a few times until I understood common patterns. Take deep breaths before a call. Smile when you get nervous.
 
 **Never get angry**. The customer is having the worst day of his or her life and only you can fix the problem. The customer is not angry at you. The customer is in pain. Your job is to fix it. 
+
+Here's a tip. Call center agents describe this situation as "angry customer" or "irate customer." In my mind, I replace the word "angry" and "irate" or "upset" with the word "passionate" to describe the situation.
+
+The customer is passionate about getting his service back.
+
+The customer is passionate about getting the best rates from our company.
+
+The customer is passionate about getting his request accomplished today.
+
+The customer is passionate about his desire to speak with a manager.
+
+There's something about the word passionate that puts a smile to my face.
+
+I imagine the actor Antonio Banderas because when he talks, he sounds really angry but he's really passionate.
+
+Whenever I use the word passionate to describe the situation, I'm able to see the customer as someone who is simply passionate about trying to get something done or to get a solution to his or her problem.
+
+This makes the call less serious.
+
+This makes the idea of facing an angry customer less scary.
+
+The customer might raise his or her voice and perhaps use some profanity but that's not because he or she is angry, he is passionate.
+
+You are likely to get offended or upset by someone who is angry but you are also likely to forgive someone who is passionate. 
+
+Adding the word passionate makes a scary call a fun one for me.
+
+This tip had made the senior team leader refer to me as "the super agent" because I had the highest amount of good customer service feedback and the highest amount of sales in the entire account for that day. 
+
+Another tip. Angry customers are customers who will most likely give "feedback about the customer service representative" and how well you handle the call will reflect your customer service score. This is the reason why I love passionate customers. They are responsible for my 20-30% pay increase.
 
 **Use positive phrasing**. Don't say "your package will be delayed by four days." Instead say "In four days you'll get to enjoy your package" The glass is half full not empty. You need to master this because positively phrasing things will allow you to communicate your message without being interrupted by negative emotions. You can learn this. I'm giving you instructions you you can do this yourself. Is a lot better than. You suck. 
 
 **Use simple words**. College English with five syllable words that nobody but intellectual snobs use anyone? No thanks. Use the simplest words that you can. 
 
 **Say it with a smile**. Your smile can be heard over the phone. 
-
 
 **Speak loud and clear**. You're projecting your voice to be heard in another country. Speak loud and clear. We're not in school anymore passing test answers with our classmates. Seriously, speak loud and clear. Practice it. You need to be heard and understood. Inhale before you speak and increase the volume louder than you're used to especially if you're a shy person like me. 
 
@@ -34,6 +78,8 @@ Here are some rules that we follow during a call.
 
 
 **Use common sense**. Only say what is needed and nothing more. Your goal is to get to a resolution or the next step as quickly as possible. 
+
+**Think solutions not excuses**
 
 
 ### Elements of an Inbound Customer Service Call
@@ -139,4 +185,3 @@ You can customize the spiel by always asking yourself "How can I say it better?"
 Understand each element and practice using them. 
 
 Practice with a friend with good English or someone who knows customer service procedure.
-
