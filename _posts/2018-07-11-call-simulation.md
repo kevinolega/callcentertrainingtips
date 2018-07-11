@@ -31,9 +31,23 @@ When you know the elements in advance, you will be better prepared.
 
 Here are some rules that we follow during a call.
 
-**Never panic**. You learn to do this by being familiar with the situation. You become familiar with the situation by study and experience. In my case I failed a few times until I understood common patterns. Take deep breaths before a call. Smile when you get nervous.
+**Never panic**. 
 
-**Never get angry**. The customer is having the worst day of his or her life and only you can fix the problem. The customer is not angry at you. The customer is in pain. Your job is to fix it. 
+You learn to do this by being familiar with the situation. You become familiar with the situation by study and experience. In my case I failed a few times until I understood common patterns. Take deep breaths before a call. Smile when you get nervous.
+
+**Never get angry**. 
+
+In a customer service situation, some customers will love you.
+
+Some customers will hate you.
+
+Some customers aren't emotionally involved in a call. 
+
+Whatever the situation is,
+
+Never get angry at the customer. 
+
+The customer is having the worst day of his or her life and only you can fix the problem. The customer is not angry at you. The customer is in pain. Your job is to fix it. 
 
 Here's a tip. Call center agents describe this situation as "angry customer" or "irate customer." In my mind, I replace the word "angry" and "irate" or "upset" with the word "passionate" to describe the situation.
 
