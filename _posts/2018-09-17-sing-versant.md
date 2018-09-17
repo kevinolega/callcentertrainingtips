@@ -31,15 +31,15 @@ Newsflash!
 
 This is the DUMBEST advice that I have heard.
 
-The versant is a screening process in many BPO companies.
+The Versant is a screening process in many BPO companies.
 
-The primary purpose is to check your English Skills as well as the quality of your voice  through the microphone because if you're applying for call center work, you are going to wear a headset eight hours a day, five days a week for the rest of your call center career talking to Americans during the Evening and Graveyard shift Manila time and that includes weekends and holidays.
+The primary purpose is to check your English skills as well as the quality of your voice  through the microphone because if you're applying for call center work, you are going to wear a headset eight hours a day, five days a week for the rest of your call center career talking to Americans during the Evening and Graveyard shift Manila time and that includes weekends and holidays.
 
 That said, they want to make sure you sound okay over the microphone.
 
 Now if the Versant test is your biggest fear about the screening process, then  Versant is the least of your problems. 
 
-Most people blame versant test why they fail in a call center.
+Most people blame the Versant test why they fail in a call center.
 
 The biggest problem of people is speaking in English correctly and confidently. 
 
@@ -50,7 +50,7 @@ Bad recoding?
 If the recruiter established that you are great at speaking in English, you are confident, you speak well and are professional in the initial interview, then you fail the Versant test, one of these two things will happen.
 
 1. The recording was bad because of a hardware problem. The mic is probably broken and you'll be asked to repeat the Versant test.
-2. The recruiter will just ignore the Versant  results and still hire you.
+2. The recruiter, thinking that this is the problem is the headset, will think that a repeat of the Versant test is a waste of time because you speak well, will just ignore the Versant  results and still hire you.
 
 ## How to Pass the Versant Exam
 
