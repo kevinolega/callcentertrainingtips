@@ -41,16 +41,20 @@ _Note: I don't tell them too much. If I'm in the interview I wait for them to as
 
 ### Why Do You Want To Work In A Call Center?
 
+Why Do You Want To Work In A Call Center?
 - I enjoy talking on the phone.
-- I don't mind working at night. In fact working at night is to my advantage.
+- I don’t mind working at night. In fact, working at night is to my advantage.
 - I know that call center jobs pay higher than regular companies.
-- I know that well known companies provide good benefits, even to entry level employees. - I know that well known call center companies pay on time.
-- I know that call center work is not for everyone and a lot of people the job, that means a higher chance of career advancement opportunities.
-- I speak English well. "Laway lang ang puhunan." It's a talking job.
+- I know that reputable companies provide good benefits, even to entry level employees. 
+- I know that well-known call center companies pay on time.
+- I know that call center work is not for everyone and a lot of people quit the job, that means a higher chance of career advancement and opportunities.
+- I speak English well. “Laway lang ang puhunan.” It’s a talking job.
 - I enjoy solving problems.
-- I like the fact that although everyone can get hired potentially in a call center not everyone will. The job requires creativity, confidence and determination. You don't have all three you're out.
+- I like the fact that although everyone can get hired potentially in a call center not everyone will stay in the company long term. I know myself very well and I'm the type of person who sticks around when things get tough. 
+- The job requires creativity, confidence and determination. If you don’t have all three you’re out. Fortunately, after many failures and difficulties, I have developed all three traits and I'm 100% that I can give you great value for your investment.
+ 
+Note: Some of my answers are negative. Some of my answers are positive. I start with what I get from working in a call center because that’s the truth. We all work for money. Call centers pay well. They know it and we know it. Giving answers like to make a contribution to the organization comes off as phony or plastic. Here’s how I talk about why I want to work in a Call Center:
 
-_Note: Some of my answers are negative. Some of my answers are positive. I start with what I get from working in a call center because that's the truth. We all work for money. Call centers pay well. They know it and we know it. Giving answers like to make a contribution to the organization comes off as phoney or plastic._ **Here's how I talk about why I want to work in a Call Center:**
 
 > "I want to work in a call center because I know that good call center companies have a reputation to pay well, the benefits are good, they pay on time and there are opportunities for advancement."
 
