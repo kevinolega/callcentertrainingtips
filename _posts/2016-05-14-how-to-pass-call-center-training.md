@@ -9,6 +9,7 @@ categories: [Lessons]
 I often get a message that goes something like this.
 
 > Dear Kevin, 
+> 
 > Thank you for the tips. It helped increase my confidence and I passed both my initial and final interview. We are about to undergo training next week. 
 >
 > Thank you so much. 
