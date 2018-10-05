@@ -4,22 +4,47 @@ title: Start Here
 author: Kevin Olega
 permalink: /start/
 ---
-
 Hi there!
 
 If you’re new here, my name is Kevin and I write the lessons and maintain this site.
 
+I'm the number one Call Center Job Hunting Assistance writer in the Philippines.
+
+I pay 100% of the website hosting, yearly domain registration, web tools, hardware and sofware needed to maintain the blog using my own money.
+
+I've been helping people get hired in a call center since 2005. That's thirteen years if you haven't considered the math.
+
 If you haven't already, [send me a message to say hi][1]!
 
-You can also join the small [training community][2] and follow my [Facebook page][3] and you can message me there. We can be Facebook buddies.
+I answer every question I receive on text, messenger, email or calls.
 
-I would love it if you [sign up as an email subscriber][4]. That way I can send you a message and send you new lessons on my site.
+I give out free reviewers to people you request them.
+
+In fact, this page is actually part of a free reviewer.
+
+I share my lessons for free on my website. If you check the list, it's all here.
+
+I share some of my best lessons on Facebook for people who only have free Facebook data on my [training community][2] and [Facebook page][3].
+
+I send updates, lessons, tips, special deals and opportunities to people who give me their email address.
+
+[You can send me your email address here][4]. 
 
 My blog contains every lesson I’ve written.
 
+In terms of training I offer an intensive training package for a Php 1,500 and free self-study training through this blog.
+
 There are hundreds of hours worth of lessons and activities that you can read and learn from.
 
-In terms of training I offer an intensive training package for a Php 500 and free self-study training through this blog.
+That being said, I only help people who have a strong commitment to succeed. 
+
+BPO work pays more than the usual Filipino companies because the work is tough.
+
+You need to be physically, mentally and emotionally strong.
+
+If you're not all three or not commited to become the person you need to be to succeed, then helping you is a waste of time.
+
+I charge Php 1,500 for people who want to participate in my online training and private lessons and everyone I have guided have experienced improvements that moved them forward in their career.
 
 I put this together because call center schools and call center training programs don't help people get better at English.
 
@@ -199,7 +224,6 @@ Confidence is important. The lack of confidence is the most common reason why pe
 If you're not getting hired, here are some general Call Call Center Job Application Tips
 
 - [27 Tips to Help You Get Hired In a Call Center][26]
-
 
 
 #### Call Center Success
