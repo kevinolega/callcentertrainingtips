@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Answering Surveys
+title: Know Yourself Better By Answering Surveys
 date: 2018-10-09 02:57
 permalink: /answering-surveys-2018/ 
 author: Kevin Olega 
@@ -45,7 +45,11 @@ Please write what comes to your mind as soon as you read the quetion, no overthi
 
 **9.) If given a choice to restart your life say 10 yrs back, would you? Why?**
 
-End of questionaire.
+End of questionaire. 
+
+Copy up to here if you'd like to take these questions for a spin. 
+
+Leave a comment with your answers or send me a private message if you'd like to share your answers with me.
 
 ---
 
