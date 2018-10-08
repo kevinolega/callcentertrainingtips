@@ -7,6 +7,50 @@ author: Kevin Olega
 --- 
 A friend sent me a list of questions last year. I answered and thought it would be great to answer these again this year to see how much I changed.
 
+I made two sections on this post, part one contains only the questions for if you want to answer these questions yourself and part two contains my answers.
+
+**Instructions:**
+
+Please write what comes to your mind as soon as you read the quetion, no overthinking.
+
+**1.) What do you do for work?**
+
+
+
+**2.) Are you happy with work, why or why not?**
+
+
+
+**3.) In general, are you happy with the way your life is going right now, why or why not?**
+
+
+
+**4.) Can you say you are satisfied with what you have or the way your life is playing out, why or why not?**
+
+
+**5.) If you can change something in your life, what would it be and why do you want to change it?**
+
+
+
+**6.) How do you see yourself in 5 yrs from now?**
+
+
+
+**7.) Given a chance, what else would you like to pursue?**
+
+
+
+**8.) Any complaints you have in your life right now? Why?**
+
+
+**9.) If given a choice to restart your life say 10 yrs back, would you? Why?**
+
+End of questionaire.
+
+---
+
+## This Secton Contains My Answers
+
 **Instructions:**
 
 Pls write what comes to your mind as soon as you read the quetion, no overthinking.
@@ -78,9 +122,9 @@ However the range of our influence is limited compared to our ideals despite our
 
 **6.) How do you see yourself in 5 yrs from now?**
 
-Either dead or struggling to stay alive. I
+Either dead or struggling to stay alive. 
 
- don't think I have a different answer for this question this year.
+I don't think I have a different answer for this question this year.
 
 **7.) Given a chance, what else would you like to pursue?**
 
@@ -117,4 +161,5 @@ The process of death fuels the growth of the people who are alive.
 So I'm 50/50 about stopping people from dying. 
 
 Heck, I look forward to dying. I have to admit, I'm afraid to die, I'll probably struggle to survive but I don't cling to life or anything else as much as I did in the past. 
+
 
