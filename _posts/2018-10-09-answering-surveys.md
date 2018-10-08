@@ -40,7 +40,7 @@ I lost my previous job in the worst possible way, my Dad died and all the shit t
 
 I'm just responding to a lot of situations with silence and things turn out well.
 
-4.) Can you say you are satisfied with what you have or the way your life is playing out, why or why not?
+**4.) Can you say you are satisfied with what you have or the way your life is playing out, why or why not?**
 
 It's a mix of good and bad but for some reason I can't put into words, I conclude that everything is perfect the way it is.
 
@@ -50,7 +50,7 @@ Whenever I call upon my logical mind, the conclusion is, I have no right to comp
 
 Challenges develop your problem solving skills and if you're the type person who is pursuing wealth, health and happiness, problem solving skills are a key element to the attainment of these pursuits.
 
-5.) If you can change something in your life, what would it be and why do you want to change it?
+**5.) If you can change something in your life, what would it be and why do you want to change it?**
 
 I'd probably kiss more girls on the first date. 
 
@@ -67,8 +67,6 @@ I only help people closer to my circle and I don't over extend myself.
 I say no every now and then and discovered that people won't hate me for not being able to help. 
 
 People understand. When it rains everyone gets wet. They have problems. I have my problems. 
-
-
 
 If my hands are full, I won't help. If I have a free hand, Ill offer help. 
 
