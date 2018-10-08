@@ -11,7 +11,7 @@ I made two sections on this post, part one contains only the questions for if yo
 
 **Instructions:**
 
-Please write what comes to your mind as soon as you read the quetion, no overthinking.
+Please write what comes to your mind as soon as you read the question, no over thinking.
 
 **1.) What do you do for work?**
 
@@ -45,7 +45,7 @@ Please write what comes to your mind as soon as you read the quetion, no overthi
 
 **9.) If given a choice to restart your life say 10 yrs back, would you? Why?**
 
-End of questionaire. 
+End of questionnaire. 
 
 Copy up to here if you'd like to take these questions for a spin. 
 
@@ -53,11 +53,11 @@ Leave a comment with your answers or send me a private message if you'd like to 
 
 ---
 
-## This Secton Contains My Answers
+## This Section Contains My Answers
 
 **Instructions:**
 
-Pls write what comes to your mind as soon as you read the quetion, no overthinking.
+Please write what comes to your mind as soon as you read the question, no over thinking.
 
 **1.) What do you do for work?**
 
@@ -84,7 +84,7 @@ Same answer as last year.
 
 The funny thing is I have bigger problems this year. 
 
-I lost my previous job in the worst possible way, my Dad died and all the shit that came with it, I lost my income for several months, used up my savings, maxed out my credit cards, and the local collections company decided to get my credit cards cancelled, a few months later, my girlfriend's mom was hospitalized for almost three months, I also experienced a reccurrence of my depression, despite all this, I'm in the same state. 
+I lost my previous job in the worst possible way, my Dad died and all the shit that came with it, I lost my income for several months, used up my savings, maxed out my credit cards, and the local collections company decided to get my credit cards canceled, a few months later, my girlfriend's mom was hospitalized for almost three months, I also experienced a recurrence of my depression, despite all this, I'm in the same state. 
 
 I'm just responding to a lot of situations with silence and things turn out well.
 
