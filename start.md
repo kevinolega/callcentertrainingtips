@@ -46,9 +46,13 @@ If you're not all three or not commited to become the person you need to be to s
 
 I charge Php 1,500 for people who want to participate in my online training and private lessons and everyone I have guided have experienced improvements that moved them forward in their career.
 
+With my help, you can become the hero of your family.
+
+You will become the kind of person that you want and look up to.
+
 I put this together because call center schools and call center training programs don't help people get better at English.
 
-My training methods work because it incorporates the best practices from the best teachers I have accumulated for over 10 years.
+My training methods work because it incorporates the best practices from the best teachers that I have accumulated for over 10 years.
 
 I have used accelerated learning techniques that will allow you to learn and apply the lessons faster than any class that you can take.
 
@@ -244,9 +248,9 @@ Our relationship doesn't end when you get hired. I've written some tips on how t
 - [How to Pass Call Center Training][32]
 
 
-**Updated:1/13/2018**
+**Updated:11/11/2018**
 
-I'm also selling a book. 
+I'm also selling a training package that comes with a book. 
 
 **A Shy Person's Guide on How to Get Hired in a Call Center** by Kevin Olega. 
 
@@ -254,7 +258,9 @@ It's a printable, digital copy. Mobile ebook now available.
 
 Payments are received through BPI, BDO and Paypal.
 
-[Click here to buy the book.][33]
+Training is done over the phone or in person if you live in the Parañaque and Muntinlupa area.
+
+[Click here to buy the training package.][33]
 
 
 
