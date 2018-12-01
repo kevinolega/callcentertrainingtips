@@ -2,7 +2,7 @@
 layout: post 
 title: How to Connect With Your Interviewer
 date: 2018-12-01 12:18
-permalink: // 
+permalink: /connect-interviewer/ 
 author: Kevin Olega 
 --- 
 This post doesn't have an intro but the tips will help you get hired.
