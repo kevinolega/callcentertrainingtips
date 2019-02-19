@@ -32,9 +32,9 @@ I send updates, lessons, tips, special deals and opportunities to people who giv
 
 My blog contains every lesson I’ve written.
 
-In terms of training I offer an intensive training package for a Php 1,500 and free self-study training through this blog.
+In terms of training I offer an intensive training package for a Php 2,500 and free self-study training through this blog.
 
-There are hundreds of hours worth of lessons and activities that you can read and learn from.
+This website is a library of hundreds of hours worth of lessons and activities that you can read and learn from.
 
 That being said, I only help people who have a strong commitment to succeed. 
 
@@ -44,7 +44,7 @@ You need to be physically, mentally and emotionally strong.
 
 If you're not all three or not commited to become the person you need to be to succeed, then helping you is a waste of time.
 
-I charge Php 1,500 for people who want to participate in my online training and private lessons and everyone I have guided have experienced improvements that moved them forward in their career.
+I charge Php 2,500 for people who want to participate in my online training and private lessons and everyone I have guided have experienced improvements that moved them forward in their career.
 
 With my help, you can become the hero of your family.
 
@@ -248,9 +248,11 @@ Our relationship doesn't end when you get hired. I've written some tips on how t
 - [How to Pass Call Center Training][32]
 
 
-**Updated:11/11/2018**
+**Last update: Tuesday, February 19, 2019**
 
-I'm also selling a training package that comes with a book. 
+I'm also selling a training package that comes with a book. It costs Php 2,500.
+
+It comes with a book, online activities and twelve coaching sessions with me. 
 
 **A Shy Person's Guide on How to Get Hired in a Call Center** by Kevin Olega. 
 
