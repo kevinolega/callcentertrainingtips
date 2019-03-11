@@ -2,7 +2,7 @@
 layout: page
 title: Part 2: Call Center Success Secrets and Mindset
 author: Kevin Olega
-permalink: /second/
+permalink: /workingsecond/
 ---
 
 WORKING ON PART TWO

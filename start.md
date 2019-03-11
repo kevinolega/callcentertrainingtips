@@ -777,11 +777,14 @@ Here's the video version.
 Thank you for reading this far.
 
 If you want more lessons, go to my facebook page and send me another message. Tell me:
-1. I am done reading the reviewer.
-2. My favorite lesson is.
-3. Please send me part two.
 
-If you enjoyed reading this, please share what you learned on the facebook page.
+1. I am done reading the reviewer.
+2. My favorite lesson is...
+3. Please send me part two.
+4. Join the [Facebook Group](https://web.facebook.com/groups/247824095581789)
+
+If you enjoyed reading this, please share what you learned on the a Facebook page and group.
+
 
 [1]:	http://callcentertrainingtips.com/contact/
 [2]:	https://www.facebook.com/profile.php?id=247824095581789&ref=br_rs
