@@ -5,7 +5,7 @@ date: 2018-03-29 17:20
 permalink: /podcasts/ 
 author: Kevin Olega 
 --- 
-Two lessons that will change your life.
+Two lessons that changed your life.
 
 **Lesson One**
 
@@ -23,6 +23,7 @@ Success is a study.
 
 You become what you study.
 
+**What next?**
 
 That said, what do you do if you don't have rich or successful, or happy or healthy or smart people to learn from?
 
@@ -38,6 +39,8 @@ I try to learn from them whenever I can.
 
 Wouldn't you want to be as smart as that?
 
+**Books, Audiobooks and Podcasts are great tools**
+
 The second best thing is influence.
 
 You can read a smart person's book.
@@ -52,12 +55,17 @@ Audiobooks are a good alternate but many of the good ones are expensive.
 
 Podcasts are a good alternate.
 
+The best thing about podcasts is that podcasts are free.
+
 Here's a list of podcasts that I listen to.
 
 
 ### Make you smarter
 
 **Let's Know Things**
+
+Let's know things is hosted by Colin Wright. He talks about a wide range of topics. My favorites include technology, automation and some news. Colin is a great story teller. Expect to pick up inspiration on analogies, story telling, making a case and your communication skills in general. This is my favorite podcast and I've listened to every episode.
+
 [link](http://letsknowthings.com/)
 
 **Freakonomics**
