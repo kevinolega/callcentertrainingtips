@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Reviewer Part 2: Call Center Success Secrets and Mindset
+title: Reviewer Part 2 Call Center Success Secrets and Mindset
 author: Kevin Olega
 permalink: /zwei/
 ---
-Thank you for completing part one. Here’s part two.
+Thank you for completing part one!
+
+Here’s part two.
 
 ### The Basics How To Succeed In Life and Call Center Work
 
