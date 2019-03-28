@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Part 2: Call Center Success Secrets and Mindset
+title: Reviewer Part 2: Call Center Success Secrets and Mindset
 author: Kevin Olega
-permalink: /workingsecond/
+permalink: /zwei/
 ---
-
-WORKING ON PART TWO
-
-
+Thank you for completing part one. Here’s part two.
 
 ### The Basics How To Succeed In Life and Call Center Work
+
+To participate in this activity please read the following statements out loud. Let’s begin!
 
 Your mindset will dictate whether you will succeed or fail.
 
@@ -27,9 +26,21 @@ Nobody is born with skills.
 
 People who are good at specific skills spend time, practice, made mistakes, learned and got better over time.
 
-The first attempt often looks silly.
+The first attempt often looks silly and stupid. 
+
+That is okay.
+
+You get better as you gain more experience.
+
+A player who is at level one and a player who is at level fifty will have different results
+
+That is okay.
 
 For things to change you need to change.
+
+Let me say that again.
+
+For my situation to change, I will need to change.
 
 If I don't change, my situation will stay the same.
 
@@ -37,7 +48,7 @@ People who succeed are positive about finding solutions to their problems.
 
 Negative people are passionate about how impossible it is to find solutions to their problems.
 
-There are only one or two things that I need to work on and all I need to do is to get it right and then repeat that the few times and then the habit forms and eventually it becomes permanent.
+There are only one or two things that I need to work on and all I need to do is to get it right and then repeat the process a few more times and eventually, the habit forms and when I have mastered the skill, my ability to get things done becomes permanent.
 
 The best way to learn is by doing.
 
@@ -49,17 +60,21 @@ I can fail many times but I am never a failure.
 
 If I fail, there is something wrong with my technique not with myself.
 
+Technique can be corrected by practicing.
+
 There are people who have done this (my goal) before and if they can do it I can do it too.
 
 God has blessed me with all that I have and the ability to get better every day.
 
-Nothing is instant everything in nature grow slowly.
+Nothing is instant and everything in nature grow slowly.
 
 There are no shortcuts.
 
-I will continue to get better until I reach my goal.
+I will continue to work on getting better until I reach my goal.
 
 Luck means preparation meeting opportunity.
+
+I will keep preparing myself so when the opportunity presents itself, I will be ready.
 
 I will give no excuse because an excuse is a lie that I tell myself justify why I did not get what I want.
 
@@ -81,7 +96,7 @@ Knowing this I will continue to search for the answer and I will not stop until 
 
 > "I don't like looking back. I'm always constantly looking forward. I'm not the one to sort of sit and cry over spilt milk. I'm too busy looking for the next cow." - Gordon Ramsay
 
-> "I was determined that if I failed it wouldn't be due to lack of effort" - Heston Blumenthall
+> "I was determined that if I failed it wouldn't be due to lack of effort" - Heston Blumenthal
 
 > "I will persist until I succeed. Always will I take another step. If that is of no avail I will take another, and yet another. In truth, one step at a time is not too difficult. I know that small attempts, repeated, will complete any undertaking." - Og Mandino
 
@@ -118,126 +133,14 @@ Don't use lack of something (information or skills) as an excuse for inaction. I
 
 My answer or whatever you are waiting for won't bring you closer to your goals. Your first steps will. Go ahead and start don't wait for me.
 
-#### Here are some lessons that I recommend that you read first:
+### Outro
 
-- [How to Prepare Awesome Answers][9]
-- [Call Center Interview Questions][10]
-- [Write Your Resume][11]
+Thank you for reading.
 
+Please read this regularly. Whenever you are going after a challenging goal, there might be moments when you are discouraged. Please go back to this lesson.
 
-### Here are some really popular lessons:
+Read it out loud.
 
-- [Call Center Interview Questions and Suggested Answers][12]
-- [How to Write a Resume for Call Center Application][13]
-- [27 Tips to Help You Get Hired In a Call Center][14]
+When you feel like you’re ready, send me another message. 
 
-#### Call Center Interview Tips
-
-If you need help with your interview skills.
-
-- [Call Center Interview Questions and Suggested Answers][15]
-- [How to Answer Call Center Interview Questions][16]
-- [Avoid Fillers and Answer Every Question with Delaying Tactics][17]
-- [Call Center Job Interview Preparation Questions][18]
-- [How to Connect Your Strength, Weakness or Experience to Why You Want to Work in a Call Center][19]
-
-#### Resume for Call Center Application
-
-A good resume is like a brochure that will make the Call Center Recruiter want to call you. Follow my format and get more call center interview invites:
-
-- [How to Write a Resume for Call Center Application][20]
-- [How to Build a Call Center Resume From Scratch if you have No Work Experience][21]
-
-
-#### English Skills for Call Center Application
-
-English is a primary skill in a call center. Improve your English with these tips:
-
-- [How To Start Improving Your English Skills][22]
-- [Examples of Words With Silent Letters][23]
-- [My Pronunciation Cheat Sheet][24]
-
-
-#### Confidence to Work in a Call Center
-
-Confidence is important. The lack of confidence is the most common reason why people don't get hired. Here are some tips to overcome confidence issues:
-
-- [How To Overcome Your Super Shy Self with One Exercise][25]
-
-
-#### Call Center Job Application
-
-If you're not getting hired, here are some general Call Call Center Job Application Tips
-
-- [27 Tips to Help You Get Hired In a Call Center][26]
-
-
-#### Call Center Success
-
-Here are some tips about personal development, inspiration and motivation. Succeeding has more to do with collecting advantages and using failure to make yourself a better person. Here are some
-
-- [How To Set Goals][27]
-- [Ten Small Things That Give Me an Advantage When Looking for Work][28]
-- [What Can a Shy Person Do][29]
-- [Six Things I Did Right - That Got Me Hired In A Call Center][30]
-- [How to Level Up and Get Hired in a Call Center][31]
-
-
-### Hired as a Call Center Agent
-
-Our relationship doesn't end when you get hired. I've written some tips on how to succeed in life as a call center agent.
-
-- [How to Pass Call Center Training][32]
-
-
-**Last update: Tuesday, February 19, 2019**
-
-I'm also selling a training package that comes with a book. It costs Php 2,500.
-
-It comes with a book, online activities and twelve coaching sessions with me. 
-
-**A Shy Person's Guide on How to Get Hired in a Call Center** by Kevin Olega. 
-
-It's a printable, digital copy. Mobile ebook now available.
-
-Payments are received through BPI, BDO and Paypal.
-
-Training is done over the phone or in person if you live in the Parañaque and Muntinlupa area.
-
-[Click here to buy the training package.][33]
-
-
-
-[1]:	http://callcentertrainingtips.com/contact/
-[2]:	https://www.facebook.com/profile.php?id=247824095581789&ref=br_rs
-[3]:	http://facebook.com/callcentertrainingtips
-[4]:	http://eepurl.com/riFT1
-[5]:	http://callcentertrainingtips.com/missed-opportunities
-[6]:	http://callcentertrainingtips.com/basics/
-[7]:	http://kevinolega.com
-[8]:	http://philippineislandliving.com
-[9]:	http://callcentertrainingtips.com/call-center-job-interview-preparation-questions/
-[10]:	http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers
-[11]:	http://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/
-[12]:	http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers
-[13]:	http://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/ "How to Write a Resume for Call Center Application"
-[14]:	http://callcentertrainingtips.com/27-tips-to-help-you-get-hired-in-a-call-center/ "27 Tips to Help You Get Hired In a Call Center"
-[15]:	http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers
-[16]:	http://callcentertrainingtips.com/answer-questions/
-[17]:	http://callcentertrainingtips.com/avoid-fillers-and-answer-every-question-with-delaying-tactics/
-[18]:	http://callcentertrainingtips.com/call-center-job-interview-preparation-questions/
-[19]:	http://callcentertrainingtips.com/how-to-connect-your-strength-weakness-or-experience-to-why-you-want-to-work-in-a-call-center/
-[20]:	http://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/
-[21]:	http://callcentertrainingtips.com/how-to-build-a-call-center-resume-from-scratch-no-work-experience/
-[22]:	http://callcentertrainingtips.com/how-to-start-improving-your-english-skills/
-[23]:	http://callcentertrainingtips.com/examples-of-words-with-silent-letters/
-[24]:	http://callcentertrainingtips.com/my-pronunciation-cheat-sheet/
-[25]:	http://callcentertrainingtips.com/how-to-overcome-your-super-shy-self-with-one-exercise/
-[26]:	http://callcentertrainingtips.com/27-tips-to-help-you-get-hired-in-a-call-center/
-[27]:	http://callcentertrainingtips.com/how-to-set-goals/
-[28]:	http://callcentertrainingtips.com/ten-small-things-that-give-me-an-advantage-when-looking-for-work/
-[29]:	http://callcentertrainingtips.com/what-can-a-shy-person-do/
-[30]:	http://callcentertrainingtips.com/six-things-i-did-right-that-got-me-hired-in-a-call-center/
-[31]:	http://callcentertrainingtips.com/how-to-level-up-and-get-hired-in-a-call-center/
-[32]:	http://callcentertrainingtips.com/how-to-pass-call-center-training/
-[33]:	https://goo.gl/forms/M1MbBbdhieN7Ouvc2
+Tell me about your favorite lesson and ask for part three.
