@@ -776,12 +776,11 @@ Here's the video version.
 
 Thank you for reading this far.
 
-If you want more lessons, go to my facebook page and send me another message. Tell me:
+If you want more lessons:
 
-1. I am done reading the reviewer.
-2. My favorite lesson is...
-3. Please send me part two.
-4. Join the [Facebook Group](https://web.facebook.com/groups/247824095581789)
+1. [Take this assessment to know how well you'll score in an interview](https://forms.gle/VxAbvSYXVtP5B7f96)
+2. Send me a message and tell me you're done with part 1 of the reviewer and the assessment.
+3. Join the [Facebook Group](https://web.facebook.com/groups/247824095581789) 
 
 If you enjoyed reading this, please share what you learned on the a Facebook page and group.
 
