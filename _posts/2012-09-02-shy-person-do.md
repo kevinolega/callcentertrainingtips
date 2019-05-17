@@ -3,6 +3,7 @@ layout: post
 title: 'What Can a Shy Person Do?'
 date: 2012-09-02 20:32
 author: Kevin Olega
+description: Shy people and introverts can use their strengths and earn more money and opportunities in extrovert or people focused careers like call center jobs.
 comments: true
 categories: [Lessons]
 ---

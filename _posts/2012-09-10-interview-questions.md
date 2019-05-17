@@ -3,8 +3,10 @@ layout: post
 title: Call Center Job Interview Preparation Questions
 date: 2012-09-10 20:30
 author: Kevin Olega
+description: Call center interview questions can be tough for new job applicants. You can use this lesson to compose your own unique interview answers and get hired.
 comments: true
 categories: [Lessons]
+permalink: interview-preparation
 ---
 You want to get hired in a call center.
 But you have obstacles and challenges like fear, doubt, weakness and so on. I'm an undergrad, I'm socially clueless, super shy and saw myself as a loser. We all have things holding us back. We're not confident because we don't know what we have.

@@ -3,6 +3,7 @@ layout: post
 title: 'How to Connect Your Strength, Weakness or Experience to Why You Want to Work in a Call Center'
 date: 2012-08-22 20:37
 author: Kevin Olega
+description: The perfect way to answer the question "Why do you want to work in a call center?" is by connecting your strength, weakness and experience to your introduction. 
 comments: true
 categories: [Lessons]
 ---

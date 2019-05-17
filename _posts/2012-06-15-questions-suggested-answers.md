@@ -2,9 +2,10 @@
 layout: post
 title: Call Center Interview Questions and Suggested Answers
 date: 2012-06-15 21:04
+description: Confidently answer call center interview questions with these suggested answers. Impress the call center interviewer with these unique call center answers.
 author: Kevin Olega
 comments: true
-categories: [Activity, Applicant, Lessons]
+categories: [Activity, Applicant, Lessons, Call Center Job Application]
 permalink: call-center-interview-questions-and-suggested-answers
 ---
 
