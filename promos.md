@@ -4,9 +4,13 @@ title: Promos
 permalink: /promos/
 ---
 
+OUR TRAINING PROGRAM IS CURRENTLY BEING UPDATED AND NOT AVAILABLE FOR SALE.
+
+ONCE WE'RE DONE, HERE'S WHAT TO EXPECT.
+
 **A Shy Person's Guide on How to Get Hired in a Call Center** by Kevin Olega
 
-**The book covers the following lessons:** 
+**The training program covers the following lessons:** 
 
 - American Accent
 - Grammar
@@ -20,17 +24,15 @@ permalink: /promos/
 - Personal Development
 - Interviews 
 
-The book comes with **Unlimited Chat support and Email Support for questions and 100% guaranteed job hunting assistance**.
+We provide with **Unlimited Chat support and Email Support for questions and 100% guaranteed job hunting assistance**.
 
-So there are three options. The book is bundled with some training and job hunting assistance.  
+Access to online course that includes email lessons, activities, phone lessons (Globe/Landline/Skype), chat support, interview practice, job assistance, lifetime career coaching.
 
-**Option 1:Basic** Php 600 book and access to online course that includes email lessons, activities, phone lessons (Globe/Landline/Skype), chat support, interview practice, job assistance, lifetime career coaching.
-
-The book is in smartphone format and also printable. 
+The program is in smartphone format and also printable. 
 
 Payments are made via BPI bank deposit. If you're interested, let me know, I'll send you the bank details.
 
-[Click here to buy my book.](https://goo.gl/forms/M1MbBbdhieN7Ouvc2)
+[Click here to buy the training program.](https://goo.gl/forms/M1MbBbdhieN7Ouvc2)
 
 **English Tutorial Service**
 
