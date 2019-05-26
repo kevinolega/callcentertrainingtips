@@ -2,6 +2,7 @@
 layout: post
 title: How to Pass Call Center Training
 date: 2016-05-14 06:09
+description: Learn how to pass product specific training for you call center account in this lesson.
 author: Kevin Olega
 comments: true
 categories: [Lessons]
