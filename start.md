@@ -34,7 +34,11 @@ I send updates, lessons, tips, special deals and opportunities to people who giv
 
 My blog contains every lesson I’ve written.
 
-In terms of training I offer an intensive training package for a Php 2,500 and free self-study training through this blog.
+In terms of training I do not offer personal training at the moment.
+
+If you read and self-study the lessons on this website, you can get all my lessons for free.
+
+Just click lessons at the top of the page.
 
 This website is a library of hundreds of hours worth of lessons and activities that you can read and learn from.
 
@@ -46,9 +50,13 @@ You need to be physically, mentally and emotionally strong.
 
 If you're not all three or not commited to become the person you need to be to succeed, then helping you is a waste of time.
 
-I charge Php 2,500 for people who want to participate in my online training and private lessons and everyone I have guided have experienced improvements that moved them forward in their career.
+If you are interested in private lessons, please visit our affiliate website and hire an English tutor.
 
-With my help, you can become the hero of your family.
+
+[=>> CLICK HERE TO HIRE PRIVATE ENGLISH TUTOR <<=](http://philippinesprivateenglishtutors.com/)
+
+
+If you apply the lessons that you learn from me, you can become the hero of your family.
 
 You will become the kind of person that you want and look up to.
 
@@ -65,8 +73,6 @@ I hope you benefit and enjoy it as much as I enjoyed putting it together.
 Here are the top articles that you should read if you want to get hired in a call center.
 
 You're probably here because you requested a reviewer.
-
-This is part one of five.
 
 I'm going to teach you a lot of lessons for free and if you go through them you'll be able to become successful with call center work.
 
@@ -614,7 +620,6 @@ Whatever else you have to offer is a plus.
 
 ### What kind of computer skills are required in a call center?
 
-
 Depending on what kind of call center work you’ll be doing computer skills are important. Forget that, computer skills are a basic skill in life right now. A lot of people I got to talk to tell me that they do not have computer skills or aren’t computer literate. When I asked further questions, I found out the opposite to be true. So instead of writing about the required call center computer skills, I’ll just ask you a few questions to determine your computer skill level. Are you cool with that?Great! Like you have a choice.
 
 - Do you have a facebook (friendster, twitter, blog, etc) account?
@@ -775,14 +780,12 @@ Here's the video version.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w3uha9dioDw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
 Thank you for reading this far.
 
 If you want more lessons:
 
 1. [Take this assessment to know how well you'll score in an interview](https://forms.gle/VxAbvSYXVtP5B7f96)
-2. Send me a message and tell me you're done with part 1 of the reviewer and the assessment.
-3. Join the [Facebook Group](https://web.facebook.com/groups/247824095581789) 
+2. Join the [Facebook Group](https://web.facebook.com/groups/247824095581789) 
 
 If you enjoyed reading this, please share what you learned on the a Facebook page and group.
 

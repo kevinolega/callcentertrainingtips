@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 ![Kevin Webmaster](images/Call Center Kevin.jpg)
+
 Call Center Training Tips started as a list of tips on how to pass call center interviews, shared with four friends and grew into an extraordinary blog, a book and a [Facebook community](http://facebook.com/callcentertrainingtips/). 
 
 I'm Kevin and I have been working on the lessons for seven years. I have been publishing the lessons since 2012 and this had reached thousands of Filipinos who want to work in a call center.
@@ -44,7 +45,7 @@ I'm Kevin Olega, the guy behind call center training tips. I work as an content 
 
 Here are some things about me.
 
-- I'm 30
+- I'm 34
 - I'm a minimalist. I live with less than 150 things.
 - I like reading, writing and talking to people.
 - I often order black brewed coffee at coffee shops and Chamomile tea in the evening.
