@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+![Kevin Webmaster](images/Call Center Kevin.jpg)
 Call Center Training Tips started as a list of tips on how to pass call center interviews, shared with four friends and grew into an extraordinary blog, a book and a [Facebook community](http://facebook.com/callcentertrainingtips/). 
 
 I'm Kevin and I have been working on the lessons for seven years. I have been publishing the lessons since 2012 and this had reached thousands of Filipinos who want to work in a call center.
