@@ -36,12 +36,7 @@ Payments are made via BPI bank deposit. If you're interested, let me know, I'll 
 
 **English Tutorial Service**
 
-Per Hour: Php 250 (In Person, Metro Manila Only)
-
-Per Hour: Php 200 (Globe, PLDT, Skype)
-
-**Monthly: Twenty sessions one hour a day Php 2,000/month (Globe, PLDT, Skype)** 
-
+[CLICK HERE TO VISIT OUR AFFILIATE TUTORIAL WEBSITE](http://philippinesprivateenglishtutors.com/)
 
 Please send an email or a [Facebook message](https://www.facebook.com/callcentertrainingtips/) to inquire.
 
