@@ -4,6 +4,8 @@ title: Start Here
 author: Kevin Olega
 permalink: /start/
 ---
+![Kevin Webmaster](images/Call Center Kevin.jpg)
+
 Hi there!
 
 If you’re new here, my name is Kevin and I write the lessons and maintain this site.
