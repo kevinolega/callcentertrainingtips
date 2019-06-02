@@ -359,6 +359,16 @@ If you want more lessons:
 
 [CLICK HERE TO STAY IN TOUCH AND GET MORE FREE LESSONS][4]. 
 
+[If you need help writing a resume click here](https://www.google.com/search?q=site%3Acallcentertrainingtips.com+resume)
+
+[If you need help improving your English click here](https://www.google.com/search?q=site%3Acallcentertrainingtips.com+english)
+
+[If you need help building your confidence click here](https://www.google.com/search?q=site%3Acallcentertrainingtips.com+confidence)
+
+
+[If are alredy hired and you need help improving your performance click here](https://www.google.com/search?q=site%3Acallcentertrainingtips.com+top+agent)
+
+
 If you enjoyed reading this, please share what you learned on the a Facebook page and group.
 
 [1]:	http://callcentertrainingtips.com/contact/
