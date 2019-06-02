@@ -365,6 +365,7 @@ If you want more lessons:
 
 [If you need help building your confidence click here](https://www.google.com/search?q=site%3Acallcentertrainingtips.com+confidence)
 
+[If need tips on how to improve your interview answers click here](https://www.google.com/search?q=site%3Acallcentertrainingtips.com+interview)
 
 [If are alredy hired and you need help improving your performance click here](https://www.google.com/search?q=site%3Acallcentertrainingtips.com+top+agent)
 
