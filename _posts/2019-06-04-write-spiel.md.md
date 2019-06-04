@@ -1,6 +1,7 @@
 --- 
 layout: post 
 title: How to Always Give the Best Response to Customers - Write the Perfect Spiel
+description: Learn how to write the perfect spiel. Invest in a notebook and earn all the extra bonuses that your company provides.
 date: 2019-06-04 11:21
 Tags: [ Top Agent, blog ]
 permalink: /write-spiel/ 
