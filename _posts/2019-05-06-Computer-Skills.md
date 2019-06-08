@@ -19,7 +19,7 @@ Are you cool with that?
 
 Great! Like you have a choice.
 
-- Do you have a facebook (friendster, twitter, blog, etc) account?
+- Do you have a Facebook (Friendster, Twitter, Blog, etc) account?
 - Did you type your resume in a computer?
 - Do you check your email account?
 - Do you know how to shut down a computer?
@@ -73,4 +73,4 @@ Maybe copying and pasting text and stuff like that.
 
 Do you understand? 
 
-nGood. 
+Good. 
