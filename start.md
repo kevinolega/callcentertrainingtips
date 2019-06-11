@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Start Here
+description: This is the first reviewer I share with new visitors.
 author: Kevin Olega
 permalink: /start/
 ---
@@ -24,7 +25,11 @@ I give out free reviewers to people you request them.
 
 In fact, this page is actually part of a free reviewer.
 
+## Are You Committed To Upgrading Your Life?
+
 [CLICK HERE TO GET MORE FREE LESSONS][4].
+
+## I Help People Improve Their Life
 
 I share my lessons for free on this website. 
 
@@ -36,7 +41,7 @@ I send updates, lessons, tips, special deals and opportunities to people who giv
 
 [You can send me your email address here][4]. 
 
-My blog contains every lesson I’ve written.
+## This website contains every lesson I’ve written.
 
 In terms of training I do not offer personal training at the moment.
 
@@ -46,37 +51,57 @@ Just click lessons at the top of the page.
 
 This website is a library of hundreds of hours worth of lessons and activities that you can read and learn from.
 
+## Do You Deserve A Better Life?
+
 That being said, I only help people who have a strong commitment to succeed. 
 
+## BPO Workers are Rewarded For Hard Work
+
 BPO work pays more than the usual Filipino companies because the work is tough.
+
+## What Does It Take To Earn A BPO Salary?
 
 You need to be physically, mentally and emotionally strong.
 
 If you're not all three or not commited to become the person you need to be to succeed, then helping you is a waste of time.
 
+## Do You Want Help From A Knowledgeable Persons?
+
 If you are interested in private lessons, please visit our affiliate website and hire an English tutor.
 
 [=>> CLICK HERE TO HIRE PRIVATE ENGLISH TUTOR <<=](http://philippinesprivateenglishtutors.com/)
+
+## Why Listen To Me?
 
 If you apply the lessons that you learn from me, you can become the hero of your family.
 
 You will become the kind of person that you want and look up to.
 
+## You Are Wasting Your Time With Other Programs
+
 I put this together because call center schools and call center training programs don't help people get better at English.
 
+## I Use The Best Training Methods Develped By The Smartest People In The World
+
 My training methods work because it incorporates the best practices from the best teachers that I have accumulated for over 10 years.
+
+## When We're Done, YOU'LL BECOME THE SMARTEST PERSON IN YOUR NEIGHBORHOOD
 
 I have used accelerated learning techniques that will allow you to learn and apply the lessons faster than any class that you can take.
 
 I am also part of one of the first call center training schools in the Philippines.
 
+## Learning With Me Is Fun
+
 I hope you benefit and enjoy it as much as I enjoyed putting it together.
 
-Here are the top articles that you should read if you want to get hired in a call center.
+I am sharing with you the top lessons that you should read if you want to get hired in a call center.
 
 You're probably here because you requested a reviewer.
 
 I'm going to teach you a lot of lessons for free and if you go through them you'll be able to become successful with call center work.
+
+## How To Get The Best Lessons
 
 Get a notebook and take notes.
 
@@ -86,25 +111,33 @@ When you remember you are able to use your full potential.
 
 Get a notebook and write the lessons down. 
 
-**Don't miss these opportunities because you can't speak in English**
+## Don't miss these opportunities because you can't speak in English.
 
 I get a lot of messages on a regular basis.
 
-It goes something like. 
+It goes something lik: 
   
 > Hi Kevin! I would like to work in a call center…but I’m not good at speaking in English.  
 
 Then they ask me if they can get around not speaking in English.
 
+## A Loser Attitude Gets You Loser Jobs With Loser Pay
+
 People tell me that they are considering non-voice accounts or local accounts because they do not speak in English well. 
+
+## A Person With No Confidence Will Always Get Paid The LOWEST
 
 Another common comment that I get is that I’m good at speaking in English because I work in a call center. As if speaking in English had little application outside call centre work.
 
 Some people tell me they want to find work but they can’t get hired because their English is not good enough.
+
+## Education Is IMPORTANT But EVERYBODY FORGETS The Importance
   
 Whenever people ask me for advice my answer is:
 
 You need to invest in yourself.
+
+## Investing In Learning Skills Have The Highest Rewards
 
 How much income you make is equal to how much you have improved your self and your skills.
 
@@ -112,17 +145,21 @@ If you spend time studying and practicing English or any skill you desire to lea
 
 I did this every day until my skills were good enough.
 
-English is a required life skill. 
+## English is a required life skill. 
 
 That’s what I believe.
 
 The reason why you’re not where you want to be in life is not just because of your poor English communication skills but because of your refusal to improve your English communication skills.
+
+## Why Are Many Filipinos POOR?
 
 You miss opportunities in life because you are afraid.
 
 You miss opportunities in life because you’re lazy.
 
 You know what?
+
+## Will You ESCAPE Or Face YOUR PROBLEMS?
 
 You’ll have bigger problems by avoiding this small problem.
 
@@ -150,13 +187,13 @@ Learning enables you to qualify for higher pay.
 
 Whether you want a job with a good employer or to go abroad to work. 
 
-Communicating well is required.
+## Communicating well is required.
 
 Remember this.
 
 Filipino bosses are the worst bosses in the world because in the Philippines, it’s every man for himself. 
 
-Nobody cares if you starve to death.
+## Nobody cares if you starve to death.
 
 Maybe you're close to your family, but if you honestly care about each other, you have the obligation to become financially successful so you don't pull them down with you.
 
@@ -172,11 +209,11 @@ In a lot of cases, you need to check with SSS and PAG-IBIG if your payments and 
 
 Its that terrible.
 
-Many honest employers require that you speak in English.
+## Many honest employers require that you speak in English.
 
 If your English is not good then you’re not qualified.
 
-Dishonest employers take advantage of this. 
+## Dishonest Employers Take Advantage of POORLY SKILLED EMPLOYEES. 
 
 They will hire you cheap because you can’t go to better employers. 
 
@@ -200,7 +237,11 @@ I almost killed myself several times and it took me over five years to recover.
 
 You don’t have any advantages because you can’t speak in English.
 
+## Life Will Be DIFFICULT If You ARE STUPID
+
 Even if you’re a hard worker, honest, patient or you have other special skill that’s not enough because you can’t communicate what you can do.
+
+## English is ONE Tool That Opens The BIGGEST Opportunities
 
 English is the skill that allows you to put your foot in the door. 
 
@@ -228,6 +269,8 @@ This is probably the easiest.
 
 Unless you're open to trading sexual favors to advance in your career.
 
+## What Are Basic Call Center Skills Anyway?
+
 You just need to have basic English skills.
 
 You just need to read and follow instructions.
@@ -235,6 +278,8 @@ You just need to read and follow instructions.
 You just need to ask Americans questions about their account, listen to their problems and tell them what to do next.
 
 You will have to take a deep breath and say "don't worry, I'll do my best to assist you" at every call.
+
+## What Is Call Center Life?
 
 Eight hours a day for fifteen to thirty thousand a month.
 
@@ -254,7 +299,7 @@ If you’re Filipino and you can’t speak in English.
 
 Not speaking in English is a fucking disability.
 
-**Making a good impression**
+## Speaking Good English Always Equals Making a Good Impression
 
 People who can speak in English well, always makes a good impression.
 
@@ -280,7 +325,7 @@ It will make you sound silly.
 
 Unless you’re already rich and successful then this part doesn’t matter.
 
-**Extra Money that you can get**
+## English Speaking Employees Get Paid Higher Than Non-English Speaking Workers
 
 Before working in a Call Center I worked in the mall.
 
@@ -296,7 +341,7 @@ It’s just English but it’s a big advantage.
 
 Even if you choose a non call center job English will give you an edge over the lazy folk who didn’t study.
 
-**Getting promoted at work**
+## English Speaking Workers WILL Get Promoted At Work FIRST
 
 In a past job, I was working for a tech company under a boss who was newly promoted. Her name is Ramona Cruz or something like that.
 
@@ -318,7 +363,7 @@ Had this happened under a different employer I would be promoted instead and the
 
 If you’re good in English, you can get promoted and people will have to play dirty to beat you.
 
-**Connecting with high performers**
+## English Is The Language That Connects You With Top Performers
 
 Don’t you notice that whenever Anne Curtis or Toni Gonzaga plays the role of the boss, they speak in English? This is also true for John Lloyd Cruz.
 
@@ -338,6 +383,8 @@ The solution is getting educated.
 
 > ”Formal education helps you get a living. Self education helps you make a fortune”  
 > - Jim Rohn
+
+## How Can You Educate Yourself and STOP BEING STUPID?
 
 Here are two ways that I use to educate myself.
 
@@ -359,21 +406,9 @@ If you want more lessons:
 
 [CLICK HERE TO STAY IN TOUCH AND GET MORE FREE LESSONS][4]. 
 
-[If you need help writing a resume click here](https://www.google.com/search?q=site%3Acallcentertrainingtips.com+resume)
-
-[If you need help improving your English click here](https://www.google.com/search?q=site%3Acallcentertrainingtips.com+english)
-
-[If you need help building your confidence click here](https://www.google.com/search?q=site%3Acallcentertrainingtips.com+confidence)
-
-[If need tips on how to improve your interview answers click here](https://www.google.com/search?q=site%3Acallcentertrainingtips.com+interview)
-
-[If are alredy hired and you need help improving your performance click here](https://www.google.com/search?q=site%3Acallcentertrainingtips.com+top+agent)
-
-
 If you enjoyed reading this, please share what you learned on the a Facebook page and group.
 
 [1]:	http://callcentertrainingtips.com/contact/
 [2]:	https://www.facebook.com/profile.php?id=247824095581789&ref=br_rs
 [3]:	http://facebook.com/callcentertrainingtips
 [4]:	http://eepurl.com/riFT1
-[5]:	http://callcentertrainingtips.com/missed-opportunities
