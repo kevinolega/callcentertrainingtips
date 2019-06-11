@@ -65,7 +65,7 @@ You need to be physically, mentally and emotionally strong.
 
 If you're not all three or not commited to become the person you need to be to succeed, then helping you is a waste of time.
 
-## Do You Want Help From A Knowledgeable Persons?
+## Do You Want Help From A Knowledgeable Person?
 
 If you are interested in private lessons, please visit our affiliate website and hire an English tutor.
 
