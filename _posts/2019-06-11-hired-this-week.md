@@ -3,7 +3,7 @@ layout: post
 title: Ten tips on How to Get Hired in a Call Center This Week
 date: 2019-06-11 23:13
 Tags: [ lessons, blog ]
-permalink: /ten-tips-to-get-hired-in-a-call-center-this-week/ 
+permalink: ten-tips-to-get-hired-in-a-call-center-this-week/ 
 author: Kevin Olega 
 --- 
 I wrote tips in this site to help a few friends look for work in a call center. 
