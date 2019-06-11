@@ -414,11 +414,9 @@ I created this blog to provide a collection of free self study lessons.
 
 Thank you for reading this far.
 
-If you want more lessons:
+## Want More Lessons?
 
 [CLICK HERE TO STAY IN TOUCH AND GET MORE FREE LESSONS][4]. 
-
-If you enjoyed reading this, please share what you learned on the a Facebook page and group.
 
 [1]:	http://callcentertrainingtips.com/contact/
 [2]:	https://www.facebook.com/profile.php?id=247824095581789&ref=br_rs
