@@ -269,7 +269,9 @@ This is probably the easiest.
 
 Unless you're open to trading sexual favors to advance in your career.
 
-## What Are Basic Call Center Skills Anyway?
+## What Is Call Center Life?
+
+**What Are Basic Call Center Skills Anyway?**
 
 You just need to have basic English skills.
 
@@ -279,13 +281,17 @@ You just need to ask Americans questions about their account, listen to their pr
 
 You will have to take a deep breath and say "don't worry, I'll do my best to assist you" at every call.
 
-## What Is Call Center Life?
-
 Eight hours a day for fifteen to thirty thousand a month.
+
+## Call Center Rewards Can Build Your Dream Life
 
 You can use the extra money to get online work or start your own business.
 
+**You can use Call Center Money to Go After YOUR DREAM JOB**.
+
 If you can’t get hired in a call center what makes you think you can qualify for a better life? 
+
+## Poor English Has Many NEGATIVE CONSEQUENCES
 
 Imagine getting promoted as a manager or going abroad with poor English.
 
@@ -299,13 +305,15 @@ If you’re Filipino and you can’t speak in English.
 
 Not speaking in English is a fucking disability.
 
-## Speaking Good English Always Equals Making a Good Impression
+## Speaking English Always Makes A POSITIVE IMPRESSION
 
 People who can speak in English well, always makes a good impression.
 
 If you speak in English, people see you as educated, intelligent, refined, a person of class and substance.
 
 Speaking in Tagalog when you are in an interview and the interviewer is speaking in English will give potential employers the impression that you are unprofessional, lazy, uneducated and poor.
+
+## NOBODY Will Tell You The TRUTH
 
 No offense, but you should be offended.
 
@@ -314,6 +322,8 @@ You might be thinking this is so harsh.
 That’s the fucking truth.
 
 I have experienced this first hand.
+
+## Very FEW Peopl WILL TELL YOU What is WRONG With You
 
 People are polite and will just point you away but this is the truth.
 
@@ -332,6 +342,8 @@ Before working in a Call Center I worked in the mall.
 Other than the manager, I’m the only person in a team of twenty four sales people who can speak in English. 
 
 Whenever the customer is foreigner or an English speaking rich folk, everybody called me.
+
+## If You Say NOSEBLEED You Are Throwing Money Away
 
 They say they are, in their exact words “nose-bleed” and I should talk to the customer. They give me half their commission and the client goes with me.
 
@@ -379,7 +391,7 @@ In the professional circle English is the preferred language.
 
 So if you would like to learn from higher performer you need to learn English.
 
-The solution is getting educated. 
+## The solution is getting educated. 
 
 > ”Formal education helps you get a living. Self education helps you make a fortune”  
 > - Jim Rohn
