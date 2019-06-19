@@ -4,27 +4,79 @@ title: Impossible Means Small Steps Every Day
 date: 2015-02-23 02:00		
 author: Kevin Olega		
 ---
-I kept telling her we'd get married. I failed. She waited six years but got tired and left. Now she's married to someone else.
+I kept telling her we'd get married. 
 
-I kept telling myself I'll save enough money for the wedding and the life we'd have together. I'm barely making ends meet.
+I failed. 
 
-My secret fear was not making it and I held it in, worried and struggled for many years. It turned into reality.
+She waited six years but got tired and left. 
 
-I've read every book that says you need to be positive and keep going and learning. I read Maxwell, Kiyosaki, Jim Rohn and Brian Tracy and I've copied every lesson into my head and on my notebooks.
+Now she's married to someone else.
+
+I kept telling myself I'll save enough money for the wedding and the life we'd have together. 
+
+I'm barely making ends meet.
+
+My secret fear was not making it and I held it in, worried and struggled for many years. 
+
+It turned into reality.
+
+I've read every book that says you need to be positive and keep going and learning. 
+
+I read Maxwell, Kiyosaki, Jim Rohn and Brian Tracy and I've copied every lesson into my head and on my notebooks.
 
 I only understood parts of the equation but not the full thing.
 
 Failure taught me what I was missing.
 
-The time I spent without her was spent learning skills to win her back. It took me three years and I spent all of it depressed but I learned how to get my body back in shape. I can now lift 220lbs and do 1 arm push-ups. I can strike a heavy bag non stop for three five minute rounds. Bike thirty kilometers. Climb Mt. Makulot. Climb Mt. Pulag. We had this thing for lying down, sharing stories and looking at the stars. I learned how to take care of my money. I now have savings and enough to start a small family and buy nice things. I built a small kitchen that has tools that can keep up with celebrity chef Jamie Oliver.  I started a small feeding program. I built this small online community. I learned how to cook and bake meals you'd normally only get from a fancy restaurant. I learned lessons from people who are happily married for decades. I learned to keep my depression in control long enough to get something important done. 
+The time I spent without her was spent learning skills to win her back. 
+
+It took me three years and I spent all of it depressed but I learned how to get my body back in shape. 
+
+I can now lift 220lbs and do 1 arm push-ups. 
+
+I can strike a heavy bag non stop for three five minute rounds. 
+
+Bike thirty kilometers. 
+
+Climb Mt. Makulot. Climb Mt. Pulag. 
+
+We had this thing for lying down, sharing stories and looking at the stars. 
+
+I learned how to take care of my money. 
+
+I now have savings and enough to start a small family and buy nice things. 
+
+I built a small kitchen that has tools that can keep up with celebrity chef Jamie Oliver.  
+
+I started a small feeding program. 
+
+I built this small online community. 
+
+I learned how to cook and bake meals you'd normally only get from a fancy restaurant. 
+
+I learned lessons from people who are happily married for decades. 
+
+I learned to keep my depression in control long enough to get something important done. 
 
 And then I learned I can never use the skills I collected for her on her.
 
-I was devastated. I thought of new goals. I lie down in a fetal position wanting to cry. I couldn't. I have this disorder where I couldn't actually cry so I cry in my imagination. I stay in bed for hours.
+I was devastated. 
+
+I thought of new goals. 
+
+I lie down in a fetal position wanting to cry. 
+
+I couldn't. 
+
+I have this disorder where I couldn't actually cry so I cry in my imagination. 
+
+I stay in bed for hours.
 
 Some days I'm inspired to do something. 
 
-Despite that. I end up reaching maximum level in the iOS game Injustice:God's among us. 
+Despite that. 
+
+I end up reaching maximum level in the iOS game Injustice:God's among us. 
 
 I reached level 25 in the game Summoner's War in two months something my friend achieved in six months. 
 
@@ -68,15 +120,65 @@ Here are some lessons I learned in the process.
 
 **1. Skip the deadline** 
 
-Give yourself enough time to grow. Sometimes it takes a month or several months to learn a skill. If you give yourself an unrealistic deadline you'll be hating yourself as a result. I know this because I can remember how many times I felt worthless because I convinced myself it takes less time to learn a skill or to achieve my goals.
+Give yourself enough time to grow. 
+
+Sometimes it takes a month or several months to learn a skill. 
+
+If you give yourself an unrealistic deadline you'll be hating yourself as a result. 
+
+I know this because I can remember how many times I felt worthless because I convinced myself it takes less time to learn a skill or to achieve my goals.
 
 **2. Identify your goals**
 
-On a piece of paper write your goals down. It's important to write it on paper. If you don't you will forget. Using paper is the most important step. It enables you to commit to something you see. Paper has power. Learn to use it.  
+On a piece of paper write your goals down. 
 
-A few years back I saw this live action adaptation of the Japanese Manga and anime series titled "Death Note." If you’re not familiar with it, it’s the story of a guy who picked up a mysterious notebook that allows the bearer to kill people by writing down their names. As the story progresses we learn that if you write down exactly how the person dies that person dies in exactly the same way. An example is. John Smith suddenly felt depressed, he suddenly lost his appetite on Monday and have had arguments with his boss and his family and had fallen to a bad position. Two weeks later he heads up to the top floor of his ten story office building and contemplates jumping to his death. After an hour he decides to finally go, but as he was about to jump a moment of cowardice occurs and he was able to grab on to a ledge and save himself. A few weeks later he tries to kill himself by overdosing. He goes unconscious and is hospitalized. His drinking buddy decides to visit his house and finds him lying on the bathroom floor. He is saved however his trip to the hospital empties all his personal accounts of funds. Broke he suffers from hunger for several days and wanders the city filled with regret and a weakening body. He finds an open railroad and jumps in front of his train to his death. He is then rescued by a passerby and was taken to a public ward.  As he was recovering from the hospital, out of money but was encouraged to turn his life around by a conversation from a next door family. A playing child from the family in the next hospital bed trips over a power source responsible for regulating his life support equipment. He then slowly strangles to his death suffering more as his will to live fails him.
+It's important to write it on paper. 
 
-This isn’t in the story. I just made this up. Anyways this information allowed the bearer of the "Death Note" to keep his identity secret by making Death Note related deaths appear more natural.
+If you don't you will forget. 
+
+Using paper is the most important step. 
+
+It enables you to commit to something you see. 
+
+Paper has power. Learn to use it.  
+
+A few years back I saw this live action adaptation of the Japanese Manga and anime series titled "Death Note." 
+
+If you’re not familiar with it, it’s the story of a guy who picked up a mysterious notebook that allows the bearer to kill people by writing down their names. 
+
+As the story progresses we learn that if you write down exactly how the person dies that person dies in exactly the same way. 
+
+An example is. 
+
+John Smith suddenly felt depressed, he suddenly lost his appetite on Monday and have had arguments with his boss and his family and had fallen to a bad position. 
+
+Two weeks later he heads up to the top floor of his ten story office building and contemplates jumping to his death. 
+
+After an hour he decides to finally go, but as he was about to jump a moment of cowardice occurs and he was able to grab on to a ledge and save himself. 
+
+A few weeks later he tries to kill himself by overdosing. 
+
+He goes unconscious and is hospitalized. 
+
+His drinking buddy decides to visit his house and finds him lying on the bathroom floor. 
+
+He is saved however his trip to the hospital empties all his personal accounts of funds. 
+
+Broke he suffers from hunger for several days and wanders the city filled with regret and a weakening body. 
+
+He finds an open railroad and jumps in front of his train to his death. He is then rescued by a passerby and was taken to a public ward.  
+
+As he was recovering from the hospital, out of money but was encouraged to turn his life around by a conversation from a next door family. 
+
+A playing child from the family in the next hospital bed trips over a power source responsible for regulating his life support equipment. 
+
+He then slowly strangles to his death suffering more as his will to live fails him.
+
+This isn’t in the story. 
+
+I just made this up. 
+
+Anyways this information allowed the bearer of the "Death Note" to keep his identity secret by making Death Note related deaths appear more natural.
 
 The point of this example is as you get better at setting your goals and building plans, you will have better chances of achieving what you want.
 
@@ -95,7 +197,6 @@ When do you need to achieve it?
 Knowing your goals intimately enable you to achieve your goals effortlessly.
 
 
-
 **4. Understand how to break your goals down**
 
 This takes a little longer to memorize and understand. 
@@ -112,9 +213,14 @@ I told this to a demotivated co worker because he had poor sales numbers.
 
 I told him we can just break down the steps of top performers and learn to imitate what works and replicate the results.
 
-After listening to me he interrupted me and said. That all sounds nice and logical but my question to you is. Are you a top agent?
+After listening to me he interrupted me and said. 
 
-I felt insulted because I was trying to help. I silently decided to prove my point through an experiment which resulted in me becoming a top agent after a couple of months.
+That all sounds nice and logical but my question to you is. 
+
+Are you a top agent?
+
+I felt insulted because I was trying to help. 
+I silently decided to prove my point through an experiment which resulted in me becoming a top agent after a couple of months.
 
 **5. Learn and practice the steps**
 

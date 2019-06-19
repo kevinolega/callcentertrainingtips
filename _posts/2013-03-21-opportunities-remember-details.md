@@ -6,15 +6,40 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-I'm starting off with a new series called from the tip collection. It will contain a list of four short tips on how to get hired and have an awesome career in a call center.
+I'm starting off with a new series called from the tip collection. 
 
-Each post will have four short tips with a really short description I thought about this because I realized that it takes a long time to write a nice post on the topic and that the situation changes for you. The goal is to provide you with a regular stream of tips weekly.
+It will contain a list of four short tips on how to get hired and have an awesome career in a call center.
 
-**Find better opportunities by starting your application with stable companies.** Many people ask me what call center they need to go to first. Start big. That way whether you pass or fail you will be familiar with the hiring process of big companies. Another benefit is that you will be more comfortable in the call center environment and you the exposure will make you more confident as you visit each company as you go through new opportunities. **Ask your interviewer at least one question you're curious about in the call center industry.** When I was new I had no idea about the call center aside from the fact that you make or take calls and answer questions for customers and it has a night shift schedule and pays well. So, I asked each interviewer one question I'm curious about every opportunity I've gotten. I only had one year in college then so the two most common questions I asked are: 
+Each post will have four short tips with a really short description I thought about this because I realized that it takes a long time to write a nice post on the topic and that the situation changes for you. 
 
-1. Is it really true that you are open to hiring non college graduates. (answer:most of them said yes. I went to four call center companies who were snobbish and said no.) 
+The goal is to provide you with a regular stream of tips weekly.
 
-2. Do you have a specific type of people that you'd like to hire? (answer: they hire people from different backgrounds so it's hard to pin point. As long as you're able to express yourself in English well, do the work even on night shift's, weekends or holidays, and are open to shifting schedule and learning new things you are a good candidate) 
+**Find better opportunities by starting your application with stable companies.** 
+
+Many people ask me what call center they need to go to first. 
+
+Start big. 
+
+That way whether you pass or fail you will be familiar with the hiring process of big companies. 
+
+Another benefit is that you will be more comfortable in the call center environment and you the exposure will make you more confident as you visit each company as you go through new opportunities. 
+
+**Ask your interviewer at least one question you're curious about in the call center industry.** 
+
+When I was new I had no idea about the call center aside from the fact that you make or take calls and answer questions for customers and it has a night shift schedule and pays well. 
+
+So, I asked each interviewer one question I'm curious about every opportunity I've gotten. 
+
+I only had one year in college then so the two most common questions I asked are: 
+
+1. Is it really true that you are open to hiring non college graduates. 
+
+(answer:most of them said yes. I went to four call center companies who were snobbish and said no.) 
+
+2. Do you have a specific type of people that you'd like to hire? 
+
+(answer: they hire people from different backgrounds so it's hard to pin point. As long as you're able to express yourself in English well, do the work even on night shift's, weekends or holidays, and are open to shifting schedule and learning new things you are a good candidate) 
+
 3. 
 **Bring a nice hard folder to your call center interview.** 
 

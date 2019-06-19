@@ -6,11 +6,21 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-Hi there. If you're following me on <a href="http://www.facebook.com/pages/Call-Center-Training-Tips/449507911746386">facebook</a> you might have noticed how happy I am about receiving messages from readers that the site was able to help them prepare for their job application and get hired in a call center.
+Hi there. 
 
-A few weeks ago I received a testimonial with a full description of what happened. I asked for permission to post it because I believe that reading thispost will give you ideas on how to get hired.
+If you're following me on <a href="http://www.facebook.com/pages/Call-Center-Training-Tips/449507911746386">facebook</a> 
 
-You might notice some grammar errors and that's perfectly fine. I did not edit this testimonial to show you that a person does not have to be perfect to find work. An acceptable level is fine just be willing to improve a few things as you go along.
+you might have noticed how happy I am about receiving messages from readers that the site was able to help them prepare for their job application and get hired in a call center.
+
+A few weeks ago I received a testimonial with a full description of what happened. 
+
+I asked for permission to post it because I believe that reading thispost will give you ideas on how to get hired.
+
+You might notice some grammar errors and that's perfectly fine. 
+
+I did not edit this testimonial to show you that a person does not have to be perfect to find work. 
+
+An acceptable level is fine just be willing to improve a few things as you go along.
 
 So today we're learning from another reader. Here goes.
 
@@ -32,7 +42,7 @@ The interview was conducted in a fast food near the mrt station, I passed the in
 
 Thanks to the website and Mr. Kevin Olega, I am now working in a call center, earning money, and building my career…
 
-Sir thanks for everything, you were really a great help, I will not forget the things that I have learned from you and your blog, wish you more power and your website, continue helping people. God bless you.
+Sir thanks for everything, you were really a great help, I will not forget the things that I have learned from you and your website, wish you more power and your website, continue helping people. God bless you.
 
 Please do some editing sir, my grammar is still not good. Thanks :)
 

@@ -7,17 +7,25 @@ description: Shy people and introverts can use their strengths and earn more mon
 comments: true
 categories: [Lessons]
 ---
-You might have noticed me talking about shy people a lot on this blog. You can see it in the sidebar, my book, some of my post and now I'm writing a post focused for shy people. 
+You might have noticed me talking about shy people a lot on this website. 
 
-I write to help shy people get hired in a call center. The goal of a lot of the things I do on different blogs is to empower the shy person. My heart goes out to shy people because I am a shy person.
+The main focus of my lessons is to help shy people like myself overcome difficult task like finding work.
 
-### You might not believe it but..
+I write to help shy people get hired in a call center. 
+
+The goal of a lot of the things I do on different blogs is to empower the shy person. 
+
+My heart goes out to shy people because I am a shy person.
+
+## You might not believe it but..
 
 For the longest time I've been a really shy person. 
 
 You can still see how sometimes I'm nervous when I'm with someone new or how I stutter when I talk. 
 
-Back in school, I was the guy who sits at the back of the class or on the sides with not much friends. I couldn't even get a girlfriend until my best friend introduces a girl over the phone (and I asked her to be my girlfriend over the phone and our relationship was mostly over the phone). 
+Back in school, I was the guy who sits at the back of the class or on the sides with not much friends. 
+
+I couldn't even get a girlfriend until my best friend introduces a girl over the phone (and I asked her to be my girlfriend over the phone and our relationship was mostly over the phone). 
 
 Pathetic, right? I'm a shy person. 
 
@@ -25,9 +33,11 @@ When you introduce me to a girl I'll be mostly quiet and I'll hope to get the gi
 
 That's it.
 
-**Despite being good looking, I saw myself as inadequate or insignificant.** I had issues with myself and trusting others and so on.
+**Despite being good looking, I saw myself as inadequate or insignificant.**
 
-### I never imagined myself...
+I had issues with myself and trusting others and so on.
+
+## I never imagined myself...
 
 Getting a job in sales and approaching strangers to offer products and services. 
 
