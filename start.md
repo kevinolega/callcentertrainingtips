@@ -13,7 +13,7 @@ If you’re new here, my name is Kevin and I write the lessons and maintain this
 
 I'm the number one Call Center Job Hunting Assistance writer in the Philippines.
 
-I pay 100% of the website hosting, yearly domain registration, web tools, hardware and software needed to maintain the blog using my own money.
+I pay 100% of the website hosting, yearly domain registration, web tools, hardware and software needed to maintain the websiteß using my own money.
 
 I've been helping people get hired in a call center since 2005. That's thirteen years if you haven't considered the math.
 
@@ -51,9 +51,37 @@ Just click lessons at the top of the page.
 
 This website is a library of hundreds of hours worth of lessons and activities that you can read and learn from.
 
+## Warning: Strong Language Ahead
+
+When I wrote this message, I'm trying to imagine the friends who ask me for help. 
+
+So imagine...
+
+That we are having a heart to heart talk.
+
+Consider everything I say here.
+
+And look at your situation.
+
+And see what applies to you.
+
+## The Truth Hurts
+
+So some of the things I will say WILL BE OFFENSIVE TO A LOT OF PEOPLE. 
+
+But know that I say all these in love.
+
+I want you to improve your life.
+
+And I am willing to tell you the truth so you can make the change.
+
+It's only after you admit your mistakes that you are free to correct them.
+
+That being said, let's start by answering this next question.
+
 ## Do You Deserve A Better Life?
 
-That being said, I only help people who have a strong commitment to succeed. 
+I only help people who have a strong commitment to succeed. 
 
 ## BPO Workers are Rewarded For Hard Work
 
@@ -113,9 +141,9 @@ Get a notebook and write the lessons down.
 
 ## Don't miss these opportunities because you can't speak in English.
 
-I get a lot of messages on a regular basis.
+I get a lot of messages from people asking for help on a regular basis.
 
-It goes something lik: 
+It goes something like: 
   
 > Hi Kevin! I would like to work in a call center…but I’m not good at speaking in English.  
 
@@ -323,7 +351,7 @@ That’s the fucking truth.
 
 I have experienced this first hand.
 
-## Very FEW Peopl WILL TELL YOU What is WRONG With You
+## Very FEW People WILL TELL YOU What is WRONG With You
 
 People are polite and will just point you away but this is the truth.
 
@@ -410,7 +438,7 @@ Smart friends are the short cut to learning faster.
 
 When you read and practice what you learned you can get better. 
 
-I created this blog to provide a collection of free self study lessons.
+I created this website to provide a collection of free self study lessons.
 
 Thank you for reading this far.
 
