@@ -2,7 +2,7 @@
 layout: page
 title: Free Call Center Training Session By Kevin Olega
 author: Kevin Olega
-permalink: /train/
+permalink: /schedule/
 ---
 I've got some free time and I want to help you.
 
