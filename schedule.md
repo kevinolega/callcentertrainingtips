@@ -12,6 +12,4 @@ So let's do a quick call and I'll do my best to answer your questions over the p
 <iframe src="https://calendly.com/callcentertrainingtips/30min" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
 <!-- Calendly inline widget end -->
 
-
-
 [Click here to schedule a free training session](https://calendly.com/callcentertrainingtips/30min).
