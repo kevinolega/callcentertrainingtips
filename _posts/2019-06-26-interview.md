@@ -6,7 +6,7 @@ Tags: [ collection, index, blog ]
 permalink: /interview/ 
 author: Kevin Olega 
 --- 
-Here's a big collection of things that you can learn.
+Here's a big collection of lessons that you can learn.
 
 Every lesson here was learned from experience.
 
