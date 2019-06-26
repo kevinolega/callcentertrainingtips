@@ -199,3 +199,5 @@ This is a skill I learned after I failed my interview at Teleperformance at Octa
 [Tell Your Interviewer Amazing Stories That Make You Stand Out This Resume Exercise Teaches You How](https://callcentertrainingtips.com/tell-amazing-stories/)
 
 Note: I need to add the story of how I met Jean. Perfect english but failed. How I learned that comm skills are different from people skills.
+
+![You're hired]({{ site.url }}/images/Thumbs up.jpg)
