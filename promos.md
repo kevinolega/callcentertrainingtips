@@ -32,8 +32,6 @@ The program is in smartphone format and also printable.
 
 Payments are made via BPI bank deposit. If you're interested, let me know, I'll send you the bank details.
 
-[Click here to buy the training program.](https://goo.gl/forms/M1MbBbdhieN7Ouvc2)
-
 **English Tutorial Service**
 
 [CLICK HERE TO VISIT OUR AFFILIATE TUTORIAL WEBSITE](http://philippinesprivateenglishtutors.com/)
