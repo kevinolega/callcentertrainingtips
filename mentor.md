@@ -144,3 +144,30 @@ You can work hard or work smart.
 - Calendar
 - Lifehacker
 - Books
+
+### Toys
+
+- Notebook
+- Smartphone
+- Computer
+- Cloud
+
+### Skills
+
+- Job Hunting
+- Negotiation
+- Planning
+- Problem Solving
+- Budgetting
+- Meal Prep
+- Fitness
+
+### Success Formula
+
+- Sales
+- Customer Service
+- Problem Solving
+- Weightlifting
+- Cycling
+- Financial planning
+- Cooking
