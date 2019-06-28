@@ -281,6 +281,8 @@ People with good pronunciation are seen as part of the elite and people with bad
 
 See SBC Packers by Rex Navarette on You Tube. Google is your friend.
 
+[CLICK HERE TO WATCH MY VIDEOS](http://callcentertrainingtips.com/youtube/).
+
 You don’t need years to have good pronunciation. 
 
 A lot of people spend years learning how to do it right. 

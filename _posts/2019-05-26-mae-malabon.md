@@ -31,7 +31,7 @@ She can pronounce every word on a script perfectly but can't hold a long convers
 
 She’ll ask questions or share a story that will end in you sharing your own story or experience to get the focus from her English to your English.
 
-She told me that she watched You Tube videos and had read my blog at one point of I remember correctly. 
+She told me that she watched [You Tube videos](http://callcentertrainingtips.com/youtube) and had read my blog at one point of I remember correctly. 
 
 She learned by asking people who spoke in English well to correct her until she got it perfectly. 
 
