@@ -5,6 +5,7 @@ date: 2012-08-09 20:29
 author: Kevin Olega
 description: Use this guide to write a beautiful call center resume and make a great first impression on your interviewer and get hired in a call center.
 comments: true
+permalink: how-to-write-a-resume-for-call-center-application
 categories: [Lessons, call center job application, resume]
 ---
 **Total read time:** 7 minutes 
