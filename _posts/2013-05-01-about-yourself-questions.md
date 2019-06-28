@@ -4,7 +4,7 @@ title: How To Answer Tell Me Something About Yourself Questions
 date: 2013-05-01 10:44
 author: Kevin Olega
 comments: true
-permalink: /how-to-answer-tell-me-something-about-yourself-questions/
+permalink: how-to-answer-tell-me-something-about-yourself-questions
 categories: [Applicant, Lessons]
 ---
 I'm going to teach you how to answer the dreaded question "Tell me something about yourself." I found out today that a lot of people when asked about themselves give bullshit corporate answers like. "I'm a patient, hardworking person that is looking for ways to contribute my skills and talents to your company." or something like this:
