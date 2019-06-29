@@ -7,7 +7,10 @@ permalink: /start/
 ---
 ![Kevin Webmaster](images/Call Center Kevin.jpg)
 
+[CLICK HERE TO GET FREE LESSONS][4].
+
 Hi there!
+
 
 If you’re new here, my name is Kevin and I write the lessons and maintain this site.
 
@@ -27,7 +30,7 @@ In fact, this page is actually part of a free reviewer.
 
 ## Are You Committed To Upgrading Your Life?
 
-[CLICK HERE TO GET MORE FREE LESSONS][4].
+[CLICK HERE TO GET FREE LESSONS][4].
 
 ## I Help People Improve Their Life
 
@@ -47,7 +50,7 @@ In terms of training I do not offer personal training at the moment.
 
 If you read and self-study the lessons on this website, you can get all my lessons for free.
 
-Just click lessons at the top of the page.
+[CLICK HERE TO GET FREE LESSONS][4].
 
 This website is a library of hundreds of hours worth of lessons and activities that you can read and learn from.
 
@@ -99,6 +102,8 @@ If you are interested in private lessons, please visit our affiliate website and
 
 [=>> CLICK HERE TO HIRE PRIVATE ENGLISH TUTOR <<=](http://philippinesprivateenglishtutors.com/)
 
+[CLICK HERE TO GET FREE LESSONS][4].
+
 ## Why Listen To Me?
 
 If you apply the lessons that you learn from me, you can become the hero of your family.
@@ -130,6 +135,8 @@ You're probably here because you requested a reviewer.
 I'm going to teach you a lot of lessons for free and if you go through them you'll be able to become successful with call center work.
 
 ## How To Get The Best Lessons
+
+[CLICK HERE TO GET FREE LESSONS][4].
 
 Get a notebook and take notes.
 
