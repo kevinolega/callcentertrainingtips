@@ -7,6 +7,8 @@ permalink: /start/
 ---
 ![Kevin Webmaster](images/Call Center Kevin.jpg)
 
+<iframe width="342" height="176" src="https://w2.countingdownto.com/2536438" frameborder="0"></iframe>
+
 [CLICK HERE TO GET FREE LESSONS][4].
 
 Hi there!
@@ -450,6 +452,8 @@ I created this website to provide a collection of free self study lessons.
 Thank you for reading this far.
 
 ## Want More Lessons?
+
+<iframe width="342" height="176" src="https://w2.countingdownto.com/2536438" frameborder="0"></iframe>
 
 [CLICK HERE TO STAY IN TOUCH AND GET MORE FREE LESSONS][4]. 
 
