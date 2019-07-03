@@ -1,9 +1,9 @@
 --- 
 layout: post 
-title: 
+title: How to Get Rewarded for Your Skills
 date: 2019-07-03 16:10
 Tags: [ lessons, mindset, blog ]
-permalink: /learning-skills/ 
+permalink: /skills-reward/ 
 author: Kevin Olega 
 --- 
 [During my first training session, we learned that performers get paid and observers pay](http://callcentertrainingtips.com/performer-observer).
