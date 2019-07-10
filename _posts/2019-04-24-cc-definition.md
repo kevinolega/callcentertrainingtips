@@ -17,11 +17,13 @@ For a business owners it’s a place to outsource business related tasks we’d 
 
 For some entrepreneurs it’s a business opportunity.
 
-**But that’s not who I wrote this blog for.**
+**But that’s not who I wrote this website for.**
 
 You just retired from your work voluntarily or involuntarily and you’re bored with staying at home and looking for a source of income a call center maybe for you.
 
-You’re a fresh graduate, looking to earn some money for yourself or to start a business later on. Maybe you feel it's a bad way to invest your time to take a job that pays below minimum wage.
+You’re a fresh graduate, looking to earn some money for yourself or to start a business later on. 
+
+Maybe you feel it's a bad way to invest your time to take a job that pays below minimum wage.
 
 You’re a new graduate and you can’t find a job in the field of study you took up in college.
 

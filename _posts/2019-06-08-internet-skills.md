@@ -2,7 +2,7 @@
 layout: post 
 title: Center Internet Skills
 date: 2019-06-08 12:29
-Tags: [ Basics, blog ]
+Tags: [ Basics, website ]
 permalink: /internet-skills/ 
 author: Kevin Olega 
 --- 

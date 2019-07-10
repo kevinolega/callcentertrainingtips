@@ -7,7 +7,7 @@ author: Kevin Olega
 --- 
 One question we often get asked is what is a BPO and how is it related to call center work.
 
-In this post we will discuss what a BPO is and how knowing about it can help increase your chances of getting hired in a call center.
+In this lesson we will discuss what a BPO is and how knowing about it can help increase your chances of getting hired in a call center.
 
 Understanding what a BPO is will enable you to understand what kind of job you are getting in to and as a result you can prepare better. 
 

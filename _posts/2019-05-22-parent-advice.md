@@ -2,7 +2,7 @@
 layout: post 
 title: Naaalala mo pa ba?
 date: 2019-05-22 15:56
-Tags: [ tagalog, blog ]
+Tags: [ tagalog, website ]
 permalink: /parent-advice/ 
 author: Kevin Olega 
 --- 

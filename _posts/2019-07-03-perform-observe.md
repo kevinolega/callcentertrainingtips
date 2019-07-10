@@ -2,7 +2,7 @@
 layout: post 
 title: Do You Act Like a Performer or Observer?
 date: 2019-07-03 15:50
-Tags: [ lessons, mindset, blog ]
+Tags: [ lessons, mindset, website ]
 permalink: /perform-observe/ 
 author: Kevin Olega 
 --- 
@@ -60,7 +60,7 @@ What is the band doing?
 
 He said this is an image of what it's like at work.
 
-The people who are performing get paid really.
+The people who are performing get paid really well.
 
 And the people who are not performing don't get paid.
 
@@ -76,6 +76,8 @@ Are you going to be a performer or just an observer?
 
 **Trivia**
 
-Helen Keller was an American author, political activist, and lecturer. She was the first deaf-blind person to earn a Bachelor of Arts degree.
+Helen Keller was an American author, political activist, and lecturer. 
+
+She was the first deaf-blind person to earn a Bachelor of Arts degree.
 
 ![IMAGE TEXT]({{ site.url }}/images/performer.jpg).

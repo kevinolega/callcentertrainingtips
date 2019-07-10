@@ -2,7 +2,7 @@
 layout: post 
 title: What Attitude Gets You Hired and What Keeps You Unemployed
 date: 2019-07-04 12:18
-Tags: [ lesson, attitude, blog ]
+Tags: [ lesson, attitude, website ]
 permalink: /hired-attitude/ 
 author: Kevin Olega 
 --- 

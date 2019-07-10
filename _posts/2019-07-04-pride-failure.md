@@ -2,7 +2,7 @@
 layout: post 
 title: Pride Makes Failure Permanent
 date: 2019-07-04 13:14
-Tags: [ lessons, mindset, blog ]
+Tags: [ lessons, mindset, website ]
 permalink: /pride-failure/ 
 author: Kevin Olega 
 --- 

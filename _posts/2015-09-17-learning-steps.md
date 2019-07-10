@@ -6,24 +6,42 @@ author: Kevin Olega
 comments: true
 categories: [Applicant, Lessons]
 ---
-This is possibly one of the most important lessons I can share with you. I did not come up with post by myself. The people who the lessons come from are smarter than me and are more successful than me. I just happened to acquire their lessons in their books, had encountered successful people personally who used their lessons and had applied the lessons to myself. I am simply passing on what I learned forward.
+This is possibly one of the most important lessons I can share with you. 
 
-One of the most important lessons I picked up from the early stages of my working career is that **“anything you need to know can be learned”** and the four stages of leaning discussed in this post.
+I did not come up with post by myself. 
+
+The people who the lessons come from are smarter than me and are more successful than me. 
+
+I just happened to acquire their lessons in their books, had encountered successful people personally who used their lessons and had applied the lessons to myself. 
+
+I am simply passing on what I learned forward.
+
+One of the most important lessons I picked up from the early stages of my working career is that **“anything you need to know can be learned”** and the four stages of leaning discussed in this lesson.
 
 Whenever you find yourself not doing well at a skill you need to be aware that learning has the following  four stages.
 
-I would recommend that you **return to this post every time you encounter frustration or challenges**.
+I would recommend that you **return to this lesson every time you encounter frustration or challenges**.
 
 #### 1. Ignorance
 
-This part is referred to as unconscious incompetent. In other words. You don’t know that you don’t know a topic.
+This part is referred to as unconscious incompetent. 
+
+In other words. 
+
+You don’t know that you don’t know a topic.
 
 <em>An example would be you only know that call center companies pay well but you don’t know the requirements or how to work there.
 </em>
 
 #### 2. Awareness
 
-Sometimes called frustration or education stage. This part is referred to as conscious incompetent. In other words. You don’t know that you don’t know.
+Sometimes called frustration or education stage. 
+
+This part is referred to as conscious incompetent. 
+
+In other words. 
+
+You don’t know that you don’t know.
 
 <em>An example would be. Your first failure. You just find out that you can’t get hired in a call center because you gave the wrong interview answer or had spoken at least ten English words correctly.</em>
 
@@ -39,7 +57,9 @@ If you can identify those ten words you spoke with incorrect pronunciation and c
 
 #### 3. Competence
 
-This part is referred to as consciouss competent. You know that you know. You can use the skill but this requires some to a large amount of mental focus or concentration.
+This part is referred to as consciouss competent. 
+
+You know that you know. You can use the skill but this requires some to a large amount of mental focus or concentration.
 
 <em>An example is doing something you haven’t memorised or are reading, a script for example, from your phone. The words are sometimes mumbled, you sound unsure, you can say it. Most of it at least it’s not perfect and some people might say it’s passable.</em>
 

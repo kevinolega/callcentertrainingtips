@@ -19,11 +19,25 @@ Practice telling these stories.
 
 **What's the point?**
 
-Ever want to come up with awesome answers to call center interviews? The kind of answers that keep your interviewer focused on you and wanting more? If you look at the Internet and copy the answers from others then there is a good chance that your interviewer had heard of that from somewhere before and it makes you a copying fake.
+Ever want to come up with awesome answers to call center interviews? 
 
-I'm confident my answers are pretty awesome but you know what? So are your answers. You can't tell my stories because they are not your life experiences.
+The kind of answers that keep your interviewer focused on you and wanting more? 
 
-Your stories are even more awesome. In fact I would like to hear them. Seriously. I enjoy reading every story I get in the email, the comments and in the Facebook page of the blog.
+If you look at the Internet and copy the answers from others then there is a good chance that your interviewer had heard of that from somewhere before and it makes you a copying fake.
+
+I'm confident my answers are pretty awesome but you know what? 
+
+So are your answers. 
+
+You can't tell my stories because they are not your life experiences.
+
+Your stories are even more awesome. 
+
+In fact I would like to hear them. 
+
+Seriously. 
+
+I enjoy reading every story I get in the email, the comments and in the Facebook page of the website.
 
 **Here are additional tips**.
 Tell the stories again and again and check yourself for grammar and pronunciation errors.
@@ -36,8 +50,18 @@ Will it catch their attention?
 Does this story say that I'm a good catch?
 What other stories can I share?
 
-I have now passed on one of my important techniques. So go ahead and practice it and use it well.
+I have now passed on one of my important techniques. 
 
-You don't need to memorize the stories. You just need to know them in advance so you are ready to use them whenever the situation calls for it. Stories are proof. Stories are the closest things to prove that you are a great catch.
+So go ahead and practice it and use it well.
 
-Share your stories here with me as well. I look forward to reading your amazing stories.
+You don't need to memorize the stories. 
+
+You just need to know them in advance so you are ready to use them whenever the situation calls for it. 
+
+Stories are proof. 
+
+Stories are the closest things to prove that you are a great catch.
+
+Share your stories here with me as well. 
+
+I look forward to reading your amazing stories.

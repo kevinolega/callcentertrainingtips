@@ -22,11 +22,13 @@ I did not edit this testimonial to show you that a person does not have to be pe
 
 An acceptable level is fine just be willing to improve a few things as you go along.
 
-So today we're learning from another reader. Here goes.
+So today we're learning from another reader. 
+
+Here goes.
 
 ### Enter Kit
 
-Hi guys, first of all i want to say thanks to Mr. Kevin Olega who started this Blog, it’s been 3 months since i started reading his posts, and it was really a great help.
+Hi guys, first of all i want to say thanks to Mr. Kevin Olega who started this website, it’s been 3 months since i started reading his posts, and it was really a great help.
 
 Back then I was still working as a waiter in a 5 star hotel in malate, I was happy with my job, however, I started to realize that my salary is not enough, I’m the bread winner, and my salary is really not enough to support our needs, so I thought of working in a call center, i heard rumors that call center industry has many benefits, and they compensate high…
 

@@ -2,7 +2,7 @@
 layout: post 
 title: Ten tips on How to Get Hired in a Call Center This Week
 date: 2019-06-11 23:13
-Tags: [ lessons, blog ]
+Tags: [ lessons, website ]
 permalink: ten-tips-to-get-hired-in-a-call-center-this-week/ 
 author: Kevin Olega 
 --- 
@@ -90,7 +90,9 @@ Be creative and unforgettable.
 
 I wrote some examples on how to answer call center interview questions here. 
 
-Requiters are human. They are harmless but just as girls don’t fall for cheesy pick up lines as they do in the movies memorized interview answers don’t work and describes you in one word. 
+Requiters are human. 
+
+They are harmless but just as girls don’t fall for cheesy pick up lines as they do in the movies memorized interview answers don’t work and describes you in one word. 
 
 Phony.
 
@@ -170,6 +172,6 @@ Want more?
 
 Read the other lessons.
 
-[Listen to me read this post](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/148146674). 
+[Listen to me read this lesson](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/148146674). 
 
-Tuesday, June 11, 2019 This Post Got Deleted. Reposting.
+Tuesday, June 11, 2019 This Lesson Got Deleted. Reposting.

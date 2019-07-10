@@ -2,7 +2,7 @@
 layout: post 
 title: Make a List of Call Center Companies
 date: 2019-05-31 11:07
-Tags: [ Get Hired in a Call Center, blog ]
+Tags: [ Get Hired in a Call Center, website ]
 permalink: /list-companies/ 
 author: Kevin Olega 
 --- 

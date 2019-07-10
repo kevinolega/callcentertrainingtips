@@ -9,6 +9,7 @@ categories: [Lessons]
 My ten superpowers.
 
 1.  I can sense a cute girl 300 meters away from me even if I'm looking at the opposite direction. They all have enchanting smiles and chinita eyes.
+
 2.  I can dodge, parry and block fast moving objects without needing to directly see them. I often stop or move back to dodge speeding cars I did not see.
 
 3.  I have a fifty fifty percent chance of making you say yes. I also have a fifty fifty percent chance of making you smile.
@@ -17,7 +18,7 @@ My ten superpowers.
 
 5.  I can make smart girls smile, like me and tell me their life story. For some reason I can't get this power to work not too smart girls.
 
-6.  I can use technology and my writing to teach you things and send you ideas even if I'm not physically present. I use the [call center training tips blog](http://callcentertrainingtips.com) or the [Facebook page](http://www.facebook.com/pages/Call-Center-Training-Tips/449507911746386) or my other blogs that [you can check out here](http://kevinolega.com).
+6.  I can use technology and my writing to teach you things and send you ideas even if I'm not physically present. I use the [call center training tips website](http://callcentertrainingtips.com) or the [Facebook page](http://www.facebook.com/pages/Call-Center-Training-Tips/449507911746386) or my other websites that [you can check out here](http://kevinolega.com).
 
 7.  I have super human strength. I can lift things by myself that normally require two or three people to lift. Sometimes this hurts my back though.
 
@@ -31,9 +32,23 @@ Bonus: I can lose 20lbs of fat in thirty days without exercise.
 
 Why is this important?
 
-I got my superpowers because I just said that I had them. I somewhat pretended. Some of them required a bit of practice. Some I mastered with experience. Others required study.
+I got my superpowers because I just said that I had them. 
 
-Mostly, at one point I wanted these powers and they became reality for me. You can do it too. In fact you've done it too as well. Now this can work against you as well. We think of something negative and we make it reality in our lives.
+I somewhat pretended. Some of them required a bit of practice. 
+
+Some I mastered with experience. 
+
+Others required study.
+
+Mostly, at one point I wanted these powers and they became reality for me. 
+
+You can do it too. 
+
+In fact you've done it too as well. 
+
+Now this can work against you as well. 
+
+We think of something negative and we make it reality in our lives.
 
 I will be forever alone.
 
@@ -47,9 +62,21 @@ Nobody will like me.
 
 I'll never be worthy.
 
-And just like the super powers it will become part of your reality. That's right. Whenever I declare negative things into my life they influence my next actions. I call them curses. Stop cursing yourself.
+And just like the super powers it will become part of your reality. 
 
-What I believe affects how I behave. So I pay attention to my thoughts. If I'm going emo because I miss someone, I just need to recognize that and I'll have better thoughts later on.
+That's right. 
+
+Whenever I declare negative things into my life they influence my next actions. 
+
+I call them curses. 
+
+Stop cursing yourself.
+
+What I believe affects how I behave. 
+
+So I pay attention to my thoughts. 
+
+If I'm going emo because I miss someone, I just need to recognize that and I'll have better thoughts later on.
 
 Consider what I said and use superpowers instead of curses.
 

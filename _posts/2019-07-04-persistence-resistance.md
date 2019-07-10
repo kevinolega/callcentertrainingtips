@@ -2,7 +2,7 @@
 layout: post 
 title: Persistence Overcomes Resistance
 date: 2019-07-04 13:05
-Tags: [ mindset, lessons, blog ]
+Tags: [ mindset, lessons, website ]
 permalink: /persistence-resistance/ 
 author: Kevin Olega 
 --- 

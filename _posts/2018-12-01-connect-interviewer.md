@@ -5,7 +5,7 @@ date: 2018-12-01 12:18
 permalink: /connect-interviewer/ 
 author: Kevin Olega 
 --- 
-This post doesn't have an intro but the tips will help you get hired.
+This lesson doesn't have an intro but the tips will help you get hired.
 
 **1. Do an inventory of topics you enjoy talking about.**
 

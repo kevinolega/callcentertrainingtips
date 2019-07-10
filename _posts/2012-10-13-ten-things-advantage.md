@@ -325,7 +325,7 @@ People take things personally.
 
 **8. I’m willing to share my ideas.**  
 
-Many people warn me about my blogs because I share too much ideas. 
+Many people warn me about my websites because I share too much ideas. 
 
 They ask me how I would feel if somebody took ideas from my lessons and profit from it. 
 
@@ -351,7 +351,7 @@ People also see me as more credible, but I’m not after that.
 
 I’m just trying to get stuff out of my head and at the same time, help people without explaining to them in person. 
 
-My first blog was put up to have my advice available without needing to repeat what I said over and over again. 
+My first website was put up to have my advice available without needing to repeat what I said over and over again. 
 
 It also helps myself to be found online. 
 
@@ -407,7 +407,7 @@ If you take all the unnecessary things away you’re left with resources to spar
 
 Minimalism is about saying no so you have resources for what’s beautiful and what’s important. 
 
-I write more about it in my [blog Minimal Changes](http://minimalchanges.com).
+I write more about it in my [website: Minimal Changes](http://minimalchanges.com).
 
 **11. I worked in sales. ** 
 

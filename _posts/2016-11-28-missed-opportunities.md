@@ -16,7 +16,9 @@ Then they ask me if they can get around not speaking in English.
 
 People tell me that they are considering non-voice accounts or local accounts because they do not speak in English well. 
 
-Another common comment that I get is that I’m good at speaking in English because I work in a call center. As if speaking in English had little application outside call centre work.
+Another common comment that I get is that I’m good at speaking in English because I work in a call center. 
+
+As if speaking in English had little application outside call centre work.
 
 Some people tell me they want to find work but they can’t get hired because their English is not good enough.
   
@@ -30,7 +32,9 @@ If you spend time studying and practicing English or any skill you desire to lea
 
 I did this every day until my skills were good enough.
 
-English is a required life skill. That’s what I believe.
+English is a required life skill. 
+
+That’s what I believe.
 
 The reason why you’re not where you want to be in life is not just because of your poor English communication skills but because of your refusal to improve your English communication skills.
 
@@ -104,7 +108,7 @@ English is the skill that allows you to put your foot in the door.
 
 English allows you to communicate to non-Filipinos, how good you are.
 
-**Not getting a job in a call center **
+**Not getting a job in a call center**
 
 Call center is the highest paying job with the lowest specific educational requirement.
 
@@ -192,7 +196,11 @@ This happened multiple times.
 
 As a result she was afraid because management might change their mind and conclude that her promotion was undeserved and that I am more qualified and will take her job.
 
-To prevent that, every time a client calls and looks for me she tells them that I’m out of the office and will take the message on my behalf. She will then not give me a message. She then reported to her boss that I am not handling my client well and they are complaining about me not calling them back and this eventually got me fired. 
+To prevent that, every time a client calls and looks for me she tells them that I’m out of the office and will take the message on my behalf. 
+
+She will then not give me a message. 
+
+She then reported to her boss that I am not handling my client well and they are complaining about me not calling them back and this eventually got me fired. 
 
 Had this happened under a different employer I would be promoted instead and there would be two teams competing.
 
@@ -221,11 +229,19 @@ The solution is getting educated.
 > - Jim Rohn
 
 Here are two ways that I use to educate myself.
-1. Read. You are what you read. You are what you study. Study the best materials.
-2. Observe. Smart friends are the short cut to learning faster. 
+
+1. Read. You are what you read. 
+
+You are what you study. 
+
+Study the best materials.
+
+2. Observe. 
+
+Smart friends are the short cut to learning faster. 
 
 When you read and practice what you learned you can get better. 
 
-I created this blog to provide a collection of free self study lessons.
+I created this website to provide a collection of free self study lessons.
 
 I also offer paid training and books if you need extra help. 

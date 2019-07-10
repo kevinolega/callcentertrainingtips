@@ -12,9 +12,9 @@ Here are the mini-challenges (you do not have to do all of these, just pick one 
 1. Adding healthy things:
 
 - Order food in English.
-- Study one blog post.
+- Study one website post.
 - Listen to one podcast.
-- Write a comment on the blog or Facebook page in English
+- Write a comment on the website or Facebook page in English
 - Send me a message with a list of questions.
 - Buy an English book.
 - Start Journalling in English
@@ -80,6 +80,12 @@ If it sounds easy and you’re already used to speaking in English, try the 7-Da
 
 Not every change listed above for everyone. Find changes that feel right to you, as I know not everyone agrees with everything I’ve listed.
 
-What is healthy for you will be different than what is healthy for me. I believe in a Carnivore diet (out of compassion for humans) and try to eat whole foods as much as I can (but not religiously). That doesn’t mean you have to do that.
+What is healthy for you will be different than what is healthy for me. 
 
-The one thing I believe is in trying to get foods that are full of nutrients — beef, lamb, organ meats and eat less of the foods that are mostly empty of nutrients (processed foods, white bread and sugar, fried foods). Again, you don’t have to be religious about it — I eat cookies and French fries just like most normal people!
+I believe in a Carnivore diet (out of compassion for humans) and try to eat whole foods as much as I can (but not religiously). 
+
+That doesn’t mean you have to do that.
+
+The one thing I believe is in trying to get foods that are full of nutrients — beef, lamb, organ meats and eat less of the foods that are mostly empty of nutrients (processed foods, white bread and sugar, fried foods). 
+
+Again, you don’t have to be religious about it — I eat cookies and French fries just like most normal people!

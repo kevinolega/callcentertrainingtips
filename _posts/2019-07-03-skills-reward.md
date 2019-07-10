@@ -2,7 +2,7 @@
 layout: post 
 title: How to Get Rewarded for Your Skills
 date: 2019-07-03 16:10
-Tags: [ lessons, mindset, blog ]
+Tags: [ lessons, mindset, website ]
 permalink: /skills-reward/ 
 author: Kevin Olega 
 --- 
@@ -30,6 +30,10 @@ Then the trainer went to a person who doesn't know how to draw.
 
 He called the trainee to the white board.
 
+He confirmed that the trainee did not have any drawing experience.
+
+He has zero drawing experience.
+
 He instructed the guy to draw an egg.
 
 Then a rectangle.
@@ -40,7 +44,7 @@ Then a big S.
 
 Then he asked the guy to draw stick arms and legs.
 
-And do his best to add some hair, eyes and a cape.
+And do his best to add some hair, eyes, a smile and a cape.
 
 He asked us if the drawing resembled Superman.
 
@@ -56,7 +60,9 @@ He gave the guy who drew Superman well on his notebook two hundred pesos.
 
 He then gave the guy who drew Superman on the whiteboard three hundred pesos.
 
-He gave the people who knew how to draw but said can't draw Superman zero pesos. Nothing.
+He gave the people who knew how to draw but said can't draw Superman zero pesos. 
+
+Nothing.
 
 His next question.
 
@@ -74,7 +80,9 @@ Practice until you do it well.
 
 What will you do if you want the ten thousand pesos?
 
-Practice until you do it well. Then practice some more if you get better.
+Practice until you do it well. 
+
+Then practice some more if you get better.
 
 He showed us the drawing on the white board. 
 
@@ -158,7 +166,7 @@ Because your lack of confidence stopped you for going after it.
 
 I remember this lesson until today.
 
-Thia lesson stuck to me.
+This lesson stuck to me.
 
 So when someone gets paid a higher salary, I have no reason to complain.
 
@@ -168,12 +176,18 @@ Or more confidence.
 
 But chances are, that person has both.
 
+Because if you only have confidence, you're called a scammer and people will find out and you can't fake it till you make it for long.
+
+And people who have both skill and confidence gets rewarded.
+
 So two things to remember.
 
 1. Practice to build skills.
 2. Skills are only rewarded when combined with confidence.
 
-More than ten years later, I encounter the drawings of Alex Ross, on of my current favorite artists. Then I saw this posted on his social media page.
+More than ten years later, I encounter the drawings of Alex Ross, one of my favorite comic book artists. Then I saw this posted on his social media page.
+
+Just look at that comparrison.
 
 Alex Ross at age 7 and 37
 

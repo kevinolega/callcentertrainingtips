@@ -42,11 +42,21 @@ Good communication involves three important elements.
 
 **1. You need to get used to giving introductions**
 
-You need to get used to keeping your back straignt, taking a deep breath, smiling and telling people your name, where you're from, why you want to work in a call center. You'll also at one point get the opportunity to share a story, give step by step instructions, sell something, talk about how you dealt with a difficult person and so on.
+You need to get used to keeping your back straignt, taking a deep breath, smiling and telling people your name, where you're from, why you want to work in a call center. 
+
+You'll also at one point get the opportunity to share a story, give step by step instructions, sell something, talk about how you dealt with a difficult person and so on.
 
 **2. You'll need hold the conversation for at least ten minutes**
 
-In a call center scenario, you'll often talk to a customer for about ten minutes. You'll need to pay attention and listen to the question, think of a good answer and respond. When you respond, it shouldn't be just single word answers or short sentences. You'll need to be able to elaborate your answer, ask questions, verify that you understood the question clearly, clarify things that you don't understand. So it is important to remember that you need to ask a lot of questions during the interview.
+In a call center scenario, you'll often talk to a customer for about ten minutes. 
+
+You'll need to pay attention and listen to the question, think of a good answer and respond. 
+
+When you respond, it shouldn't be just single word answers or short sentences. 
+
+You'll need to be able to elaborate your answer, ask questions, verify that you understood the question clearly, clarify things that you don't understand. 
+
+So it is important to remember that you need to ask a lot of questions during the interview.
 
 **3. You need to know how to take care of questions that you don't know the answer to**
 
@@ -86,7 +96,9 @@ Feel free to do so.
 
 ### How to answer sales related call center interview questions.
 
-Sales is a problem solving exercise. The process to selling successfully is similar with the steps highlighted in the problem solving section.
+Sales is a problem solving exercise. 
+
+The process to selling successfully is similar with the steps highlighted in the problem solving section.
 
 Here's how to answer sales related call center inteview questions.
 
@@ -96,7 +108,9 @@ Here's how to answer sales related call center inteview questions.
 4. What are the advantages and benefits of what you are selling?
 5. Share the benefits to the buyer.
 
-Here's a simplified version. There are advance sales tactics but we can cover that in a later lesson.
+Here's a simplified version. 
+
+There are advance sales tactics but we can cover that in a later lesson.
 
 All you need to remember is that you need to understand who the buyer is and what benefits they are looking for so you can effectively share the benefits.
 
@@ -128,4 +142,6 @@ I told the interviewer I'm not really a car guy but based on what people told me
 
 That's what I said and they told me that's okay.
 
-This post is still under construction. Be sure to come back for more lessons.
+This post is still under construction. 
+
+Be sure to come back for more lessons.

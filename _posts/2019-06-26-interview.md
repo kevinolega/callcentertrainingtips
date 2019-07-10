@@ -2,7 +2,7 @@
 layout: post 
 title: Call Center Interview Lessons
 date: 2019-06-26 12:02
-Tags: [ collection, index, blog ]
+Tags: [ collection, index, website ]
 permalink: /interview/ 
 author: Kevin Olega 
 --- 
@@ -82,13 +82,19 @@ Every tip that led to success was paid for with my failure.
 
 ## Ask Your Interviewer To Explain The Job Application Process
 
-I don't research companies. I do this instead.
+I don't research companies. 
+
+I do this instead.
 
 [Ask Your Interviewer To Explain The Job Application Process](https://callcentertrainingtips.com/ask-application-process/)
 
 ## How To Answer Call Center Interview Questions
 
-Tips on how to give memorable answers. Give a great impression and get hired. Personal examples included.
+Tips on how to give memorable answers. 
+
+Give a great impression and get hired. 
+
+Personal examples included.
 
 - How I introduce myself.
 - Why I want to work in a call center.
@@ -166,7 +172,9 @@ Tips on how to give memorable answers. Give a great impression and get hired. Pe
 
 ## My biggest interview fail when I was starting out
 
-I failed contract signing at Convergys Ayala. Here's what you can learn from the experience.
+I failed contract signing at Convergys Ayala. 
+
+Here's what you can learn from the experience.
 
 [Don't fail contract signing](https://callcentertrainingtips.com/convergys-gail/).
 

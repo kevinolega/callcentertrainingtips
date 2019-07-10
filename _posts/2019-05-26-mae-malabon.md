@@ -3,7 +3,7 @@ layout: post
 title: Lessons From Mae of Malabon
 date: 2019-05-26 21:38
 description: A few years ago I met Myrtle Anne Crisostomo Ramos from Malabon. She inspired me to do well at Call Center Work. This is her story.
-Tags: [ Call Center People, Get Regularized, blog]
+Tags: [ Call Center People, Get Regularized, Website]
 permalink: /mae-malabon/ 
 author: Kevin Olega 
 --- 
@@ -31,7 +31,7 @@ She can pronounce every word on a script perfectly but can't hold a long convers
 
 She’ll ask questions or share a story that will end in you sharing your own story or experience to get the focus from her English to your English.
 
-She told me that she watched [You Tube videos](http://callcentertrainingtips.com/youtube) and had read my blog at one point of I remember correctly. 
+She told me that she watched [You Tube videos](http://callcentertrainingtips.com/youtube) and had read my website at one point of I remember correctly. 
 
 She learned by asking people who spoke in English well to correct her until she got it perfectly. 
 
@@ -138,4 +138,4 @@ Eventually,  after a year I became top agent for sales, using half the things I 
 
 Mostly that you can have a shit situation but if you use your brain a little, even if you aren’t very intelligent, you can do well at work and make your life better.
 
-I wrote this post to honor her and also to inspire you.
+I wrote this lesson to honor her and also to inspire you.

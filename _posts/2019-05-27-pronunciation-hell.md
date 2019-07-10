@@ -3,7 +3,7 @@ layout: post
 title: Most Difficult Pronunciation Practice
 date: 2019-05-27 14:00
 description: Test your pronunciation skills using this activity and get hired in any call center.
-Tags: [ activities, blog ]
+Tags: [ activities, website ]
 permalink: /pronunciation-hell/ 
 author: Kevin Olega 
 --- 

@@ -2,7 +2,7 @@
 layout: post 
 title: How to Create a Clothing Schedule and Save Your Time
 date: 2019-05-31 10:37
-Tags: [ Top Performer, blog ]
+Tags: [ Top Performer, website ]
 permalink: /clothing-schedule/ 
 author: Kevin Olega 
 --- 

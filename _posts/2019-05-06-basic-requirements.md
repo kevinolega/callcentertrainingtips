@@ -25,19 +25,25 @@ Having good communication skills are required for the job.
 
 You’ll be talking mostly in English so you better polish up this skill.
 
-It doesn't have to be perfect. You will be reading from a script most of the time.
+It doesn't have to be perfect. 
+
+You will be reading from a script most of the time.
 
 Your English just needs to be good enough for small talk, asking questions, explaining your process, giving directions, and telling short stories.
 
-Avoid making pronunciation errors like B and V, P and F, and finally TH sounds. We have several exercises on [this call center tips blog](http://callcentertrainingtips.com).
+Avoid making pronunciation errors like B and V, P and F, and finally TH sounds. We have several exercises on [this call center tips website](http://callcentertrainingtips.com).
 
 You can check out the top 100 used words in the English Language and check your pronunciation.
 
 Practice with a friend who works in a call center or is good at speaking in English.
 
-Think in English so you don't need to translate before you speak. Read in English, Write in English, Pray in English and Speak in English whenver you can. The more you do this the easier it is for you.
+Think in English so you don't need to translate before you speak. 
 
-Speaking in English is like growing a muscle. More exercise, more growth.
+Read in English, Write in English, Pray in English and Speak in English whenver you can. The more you do this the easier it is for you.
+
+Speaking in English is like growing a muscle. 
+
+More exercise, more growth.
 
 **Willing to work night shifts and graveyard shifts**.
 
@@ -45,7 +51,9 @@ Many call center companies work for clients in the United States.
 
 The usual work schedule is the opposite of Philippine Time.
 
-When I worked in a Call Center we followed, Eastern Standart Time. Some of the shifts I've taken starts at 8pm, 1am, 2am and 4am Manila time.
+When I worked in a Call Center we followed, Eastern Standart Time. 
+
+Some of the shifts I've taken starts at 8pm, 1am, 2am and 4am Manila time.
 
 It's a little difficult to adjust to.
 
@@ -61,7 +69,9 @@ Despite the advantages, A lot of people quit call center work. Some for personal
 
 That said reputable call center companies are always hiring and they need to hire agents immediately.
 
-They want a call center agent who can start as soon as they can because call center recruiters have deadlines to fill with their accounts with a specific number of agents. An unfilled position is bad for their business so they want to hire agents fast.
+They want a call center agent who can start as soon as they can because call center recruiters have deadlines to fill with their accounts with a specific number of agents. 
+
+An unfilled position is bad for their business so they want to hire agents fast.
 
 **18 years old up to around 50plus**.
 
@@ -94,7 +104,11 @@ Sometimes the college requirement can be bypassed by call center experience with
 
 A college education isn't as big of a deal today than it did in the past so it shouldn't be an obstacle to you getting hired in a call center.
 
-Many of my friends used call center companies as an income source to pay for college so that option is available for you. Just don't tell them you plan to work while studying. If your interviewer asks about it tell them you need to save money then after one to two years you might be taking classes.
+Many of my friends used call center companies as an income source to pay for college so that option is available for you. 
+
+Just don't tell them you plan to work while studying. 
+
+If your interviewer asks about it tell them you need to save money then after one to two years you might be taking classes.
 
 Here are the requirements to getting hired in a call center.
 

@@ -19,7 +19,7 @@ Are you cool with that?
 
 Great! Like you have a choice.
 
-- Do you have a Facebook (Friendster, Twitter, Blog, etc) account?
+- Do you have a Facebook (Friendster, Twitter, Website, Blog, etc) account?
 - Did you type your resume in a computer?
 - Do you check your email account?
 - Do you know how to shut down a computer?
@@ -51,9 +51,9 @@ I prefer typing games over the serious ones.
 
 It's as boring as hell. 
 
-You can also increase your typing speed if you write a blog. 
+You can also increase your typing speed if you write a website. 
 
-I now have a typing speed of close to 40wpm because I want to type faster so I can just type my thoughts on the blog post as if I were just dictating it. 
+I now have a typing speed of close to 40wpm because I want to type faster so I can just type my thoughts on the website post as if I were just dictating it. 
 
 It does take some time though.
 

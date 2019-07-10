@@ -6,12 +6,45 @@ author: Kevin Olega
 comments: true
 categories: [Activity, Applicant, Lessons]
 ---
-Do you ever find yourself having a hard time answering a question? Here's a trick that I use. You just need a pen and some paper. It'll take five minutes or less.
+Do you ever find yourself having a hard time answering a question? 
 
-- **Step 1: Define the question**. What is the question?
-- **Step 2: Write down 10 possible answers**. You can also include elements of your answer. Don't think about it too much and just write it. You'll edit later. You can add more. The idea is to just get ideas on paper so you can decide better what to include.
-- **Step 3: Study your answer**. Review it carefully. What do you like? What do you think works? What can you remove? What's the best way to say it?
-- **Step 4: Select 2-3 items** from your list that you consider to be the best and use that for your answer.
+Here's a trick that I use. 
+
+You just need a pen and some paper. 
+
+It'll take five minutes or less.
+
+**Step 1: Define the question**. 
+
+What is the question?
+
+**Step 2: Write down 10 possible answers**. 
+
+You can also include elements of your answer. 
+
+Don't think about it too much and just write it. 
+
+You'll edit later. 
+
+You can add more. 
+
+The idea is to just get ideas on paper so you can decide better what to include.
+
+**Step 3: Study your answer**. 
+
+Review it carefully. 
+
+What do you like? 
+
+What do you think works? 
+
+What can you remove? 
+
+What's the best way to say it?
+
+**Step 4: Select 2-3 items** 
+
+from your list that you consider to be the best and use that for your answer.
 
 ## How to Answer Common Interview Questions
 

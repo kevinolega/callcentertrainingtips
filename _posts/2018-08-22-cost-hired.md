@@ -38,7 +38,7 @@ I divided this guide into the following stages:
 3.  Pre-Employment Stage
 4.  Employment Stage or Pre-Paycheck stage.
 
-The objective of this post is not to discourage anyone. 
+The objective of this lesson is not to discourage anyone. 
 
 My goal is to reveal what lies ahead so you can come in with your eyes open.
 

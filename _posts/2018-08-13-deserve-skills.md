@@ -25,11 +25,17 @@ If your goal is to land your dream job, and you are coming from an experience of
 
 There are a lot of failures along the way, but I can tell you that it takes time and a lot of courage to succeed.
 
-Life does not give you what you want. Life gives you what you deserve.
+Life does not give you what you want. 
 
-Take a minute to consider the last two sentences. Let me type that again.
+Life gives you what you deserve.
 
-Life does not give you what you want. Life gives you what you deserve.
+Take a minute to consider the last two sentences. 
+
+Let me type that again.
+
+Life does not give you what you want. 
+
+Life gives you what you deserve.
 
 Just pause and think about it.
 
@@ -88,6 +94,7 @@ I've met several wealthy families who enroll their children at expensive pre-sch
 On top of that, they also enroll their children into expensive, advance learning after school programs like Kumon Math and MSA Tutorial.
 
 When the kid enters high school, they get conversations about career, college courses and the like.
+
  The kid is then offered incentives to qualify at the best schools.
 
 After graduating from the best schools, the young adult works for the best companies and goes after promotions and at the same time enhancing their skills through additional classes and eventually MBA or Masters degree.
@@ -150,4 +157,4 @@ Back in 2014, I spent a lot of time learning how to cook and ended up watching a
 
 There's a lot more examples.
 
-I look forward to sharing on the blog.
+I look forward to sharing on the website.

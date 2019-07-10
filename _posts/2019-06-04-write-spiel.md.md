@@ -3,7 +3,7 @@ layout: post
 title: How to Always Give the Best Response to Customers - Write the Perfect Spiel
 description: Learn how to write the perfect spiel. Invest in a notebook and earn all the extra bonuses that your company provides.
 date: 2019-06-04 11:21
-Tags: [ Top Agent, blog ]
+Tags: [ Top Agent, website ]
 permalink: /write-spiel/ 
 author: Kevin Olega 
 --- 
@@ -65,16 +65,28 @@ How do you make your spiel better?
 
 ## 1. Write down your spiel.
 
-This is practice mode. Let's see if you know the spiel by heart.
-Just write it down. I still do this when I'm on a bus or on a Grab on my way to work. I'm looking for ways to make it better.
+This is practice mode. 
 
-Write down the full spiel. Write down every element.
+Let's see if you know the spiel by heart.
+Just write it down. 
+
+I still do this when I'm on a bus or on a Grab on my way to work. 
+
+I'm looking for ways to make it better.
+
+Write down the full spiel. 
+
+Write down every element.
 
 ## 2. Identify the parts of your spiel.
 
-You have an opening, middle and closing. You also have the customer hold spiel, returning from hold spiel, transfer to another department spiel, what to say if they ask for a supervisor spiel and so on. 
+You have an opening, middle and closing. 
 
-If you're in customer service or tech support, you'll have several of these. Different customer service and tech support situations have different closing spiels.
+You also have the customer hold spiel, returning from hold spiel, transfer to another department spiel, what to say if they ask for a supervisor spiel and so on. 
+
+If you're in customer service or tech support, you'll have several of these. 
+
+Different customer service and tech support situations have different closing spiels.
 
 ### 3. Identify the different situations and calls that require different spiels.
 
@@ -155,7 +167,9 @@ Take a deep breath and smile before you say anything.
 
 Practice adjusting the volume if it's too loud or too soft.
 
-Play with it. How would your favorite actor or character take the call?
+Play with it. 
+
+How would your favorite actor or character take the call?
 
 ### Closing:
 

@@ -2,7 +2,7 @@
 layout: post 
 title: Here Are Google Shortcuts
 date: 2019-06-11 14:14
-Tags: [ uncategorized, blog ]
+Tags: [ uncategorized, website ]
 permalink: /google-shortcuts/ 
 author: Kevin Olega 
 --- 

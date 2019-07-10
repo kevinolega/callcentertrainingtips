@@ -2,7 +2,7 @@
 layout: post 
 title: Google Search Call Companies in Your City
 date: 2019-05-31 11:09
-Tags: [ Get Hired in a Call Center, blog ]
+Tags: [ Get Hired in a Call Center, website ]
 permalink: /google-companies/ 
 author: Kevin Olega 
 --- 

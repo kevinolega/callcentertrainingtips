@@ -7,7 +7,11 @@ comments: true
 permalink: how-to-answer-tell-me-something-about-yourself-questions
 categories: [Applicant, Lessons]
 ---
-I'm going to teach you how to answer the dreaded question "Tell me something about yourself." I found out today that a lot of people when asked about themselves give bullshit corporate answers like. "I'm a patient, hardworking person that is looking for ways to contribute my skills and talents to your company." or something like this:
+I'm going to teach you how to answer the dreaded question "Tell me something about yourself." 
+
+I found out today that a lot of people when asked about themselves give bullshit corporate answers like. 
+
+"I'm a patient, hardworking person that is looking for ways to contribute my skills and talents to your company." or something like this:
 
 1) I am a person with strong interpersonal skills and have the ability to get along well with people. I enjoy challenges and looking for creative solutions to problems.
 
@@ -63,11 +67,27 @@ Well since I was doing sales, I learned that how you say things is a big factor 
 
 ##### Why did you pick that job?
 
-I used to be a really shy person. A close friend of mine advised that I overcome this by getting a job in sales. After a few months I was able to get over my fear of talking to people and now I'm used to it.
+I used to be a really shy person. 
+
+A close friend of mine advised that I overcome this by getting a job in sales. 
+
+After a few months I was able to get over my fear of talking to people and now I'm used to it.
 
 ##### Why did you pick this job?
 
-I want to work in a call center because the pay is decent (I say decent because I've made bigger amounts of money in sales) and stable. Big companies pay on time all the time. I've worked with start ups and local businesses and I've experienced pays being delayed a lot. I also like the fact that work ends after work. If my shift is until 9:30am then I'm expected to leave at 9:30am. No homework. I can have a life after work.
+I want to work in a call center because the pay is decent (I say decent because I've made bigger amounts of money in sales) and stable. 
+
+Big companies pay on time all the time. 
+
+I've worked with start ups and local businesses and I've experienced pays being delayed a lot. 
+
+I also like the fact that work ends after work. 
+
+If my shift is until 9:30am then I'm expected to leave at 9:30am. 
+
+No homework. 
+
+I can have a life after work.
 
 ##### Where did you study?
 
@@ -83,7 +103,13 @@ I enjoy travelling, writing, reading things, watching (feel good and inspiring) 
 
 ##### What kind of people do you enjoy being with?
 
-I enjoy hanging out with people who are positive and fun to talk to. I like people who read books and blogs. I like people who like food and travel. I love meeting people who inspire me to be better.
+I enjoy hanging out with people who are positive and fun to talk to. 
+
+I like people who read books and blogs. 
+
+I like people who like food and travel. 
+
+I love meeting people who inspire me to be better.
 
 ##### What's your favorite quote?
 
@@ -91,6 +117,18 @@ Today's Tragedies are Tomorrow's Comedies - Colin Wright.
 
 ##### How many times should you apply before getting hired in a call center?
 
-As many times as needed to get hired. Look do not mindlessly do things like you did in school. Treat your job application as you would when, you are playing DOTA, trying to pursue that hot partner of yours, or learning cooking or martial arts or something you are interested in. Be interested and learn what you need to learn. Apply that and get better until you get hired. I'd love to hear your answers. Email away.
+As many times as needed to get hired. 
+
+Look do not mindlessly do things like you did in school. 
+
+Treat your job application as you would when, you are playing DOTA, trying to pursue that hot partner of yours, or learning cooking or martial arts or something you are interested in. 
+
+Be interested and learn what you need to learn. 
+
+Apply that and get better until you get hired. 
+
+I'd love to hear your answers. 
+
+Email away.
 
 You can also checkout [this article](https://www.cleverism.com/tell-me-about-yourself//).

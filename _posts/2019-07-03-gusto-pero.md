@@ -2,7 +2,7 @@
 layout: post 
 title: Gusto Ko Mag Trabaho sa Call Center...
 date: 2019-07-03 16:59
-Tags: [ excuses, blog ]
+Tags: [ excuses, website ]
 permalink: /gusto-pero/ 
 author: Kevin Olega 
 --- 

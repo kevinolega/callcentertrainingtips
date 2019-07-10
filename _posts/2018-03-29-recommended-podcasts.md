@@ -64,7 +64,17 @@ Here's a list of podcasts that I listen to.
 
 **Let's Know Things**
 
-Let's know things is hosted by Colin Wright. He talks about a wide range of topics. My favorites include technology, automation and some news. Colin is a great story teller. Expect to pick up inspiration on analogies, story telling, making a case and your communication skills in general. This is my favorite podcast and I've listened to every episode.
+Let's know things is hosted by Colin Wright. 
+
+He talks about a wide range of topics. 
+
+My favorites include technology, automation and some news. 
+
+Colin is a great story teller. 
+
+Expect to pick up inspiration on analogies, story telling, making a case and your communication skills in general. 
+
+This is my favorite podcast and I've listened to every episode.
 
 [link](http://letsknowthings.com/)
 
