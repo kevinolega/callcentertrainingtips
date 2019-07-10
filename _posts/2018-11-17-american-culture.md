@@ -1,5 +1,3 @@
-
-
 --- 
 layout: post 
 title: American and Filipino Culture
