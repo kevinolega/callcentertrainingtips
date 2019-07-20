@@ -14,7 +14,7 @@ I spent 150/day to commute back and forth to the call center.
 
 If you work five days a week, that translates to Php 3,000/month.
 
-[I started biking to and from Makati and saved Php 3,000/month](https://philippineislandliving.com/things-i-wish-i-knew-about-biking-to-work-in-manila/)
+[I started biking to and from Makati and saved Php 3,000/month](https://philippineislandliving.com/things-i-wish-i-knew-about-biking-to-work-in-manila/).
 
 You need to be careful though.
 
@@ -24,11 +24,11 @@ Biking to work has it's own challenges.
 
 I've tried different bikes as well.
 
-[I own a Folding Bike](https://philippineislandliving.com/giant-fd806-folding-bike-review/)
+[I own a Folding Bike](https://philippineislandliving.com/giant-fd806-folding-bike-review/).
 
-[I own a Mountain Bike](https://philippineislandliving.com/sgm/)
+[I own a Mountain Bike](https://philippineislandliving.com/sgm/).
 
-[I also own a Fixed Gear Bike](https://philippineislandliving.com/fixed-gear/)
+[I also own a Fixed Gear Bike](https://philippineislandliving.com/fixed-gear/).
 
 Zach Gallardo talkes about Fixed Gear bikes.
 
@@ -47,6 +47,12 @@ And I learned a lot of lessons from Zach.
 The most important lessons is you can keep your brakes on.
 
 You don't need to write brakeless for fixed gear bikes.
+
+Fixed gear bikes are popular for not having brakes.
+
+But you don't have to follow that stupidity.
+
+Especially if you are riding your bike in Manila.
 
 That's because having the emergency brakes can help you make emergency stops.
 
