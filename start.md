@@ -16,6 +16,8 @@ If you’re new here, my name is Kevin and I write the lessons and maintain this
 
 I'm the number one Call Center Job Hunting Assistance writer in the Philippines.
 
+[My lessons have helped hundreds of people get hired in a call center](https://callcentertrainingtips.com/testimonials).
+
 I pay 100% of the website hosting, yearly domain registration, web tools, hardware and software needed to maintain the websiteß using my own money.
 
 I've been helping people get hired in a call center since 2005. That's thirteen years if you haven't considered the math.
@@ -452,6 +454,9 @@ Thank you for reading this far.
 ## Want More Lessons?
 
 [CLICK HERE TO STAY IN TOUCH AND GET MORE FREE LESSONS][4]. 
+
+[My lessons have helped hundreds of people get hired in a call center](https://callcentertrainingtips.com/testimonials).
+
 
 [1]:	http://callcentertrainingtips.com/contact/
 [2]:	https://www.facebook.com/profile.php?id=247824095581789&ref=br_rs

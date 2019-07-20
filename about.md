@@ -9,6 +9,8 @@ Call Center Training Tips started as a list of tips on how to pass call center i
 
 I'm Kevin and I have been working on the lessons for seven years. I have been publishing the lessons since 2012 and this had reached thousands of Filipinos who want to work in a call center.
 
+[My lessons have helped hundreds of people get hired in a call center](https://callcentertrainingtips.com/testimonials).
+
 Several hundred people had sent me letters and messages, thanking and informing me of their success, that they are already hired in a call center. Some readers went as far as sent me gifts and donations to help keep this blog running.
 
 Some readers have hired me to assist them get better results in their job application or promotion interviews.
@@ -138,3 +140,7 @@ This allowed me to jump to better opportunities.
 **UPDATE: I eventually worked in a call center. I have been working in a call center for three years. In my first year I almost failed regularization. My new boss told me that my previous boss recommended me for termination. He didn't stop there though. He helped me identify my strengths and overcome my weaknesses and eventually I got regularized. The next month I was awarded top agent for customer feedback. The following year I was awarder top agent again for the most number of repair calls converted into sales. Using the same method my boss taught me, I just got really better at what I did. If you're interested I can also teach you. Just send me a message.**
 
 **Update 2017: I have left the call center after three years. I was top agent twice and was classified super agent for the day.I now work from home taking care of foreign clients with their business. I used the call center money to buy the computers I need for a home based work setup, I bought the tools to build a beautiful kitchen, I bought a few bikes to take care of my transportation and I enrolled at CrossFit to help manage my depression.**
+
+
+[My lessons have helped hundreds of people get hired in a call center](https://callcentertrainingtips.com/testimonials).
+

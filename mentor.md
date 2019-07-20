@@ -47,6 +47,9 @@ I'll help you perform really well and collect all that call center money.
 
 Then I'll help you grow into the person that you are proud of.
 
+[My lessons have helped hundreds of people get hired in a call center](https://callcentertrainingtips.com/testimonials).
+
+
 ## APPLICATION
 
 ### Preparation

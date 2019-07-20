@@ -3,7 +3,7 @@ layout: page
 title: Testimonials
 permalink: /testimonials/
 ---
-I have helped several people get hired in a call center.
+My lessons have helped several people get hired in a call center.
 
 Here are a few messages that I received.
 

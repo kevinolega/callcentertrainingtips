@@ -4,6 +4,9 @@ title: Promos
 permalink: /promos/
 ---
 
+[My lessons have helped hundreds of people get hired in a call center](https://callcentertrainingtips.com/testimonials).
+
+
 OUR TRAINING PROGRAM IS CURRENTLY BEING UPDATED AND NOT AVAILABLE FOR SALE.
 
 ONCE WE'RE DONE, HERE'S WHAT TO EXPECT.

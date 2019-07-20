@@ -6,6 +6,9 @@ permalink: /schedule
 ---
 I've got some free time and I want to help you.
 
+[My lessons have helped hundreds of people get hired in a call center](https://callcentertrainingtips.com/testimonials).
+
+
 So let's do a quick call and I'll do my best to answer your questions over the phone or on Skype.
 
 <!-- Calendly inline widget begin -->
