@@ -61,3 +61,5 @@ Have a conversation with your interviewer and hint to them that you're a great m
 
 **Do you have a hobby or a trait that you think is an advantage in your job application? Spend time thinking about this question and write your answers on your journal.**
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w2tTq4NwTt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

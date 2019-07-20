@@ -130,3 +130,6 @@ After submitting your resume, be prepared to answer your phone. Expect all unrec
 > Hello Good Morning (or afternoon or evening) May I know who’s this?
 
 Do you have additional resume tips for applying in a call center?
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-1oA-z1XtTU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

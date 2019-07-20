@@ -52,3 +52,5 @@ If it's your first time to apply in a call center, take notes of as many things 
 Memory is not too reliable so taking advantage of technology (pen and paper) will give you an advantage over applicants to enjoy pretending they have photographic memory. Take note of call center names, addresses, interview questions, your answers, the processes, questions you couldn't answer, the phone number of the cute girl who sat beside you anything. Use it to write yourself a guide for a better application the next day. 
 
 Take notes, review and pick the important. Got additional tips or questions? 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b8g_kBupEg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -244,6 +244,9 @@ Want more?
 
 Read the other lessons.
 
-[Listen to me read this lesson](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/148146674). 
+[Listen to me read this lesson](https://w.soundcvloud.com/player/?url=https%3A//api.soundcloud.com/tracks/148146674). 
 
 Tuesday, June 11, 2019 This Lesson Got Deleted. Reposting.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l7RwiGIAxvI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

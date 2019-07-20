@@ -88,3 +88,5 @@ Everything you have in your situation right now is a preparation for the next on
 
 _Note: I wrote this lesson to inspire my readers who have goals of improving their situation but are not ready to take the leap. The best you should do is to prepare right now. Either way you benefit whether you push through with your application or not._
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OCMceuU3JpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

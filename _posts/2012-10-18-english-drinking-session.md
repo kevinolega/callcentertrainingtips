@@ -19,3 +19,5 @@ There was one time when my best friend invited me to a drinking session at his h
 They bought my story. It was a fun drinking session. I somehow felt like I was being a dick but I think it was a good experience.
 
 Have you tried doing this in a drinking session? Share your experience in the comments.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e64lOyRh4TY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

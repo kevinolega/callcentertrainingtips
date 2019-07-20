@@ -193,3 +193,4 @@ Alex Ross at age 7 and 37
 
 ![Alex Ross at age 7 and 37]({{ site.url }}/images/practice.jpg).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3R5VUIY28Gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
