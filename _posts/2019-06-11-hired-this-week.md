@@ -6,11 +6,11 @@ Tags: [ lessons, website ]
 permalink: ten-tips-to-get-hired-in-a-call-center-this-week/ 
 author: Kevin Olega 
 --- 
-I wrote tips in this site to help a few friends look for work in a call center. 
+I wrote tips in this website to help a few friends look for work in a call center. 
 
 Later on more people asked me for tips. 
 
-Instead of explaining things to them one by one I decided it would be better if I put the advice in writing and answered questions on this site. 
+Instead of explaining things to them one by one I decided it would be better if I put the advice in writing and answered questions on this website. 
 
 I don’t claim to have all the answers but I believe I have a few that could help. 
 
@@ -32,13 +32,17 @@ An interview is like a first date.
 
 That said you don’t want to marry your first date. 
 
-You have to go look for a match. 
+You have to go look for a match.
 
-You also have to get to several ones before you find your regular date and the one you’ll eventually partner up with. 
+If it is not a good match, you need to go on another date.
+
+You keep going on dates until you find someone you like. 
+
+You also have to get to several dates before you find your regular date and the one you’ll eventually pair up with. 
 
 On a lighter note, you have no right to complain until after you have used up all thirty copies of your resume.
 
-## 2. Identify ten call centers that you would like to work for.
+## 2. Identify ten call center companies that you would like to work for.
 
 People don’t plan to fail. 
 
@@ -48,9 +52,13 @@ The biggest time waster is not knowing what to do and trying to decide as you’
 
 Decide now where you want to go and then act. 
 
-So when you’re applying if they say no you can go to the next quickly. 
+So when you’re applying in a call center job and you get rejected, you can go to the next company quickly. 
 
-In my experience the more companies I have as prospects the more at ease I am at interviews because I know that if this interview does not go well I have many companies lined up and waiting for me.
+In my experience the more companies I have as prospects the more at ease I am at interviews because I know that if this interview does not go well I have many companies lined up as backups and waiting for me to apply.
+
+In my mind, when I talk to the interviewer, you are one of thirty.
+
+(In reference to the thirty resume that I printed out.)
 
 ## 3. Apply via walk in application.
 
@@ -58,19 +66,55 @@ Feel free to apply online.
 
 I like this step because I like being in control of my schedule. 
 
-If things don’t go well with my interview I walk in to the nearest one I know of. Walking in is more convenient. 
+If things don’t go well with my interview I walk in to the nearest one I know of. 
 
-I just go there and submit my resume and get processed there and then at my convenient time. 
+Walking in is more convenient. 
+
+In Metro Manila, there are many call center companies with giant signs everywhere.
+
+It is easy to just drop in.
+
+I just go to a company.
+
+I tell the guard I'd like to apply.
+
+I submit my resume and get processed there and then. 
 
 I am never late because they are not expecting me anyway. 
 
+If I fail.
+
 There are more. 
+
+Several companies are usually next to each other.
+
+Northgate Alabang.
+
+Ayala Makati.
+
+Buendia Makati.
+
+BGC.
+
+UP Technohub in Quezon City.
+
+SM Mall of Asia in Pasay.
+
+These places have at least three call center companies that you can visit.
 
 Just give it a shot. 
 
 Who knows? 
 
-By your walk in application your interviewer might be pleasantly surprised.
+Your interviewer might like you.
+
+And you will get hired immediately.
+
+You might fail the first one.
+
+Learn a very important lesson.
+
+And get hired in the next one.
 
 ## 4. Know yourself.
 
@@ -88,13 +132,13 @@ I don’t recommend memorizing answers but I do recommend knowing your answers i
 
 Be creative and unforgettable. 
 
-I wrote some examples on how to answer call center interview questions here. 
+I wrote some examples on how to answer call center interview questions on my website. 
 
-Requiters are human. 
+Recruiters are human. 
 
-They are harmless but just as girls don’t fall for cheesy pick up lines as they do in the movies memorized interview answers don’t work and describes you in one word. 
+They are harmless but just as girls don’t fall for cheesy pick up lines as they do in the movies memorized interview answers don’t work.
 
-Phony.
+Using memorized answers and pick-up lines scream that you don't have any confidence.
 
 ## 6. Be confident.
 
@@ -102,9 +146,31 @@ When you know yourself and you know why they should hire you then confidence wil
 
 Confidence affects skill level so make sure it’s high and your performance level will be high as well.
 
+You can be confident by knowing your positive traits.
+
+You also need to face all your negative traits and have a plan on how to fix them.
+
+That's the main reason why I recommend journaling.
+
 ## 7. Speak in English.
 
-They are hiring you because of your ability to solve problems and speak well in English. 
+Why does a call center company pay you higher than a local company?
+
+That's because you will be working for foreign companies. 
+
+The customers that you will be speaking with are American.
+
+Do do well at this job, it would be best if you can sound like an American.
+
+Basic English is a good start, but you also need to have an attitude that you need to keep practicing and improving.
+
+Your skills are NOT FIXED.
+
+You can get better.
+
+You can improve.
+
+Call center companies are hiring you because of your ability to solve problems and speak well in English. 
 
 I know that you can do it. 
 
@@ -112,7 +178,7 @@ Just practice.
 
 Need additional help? 
 
-Try celebrity mode or go sossy mode.
+Try celebrity mode (imitating your favorite celebrity) or go sossy mode (imitating your favorite fictional/real life boss).
 
 ## 8. Learn from your experience.
 
@@ -123,6 +189,12 @@ If things don’t go well maybe you don’t have all the pieces you need to win 
 Learn and pick up better tools as you move forward. 
 
 Eventually you’ll get it and looking for work will be effortless.
+
+It is for me.
+
+16 Interviews and I get a 5,000-10,000 peso pay increase.
+
+You can collect that sweet, sweet call center money too.
 
 ## 9. Smile and give it your best shot.
 
@@ -162,11 +234,11 @@ I’m looking forward to congratulating you.
 
 Thank you for reading. 
 
-Let me know about your experience in the comments below. 
+Let me know about your experience by sending me an email.
 
 Have questions? 
 
-I answer comments. 
+I answer every time I log in.
 
 Want more? 
 

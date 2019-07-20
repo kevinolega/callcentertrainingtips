@@ -34,7 +34,7 @@ A list is a very basic plan but it will help you stay on track.
 
 Having names of companies you haven't visited yet, gives you hope and helps you recover from any failure you experience faster.
 
-Having poorly writtien plan is way better than living your life with no plan at all.
+Having poorly written plan is way better than living your life with no plan at all.
 
 So make a list of call center companies that you want to apply in then visit each company one by one until you get the best job that you can take with your current skill level.
 
