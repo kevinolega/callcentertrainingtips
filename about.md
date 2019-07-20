@@ -52,6 +52,7 @@ Here are some things about me.
 - I'm geeky when it comes to Naruto, Fairy Tail, Hannibal, How I Met Your Mother, Starcraft, Diablo 2, Tekken, Martial Arts and tech stuff.
 - I enjoy cooking, Crossfit, biking, and outdoor activities like hiking and trekking.
 
+![IMAGE TEXT]({{ site.url }}/images/My Gamer Mindset.png).
 
 ### Some Common Questions
 
@@ -98,6 +99,41 @@ At the moment I am not charging anything for access to this site and the free we
 I would also like to make money from this activity in the future but for now, I would like to just offer this service for free as part of my helping others/charity activities.
 
 If you’re good with that, you’re invited to participate by either reading the contents of this site or sending me a message for free lessons.
+
+![IMAGE TEXT]({{ site.url }}/images/I wrote my book and and website on this laptop.png).
+
+## 2010 - 2013
+
+![IMAGE TEXT]({{ site.url }}/images/Found Strength in Loss.png).
+
+## 2013 - 2016
+
+**Customer Service Award**
+
+![IMAGE TEXT]({{ site.url }}/images/VOC Champion.jpg).
+
+I was able to save up for my dream gadgets with my call center money.
+
+![IMAGE TEXT]({{ site.url }}/images/Dream Gadgets With Call Center Money.png).
+
+**I took this photo of myself on the day I promised myself I'll recover from my depression.**
+
+![IMAGE TEXT]({{ site.url }}/images/2015-03-24 06.35.48.jpg).
+
+![IMAGE TEXT]({{ site.url }}/images/Me Sharing my Top Agent Award.png).
+
+![IMAGE TEXT]({{ site.url }}/images/Top Agent Sales.png).
+
+Top Agent Part Two
+
+![IMAGE TEXT]({{ site.url }}/images/Top Agent Sales Board.png).
+
+
+![IMAGE TEXT]({{ site.url }}/images/Bought a bike to save money.png).
+
+This allowed me to jump to better opportunities.
+
+![IMAGE TEXT]({{ site.url }}/images/Future Impact.png).
 
 **UPDATE: I eventually worked in a call center. I have been working in a call center for three years. In my first year I almost failed regularization. My new boss told me that my previous boss recommended me for termination. He didn't stop there though. He helped me identify my strengths and overcome my weaknesses and eventually I got regularized. The next month I was awarded top agent for customer feedback. The following year I was awarder top agent again for the most number of repair calls converted into sales. Using the same method my boss taught me, I just got really better at what I did. If you're interested I can also teach you. Just send me a message.**
 
