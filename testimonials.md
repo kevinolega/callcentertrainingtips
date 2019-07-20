@@ -38,3 +38,9 @@ This one, for getting clients.
 ![IMAGE TEXT]({{ site.url }}/images/Testimonial 211.jpg).
 
 ![IMAGE TEXT]({{ site.url }}/images/Testimonial 212.jpg).
+
+![IMAGE TEXT]({{ site.url }}/images/Testimonial 213.jpg).
+
+![IMAGE TEXT]({{ site.url }}/images/Testimonial 214.png).
+
+![IMAGE TEXT]({{ site.url }}/images/Testimonial 215.png).
