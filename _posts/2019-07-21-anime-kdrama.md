@@ -30,21 +30,21 @@ I have also learned positive attitude and mindsets that allowed me to overcome o
 - Onoda Sakamichi (Yowamushi Pedal) taught me that smiling and singing helps you overcome the most difficult tasks that everybody complains about.
 - Shinji Ikari (Neon Genesis Evangelion) taught me to face life not through a mask (his identity as Eva Unit 01's pilot) but as myself.
 - Yui Hirasawa (K-On) taught me that if you're sincere, no matter how clumsy or unskilled you are, you can change your life over time. See first episode and last episode.
-- Takanashi Yomi (DeadMaster | Black Rock Shooter) taught me that everyone has internal struggles.
+- Takanashi Yomi (DeadMaster - Black Rock Shooter) taught me that everyone has internal struggles.
 - Itachi Uchiha taught me to accept myself and my weakness and to build my life contributing my strength and overcoming my weakness through the cooperation of my allies.
-- Saitou Hajime (Rouroni Kenshin | Samurai X) taught me that the best jobs are the ones people don't like doing.
-- BK201 (Darker than Black) and Spike Spiegel (Cowboy Beebop) taught me that you can't live your life with one eye on your past.
+- Saitou Hajime (Rouroni Kenshin - Samurai X) taught me that the best jobs are the ones people don't like doing.
+- BK201 (Darker than Black) and Spike Spiegel (Cowboy Beebop) taught me that you can't fully live your life with one eye on your past.
 - Baki Hanma (Grappler Baki) taught me the value of training everyday.
 - Yujiro Hanma "Ogre" (Grappler Baki) taught me the value of physical fitness.
 - Sato Kazuma (Kono Suba) taught me everything that you have no matter how much you hate it, is there for you to overcome life challenges.
 - Natsuki Subaru (Re: Zero) taught me that if you learn from your mistakes, you can create the future that you want.
 - Shiore (Log Horizon) taught me the value of strategy.
 - Shido (Date-A-Live) taught me that befriending, not destroying your demons will allow you to ride them into battle. And being mindful of people's happiness level.
-- Jokyuu (AIKI) taught me that to get better at my craft, I need to spend time with people who are best at what I do.
+- Jokyuu (AIKI) taught me that to get better at my craft, I need to spend time with people who are best at what I do. Even if they all intimidate me.
 - The characters of Cells at Work taught me how cells in my body work. It's very educational.
 - Kei Asai (Sakurada Reset) taught me that in order to accomplish the impossible, you must strive for the outcome that gives all the parties involved what they truly desire.
 - Saitama (One Punch Man) taught me the value of consistency.
-- Harem anime main characters that knowing how to cook and being dependable will make it easier for you to build a harem. I mean find a partner. I mean connect with best girl.
+- Harem anime main characters that knowing how to cook and being dependable as well as intelligent and physically fit will make it easier for you to build a harem. I mean find a partner. I mean connect with best girl.
 
 I've watched all these shows, usually by going two or three days straight until I've seen all the episodes, all the movies, OVA, read all the wikipedia page, trivia and production notes of these shows.
 
@@ -66,6 +66,7 @@ I have, to some extent feel motivated to face a life struggle with a scene from 
 - Jang Yum (Jewel in the Palace) taught me the value of patience.
 - Park Si-on (Good Doctor) taught me to make the best from your situation and to focus on your advantages instead of your weaknesses.
 - Coffee Prince taught me about Kimchi Rice. That's all I remember from this show.
+- Weightlifting Fairy taught me that anyone can lift weights. It's not just a guy thing.
 
 ## Why You Should Stop Watching Anime and K-Drama
 
@@ -86,6 +87,8 @@ I now have a Netflix subscription.
 And watch my anime and occasionally K-Drama on Netflix.
 
 Here's the thing.
+
+## Consequences of a Poverty Mindset
 
 If you can't pay for the anime, you are not supporting the creators.
 
@@ -162,3 +165,11 @@ Because I see the value of time and money.
 Watching anime and K-Drama is a good reward for a job well done.
 
 Not an activity that should STEAL ALL YOUR OPPORTUNITIES IN LIFE.
+
+When we were younger, our parents taught us that entertainment is something we're allowed after we're DONE ACCOMPLISHING OUR RESPONSIBILITIES.
+
+As kids, we didn't watch TV, see a movie or play a game until after we've cleaned up, eaten dinner, done home work and brush our teeth.
+
+Why do the opposite now that you're old.
+
+Which of the two options make you feel like a winner or a LOSER?
