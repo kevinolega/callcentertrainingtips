@@ -141,3 +141,17 @@ It's okay to give up.
 When you decide you don't want to.
 
 But never say that you can't.
+
+## Activity:
+
+On your journal, write down all the times you wanted to give up.
+
+**Questions to Ponder:**
+
+What situations did I want to give up on things that are important to me?
+
+Whenever I give up, is the reason of my problem, I can't or is the reason of my problem, because I won't?
+
+Who am I failing if I give up on my dreams?
+
+Who are the people who will benefit if I succeed at getting my dream job?
