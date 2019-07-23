@@ -85,3 +85,34 @@ She was the first deaf-blind person to earn a Bachelor of Arts degree.
 ## Video Version of the Lesson:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7NZqeVRJ06E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### UPDATE:
+
+Got a good response from facebook:
+
+**Person:**
+
+I'll become a wise observer at first. Observing every aspects to be a good performer. And who knows, Someday I'll play with the guitar too.
+
+**Me:**
+
+Problem with observer mode, the longer you stay an observer, the more difficult it gets to quit becoming an observer and becoming a performer.
+
+There's a lot of consequences.
+
+I've been kicked out of the house.
+
+I've been kicked out of the job.
+
+I've been kicked out of a relationship.
+
+I'm the smartest person with ZERO results.
+
+So it's not really very smart.
+
+Performers have practice, failures and experience.
+
+Failure is good if you're doing something.
+
+Failure as a result of not doing something is the most painful kind of failure I experienced.
