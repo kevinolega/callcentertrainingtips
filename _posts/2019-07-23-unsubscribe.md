@@ -135,3 +135,9 @@ You'll remember Kevin.
 The asshole from the internet.
 
 Is speaking the truth.
+
+It's okay to give up.
+
+When you decide you don't want to.
+
+But never say that you can't.
