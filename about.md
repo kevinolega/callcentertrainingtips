@@ -9,9 +9,9 @@ Call Center Training Tips started as a list of tips on how to pass call center i
 
 I'm Kevin and I have been working on the lessons for seven years. I have been publishing the lessons since 2012 and this had reached thousands of Filipinos who want to work in a call center.
 
-[My lessons have helped hundreds of people get hired in a call center](https://callcentertrainingtips.com/testimonials).
+[My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
-Several hundred people had sent me letters and messages, thanking and informing me of their success, that they are already hired in a call center. Some readers went as far as sent me gifts and donations to help keep this blog running.
+Several hundred Filipinos had sent me letters and messages, thanking and informing me of their success, that they are already hired in a call center. Some readers went as far as sent me gifts and donations to help keep this blog running.
 
 Some readers have hired me to assist them get better results in their job application or promotion interviews.
 
@@ -21,7 +21,7 @@ This blog has a lot of stories and lessons that had changed my life.
 
 I originally wrote the lessons on this blog to help some friends get hired in a call center. I thought, instead of explaining how to get hired for a few others to each one, I decided to just write the lessons down.
 
-This website was designed with shy people in mind. Most of my friends, including myself are introverts.
+This website was designed with shy Filipinos in mind. Most of my friends, including myself are introverts.
 
 A few years ago I accompanied friends to interviews and give them tips until they got hired. It normally takes us 4-6 call centers until they get hired. Then we go for pizza and buy me a few beers after.
 
@@ -60,7 +60,7 @@ Here are some things about me.
 
 **Who are your readers?**
 
-Shy people mostly. Male, Female, between 18 and 40 years old. Many of them want to work in a call center, some want to read up or connect with someone for English lessons. I decided to write the blog that I wanted to read. The blog I wish, existed when I started looking for work.
+Shy Filipinos mostly. Male, Female, between 18 and 40 years old. Many of them want to work in a call center, some want to read up or connect with someone for English lessons. I decided to write the blog that I wanted to read. The blog I wish, existed when I started looking for work.
 
 **What is the best way to ask for your help?**
 
@@ -90,13 +90,13 @@ I am not an English major. I am not a communications graduate. I only have about
 
 I learn about things through research and experience and the help of people better than me.
 
-What I offer is just me sharing my experience on how me and my colleagues and friends were able to help several people find work in a call center.
+What I offer is just me sharing my experience on how me and my colleagues and friends were able to help several Filipinos find work in a call center.
 
 I am not an expert in grammar, pronunciation or accents. My skill is just slightly above average. I can teach you a bit about it but its not as comprehensive as classes done by college professors.
 
 My training focuses more on building confidence while speaking in English, correcting common grammar and pronunciation mistakes, basics of call center work, and preparing for call center interviews.
 
-At the moment I am not charging anything for access to this site and the free weekend training I do at our house. I do it as a hobby and to help a few friends. I opened it up for other people to make friends and because I enjoy helping people find work. I also enjoy teaching either in person or through my writing.
+At the moment I am not charging anything for access to this site and the free weekend training I do at our house. I do it as a hobby and to help a few friends. I opened it up for other people to make friends and because I enjoy helping Filipinos find work. I also enjoy teaching either in person or through my writing.
 
 I would also like to make money from this activity in the future but for now, I would like to just offer this service for free as part of my helping others/charity activities.
 
@@ -142,5 +142,5 @@ This allowed me to jump to better opportunities.
 **Update 2017: I have left the call center after three years. I was top agent twice and was classified super agent for the day.I now work from home taking care of foreign clients with their business. I used the call center money to buy the computers I need for a home based work setup, I bought the tools to build a beautiful kitchen, I bought a few bikes to take care of my transportation and I enrolled at CrossFit to help manage my depression.**
 
 
-[My lessons have helped hundreds of people get hired in a call center](https://callcentertrainingtips.com/testimonials).
+[My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 

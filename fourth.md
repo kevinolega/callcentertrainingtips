@@ -12,19 +12,19 @@ I'm the number one Call Center Job Hunting Assistance writer in the Philippines.
 
 I pay 100% of the website hosting, yearly domain registration, web tools, hardware and sofware needed to maintain the blog using my own money.
 
-I've been helping people get hired in a call center since 2005. That's thirteen years if you haven't considered the math.
+I've been helping Filipinos get hired in a call center since 2005. That's thirteen years if you haven't considered the math.
 
 If you haven't already, [send me a message to say hi][1]!
 
 I answer every question I receive on text, messenger, email or calls.
 
-I give out free reviewers to people you request them.
+I give out free reviewers to people who request them.
 
 In fact, this page is actually part of a free reviewer.
 
 I share my lessons for free on my website. If you check the list, it's all here.
 
-I share some of my best lessons on Facebook for people who only have free Facebook data on my [training community][2] and [Facebook page][3].
+I share some of my best lessons on Facebook for Filipinos who only have free Facebook data on my [training community][2] and [Facebook page][3].
 
 I send updates, lessons, tips, special deals and opportunities to people who give me their email address.
 

@@ -16,17 +16,17 @@ If you’re new here, my name is Kevin and I write the lessons and maintain this
 
 I'm the number one Call Center Job Hunting Assistance writer in the Philippines.
 
-[My lessons have helped hundreds of people get hired in a call center](https://callcentertrainingtips.com/testimonials).
+[My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
 I pay 100% of the website hosting, yearly domain registration, web tools, hardware and software needed to maintain the websiteß using my own money.
 
-I've been helping people get hired in a call center since 2005. That's thirteen years if you haven't considered the math.
+I've been helping Filipinos get hired in a call center since 2005. That's thirteen years if you haven't considered the math.
 
 If you haven't already, [send me a message to say hi][1]!
 
 I answer every question I receive on text, messenger, email or calls.
 
-I give out free reviewers to people you request them.
+I give out free reviewers to Filipinos who request them.
 
 In fact, this page is actually part of a free reviewer.
 
@@ -34,15 +34,15 @@ In fact, this page is actually part of a free reviewer.
 
 [CLICK HERE TO GET FREE LESSONS][4].
 
-## I Help People Improve Their Life
+## I Help Filipinos Improve Their Life
 
 I share my lessons for free on this website. 
 
 If you check the list, it's all here.
 
-I share some of my best lessons on Facebook for people who only have free Facebook data on my [training community][2] and [Facebook page][3].
+I share some of my best lessons on Facebook for Filipinos who only have free Facebook data on my [training community][2] and [Facebook page][3].
 
-I send updates, lessons, tips, special deals and opportunities to people who give me their email address.
+I send updates, lessons, tips, special deals and opportunities to Filipinos who give me their email address.
 
 [You can send me your email address here][4]. 
 
@@ -72,7 +72,7 @@ And see what applies to you.
 
 ## The Truth Hurts
 
-So some of the things I will say WILL BE OFFENSIVE TO A LOT OF PEOPLE. 
+So some of the things I will say WILL BE OFFENSIVE TO A LOT OF FILIPINOS. 
 
 But know that I say all these in love.
 
@@ -86,7 +86,7 @@ That being said, let's start by answering this next question.
 
 ## Do You Deserve A Better Life?
 
-I only help people who have a strong commitment to succeed. 
+I only help Filipinos who have a strong commitment to succeed. 
 
 ## BPO Workers are Rewarded For Hard Work
 
@@ -114,7 +114,7 @@ You will become the kind of person that you want and look up to.
 
 ## You Are Wasting Your Time With Other Programs
 
-I put this together because call center schools and call center training programs don't help people get better at English.
+I put this together because call center schools and call center training programs don't help Filipinos get better at English.
 
 ## I Use The Best Training Methods Develped By The Smartest People In The World
 
@@ -150,7 +150,7 @@ Get a notebook and write the lessons down.
 
 ## Don't miss these opportunities because you can't speak in English.
 
-I get a lot of messages from people asking for help on a regular basis.
+I get a lot of messages from Filipinos asking for help on a regular basis.
 
 It goes something like: 
   
@@ -210,7 +210,7 @@ Interviews in high paying jobs and foreign employers are conducted in English.
 
 Consider this. 
 
-The high pay or anything above fifteen thousand pesos and the good benefits that will secure your family is only available to people who can speak in English well.
+The high pay or anything above fifteen thousand pesos and the good benefits that will secure your family is only available to Filipinos who can speak in English well.
 
 Imagine this.
 
@@ -344,7 +344,7 @@ Not speaking in English is a fucking disability.
 
 ## Speaking English Always Makes A POSITIVE IMPRESSION
 
-People who can speak in English well, always makes a good impression.
+Filipinos who can speak in English well, always makes a good impression.
 
 If you speak in English, people see you as educated, intelligent, refined, a person of class and substance.
 
@@ -362,7 +362,7 @@ I have experienced this first hand.
 
 ## Very FEW People WILL TELL YOU What is WRONG With You
 
-People are polite and will just point you away but this is the truth.
+Filipinos are polite and will just point you away but this is the truth.
 
 Kanto-Speak, jejemon and just bad English turn people off.
 
@@ -455,7 +455,7 @@ Thank you for reading this far.
 
 [CLICK HERE TO STAY IN TOUCH AND GET MORE FREE LESSONS][4]. 
 
-[My lessons have helped hundreds of people get hired in a call center](https://callcentertrainingtips.com/testimonials).
+[My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
 
 [1]:	http://callcentertrainingtips.com/contact/

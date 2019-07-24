@@ -13,7 +13,7 @@ But you have obstacles and challenges like fear, doubt, weakness and so on. I'm 
 
 If I ask you to pull out your cellphone and I asked you if it's an iPhone, an Android or a Nokia you would know the answer right? If I asked you if it had a camera, Internet, touch screen or a physical keyboard you know right? If I asked you why you bought or how you got that phone you can tell me the story. If I asked you why you like it you would be able to tell me.
 
-Sadly more people know their phones better than themselves.
+Sadly more Filipinos know their phones better than themselves.
 
 I hate giving memorized answers and I'm never going to recommend that you copy and paste famous interview answers. If you go to an interview do you think of the answers when you're asked questions or do you know your answers in advance. Instead of memorizing the questions I recommend knowing about yourself first. Doing so let's you think and answer interview questions better. To do this effectively I'll ask you to write a list of the following:.
 

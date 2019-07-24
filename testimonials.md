@@ -3,7 +3,7 @@ layout: page
 title: Testimonials
 permalink: /testimonials/
 ---
-My lessons have helped several people get hired in a call center.
+My lessons have helped several Filipinos get hired in a call center.
 
 Here are a few messages that I received.
 
@@ -21,7 +21,7 @@ Here are a few messages that I received.
 
 ![IMAGE TEXT]({{ site.url }}/images/Testimonial 206.jpg).
 
-Some of the people, I helped in other careers.
+Some of my readers, I helped in other careers.
 
 This guy in music.
 

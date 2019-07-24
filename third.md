@@ -46,7 +46,7 @@ English is a primary skill in a call center. Improve your English with these tip
 
 #### Confidence to Work in a Call Center
 
-Confidence is important. The lack of confidence is the most common reason why people don't get hired. Here are some tips to overcome confidence issues:
+Confidence is important. The lack of confidence is the most common reason why many Filipinos don't get hired. Here are some tips to overcome confidence issues:
 
 - [How To Overcome Your Super Shy Self with One Exercise][25]
 

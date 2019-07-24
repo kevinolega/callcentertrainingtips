@@ -54,7 +54,7 @@ Want more locations?
 
 #### Teleperformance
 
-Teleperformance in the Philippines is a leading provider of outsourced omni-channel customer experience management services in the country. The company employs around 40,000 people in the country and operates nearly 30,000 workstations in 18 business sites located across Metro Manila, Antipolo, Baguio, Bacolod, Cagayan de Oro, Cebu, and Davao.
+Teleperformance in the Philippines is a leading provider of outsourced omni-channel customer experience management services in the country. The company employs around 40,000 Filipinos in the country and operates nearly 30,000 workstations in 18 business sites located across Metro Manila, Antipolo, Baguio, Bacolod, Cagayan de Oro, Cebu, and Davao.
 
 Manila (02) 857-3222
 Bacolod (034) 433-8167

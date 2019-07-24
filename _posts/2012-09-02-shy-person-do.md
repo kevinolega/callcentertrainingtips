@@ -3,19 +3,19 @@ layout: post
 title: 'What Can a Shy Person Do?'
 date: 2012-09-02 20:32
 author: Kevin Olega
-description: Shy people and introverts can use their strengths and earn more money and opportunities in extrovert or people focused careers like call center jobs.
+description: Shy Filipinos and introverts can use their strengths and earn more money and opportunities in extrovert or Filipinos focused careers like call center jobs.
 comments: true
 categories: [Lessons]
 ---
-You might have noticed me talking about shy people a lot on this website. 
+You might have noticed me talking about shy Filipinos a lot on this website. 
 
-The main focus of my lessons is to help shy people like myself overcome difficult task like finding work.
+The main focus of my lessons is to help shy Filipinos like myself overcome difficult task like finding work.
 
-I write to help shy people get hired in a call center. 
+I write to help shy Filipinos get hired in a call center. 
 
 The goal of a lot of the things I do on different websites is to empower the shy person. 
 
-My heart goes out to shy people because I am a shy person.
+My heart goes out to shy Filipinos because I am a shy person.
 
 ## You might not believe it but..
 
@@ -43,7 +43,7 @@ Getting a job in sales and approaching strangers to offer products and services.
 
 Getting hired in a call center, working as a teacher and a tutor Speaking in front of a crowd about how to get hired in a call center. 
 
-Sharing my thoughts on the public web regularly and people pay attention. 
+Sharing my thoughts on the public web regularly and Filipinos pay attention. 
 
 As of today I've done each one and I had no idea things would turn out like this. 
 
@@ -59,7 +59,7 @@ I even wrote a post about that on [my personal website](http://minimalchanges.co
 
 **2. Go after what excites you.** 
 
-I'm excited by talking to interesting people so I got a job that allows me to. Early on I moved between call center work and sales. 
+I'm excited by talking to interesting Filipinos so I got a job that allows me to. Early on I moved between call center work and sales. 
 
 **3. Go after what scares you.** 
 
@@ -91,13 +91,13 @@ Go do that.
 
 Still stuck? 
 
-**5. Look at other people you admire and copy the traits that you like.** 
+**5. Look at other Filipinos you admire and copy the traits that you like.** 
 
-If you have no idea where to go start with people you admire. 
+If you have no idea where to go start with Filipinos you admire. 
 
 I would give you a word of warning though. 
 
-People we admire are good sources of direction on where to go but don't stay following and try to become exactly like them. 
+Filipinos we admire are good sources of direction on where to go but don't stay following and try to become exactly like them. 
 
 You're awesome too. 
 
@@ -117,7 +117,7 @@ Try things yourself and prove to yourself what works and what doesn't work.
 
 If something doesn't work out in my life I go the opposite direction. 
 
-If most people are quitting and slacking off I'll work on something. 
+If most Filipinos are quitting and slacking off I'll work on something. 
 
 If everyone's competing for something I'll quit and go after something else. 
 
@@ -127,7 +127,7 @@ This isn't an excuse to do the opposite of what doesn't work.
 
 I believe you're smart enough to figure this out. 
 
-**8. Other people are scared too.**
+**8. Other Filipinos are scared too.**
 
 According to [Derek Sivers](http://sivers.org), Nobody knows the future and nobody knows what they're doing. 
 
@@ -147,6 +147,6 @@ I'm just a schmuck who doesn't know what he's doing but I would like to find out
 
 I guess that's the summary. 
 
-If you feel insignificant go back to this lesson or look for other shy people and see what a shy person can do and believe that you can do something awesome as well. 
+If you feel insignificant go back to this lesson or look for other shy Filipinos and see what a shy person can do and believe that you can do something awesome as well. 
 
 **Are you also a shy person or a shy person in the past. The floor is yours. Feel free to share with others in the comments below.**

@@ -5,9 +5,9 @@ permalink: /mentor/
 ---
 A few years ago, I wrote a book on how to get hired in a call center.
 
-Since then, I've helped thousands of people upgrade their life.
+Since then, I've helped thousands of Filipinos upgrade their life.
 
-And in the process, I've helped thousands of people.
+And in the process, I've helped thousands of Filipinos.
 
 It's been over ten years since I started and I wanted to share the lessons that have helped me grow.
 
@@ -47,7 +47,7 @@ I'll help you perform really well and collect all that call center money.
 
 Then I'll help you grow into the person that you are proud of.
 
-[My lessons have helped hundreds of people get hired in a call center](https://callcentertrainingtips.com/testimonials).
+[My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
 
 ## APPLICATION
@@ -80,7 +80,7 @@ Here's where the magic happens.
 
 ### Learning
 
-The call center environment is new for most people, here's how to maximize your learning.
+The call center environment is new for most Filipinos, here's how to maximize your learning.
 
 - How to Pass Training
 - Smart Phone Hacks

@@ -3,7 +3,7 @@ layout: page
 title: Support
 permalink: /support/
 ---
-[My lessons have helped hundreds of people get hired in a call center](https://callcentertrainingtips.com/testimonials).
+[My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
 ### How to Give Support
 
@@ -56,7 +56,7 @@ This website is built to help friends who need help get hired in a call center. 
 
 > "I am a shy person, the first time I went for an interview, I feel like someone is choking me. On the second day, I went to three call center companies, on the third day, I got a job offer. You are correct, the more companies I went to, the more I learned from my mistakes, and the more confident, I became. The best thing about applying in the call center is that the recruitment staff is honest with me about my performance on the interview. I got a no or a yes and didn't have to wait days or weeks to find out. Thank you for all the training tips. More Power!" - Jomel D.
 
-[My lessons have helped hundreds of people get hired in a call center](https://callcentertrainingtips.com/testimonials).
+[My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
 
 ## Kevin Olega's Testimonial During Call Center Work

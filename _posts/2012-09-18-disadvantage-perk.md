@@ -46,13 +46,13 @@ Knowing yourself and how to use what you have and do what you can is the key. It
 
 That's what makes me unique. 
 
-A lot of people I know settle (grow stagnant) or stop learning after they recieve their diploma. 
+A lot of Filipinos I know settle (grow stagnant) or stop learning after they recieve their diploma. 
 
 I didn't. 
 
 I'm self motivated and I learn on my own through reading from personal experimentation and people better than me. 
 
-This gives me a four year head start in the business world compared to people in my batch and as a result I also have an interesting combination of skills my peers and previous bosses told me that they couldn't find anywhere else. 
+This gives me a four year head start in the business world compared to everybody in my batch and as a result I also have an interesting combination of skills my peers and previous bosses told me that they couldn't find anywhere else. 
 
 By the way what got you interested in considering me for the position?
 

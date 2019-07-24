@@ -28,7 +28,7 @@ I picked a young company I wanted to grow.
 
 I won’t compete for a job for a while so I’m giving you a list of advantages I have when looking for work.
 
-**I’m writing this to help people who’re having a hard time competing in the market.** 
+**I’m writing this to help Filipinos who’re having a hard time competing in the local job market.** 
 
 You won’t be competing with me anyway so I don't worry about it but just in case you do, may the best person win. 
 
@@ -333,7 +333,7 @@ I’d feel great if you ask me.
 
 I have an idea that works. 
 
-I have an idea that helped a few people. 
+I have an idea that helped a few Filipinos. 
 
 That way I can let go of that idea and think of better ones. 
 
@@ -349,7 +349,7 @@ The rest I share to others.
 
 People also see me as more credible, but I’m not after that. 
 
-I’m just trying to get stuff out of my head and at the same time, help people without explaining to them in person. 
+I’m just trying to get stuff out of my head and at the same time, help Filipinos without explaining to them in person. 
 
 My first website was put up to have my advice available without needing to repeat what I said over and over again. 
 
