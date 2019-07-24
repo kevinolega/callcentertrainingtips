@@ -44,14 +44,32 @@ Profit if you sell two dozen for 20 days. P 2,880
 
 Do this for two years you can buy an iPhone 7 plus, iPad Pro or Macbook.
 
-## Downsides to selling eggs
+## Other Costs to selling eggs
 
-I classify these as costs of doing this business.
+15 minutes prep and cook time. You'll also pack the eggs.
 
-15 minutes prep and cook time.
+## How to Overcome Objections and Obstacles:
 
 You can only sell 2 dozen eggs maximum sa call center kung magaling ka mag tago sa guard.
 
 Pag nahuli ka sabihin mo nag-gym ka and kailangan mo ng protein every 2 hours kaya madami kang egg. 
 
 Baon mo yan.
+
+If your coworker asks bakit ang mahal. Ten pesos nalang.
+
+Tell your coworker to buy at 711 or somewhere else. Spend 15-20 pesos.
+
+If nobody buys. 
+
+Go eat the eggs. 
+
+Eggs are good for you.
+
+I eat ten eggs a day so I only sold half of what I bring.
+
+I usually end up eating eight to ten a day.
+
+Saves me money.
+
+Junk food and processed food from canned goods and fast food is a big problem for call center agents.
