@@ -18,7 +18,7 @@ My mom stopped encouraging me or paying attention to any of my interests.
 
 My older half brother left me without money and took 30,000 of my paycheck. 
 
-I experienced being abandoned by my long time girlfriend after six years. 
+I experienced being abandoned by my long-time girlfriend after six years. 
 
 I've failed at many things, I've been cheated on, tricked and I had to keep restarting my life. 
 
@@ -78,7 +78,7 @@ The last question is...
 
 "**Is there a lesson here that I disagree with or haven't applied to in my life?**" 
 
-Okay the last question is "What's stopping me from applying this to my life? What do I need to believe to apply this to my life?"
+Okay, the last question is "What's stopping me from applying this to my life? What do I need to believe to apply this to my life?"
 
 > **If you are faithful with the small things, you will be entrusted with much. - The Bible** 
 
@@ -256,7 +256,7 @@ These are the elements of confidence that you can start with.
 
 Here are some tips to get started: 
 
-**1. Study each element** and examine yourself what you can do to apply each element in to your life.
+**1. Study each element** and examine yourself what you can do to apply each element into your life.
 
 **2. Slowly adapt one element at a time**. 
 

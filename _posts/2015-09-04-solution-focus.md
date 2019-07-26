@@ -22,10 +22,10 @@ I insist that you tell the truth.
 
 They have a saying about how the truth will set you free.
 
-Once you know the problem  you can look for a solution.
+Once you know the problem you can look for a solution.
 
 Take a deep look inside you and ask yourself what your attitude is.
 
-If you're solution oriented you'll do well on this job. I take that back. You'll do well in any job.
+If you're solution-oriented you'll do well on this job. I take that back. You'll do well in any job.
 
 When things seem impossible don't tell yourself that there's no answer. You see, the answer is always there. Whenever you don't have an answer it means that you just haven't found it yet.

@@ -18,15 +18,15 @@ Work is not as stressful to me as most people.
 
 I see agents, crying, punching something in their work station, furious with the customer and eventually hating their jobs.
 
-Mostly I see my job as a source of income to fund my goals and hobbies. I don’t have an attachment to it or see it as a source of fulfilment and friends. I see my work somewhat as meditation. I see my work as a practice to develop my problem solving and presentation skills.
+Mostly I see my job as a source of income to fund my goals and hobbies. I don’t have an attachment to it or see it as a source of fulfillment and friends. I see my work somewhat as meditation. I see my work as a practice to develop my problem solving and presentation skills.
 
-I see people at my job frustrated and burnt out. When I give them advice it turns into a heated argument. They spend several minutes convincing me why they are right and why I’m wrong or why my advice is shit because it only applies to their situation. Eventually I stopped giving advice.
+I see people at my job frustrated and burnt out. When I give them advice it turns into a heated argument. They spend several minutes convincing me why they are right and why I’m wrong or why my advice is shit because it only applies to their situation. Eventually, I stopped giving advice.
 
 I’m writing this down to make the advice available to you in case you need it. You’re free to ponder it. You’re free to use it. You’re free to share it. You’re free to discard it.
 
 What I did I do differently from other agents?
 
-One of the common things I hear in the work place is the agent complaining about how stupid the customer is. The downside of complaining about how stupid the customer is is that the conversation stops there. The customer is stupid. I can’t do anything about it. They're frustrated. You're frustrated. They ask for your supervisor. You give shit customer service. They hang up. They give you a bad score for receiving shit customer service.
+One of the common things I hear in the workplace is the agent complaining about how stupid the customer is. The downside of complaining about how stupid the customer is is that the conversation stops there. The customer is stupid. I can’t do anything about it. They're frustrated. You're frustrated. They ask for your supervisor. You give shit customer service. They hang up. They give you a bad score for receiving shit customer service.
 
 Is it their fault? Possibly.
 

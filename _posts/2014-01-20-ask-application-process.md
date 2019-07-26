@@ -7,7 +7,7 @@ comments: true
 categories: [Lessons]
 ---
 
-When I started working in a call centre.
+When I started working in a call center.
 
 I had no idea what people are doing. 
 
@@ -21,7 +21,7 @@ The guard told me to wait.
 
 I said okay. 
 
-The pretty reception girl, called my name, I went toward her and smiled. 
+The pretty reception girl called my name, I went toward her and smiled. 
 
 She guided me to a computer to fill out my details and I did. 
 
@@ -31,7 +31,7 @@ The guy asked me about myself and I answered.
 
 I clumsily tried to explain why they should hire me. 
 
-My over used traits included hard working and honest and I’m really smart. 
+My overused traits included hard-working and honest and I’m really smart. 
 
 Blah blah blah. 
 
@@ -57,9 +57,9 @@ I’ll take whatever you throw at me and win.
 
 Another part of me says this works to a certain extent and eventually, for tough ones you need to understand the pattern of your challenges and act appropriately. 
 
-If you need to strike from long range, get close, back stab, go over, slide under, use normal attacks only or all your specials. 
+If you need to strike from long range, get close, backstab, go over, slide under, use normal attacks only or all your specials. 
 
-In games the only time I’m beaten is if I’m hit by an attack that I didn’t expect. The same thing happens in interviews.
+In games, the only time I’m beaten is if I’m hit by an attack that I didn’t expect. The same thing happens in interviews.
 
 I had the “come what may” mindset because I didn’t ask. The truth is, you can ask the question.
 
@@ -69,7 +69,7 @@ I’d say something like
 
 I sometimes follow up with, 
 
-“Is it a one day process? A two day process?” 
+“Is it a one day process? A two-day process?” 
 
 I then sneak in, 
 

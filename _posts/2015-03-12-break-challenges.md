@@ -26,15 +26,15 @@ I hate being a Christian.
 
 Not because I hate Christ but because I hate the consistent arrival of pain. 
 
-Jesus preached a hard core religion. 
+Jesus preached a hardcore religion. 
 
-Turning the other cheek instead of getting revenge  for every bit of pain you receive from others is more difficult than I imagined. 
+Turning the other cheek instead of getting revenge for every bit of pain you receive from others is more difficult than I imagined. 
 
 I didn't sign up for this. 
 
 I sometimes tell myself. 
 
-But God promises that "His ways are higher than my ways and in His infinite understanding and my limited perception, God is always labouring for my good and benefit. 
+But God promises that "His ways are higher than my ways and in His infinite understanding and my limited perception, God is always laboring for my good and benefit. 
 
 I genuinely believe that. 
 
@@ -44,7 +44,7 @@ This is a lesson to remind myself and on the side, I'd like to encourage you.
 
 ### What is a breakthrough?
 
-A break through is a point where you achieve the result you are working for.
+A breakthrough is a point where you achieve the result you are working for.
 
 This may involve breaking through challenges and obstacles.
 
@@ -66,7 +66,7 @@ At the most difficult points of your challenge you have the option to keep going
 
 Breakdown is panic resulting from overwhelming amounts of emotion such as fear or despair. 
 
-Hopelessness follows shortly and making  decisions you would tag stupid when you are emotionally stable would happen as a result.
+Hopelessness follows shortly and making decisions you would tag stupid when you are emotionally stable would happen as a result.
 
 ### How to achieve a breakthrough?
 
@@ -96,7 +96,7 @@ Here are more tips.
 
 
     - **Make things winnable **target something really small every day. If your goal is to get better at speaking, instead of forcing yourself to read, just write down a few lines and think of the best time to use it in a conversation.
-    - **Don't over commit** do as little as needed and never as much as possible. Start with the smallest thing and don't force yourself to speed up your progress. Always try to slow down. Speeding up often causes a waste in your resources and many missed opportunities. Slow progress is the key. If things get overwhelming slow down.
+    - **Don't over commit** do as little as needed and never as much as possible. Start with the smallest thing and don't force yourself to speed up your progress. Always try to slow down. Speeding up often causes a waste in your resources and many missed opportunities. Slow progress is the key. If things get overwhelming slowdown.
 
 
 What breakthrough's are you praying for and working on this week?

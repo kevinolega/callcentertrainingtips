@@ -32,13 +32,13 @@ So, I asked each interviewer one question I'm curious about every opportunity I'
 
 I only had one year in college then so the two most common questions I asked are: 
 
-1. Is it really true that you are open to hiring non college graduates. 
+1. Is it really true that you are open to hiring non-college graduates? 
 
-(answer:most of them said yes. I went to four call center companies who were snobbish and said no.) 
+(answer: most of them said yes. I went to four call center companies who were snobbish and said no.) 
 
 2. Do you have a specific type of people that you'd like to hire? 
 
-(answer: they hire people from different backgrounds so it's hard to pin point. As long as you're able to express yourself in English well, do the work even on night shift's, weekends or holidays, and are open to shifting schedule and learning new things you are a good candidate) 
+(answer: they hire people from different backgrounds so it's hard to pinpoint. As long as you're able to express yourself in English well, do the work even on night shift's, weekends or holidays, and are open to shifting schedule and learning new things you are a good candidate) 
 
 3. 
 **Bring a nice hard folder to your call center interview.** 

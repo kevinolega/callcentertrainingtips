@@ -8,79 +8,154 @@ comments: true
 tags: [Activity, Applicant, Lessons, Call Center Job Application]
 permalink: call-center-interview-questions-and-suggested-answers
 ---
-Beginners are often afraid to answercall center interview questions. I get message like how their brain turns off when they enter the interview room.
+Call center interview questions are intimidating to many beginners. 
 
-The most common question that I receive is "what are the correct answers to the following interview questions?"
+I get messages that include examples about how their brain turns off when they enter the interview room.
 
-## Main Objective of Call Call Center Interview Questions:
+The most common question that I receive is.. 
 
-The objective of an interview is for the call center recruiter to find out if you have the qualities they are looking for in a call center agent.
+"What are the correct answers to the following interview questions?"
 
-## Biggest Mistakes in Answering Call Center Interview Questions:
+So to minimize having to explain my answers, I put together this lesson.
 
-Unfortunately, new applicants have opposite goals when they get to an interview. They tell me they want to get hired but they also want the interview to be as short as possible and speak as little English as possible. That's the thing. If that's your goal, you probably achieved it already except you don't get the job that way.
+## Call Call Center Interview Question Main Objective:
 
-The interviewer wants to know if you can speak in English, ask questions, handle unknown questions, give instructions and tell stories. That's it. Your interview questions will likely test all of those at one point.
+The objective of a call center interview is for the recruiter to find out if you have the qualities that they are looking for in a call center agent.
 
-So when they ask you those random questions, you're not really supposed to know the answer in advance, you're supposed to know how to answer questions you don't know the answer to. Even if it means just clarifying the question, to make sure you understand what they mean, acknowledging the question by saying that's an interesting question and telling them its the first time you've ever had to think about it and asking for a minute or two to think about it or maybe read up on it. 
+To get hired in a call center, you need to display that you are:
+
+- Good at communicating in English.
+- Disciplined and can follow attendance and other company policies.
+- Intelligent enough to listen well and follow instructions.
+- Creative enough to solve problems.
+- Sincere enough to ask questions to clarify things you don't understand.
+- Patient enough to handle difficult and sometimes angry or unreasonable customers.
+- Coachable to learn the skills that make a great call center agent.
+
+If you display these traits, you will pass your call center interview.
+
+## Biggest Mistakes when Answering Call Center Interview Questions:
+
+Unfortunately, new applicants have opposite goals when they get to an interview. 
+
+They tell me they want to get hired but they also want the interview to be as short as possible and speak as little English as possible. 
+
+They give one word or short sentence answers.
+
+That's the thing. 
+
+If you achieved your goal of a short interview, you won't get a job as a result.
+
+The interviewer wants to know if you can speak in English.
+
+The interviewer wants to hear you ask questions. 
+
+The interviewer wants to find out how you handle unknown questions.
+
+The interviewer will test your ability to give instructions.
+
+The interviewer will evaluate your ability to tell stories. 
+
+That's it. 
+
+Your interview questions are designed to test all of your abilities in these areas at one point.
+
+So when they ask you those random questions, you're not really supposed to know the answer in advance. 
+
+You're supposed to know how to answer questions you don't know the answer to. 
+
+Even if it means just clarifying the question, to make sure you understand what they mean. 
+
+Even if it means acknowledging the question by saying that's an interesting question and telling them its the first time you've ever had to think about the question.
+
+Even if it means asking for a minute or two to think about it or maybe read up on it. 
 
 ## How to Answer Call Center Interview Questions
 
 Do not try to guess the right answer.
 
-You're not in a game show. It's not your answer that passes you or fails you but how you answer.
+You're not a participant in a game show. 
 
-There are no right or wrong answers here because the answers would depend on who you are. The key is asking yourself the questions in advance and deciding on the answer before a call center interview.
+It's not your answer that passes you or fails you but how you answer.
+
+There are no right or wrong answers in a call center interview. 
+
+Because the answers that the interviewer expects is unique and would depend on who you are. 
+
+The key is asking yourself the questions in advance and deciding on the answer before a call center interview.
 
 ## How to Make Answering Call Center Interview Questions Easy
 
 Before I begin, here are my objectives in an interview.
+
 1. Get my interviewer to smile.
 2. Get my interviewer to laugh.
 3. Get my interviewer to tell me a story.
 4. Get my interview to be around 30 minutes to an hour.
 
-Crazy objectives? Well that's why I often get to the final stages of the call center interview. 
+Crazy objectives? 
+
+Well that's why I often get to the final stages of the call center interview. 
 
 ## Call Center Interview Questions Are Not Your Biggest Problem
 
-It's true that I go to sixteen interviews to find my target job but only five of those fail but that's mostly because I object the previous four objectives. So yeah. Try to remember the four objectives when you go to an interview.
+It's true that I go to sixteen interviews to find my target job but only five of those fail but that's mostly because I totally forgot about the previous four objectives. 
 
-**One of the common problems I see is that people wait for the question before they start thinking about the answer.**
+So yeah. 
+
+When I finally remember the four objectives and approach my interview according to my four crazy objectives, I always win.
+
+One of the common problems I see peopl do is that many people wait for the question before they start thinking about the answer.
+
+They go unprepared.
 
 ## How to prepare for Call Center Interview Questions:
 
-In a call center job, preparation is key and knowing a lot of the answers beforehand saves you a lot of time and makes you sound more credible when you give an answer.
+In a call center job, preparation is key. 
+
+And knowing a lot of the answers beforehand saves you a lot of time and makes you sound more credible when you give an answer.
+
+Because you don't really have to think of an answer for very long.
+
+Now this is important.
 
 I don't recommend giving a memorized answer. 
 
-Instead, it's important to know the gist or the main points of your answer before an interview.
+Instead, it's important to know the summary or the main points of your answer before an interview.
 
-**Don’t just give an answer in an interview**. 
+You want to know your history.
 
-Learn to elaborate and expand about any of them. 
+You want to know your positive traits.
 
-You are not a beauty pageant contestant. 
+You want to know your job hunting story.
 
-Justify your answer and or tell the story behind it.
+## Don’t just give an answer in an interview.
+
+Learn to elaborate and expand all your answers.
+
+You are not a beauty pageant contestant with a sixty second time limit. 
+
+You have the opportunity to justify your answer and or tell the story behind it.
 
 Remember to try to form a bond with your interviewer.
 
 ## Call center interview questions to prepare for:
 
-**Tell me something about yourself**.
+Here are the most common questions that you need to prepare for.
+
+## Tell me something about yourself.
 
 Start with your name, where you’re from, what you did for work and something random like a positive trait or what you do on your free time.
 
-**What are your strengths?**
+## What are your strengths?
 
-I recommend picking a few strengths that’s job related or if you’re a bit more adventurous like me pick one that’s totally not job related and explain why it’s important to the job. 
+I recommend picking a few strengths that’s job-related or if you’re a bit more adventurous like me pick one that’s totally not job-related and explain why it’s important to the job. 
 
 An example that I used to give is.
 
 I’m good at giving love advice to friends over the phone so I’m used to listening to a problem, asking for important details and offering solutions.
 
-**What are your weaknesses?**
+## What are your weaknesses?
 
 You can pick a current one that you’re working on or a past one that you overcame. 
 
@@ -90,7 +165,7 @@ Your job whether they’re hiring you for customer service, tech support or sale
 
 Practice working on solutions to your weaknesses. Write it down so you can explain it better.
 
-**Why you want to work in a call center?**
+## Why you want to work in a call center?
 
 Here are my answers:
 
@@ -108,7 +183,9 @@ Always be confident that your communication skills is good enough and is improvi
 
 ## Here are some other call center interview questions:
 
-**Why should we hire you?**
+The top questions are always asked. These questions are not asked as often but should come up if you have been applying long enough.
+
+## Why should we hire you?
 
 On your notebook I need you to list down twenty positive traits that you have. 
 
@@ -124,7 +201,9 @@ You can expand on your answer.
 
 If you can do this, you'll impress any interviewer.
 
-**What do you have that other applicants don’t? (What’s your advantage over the other applicants?)**
+## What do you have that other applicants don’t? 
+
+Or What’s your advantage over the other applicants?
 
 Pick one from your list. 
 
@@ -134,23 +213,25 @@ I sometimes share a story about how I only had one year in college and had to go
 
 > I thought about what I could offer as an advantage over degree holders. I noticed how a lot of people stop learning and updating their skills as soon as they earn their diploma. They’re graduates after all in their own words. So I worked harder than anyone I know at learning and updating my skills and what I can do. The Kevin they’ll interact with a year from now will be far different than the Kevin they’re seeing. I evolve by reading, attending workshops, being mentored and doing personal experiments. I'm not afraid to spend money to make myself a better person. I pick up skills I’m interested in and I’m interested in picking up skills. Each skill I gain can contribute directly or indirectly to your team.
 
-**If you’re a nurse** 
+## How to Answer Call Center Interview Questions for Your Unique Situation
+
+### If you’re a nurse
 
 Some call center companies hate nurses because they’re the first ones to leave when they get offers to work abroad. 
 
 You can tell the interviewer that because of your education, you’re already used to night shift or difficult situations and if you’re not afraid of blood you’re sure you can take on providing solutions with TLC (tender loving care) over the phone.
 
-**If you’re a single mom** 
+### If you’re a single mom
 
-In traditional Filipino corporate culture. Single moms have experience difficulty in getting hired. That's because the added responsibility of raising a child or children will distract the employee from doing her work, ask for a higer pay and going beyond to do overtime and more.
+In traditional Filipino corporate culture. Single moms have experience difficulty in getting hired. That's because the added responsibility of raising a child or children will distract the employee from doing her work, ask for a higher pay and going beyond to do overtime and more.
 
 In the call center industry, as long as you can prove that you are capable of doing your work, responsible for your professional obligations and have solutions prepared so you can be at work all the time, never absent, never late and performing well, you can get hired in a call center.
 
 In any case, here are some answers that I thought of.
 
-Tell them that being a mom is a full time job that requires two people and you were able to deal with putting out crisis on a regular basis. 
+Tell them that being a mom is a full-time job that requires two people and you were able to deal with putting out crisis on a regular basis. 
 
-Being a first time mom requires learning and adapting to a lot of life and death situations and the fact that you’re still a mom can say that if you did that successfully teaching someone a solution over the phone is no sweat for you. 
+Being a first-time mom requires learning and adapting to a lot of life and death situations and the fact that you’re still a mom can say that if you did that successfully teaching someone a solution over the phone is no sweat for you. 
 
 Plus, taking care of a baby is mostly night shift. While you’re at it you can tell them that you’re going to get to see your little angel (or devil) more because you’ll be working at night and you’d get to play with them a bit after you wake up and he or she gets back to school.
 
@@ -160,15 +241,15 @@ Pick one and play with it.
 
 If you’d like to contribute your story to others, send me an email. 
 
-My email is call center training tips at gmail dot com
+My email is call center training tips at Gmail dot com
 
-**Why shouldn’t we hire you?** 
+## Why shouldn’t we hire you?
 
 The interviewer is asking for disadvantages of hiring you.
 
 This is to test if you are awake or capable of thinking.
 
-That's because in customer service and sales situations, some cutomers will try to trick you to agree to something you are not supposed to agree to. 
+That's because in customer service and sales situations, some customers will try to trick you to agree to something you are not supposed to agree to. 
 
 For example:
 
@@ -179,9 +260,9 @@ For example:
 
 So I don't mindlessly answer it.
 
-In a lot of cases I refuse to answer it.
+In a lot of cases, I refuse to answer it.
 
-However I do a few things.
+However, I do a few things.
 
 First I acknowledge the question.
 
@@ -219,15 +300,15 @@ If I'm feeling particularly brave that day, I end my answer with this strong sta
 
 You processed me for (x hours) if there’s someone better and you don’t have enough slots for the job and you’d like to take your chances on that person then by all means. 
 
-But the fact that I got this far tells me that there’s something in me that you want in a call center agent/customer service representative/sales person/ or whatever the position is.
+But the fact that I got this far tells me that there’s something in me that you want in a call center agent/customer service representative/salesperson/ or whatever the position is.
 
-I don’t know. I think you’re more qualified to answer that question than me. You see I don’t have experience working in a call center but I made it this far. At the moment do yous see any reason why I’m not a good match?
+I don’t know. I think you’re more qualified to answer that question than me. You see I don’t have experience working in a call center but I made it this far. At the moment do you see any reason why I’m not a good match?
 
 My main advice on answering interview questions is:
 
 Be creative and have fun. Be unforgettable.
 
-**What’s your expected salary?** 
+## What’s your expected salary?
 
 Be honest and creative here. 
 
@@ -237,7 +318,7 @@ I know that the offer is around fifteen to twenty thousand per month and some ad
 
 Did I get that correctly or do you offer more?
 
-**Why did you leave your previous work?** 
+## Why did you leave your previous work?
 
 Never tell them anything negative about your previous work. 
 
@@ -249,7 +330,7 @@ Tell them that you want to experience a new environment.
 
 Tell them that you want to expand your mind through the exposure to a different kind of people who are (young, positive, fun think of something). This works especially well when you are older.
 
-**Why would you want to shift to a different industry?** 
+## Why would you want to shift to a different industry?
 
 Same reasons as above. 
 
@@ -259,9 +340,11 @@ The pay could be better.
 
 It might be a perfect match for me because…You can think of your own answer at this point if you read all the above examples.
 
-**Where do you see yourself five years from now?** 
+## Where do you see yourself five years from now?
 
-Problem solving. Check. Long term thingking. This is what this question is supposed to check.
+Problem-solving. Check. Long term thinking. This is what this question is supposed to check.
+
+## Main Reason Why Call Center Interview Questions are Difficult
 
 Here's the thing. 
 
@@ -279,9 +362,9 @@ The call center company pays your salary while you train.
 
 So they want to know that they will make back their investment.
 
-How do they make back their investment.
+How do they make back their investment?
 
-If you do your job well and you stay for atleast two years.
+If you do your job well and you stay for at least two years.
 
 My answer is usually along the lines of:
 
@@ -301,7 +384,7 @@ The key here is you have to let them know that you have ambition.
 
 Don't just say I want to take your job, of course they won't hire you if you have a negative attitude.
 
-**How do you manage stress?** 
+## How do you manage stress?
 
 It’s simple. 
 
@@ -318,7 +401,7 @@ Here are more practical answers.
 - I take care of myself well. I go to spas and get massages. 
 - I make sure I play or party hard after I work hard (make sure you express that you don’t go drinking every night after work or do drugs). 
 - I sleep eight hours a day. 
-- IDrink plenty of water and eat healthy food. 
+- I drink plenty of water and eat healthy food. 
 
 I know these influences how my brain responds to stressful situations. 
 
@@ -341,11 +424,11 @@ Spend some time thinking about these things.
 
 I recommend writing down interview questions and ask yourself if your answers are good enough. 
 
-If you were hiring yourself as a call center agent, would you pick yourself for the job. 
+If you were hiring yourself as a call center agent, would you pick yourself for the job? 
 
 If not, what do you think would be a better answer?
 
-**Do you have any other questions for me?**
+## Do you have any other questions for me?
 
 Here's a secret, in a call center interview the recruiter is secretly counting how many questions you asked in an interview. 
 
@@ -361,7 +444,7 @@ So if you ever got this question at the end.
 
 This is to remind you that you should be asking a lot of questions during your interview. 
 
-### Additional Interview Tips:
+### Additional Call Center Interview Tips:
 
 1. The longer the interview the better for you.
 2. Confirm that you understand the answer.
@@ -377,5 +460,5 @@ This is to remind you that you should be asking a lot of questions during your i
 4. Deliver with confidence and elaborate.
 5. Try to form a bond with your interviewer by asking some questions.
 
-How do you answer questions before. How will you answer questions now?
+How do you answer questions before? How will you answer questions now?
 

@@ -27,7 +27,7 @@ On the other end...
 
 I'd like to know more about you. Seriously. There are 7,000 of you who read my lessons this month. I've only met around a hundred. This is both a training and bonding activity. I'd like to really connect with you by reading your answers.
 
-Copy paste the questions and email me your answers or paste them in the comments bellow.
+Copy-paste the questions and email me your answers or paste them in the comments below.
 What is your name?
 Where are you from?
 What was your past work?
@@ -79,7 +79,7 @@ I want to work in a call center because the pay is decent (I say decent because 
 
 Big companies pay on time all the time. 
 
-I've worked with start ups and local businesses and I've experienced pays being delayed a lot. 
+I've worked with startups and local businesses and I've experienced pays being delayed a lot. 
 
 I also like the fact that work ends after work. 
 
@@ -99,7 +99,7 @@ I like writing, meeting new people, exploring the net and recently I am learning
 
 ##### What do you enjoy doing?
 
-I enjoy travelling, writing, reading things, watching (feel good and inspiring) movies and collecting skills.
+I enjoy traveling, writing, reading things, watching (feel good and inspiring) movies and collecting skills.
 
 ##### What kind of people do you enjoy being with?
 

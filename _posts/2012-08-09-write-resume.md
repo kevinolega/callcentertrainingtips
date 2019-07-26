@@ -43,11 +43,11 @@ Don’t use sexyangelbutterfly@yahoo.com or ilovechocolate@hotmail.com. Use an e
 
 ### Place active contact numbers at the top
 
-When you submit an application and you qualify, the recruiter will call you and/or email you to schedule an interview or do a phone interview. When I was working in recruitment, if I couldn’t reach an applicant on his or her mobile phone or land line, I move on to the next applicant.
+When you submit an application and you qualify, the recruiter will call you and/or email you to schedule an interview or do a phone interview. When I was working in recruitment, if I couldn’t reach an applicant on his or her mobile phone or landline, I move on to the next applicant.
 
 ### Make your resume easy to read
 
-No crazy designs please. No script or whatever. I use Arial, Verdana and Calibri for Windows based computers and Helvetica for Mac Based computers. My font varies from 11-14.
+No crazy designs please. No script or whatever. I use Arial, Verdana and Calibri for Windows-based computers and Helvetica for Mac Based computers. My font varies from 11-14.
 
 ### Stay away from resume wizard
 

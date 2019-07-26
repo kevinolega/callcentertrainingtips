@@ -65,7 +65,7 @@ I'm excited by talking to interesting Filipinos so I got a job that allows me to
 
 I'm afraid of (insert fear) and I'd like to give it (my fear) a try. 
 
-It turns out that that what scares me leads me to what excites me and vice versa. 
+It turns out that what scares me leads me to what excites me and vice versa. 
 
 I learned from Tim Ferriss that fear is an excellent guide to where I need to go to achieve what I want. 
 
@@ -83,7 +83,7 @@ Let's take that further.
 
 List down the attributes of the kind of person you want to be. 
 
-How does that person make decisions and be that person. Decide how he/she decides and act like how he/she acts. 
+How does that person make decisions and be that person? Decide how he/she decides and act like how he/she acts. 
 
 When you do this, you'll notice that the person you want to be and the person you are now is the same person except for some small changes like being consistent and trying out some stuff more. 
 

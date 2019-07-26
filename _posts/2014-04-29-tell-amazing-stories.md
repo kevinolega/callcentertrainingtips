@@ -11,7 +11,7 @@ Look at your résumé and for each section.
 Tell a story about what's awesome about (specific work experience)
 Tell a story about what sucks about (same specific work experience)
 What have you learned from (specific work experience)
-What did you learn from (specific work experience) that would greatly contribute to you your job now.
+What did you learn from (specific work experience) that would greatly contribute to you your job now?
 
 Apply this exercise to each section including the details. Your home address, your school, from elementary to high school to college, the people in your reference.
 
@@ -33,7 +33,7 @@ You can't tell my stories because they are not your life experiences.
 
 Your stories are even more awesome. 
 
-In fact I would like to hear them. 
+In fact, I would like to hear them. 
 
 Seriously. 
 

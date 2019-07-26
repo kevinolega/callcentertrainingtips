@@ -18,27 +18,39 @@ The same thing goes for job interviews.
 
 I don't normally take a job unless I have three to five job offers in place. 
 
-Interviewers will try to negotiate your salary down. They don't do it to be mean. They do it because it's their job. 
+Interviewers will try to negotiate your salary down. 
 
-**How do you justify a higher pay**? It can be previous pay. It can be experience. 
+They don't do it to be mean. 
+
+They do it because it's their job. 
+
+**How do you justify a higher pay**? 
+
+It can be previous pay. 
+
+It can be experienced. 
 
 If you have neither, the last thing that you can use is an offer from another company. 
 
-Now some people might lie about this. I can't lie. 
+Now some people might lie about this. 
 
-If I do lie, you can see it in my face. So I don't. 
+I can't lie. 
+
+If I do lie, you can see it in my face. 
+
+So I don't. 
 
 What I do instead is, I really try to get a lot of job offers before accepting one. 
 
 **My service goes to them most interesting job with the highest pay**. 
 
-In the end you can't force a company to pay you higher. 
+In the end, you can't force a company to pay you higher. 
 
 What you can do, instead is find a company that's willing to pay you higher. 
 
 That involves going to a lot of interviews. 
 
-I go to sixteen interview to find my dream job. 
+I go to sixteen interviews to find my dream job. 
 
 The first five are practice because I know I'll make stupid mistakes in an interview. 
 
@@ -48,7 +60,7 @@ The next six are good companies with okay pay who want to hire me.
 
 Maybe three pay less than I want and the other three pays more than I want. 
 
-In the end I'll pick the one I like best.
+In the end, I'll pick the one I like best.
 
 Having options enable you to negotiate. 
 

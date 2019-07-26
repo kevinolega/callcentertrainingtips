@@ -30,17 +30,17 @@ Here are some of the details I included. Do your best to stick to one page. Feel
 3.  Landline (if any)
 4.  Email Address - Please use a professional one.
 5.  Physical Address
-6.  Work Experience if any - Summer jobs and part time jobs also apply
+6.  Work Experience if any - Summer jobs and part-time jobs also apply
 7.  Education - College Only but if you need fillers feel free to add high school.
 8.  Trainings and Seminars
-9.  Extra Curricular Activities
+9.  Extra-Curricular Activities
 10.  Skills and Interests - I normally don’t include this these days but if you need a filler this works too.
 11.  Software - MS, Apple or Google Documents, Spreadsheets and Presentations. Photoshop. Wordpress or other tools will be useful.
 12.  Reference - I don’t include this but if you need a filler this works just fine.
 
 #### Elements I add to the resume to increase the length.
 
-I’d like to stick to the one page resume rule but my resume should not be less than 3/4th of the page so I include the following fillers.
+I’d like to stick to the one-page resume rule but my resume should not be less than 3/4th of the page so I include the following fillers.
 
 1.  Software
 2.  Trainings and Seminars attended

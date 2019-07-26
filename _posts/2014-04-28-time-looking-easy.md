@@ -10,11 +10,11 @@ I want to tell you something.
 
 I meet a lot of people who want to work in a call center. There are a lot of people looking for easy call centers to apply to. The problem with that approach is as you visit more easy centers and fail you stand to lose more and more opportunities because you have less call centers to go to if you failed.
 
-An alternate would be to get better at what you are bad at.
+An alternative would be to get better at what you are bad at.
 
 If your English is not good get better at introducing yourself, asking questions and telling stories.
 
-If its your people skills learn to conduct good conversations. Be interested in what other people are interested in and encouraging them to talk about themselves.
+If it's your people skills learn to conduct good conversations. Be interested in what other people are interested in and encouraging them to talk about themselves.
 
 If it is confidence then you need to know what specifically you are good at and practice delivering a good explanation on why you are a good person to hire.
 

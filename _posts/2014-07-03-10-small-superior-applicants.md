@@ -15,15 +15,15 @@ Late is never acceptable. Traffic is not an excuse. We live in the Philippines. 
 
 **2. Freshen up**. 
 
-Given all skill levels are the same, I'll hire the person who looks better. It's a fact of life. People will hire the better looking candidate. Deal with it. I never worry about my appearance. While I don't look like John Lloyd Cruz despite some people arguing, I don't worry about how I look. My face is perfect (if you believe in the Bible, we are created in God's image) and I don't worry about something I can't do anything about. Plastic surgery to look like the actual John Lloyd Cruz is worth a lot of money. What I do worry about is showing up as my worst version. My hair is a mess. I'm all sweaty. My clothes are wrinkled. I have something in my teeth. Poor grooming is a sign of poor performance at work. It's inefficiency. We are expected to look our best. Heck even James Bond looks good after a chase scene. You should too. The reason I ask you to arrive early is so you can fix your appearance.
+Given all skill levels are the same, I'll hire the person who looks better. It's a fact of life. People will hire the better-looking candidate. Deal with it. I never worry about my appearance. While I don't look like John Lloyd Cruz despite some people arguing, I don't worry about how I look. My face is perfect (if you believe in the Bible, we are created in God's image) and I don't worry about something I can't do anything about. Plastic surgery to look like the actual John Lloyd Cruz is worth a lot of money. What I do worry about is showing up as my worst version. My hair is a mess. I'm all sweaty. My clothes are wrinkled. I have something in my teeth. Poor grooming is a sign of poor performance at work. It's inefficiency. We are expected to look our best. Heck even James Bond looks good after a chase scene. You should too. The reason I ask you to arrive early is so you can fix your appearance.
 
 **3. Dress your best**. 
 
-Part of fixing your appearance is dressing your best. If you're not the CEO of a million dollar company, you can't show up to a meeting dressed in (pambahay) sleep wear. You don't need an expensive suit. Just make sure what you wear fits right, the color is appropriate. You've heard this before. Now go do it.
+Part of fixing your appearance is dressing your best. If you're not the CEO of a million-dollar company, you can't show up to a meeting dressed in (pambahay) sleepwear. You don't need an expensive suit. Just make sure what you wear fits right, the color is appropriate. You've heard this before. Now go do it.
 
 **4. Multiple copies of your resume**. 
 
-I've literally have dozens of interviews because someone random asked for my resume. On my way to a job application or home after an interview, I see an aunt or uncle who finds out I'm looking for work, asks for a copy of my resume because they are on their way to meet a friend who is hiring for a position in their company. There were opportunities in the past when the job is drool-worthy and I didn't have a resume and they hired someone else the same day. Having spare copies of your resume enable you to tell yourself that if this interview doesn't go well, I'm going to do a walk in application to the nearby call center and this interview will just be practice for that.
+I've literally have dozens of interviews because someone random asked for my resume. On my way to a job application or home after an interview, I see an aunt or uncle who finds out I'm looking for work, asks for a copy of my resume because they are on their way to meet a friend who is hiring for a position in their company. There were opportunities in the past when the job is drool-worthy and I didn't have a resume and they hired someone else the same day. Having spare copies of your resume enable you to tell yourself that if this interview doesn't go well, I'm going to do a walk-in application to the nearby call center and this interview will just be practice for that.
 
 **5. Put your story on paper**. 
 
@@ -47,5 +47,5 @@ The human body needs energy to accomplish tasks. Sleep enables your body to have
     
 **10. Read your list of accomplishments.** 
 
-At many points on your way to your interview your negative self talk might give you trouble and self doubt. Don't let it. Use the list to remind you how awesome you are.
+At many points on your way to your interview your negative self-talk might give you trouble and self-doubt. Don't let it. Use the list to remind you how awesome you are.
 

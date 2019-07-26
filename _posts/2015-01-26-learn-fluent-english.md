@@ -75,11 +75,11 @@ Aside from the lessons you're about to learn, just do a regular check.
 - What are your strengths
 - What are your weaknesses?
 - What are your fears?
-- What would you like to improve now.
+- What would you like to improve now?
 
 Write down as many as you can and try to expand. 
 
-Write down your answer in the first sentence and expand to the next two or three sentence. 
+Write down your answer in the first sentence and expand to the next two or three sentences. 
 
 Include some details and add with the reasons why your answer is your answer. 
 
@@ -98,7 +98,7 @@ If you’ve experienced any of these in a situation where you are required to sp
 
 The solution is simple.
 
-Practice basic english by answering or asking yourself the questions.
+Practice basic English by answering or asking yourself the questions.
 
 
 >If you’re a Filipina who’s thinking, I’m already good in English and I’m chatting with foreigners and they think my English is good, think again. They might just think you’re hot and anything you say is good to them. In a work environment, the mastery of basics will lead to the excellent results.**
@@ -149,8 +149,8 @@ If you have two ways of saying something you can pick the better one.
 - How do you spend your free time?
 - What skill did you learn recently?
 - What skills are you proud of?
-- What are your favourite tv shows?
-- What are your favourite movies?
+- What are your favorite tv shows?
+- What are your favorite movies?
 - What kind of food do you like?
 - What kind of music do you listen to?
 - What do you want your life to be like 5 years from now?
@@ -219,7 +219,7 @@ Topics you can start with to build rapport:
 
 #### Instruction
 
-I get a lot of good feeback with how I explain things well to the customer. 
+I get a lot of good feedback with how I explain things well to the customer. 
 
 I tell the customer I watch a lot of cooking shows. 
 
@@ -234,7 +234,7 @@ Instructions should be prepared in the following format.
 
 1. **Simplified**. 
 
-1-2 sentence format or the shortest version possible for quick explainations
+1-2 sentence format or the shortest version possible for quick explanations
 
 2. **Long form**. 
 
@@ -248,21 +248,21 @@ Have both so you have a version for people who have knowledge and people who hav
 
 Just add a description. 
 
-Instead of saying the word, describe it in detail, tell the other person where to find it, what colour, what other things help identify it and tell them what to do.
+Instead of saying the word, describe it in detail, tell the other person where to find it, what color, what other things help identify it and tell them what to do.
 
 **Where you can go to get better instructions:**
 
 1. **Watch cooking shows**. 
 
-My favourite chefs are Jamie Oliver, Gordon Ramsay and Heston Blumenthal.
+My favorite chefs are Jamie Oliver, Gordon Ramsay and, Heston Blumenthal.
 
 2. **Read how to guides**. 
 
-I read a lot of how to guides at Lifehacker.com
+I read a lot of how-to guides at Lifehacker.com
 
 3. **Emulate great teachers**. 
 
-I have a short list of people I look up to. 
+I have a short-list of people I look up to. 
 
 I’ll share it in the future.
 
@@ -279,7 +279,7 @@ People with good pronunciation are seen as part of the elite and people with bad
 
 3. **Bad Pronunciation can cause others to misunderstand you**. 
 
-See SBC Packers by Rex Navarette on You Tube. Google is your friend.
+See SBC Packers by Rex Navarette on YouTube. Google is your friend.
 
 [CLICK HERE TO WATCH MY VIDEOS](http://callcentertrainingtips.com/youtube/).
 
@@ -287,9 +287,9 @@ You don’t need years to have good pronunciation.
 
 A lot of people spend years learning how to do it right. 
 
-Most filipinos in low income situations can’t be bothered. 
+Most Filipinos in low-income situations can’t be bothered. 
 
-Some people get promoted from low income jobs.
+Some people get promoted from low-income jobs.
 
 My celebrity crush since I was a kid was Heart Evangelista. 
 

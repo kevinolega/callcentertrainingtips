@@ -14,7 +14,7 @@ you might have noticed how happy I am about receiving messages from readers that
 
 A few weeks ago I received a testimonial with a full description of what happened. 
 
-I asked for permission to post it because I believe that reading thispost will give you ideas on how to get hired.
+I asked for permission to post it because I believe that reading this post will give you ideas on how to get hired.
 
 You might notice some grammar errors and that's perfectly fine. 
 

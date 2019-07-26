@@ -30,11 +30,11 @@ Then you do your job. By the time you’ve hit lunch break you’re out of willp
 How can you improve yourself to learn skill?
 
 **1. Accept that will power is limited.** Accepting what you can’t do enables you to identify what you can do and what you can do well.
-**2. Make wise decisions in advanced.** Write a list of things you need to do everyday. Write the time and do them first everyday. If you want to improve your english. Read a lesson first thing in a day.
-**3. Follow your check list.** Just follow your own instructions. If it’s on the paper do it.
+**2. Make wise decisions in advanced.** Write a list of things you need to do everyday. Write the time and do them first everyday. If you want to improve your English. Read a lesson first thing in a day.
+**3. Follow your checklist.** Just follow your own instructions. If it’s on the paper do it.
 **4. Avoid small decisions.** I learned this lesson from Matt Zuckerberg, Steve Jobs and Barack Obama. These guys wear the same thing everyday to make as few decisions as possible. Based on what they’ve accomplished, I believe they are doing something right.
-**5. Get enough sleep.** Based on experience less sleep leads to a shit day. I regret not getting enough sleep because it lead to the break up that caused my several years long depression. It led to me making lots of shit decisions.
-**6. Stop eating garbage.** People might argue, it's just junk food. It's not just junk food. It's garbage. Stop eating it. Eat more vegetables. Eat better quality food. Avoid excessive alcohol. Feed your body the right food. Google is your friend. This is a job hunting tips site I don't need to explain here.
+**5. Get enough sleep.** Based on experience less sleep leads to a shit day. I regret not getting enough sleep because it lead to the break up that caused my several years-long depression. It led to me making lots of shit decisions.
+**6. Stop eating garbage.** People might argue, it's just junk food. It's not just junk food. It's garbage. Stop eating it. Eat more vegetables. Eat better quality food. Avoid excessive alcohol. Feed your body the right food. Google is your friend. This is a job-hunting tips site I don't need to explain here.
 **7. Observe your breathing.** Take a deep breath now. Take another one. Feels good doesn't it? We are asked to take breaths whenever we are angry or need to make a big decision. Guess what, you don't have to wait until you're angry or need to make a big decision before you take a deep breath. Try taking ten deep breaths now? How do you feel? Imagine having this feeling the whole day? Do you get my point now?
 **8. Save your willpower for things that matter?** As I've said earlier. Practice making decisions in advance and following through. Don't decide don't leave yourself to making options and choices in the middle of something otherwise it will drain you of your willpower. Follow the advice and you'll be fine. Ignore it and you'll stay the way you are.
 

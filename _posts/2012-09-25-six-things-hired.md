@@ -10,11 +10,11 @@ I made a lot of mistakes when I was looking for work in a call center. Despite m
 
 ### 1. I spoke in English All the time 
 
-I texted my friends in English. I talked to my mom, my brother and my half siblings in English. I spoke more often to my English speaking friends. I watched English shows and read English books. Later on since I can't talk to anyone during my commute to my interview I talked to myself in my head in English practicing my answers.
+I texted my friends in English. I talked to my mom, my brother and my half- siblings in English. I spoke more often to my English speaking friends. I watched English shows and read English books. Later on since I can't talk to anyone during my commute to my interview I talked to myself in my head in English practicing my answers.
 
-### 2. I tried to imporve 
+### 2. I tried to improve 
 
-I knew I wasn't perfect. The fact that I'm not hired yet means I can do better at what I'm tryinh to do. When I figure out how this works then it will be worth it but until I do I have to keep trying.
+I knew I wasn't perfect. The fact that I'm not hired yet means I can do better at what I'm trying to do. When I figure out how this works then it will be worth it but until I do I have to keep trying.
 
 ### 3. I went with friends 
 
@@ -22,11 +22,11 @@ I also had some friends who were looking for work. The truth was I was scared an
 
 ### 4. I made new friends 
 
-Both of the girls I was with when I applied didn't join me on the fourth day. One of them got hired and one of them just gave up. We weren't that close because I just met them through a friend in a random late night drinking session. Despite that I had to get hired so I went out on my own. I was a chain smoker then. I was trying to copy Tyler Durden (Brad Pitt) from the movie Fight Club. So I made friends with people who worked in the call center and the cute girls beside me in the applicant's waiting area. I strategically seated myself to the cutest one or the person whom I feel had the highest chance of getting hired. I told them it was my first time to look for work then we swapped tips, notes, experiences and most importantly what call center companies we've applied at already and it's location. That way I never ran out of places to go to. I went down to smoke with them within interviews. I met a few who were really pretty and some of them became my friends. In fact one of the girls I met was the one who coded my first few websites for close to free and I'm forever thankful for her help.
+Both of the girls I was with when I applied didn't join me on the fourth day. One of them got hired and one of them just gave up. We weren't that close because I just met them through a friend in a random late-night drinking session. Despite that I had to get hired so I went out on my own. I was a chain smoker then. I was trying to copy Tyler Durden (Brad Pitt) from the movie Fight Club. So I made friends with people who worked in the call center and the cute girls beside me in the applicant's waiting area. I strategically seated myself to the cutest one or the person whom I feel had the highest chance of getting hired. I told them it was my first time to look for work then we swapped tips, notes, experiences and most importantly what call center companies we've applied at already and it's location. That way I never ran out of places to go to. I went down to smoke with them within interviews. I met a few who were really pretty and some of them became my friends. In fact one of the girls I met was the one who coded my first few websites for close to free and I'm forever thankful for her help.
 
 ### 5. I kept asking for help 
 
-Whenever I get the chance I would tell my interviewer or some call center employee in the smoking area that it was my first time looking gor work and I was hoping they could give me some tips. They would then give me a short list of things to imporve that I would then practice to get better.
+Whenever I get the chance I would tell my interviewer or some call center employee in the smoking area that it was my first time looking for work and I was hoping they could give me some tips. They would then give me a short-list of things to improve that I would then practice to get better.
 
 I would also ask interview tips from people I looked up to that had awesome jobs and learned from them.
 
@@ -40,7 +40,7 @@ There's no other way to fast track getting hired than getting your foot in the d
 
 At first we said I wanted to apply as a call center agent. Later the smarter move was to say I wanted to apply as  a customer service representative or sales representative.
 
-I had no idea what call center work was until I found out from smoking with call center agents. (I don't recommend you smoke.) If you're a girl make friends in the washroom or something. If you're a non smoker make friends in the applicant's waiting area or so.
+I had no idea what call center work was until I found out from smoking with call center agents. (I don't recommend you smoke.) If you're a girl make friends in the washroom or something. If you're a non-smoker make friends in the applicant's waiting area or so.
 
 Just keep applying ask questions and get better. What are the things that you did right that got you hired in a call center?
 

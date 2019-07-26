@@ -61,7 +61,7 @@ I start by writing what information comes to mind. Elements about myself include
 - I enjoy traveling.
 - I got out of a really long relationship and am trying to recover.
 - I enjoy taking my bike around the city or out of town.
-- I recently learned how to cook from Jamie Oliver, Gordon Ramsay, Heston Blumenthall and Tim Ferriss
+- I recently learned how to cook from Jamie Oliver, Gordon Ramsay, Heston Blumenthal , and Tim Ferriss
 - I'm a CrossFit guy.
 - I'm a LifeHacker
 - I'm a Martial Artist
@@ -78,7 +78,7 @@ Why Do You Want To Work In A Call Center?
 - I enjoy talking on the phone.
 - I don’t mind working at night. In fact, working at night is to my advantage.
 - I know that call center jobs pay higher than regular companies.
-- I know that reputable companies provide good benefits, even to entry level employees. 
+- I know that reputable companies provide good benefits, even to entry-level employees. 
 - I know that well-known call center companies pay on time.
 - I know that call center work is not for everyone and a lot of people quit the job, that means a higher chance of career advancement and opportunities.
 - I speak English well. “Laway lang ang puhunan.” It’s a talking job.
@@ -99,8 +99,8 @@ Also asked as "Why should we hire you?" or "What can you contribute to our compa
 - I enjoy reading.
 - I enjoy solving problems
 - I enjoy learning new skills.
-- I am self motivated. I direct myself to do what needs to be done. I do not need instructions to get me started to doing what is good for me.
-- I have a can do attitude. I'm positive that every problem has a solution.
+- I am self-motivated. I direct myself to do what needs to be done. I do not need instructions to get me started to doing what is good for me.
+- I have a can-do attitude. I'm positive that every problem has a solution.
 - I continuously improve. Every skill I'm good at is a skill that I'm previously bad at.
 - I'm a master of copying. Every skill I have is learned from someone who is excellent at what they do.
 - I spend my time with the right people. I make an effort to be where I'll learn from people are better and smarter than me and I learn from them.
@@ -109,10 +109,10 @@ Also asked as "Why should we hire you?" or "What can you contribute to our compa
 - I have sales skills. I can ask people about their needs and problems, communicate the possibility of my product or service assisting them and encouraging them to take action.
 - I know how to cook. I know that if you follow a recipe's steps and use the right ingredients you can copy a specific dish or result. This doesn't apply in cooking. The same process applies in real life.
 - I know martial arts. I know that learning skills involve imitating what works and practicing it regularly will give me good results over time.
-- I'm a gamer. I know that everyone starts at lower levels and as I keep playing, I get better and so does my abilities. Eventually I'll play in the higher levels.
+- I'm a gamer. I know that everyone starts at lower levels and as I keep playing, I get better and so does my abilities. Eventually, I'll play in the higher levels.
 - I'm know how to draw. I know that copying best practices and lots of practice is the key to getting better.
 - I'm a writer. I know that learning to do things requires you to test a lot of things
-- I'm a lifehacker. I use tools and techniques from smart people to get things done.
+- I'm a Lifehacker. I use tools and techniques from smart people to get things done.
 - I'm a minimalist. I know how to focus on the important and ignore the unimportant. If none of these are your strengths, I encourage you to make it your life goal to make these strengths part of your list. You can't go through life with such a disability.
 
 **How I answer this question:**
@@ -126,7 +126,7 @@ I'm a shy person by nature. I don't like to brag about my strengths. Instead wha
 Also asked as "Why shouldn't we hire you?"
 
 - All of my current strengths are often last year's weakness.
-- I was usually late until I decided to give myself a large allowance of time for my appointments. I don't over commit so I don't over extend.
+- I was usually late until I decided to give myself a large allowance of time for my appointments. I don't over commit so I don't overextend.
 - I was a hoarder until I realized that the more I had the less I can use because my time and attention is limited. I'm now a minimalist.
 - I didn't know how to draw until I spent more time with people who can draw well.
 - I was unfit until I decided to spend my time with people who are healthy and had the bodies that I envy.

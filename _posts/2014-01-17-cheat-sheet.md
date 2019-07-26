@@ -22,7 +22,7 @@ I teach them to focus on a few things that are important.
 
 Back in school I'm notorious for asking the teacher why a boring lesson is important to learn and I still do. 
 
-I don't do it out loud but sometime extra lessons are not really useful.
+I don't do it out loud but sometimes extra lessons are not really useful.
 
 If something is not worth learning then it is important to not learn the lesson. 
 

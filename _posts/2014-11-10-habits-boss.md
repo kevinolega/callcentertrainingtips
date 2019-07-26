@@ -28,7 +28,7 @@ If you have a habit of smoking, you will generally have lung cancer.
 
 If you eat until you become obese, you are guaranteeing your death by diabetes or heart disease.
 
-If you have the habit of not saving your money and you spend all that you earn, chances are you also over eat and smoke and drink alcohol, and in case you die, you'll leave them with expenses on how to dispose your body or medical bills. 
+If you have the habit of not saving your money and you spend all that you earn, chances are you also overeat and smoke and drink alcohol, and in case you die, you'll leave them with expenses on how to dispose your body or medical bills. 
 
 Your life had become a curse to them instead of a blessing.
 
@@ -38,7 +38,7 @@ If you love your family but you smoke or drink alcohol or you eat like a fat per
 
 Then you are generally setting yourself up for failure.
 
-You can  be genuinely and sincerely loving but if you do the wrong thing you can make yourself or the people around you miserable.
+You can be genuinely and sincerely loving but if you do the wrong thing you can make yourself or the people around you miserable.
 
 How you do anything is how you do everything. 
 
@@ -103,7 +103,7 @@ If you do this for five years?
 
 If you do this for the rest of your life?
 
-Given your answers, how happy would you be or un happy do you see yourself as a result of this habit?
+Given your answers, how happy would you be or unhappy do you see yourself as a result of this habit?
 
 What is your thought process when you look at this habit?
 

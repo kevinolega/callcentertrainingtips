@@ -16,7 +16,7 @@ Only get advice from people who have what you want.
 
 You want love advice go to someone who is happily married. Don’t go to someone who is single his advice is often useless.
 
-You want money advice get advice from someone who has money. Don’t go to an investment sales person.
+You want money advice get advice from someone who has money. Don’t go to an investment salesperson.
 
 You want job advice? Go to someone who is successful at that job.
 

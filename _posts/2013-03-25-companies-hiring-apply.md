@@ -41,7 +41,7 @@ In no particular order here are some call center companies that are hiring in Me
 - Sitel
 - Sykes
 - NCO
-- Genpact (alabang)
+- Genpact (Alabang)
 - KGB (formerly Infonxx)
 - IBM
 - HSBC

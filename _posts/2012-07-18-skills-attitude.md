@@ -18,7 +18,7 @@ On the outside, attitude and skills don’t look valuable and that’s the reaso
 
 I landed several jobs because of skills and attitudes I picked up.
 
-I got my first job because the hiring manager was interested in martial arts and I promised to teach him. I learned the basics of sales in that job and became more positive about it than the other person. A few months after I got hired by a sales manager and made a good income doing sales related work. I improved my sales skills and practiced learning how to train in a part time job and eventually got offered a job at a call center school. While working there I volunteered to do a job and eventually I was offered an opportunity in a recruitment company. I learned about different opportunities I could explore and took some action. I was able to increase my income then.
+I got my first job because the hiring manager was interested in martial arts and I promised to teach him. I learned the basics of sales in that job and became more positive about it than the other person. A few months after I got hired by a sales manager and made a good income doing sales related work. I improved my sales skills and practiced learning how to train in a part-time job and eventually got offered a job at a call center school. While working there I volunteered to do a job and eventually I was offered an opportunity in a recruitment company. I learned about different opportunities I could explore and took some action. I was able to increase my income then.
 
 If learning a few small things took an idiot like me to different places. Many Filipinos still think I’m smart. I’m not. Imagine where learning new things will take you.
 

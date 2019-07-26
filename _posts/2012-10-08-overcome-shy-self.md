@@ -8,7 +8,7 @@ categories: [Lessons]
 ---
 I'm a really shy person. 
 
-If you've notice recently that I put up a YouTube channel called CCTTShow that you can subscribe to. 
+If you've noticed recently that I put up a YouTube channel called CCTTShow that you can subscribe to. 
 
 I've been trying to make videos to help you with your job application. 
 
@@ -16,7 +16,7 @@ I recently put up two.
 
 You've seen them in my past lessons. 
 
-Now why did I do this?
+Now, why did I do this?
 
 I'm developing a technique you can do at home to work on your shyness. 
 

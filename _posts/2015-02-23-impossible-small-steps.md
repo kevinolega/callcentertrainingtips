@@ -8,7 +8,7 @@ I kept telling her we'd get married.
 
 I failed. 
 
-She waited six years but got tired and left. 
+She waited for six years but got tired and left. 
 
 Now she's married to someone else.
 
@@ -34,7 +34,7 @@ It took me three years and I spent all of it depressed but I learned how to get 
 
 I can now lift 220lbs and do 1 arm push-ups. 
 
-I can strike a heavy bag non stop for three five minute rounds. 
+I can strike a heavy bag non-stop for three five minute rounds. 
 
 Bike thirty kilometers. 
 
@@ -76,7 +76,7 @@ Some days I'm inspired to do something.
 
 Despite that. 
 
-I end up reaching maximum level in the iOS game Injustice:God's among us. 
+I end up reaching maximum level in the iOS game Injustice: God's among us. 
 
 I reached level 25 in the game Summoner's War in two months something my friend achieved in six months. 
 
@@ -88,7 +88,7 @@ I'd rather just play games.
 
 Think of my failure like a wounded James Bond thinking of Vesper in the film Casino Royale.
 
-I try to pick myself back up by writing posts to turn my misfortunes into life enhancing events.
+I try to pick myself back up by writing posts to turn my misfortunes into life-enhancing events.
 
 We all want a better life. 
 
@@ -142,7 +142,7 @@ It enables you to commit to something you see.
 
 Paper has power. Learn to use it.  
 
-A few years back I saw this live action adaptation of the Japanese Manga and anime series titled "Death Note." 
+A few years back I saw this live-action adaptation of the Japanese Manga and anime series titled "Death Note." 
 
 If you’re not familiar with it, it’s the story of a guy who picked up a mysterious notebook that allows the bearer to kill people by writing down their names. 
 
@@ -152,7 +152,7 @@ An example is.
 
 John Smith suddenly felt depressed, he suddenly lost his appetite on Monday and have had arguments with his boss and his family and had fallen to a bad position. 
 
-Two weeks later he heads up to the top floor of his ten story office building and contemplates jumping to his death. 
+Two weeks later he heads up to the top floor of his ten-story office building and contemplates jumping to his death. 
 
 After an hour he decides to finally go, but as he was about to jump a moment of cowardice occurs and he was able to grab on to a ledge and save himself. 
 
@@ -168,7 +168,7 @@ Broke he suffers from hunger for several days and wanders the city filled with r
 
 He finds an open railroad and jumps in front of his train to his death. He is then rescued by a passerby and was taken to a public ward.  
 
-As he was recovering from the hospital, out of money but was encouraged to turn his life around by a conversation from a next door family. 
+As he was recovering from the hospital, out of money but was encouraged to turn his life around by a conversation from a next-door family. 
 
 A playing child from the family in the next hospital bed trips over a power source responsible for regulating his life support equipment. 
 
@@ -209,7 +209,7 @@ Now I want you to read this out loud and memorize it.
 
 Learn the steps. The smallest thing in the equation and practice it until you get better.
 
-I told this to a demotivated co worker because he had poor sales numbers. 
+I told this to a demotivated co-worker because he had poor sales numbers. 
 
 I told him we can just break down the steps of top performers and learn to imitate what works and replicate the results.
 

@@ -110,9 +110,9 @@ I never graduated so I have this excuse to never stop learning.
 
 Comparing myself with others is a bad thing but every time I had to compete for a job I was always at an advantage over people I competed with even if they graduated from a nice school and have a diploma. 
 
-I’m not afraid of high level competitors. In fact I’m excited to meet them. 
+I’m not afraid of high-level competitors. In fact I’m excited to meet them. 
 
-I read everyday. 
+I read every day. 
 
 I’m updated with the current technology. 
 
@@ -158,7 +158,7 @@ I read everyday (see number 2).
 
 I couldn’t wait for someone to tell me what I need to learn. 
 
-I’m always on the look out for new ideas. 
+I’m always on the look-out for new ideas. 
 
 I add skills to my own. 
 
@@ -250,9 +250,9 @@ I can be scrutinized, hit by trolls, defamed and far worse things.
 
 It didn’t matter. 
 
-The benefits far out weigh the cons. 
+The benefits far out-weigh the cons. 
 
-Everyone has a facebook page or a twitter or a tumblog. 
+Everyone has a facebook page or a twitter or a Tumblog. 
 
 A site you own or a site under your name can make you Google-able. 
 
@@ -303,7 +303,7 @@ I’m not.
 
 At times I openly oppose my boss to offer a better alternative. 
 
-I did this a few times and for a few incidents me and my boss dominated certain niches because of my unconventional thinking. 
+I did this a few times and for a few incidents, I and my boss dominated certain niches because of my unconventional thinking. 
 
 In sales, I think of major decision makers as harmless. 
 

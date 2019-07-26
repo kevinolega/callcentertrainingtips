@@ -22,4 +22,4 @@ I recently met another one who like me had terrible skills to begin with and des
 
 Knowing that other people who are like that and just started trying to learn things from the internet on your own well that's pretty amazing so I think you're awesome too anyways you are awesome you need to look for proof because I can't convince you you have to look at what you have try to point out which one makes you awesome and that's the reason why the call center companies are going to hire you.
 
-So its your turn now to tell me. What makes you awesome?
+So it's your turn now to tell me. What makes you awesome?

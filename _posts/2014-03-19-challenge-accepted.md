@@ -33,7 +33,7 @@ I'm not perfect. I still panic. I still get afraid. Reminding myself to respond 
 
 I often brag that "whenever I say challenge accepted, the next thing you'll hear is challenge completed."
 
-Not to show of but to remind myself that difficulties are challenge that I can overcome as long as I face it and not flee from it.
+Not to show off but to remind myself that difficulties are challenges that I can overcome as long as I face it and not flee from it.
 
 How do you face challenges? Do you also say challenge accepted?
 

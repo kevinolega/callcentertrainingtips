@@ -6,7 +6,7 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-When I started working in a call center again.&nbsp;Everything was difficult.
+When I started working in a call center again.&nbsp; Everything was difficult.
 I had no idea what I was doing.&nbsp;
 
 Training was confusing.&nbsp;
@@ -21,22 +21,22 @@ When I started everything was a disaster.&nbsp;
 
 **I can't sell shit**. We were expected to make one sale every one hundred calls. I made one sale per month or one sale every six hundred calls.
 
-**My customers hate me**. I was not confident. I didn't know what I was doing. They feel that they're not in good hands. They are right. I kept getting asked to transfer them to a supervisor or to an american agent or simply to someone else because I "clearly didn't know I was doing." They were also right there.
+**My customers hate me**. I was not confident. I didn't know what I was doing. They feel that they're not in good hands. They are right. I kept getting asked to transfer them to a supervisor or to an American agent or simply to someone else because I "clearly didn't know I was doing." They were also right there.
 **My boss hates me**. All my poor stats are driving the whole team's score down. My boss's boss is telling him his stats are down and everybody knows it's my fault. &nbsp;
 This went on for several days.
 
-**I kept asking the person next to me and eventually, that person hates me too**. I kept asking the same questions on the same situations and they feel they're wasting their time and effor teaching me. Some of them just tell me to ask someone else or a team leader because they're on a call.
+**I kept asking the person next to me and eventually, that person hates me too**. I kept asking the same questions on the same situations and they feel they're wasting their time and effort teaching me. Some of them just tell me to ask someone else or a team leader because they're on a call.
 
 **I hate myself and I tell myself how stupid I am**. Everyone in my batch seemed to be doing things right. Why can't I do it?
 **I'm starting to hate my job because of my poor performance**. That was unjustified but I didn't think of it at that time. Everything feels bad and everything sucks myself included.&nbsp;
 
 I told myself fuck it. I'll just keep going to work until they fire me. It couldn't get any worse right?
 
-So I went to work with the intention of getting fired. I started taking my calls. I don't care about the customer. Fuck you. I tell them in my head. But then I noticed someting. I was listening to the customer explain their situation. I was asking about what happened. I was asking my supervisor again. I was asking the person next to me again. I'm a bit fortunate. We weren't working on a paperless environment. I was taking notes on the procedure. I was sleepy but I wrote down a summary of the problem and the solution and kept reviewing it.
+So I went to work with the intention of getting fired. I started taking my calls. I don't care about the customer. Fuck you. I tell them in my head. But then I noticed something. I was listening to the customer explain their situation. I was asking about what happened. I was asking my supervisor again. I was asking the person next to me again. I'm a bit fortunate. We weren't working on a paperless environment. I was taking notes on the procedure. I was sleepy but I wrote down a summary of the problem and the solution and kept reviewing it.
 
 **I just try to remember one lesson from the day and wrote it on my notebook.**
 
-I was looking for difficult situations and I was trying to learn the solution. I sometimes write it on a post it note or my notebook.
+I was looking for difficult situations and I was trying to learn the solution. I sometimes write it on a post-it notes or my notebook.
 
 I felt like playing a puzzle game.
 

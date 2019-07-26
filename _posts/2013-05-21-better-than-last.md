@@ -6,7 +6,7 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-> Whenever I fight I don't hit my opponent with my fists. It hits all by itsself. -Bruce Lee (paraphrased)
+> Whenever I fight I don't hit my opponent with my fists. It hits all by itself. -Bruce Lee (paraphrased)
 
 Whenever I do something I expect the next attempt to get better.
 

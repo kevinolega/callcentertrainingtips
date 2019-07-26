@@ -45,7 +45,7 @@ Then offer your service and highlight your strengths based on your answer.
 I'll say something like:
 Given the accounts that you are hiring for at this time what traits does an agent need to have in order to do well in your company?
 
-Alternatively you can do it like a pick up line.
+Alternatively you can do it like a pick-up line.
 What traits do I need to have or improve in order to be a top performer at this company?
 
 After they give you the reasons. You say.
@@ -54,6 +54,6 @@ That's good. I'm already good at trait one trait two and trait three. I need a l
 
 If you follow this process I am confident that you'll be able to sell your services well.
 
-Trivia: companies prefer people with sales abilities. If you become good at selling hiring managers would prefer you over candidates with higher educational credentials. The reason for that is sales people help the company make money. You would want to keep people in your life that help you make money right?
+Trivia: companies prefer people with sales abilities. If you become good at selling hiring managers would prefer you over candidates with higher educational credentials. The reason for that is salespeople help the company make money. You would want to keep people in your life that help you make money right?
 
-The best sales people are prized like gems so wether you go for an official sales career or a different skill learning to sell is simply learning how to communicate a benefit in such a way that they would be inspired to take action immediately.
+The best salespeople are prized like gems so whether you go for an official sales career or a different skill learning to sell is simply learning how to communicate a benefit in such a way that they would be inspired to take action immediately.

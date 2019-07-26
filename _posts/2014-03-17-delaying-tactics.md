@@ -12,7 +12,7 @@ To learn how to do this.
 
 Use delaying words like:
 I'm sorry can you repeat that?
-What do you mean by "reflect question" ?
+What do you mean by "reflect question"?
 That's a good question.
 So you are asking about "rephrase question"?
 Just to make sure I got that correctly..." rephrase question "
@@ -22,4 +22,4 @@ What's the word for that?
 How do you put it? Let me think for a moment.
 Smile.&nbsp;
 
-Use your common sense and don't overuse a tactic. I hope you find these useful.
+Use your common sense and don't overuse a tactic. I hope you find this useful.

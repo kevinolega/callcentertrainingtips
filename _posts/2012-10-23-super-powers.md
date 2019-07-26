@@ -8,11 +8,11 @@ categories: [Lessons]
 ---
 My ten superpowers.
 
-1.  I can sense a cute girl 300 meters away from me even if I'm looking at the opposite direction. They all have enchanting smiles and chinita eyes.
+1.  I can sense a cute girl 300 meters away from me even if I'm looking at the opposite direction. They all have enchanting smiles and Chinita eyes.
 
 2.  I can dodge, parry and block fast moving objects without needing to directly see them. I often stop or move back to dodge speeding cars I did not see.
 
-3.  I have a fifty fifty percent chance of making you say yes. I also have a fifty fifty percent chance of making you smile.
+3.  I have a fifty-fifty percent chance of making you say yes. I also have a fifty fifty percent chance of making you smile.
 
 4.  I can make you forget the passing of time if we get to talk. I can do it over the phone or in person. We can speak for hours and hours without you noticing.
 
@@ -20,11 +20,11 @@ My ten superpowers.
 
 6.  I can use technology and my writing to teach you things and send you ideas even if I'm not physically present. I use the [call center training tips website](http://callcentertrainingtips.com) or the [Facebook page](http://www.facebook.com/pages/Call-Center-Training-Tips/449507911746386) or my other websites that [you can check out here](http://kevinolega.com).
 
-7.  I have super human strength. I can lift things by myself that normally require two or three people to lift. Sometimes this hurts my back though.
+7.  I have superhuman strength. I can lift things by myself that normally require two or three people to lift. Sometimes this hurts my back though.
 
 8.  I can make time move slower when I am late. For some reason time moves slower when I am late. If I'm meeting you and I'm late waiting for me will feel like hours instead of minutes.
 
-9.  I can copy super powers. Whenever I see an ability I find awesome I copy it, imitate and have it.
+9.  I can copy superpowers. Whenever I see an ability I find awesome I copy it, imitate and have it.
 
 10.I can make up superpowers. Whenever I want to do something really boring, I create superpowers to help me do it or to excite me to do it.
 
@@ -62,7 +62,7 @@ Nobody will like me.
 
 I'll never be worthy.
 
-And just like the super powers it will become part of your reality. 
+And just like the superpowers it will become part of your reality. 
 
 That's right. 
 

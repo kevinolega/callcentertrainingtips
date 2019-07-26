@@ -19,7 +19,7 @@ I often get a message that goes something like this.
 >
 > P. S.  Do you have tips on how to pass the training?
 
-Companies have different training practices. For some there's some English training then product training. Others jump immediately to product training. Here are some tips on how to pass the training.
+Companies have different training practices. For some, there's some English training then product training. Others jump immediately to product training. Here are some tips on how to pass the training.
 
 **1. Attendance.** 
 
@@ -37,7 +37,7 @@ Go home immediately after training. Don't go to drinking after training. Don't 
 
 Most of the call center related problems are solved by getting enough rest.
 
-If your problem is comprehension skills, problem solving skills, sales skills, making the customer happy, AHT, QA or other KPI, most of the time, getting enough rest at home is the best solution.
+If your problem is comprehension skills, problem-solving skills, sales skills, making the customer happy, AHT, QA or other KPI, most of the time, getting enough rest at home is the best solution.
 
 If you get fired because you did not follow my advice here, getting fired is 100% your fault.
 
@@ -76,10 +76,10 @@ Avoid people who borrow money.
 
 Nobody who earns a call center salary who borrows money from a co-worker can be trusted. 
 
-Not to sound hypocritical, I have borrowed anywhere from coins to two hundred bucks because I either left my wallet in the locker, got robbed or pick pocketed (yes, this happens), or didn't have cash on me and had to pay for something but paid all the time. Most people who borrowed money from me in the call center haven't paid me back. 
+Not to sound hypocritical, I have borrowed anywhere from coins to two hundred bucks because I either left my wallet in the locker, got robbed or pickpocketed (yes, this happens), or didn't have cash on me and had to pay for something but paid all the time. Most people who borrowed money from me in the call center haven't paid me back. 
 
 To name a few, there are Edsil Pastoral, [Gian Baylon](https://web.facebook.com/profile.php?id=1628966375&ref=br_rs) [Myrtle Anne Ramos](https://web.facebook.com/profile.php?id=100002471294697&ref=br_rs), [Harvey Ocampo Punla](https://web.facebook.com/charlon.punla?ref=br_rs),Zenneth 
-Hizon, [Russel "Raj" Ylannan](https://web.facebook.com/rushellraj.ylanan?ref=br_rs), and a lot more people owe me a significant amount of money. One of these people have also stolen my wallet, phone and iPod.
+Hizon, [Russel "Raj" Ylannan](https://web.facebook.com/rushellraj.ylanan?ref=br_rs), and a lot more people owe me a significant amount of money. One of these people have also stolen my wallet, phone , and iPod.
 
 Most of these people never paid me back, have stopped responding to my messages and have just disappeared. Even if they give you their ATM it's easy to get the bank to replace that and escape you.
 
@@ -89,7 +89,7 @@ A legitimate loan is made with the bank. If that person genuinely sees you as a 
 
 I usually sit next to top performers, listen to them, take notes and copy what I can. 
 
-Some of these people, I ask for advice but in the end, I ask the trainer and team leader what I can and can't do.
+Some of these people, I ask for advice but in the end, I ask the trainer , and team leader what I can , and can't do.
 
 Only your team leader can be trusted as far as keeping your job goes because these people's performance is based on how well you perform.
 

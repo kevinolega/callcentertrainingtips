@@ -28,7 +28,7 @@ Another key is don't get too attached to the results.
 
 If the results are not favorable, look for lessons and corrections.
 
-Do not take anything personally. The goal is to get the results that you want and/or improvement not credit or self validation.
+Do not take anything personally. The goal is to get the results that you want and/or improvement not credit or self-validation.
 
 Fear points you in the direction that you need to go. Failure points you in the direction of what you need to work on and improve.
 

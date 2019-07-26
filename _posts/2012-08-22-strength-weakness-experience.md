@@ -27,11 +27,11 @@ When you answer this question do not recite a list, share some information on wh
 
 (There isn’t really a right answer to this question. The interviewer is checking your conversational skills and also watching for grammar and pronunciation mistakes.)
 
-### Here are some call center application related answers I used for what my strengths:
+### Here are some call center application-related answers I used for what my strengths:
 
 When I was younger, I enjoyed talking on the phone. 
 
-The longest time I stayed on the phone was for 26 hours and I was on the phone with my high school best friend and my high school crush and it was on New Year’s day. 
+The longest time I stayed on the phone was for 26 hours and I was on the phone with my high school best friend and my high school crush and it was on New Year’s Day. 
 
 I often wake up really late because I stayed up all night, I figured I’d do really well in this job because the schedule matches my lifestyle and I would have no problems adjusting to working at night. 
 

@@ -51,7 +51,7 @@ Many things that you're not familiar with will be introduced and it will be awkw
 
 You will make mistakes and maybe some people will laugh at you.
 
-Here are some trade offs.
+Here are some trade-offs.
 
 - You will learn a useful skill that nobody can take away from you.
 - If anyone else wants to learn the skill you are working on now, they will have to go through exactly the same (possibly painful) process and hardships that you are going through.
@@ -208,7 +208,7 @@ One month of expenses.
 
 Multiply it by twenty days for job application and fifteen days for going to work until your first paycheck. 
 
-That's a total of thirty five days days for your job application process and time until your first paycheck.
+That's a total of thirty-five days for your job application process and time until your first paycheck.
 
 Other expenses include:
 

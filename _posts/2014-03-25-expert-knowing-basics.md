@@ -13,7 +13,7 @@ A call center representative is someone who takes or makes calls for a company a
 #### General Attitude
 
 **1. Excited To Help The Customer.** You need to be genuinely excited to help. That way you will get the customer to cooperate and that will make your job smoother.
-**2. Positive Problem Solver.** We come to people for problems. In our roles people come to us to solve a problem. To solve a problem you need to exhibit positivity so your brain can actually think of a solution. If you convey hopelessness, then your brain will go lazy and stop working. You need to see the problem as a tiny harmless thing that can be solve because that’s the reality. If we panic, we end up making mountains out of mole hills. If we practice being a positive problem solver, this will affect how we deal with problems that we encounter in everyday life.
+**2. Positive Problem Solver.** We come to people for problems. In our roles people come to us to solve a problem. To solve a problem you need to exhibit positivity so your brain can actually think of a solution. If you convey hopelessness, then your brain will go lazy and stop working. You need to see the problem as a tiny harmless thing that can be solved because that’s the reality. If we panic, we end up making mountains out of molehills. If we practice being a positive problem solver, this will affect how we deal with problems that we encounter in everyday life.
 **3. Calm and Cool Listener.** Our initial reaction is to react to hostility and whatever the hell offends us doing the opposite allows us to do better than everyone else. Being a cool and calm listener in every situation allows us to formulate a good plan of action and to do what needs to be done to solve the problem.
 
 Knowing the other jobs allow you to be better at the job you are doing.
@@ -25,14 +25,14 @@ Here are the skills that make you awesome at each role.
 #### Customer Service
 
 **1. Empathy.** Acknowledge the issue by putting yourself in the customer’s shoes. The last thing you want the customer to say is that you’re not listening and you don’t care. If they see that you care, they are more likely to give you a chance to fix the problem. <em>I’m sorry you’re encountering some issues with the service and I understand it’s frustrating. Don’t worry I’ll take a look into the issue and I’ll help you get this resolved.</em>
-**2. Paraphrasing.** You need to make sure you do the job well you need to understand the situation perfectly.<em> Just to make sure I understand you correctly, rephrases the statement or question.</em>
+**2. Paraphrasing.** You need to make sure you do the job well you need to understand the situation perfectly.<em> Just to make sure I understand you correctly, rephrase the statement or question.</em>
 **3. Mastering the process and procedures**. You need to know what happens in the process, at what stage the customer is in the process and what happens next. Knowing the process allows you to set the right expectations and avoid unnecessary frustration.<em> What happens is after you make an order it will take 3-5 business days to receive your widget and once you have it plugged in you can call us to activate the service.</em>
 
 #### Sales
 
 **1. Control the conversation by offering options**. When you offer options you are the one in control. People have difficulty deciding what they want so it’s your job to make it easier for them. <em>Would you want to meet to send you the package next week on Thursday or Friday? Would you like to start with package a or package b?</em>
 **2. Recommend the best solution by asking questions.** <em>What do you like about your current product/service? If you can change something or add something to what you’re currently using what would it be?</em>
-**3, Handle objections using the Feel, Felt Found technique.** The Feel, Felt Found technique allows you to acknowledge the customer’s perception of the problem without starting and argument and at the same time, present an alternate possible outcome by using proof as experience.<em> I understand that you feel hesitant about getting started, many of our best customers feel the same way but after getting started working with us on their goals, they found out that the benefits of getting started earlier has more benefits than starting later.</em>
+**3, Handle objections using the Feel, Felt Found technique.** The Feel, Felt Found technique allows you to acknowledge the customer’s perception of the problem without starting an argument and at the same time, present an alternate possible outcome by using proof as experience.<em> I understand that you feel hesitant about getting started, many of our best customers feel the same way but after getting started working with us on their goals, they found out that the benefits of getting started earlier has more benefits than starting later.</em>
 
 #### Technical Support
 

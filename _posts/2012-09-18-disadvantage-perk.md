@@ -40,19 +40,19 @@ If you have a website I would love to see what you wrote as your answers.
 
 If you don't then I hope you leave your answers in the comments to share with others.
 
-Knowing yourself and how to use what you have and do what you can is the key. Its my idea so I'll go first.
+Knowing yourself and how to use what you have and do what you can is the key. It's my idea so I'll go first.
 
 ### 1. I only had one year in college. 
 
 That's what makes me unique. 
 
-A lot of Filipinos I know settle (grow stagnant) or stop learning after they recieve their diploma. 
+A lot of Filipinos I know settle (grow stagnant) or stop learning after they receive their diploma. 
 
 I didn't. 
 
-I'm self motivated and I learn on my own through reading from personal experimentation and people better than me. 
+I'm self-motivated and I learn on my own through reading from personal experimentation and people better than me. 
 
-This gives me a four year head start in the business world compared to everybody in my batch and as a result I also have an interesting combination of skills my peers and previous bosses told me that they couldn't find anywhere else. 
+This gives me a four-year head start in the business world compared to everybody in my batch and as a result I also have an interesting combination of skills my peers and previous bosses told me that they couldn't find anywhere else. 
 
 By the way what got you interested in considering me for the position?
 
@@ -90,7 +90,7 @@ I saw and experienced problems most parents kept to themselves.
 
 I knew that money wasn't unlimited and had to look for ways to earn at an early age. 
 
-This led me to make a combination of ideal and practical choices like wanting to become the perfect partner and be self sufficient.
+This led me to make a combination of ideal and practical choices like wanting to become the perfect partner and be self-sufficient.
 
 ### 5. We don't come from a wealthy family 
 

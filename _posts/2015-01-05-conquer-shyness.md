@@ -14,7 +14,7 @@ Consider this:
 - You don't ask for help because you believe you are shy.
 - For some reason you may or may not be aware but **you just don't want to give others the impression that you are disrespectful or pushy**.
 - To a certain extent you actually are disrespectful and pushy to the wrong people.
-- Such bold accusations, Mr Kevin Olega! "I am not!" you tell yourself.
+- Such bold accusations, Mr. Kevin Olega! "I am not!" you tell yourself.
 - To which I say, consider this scenario as another way of looking at things: Tell me in the comments or send me an email if you agree or disagree:
 - You have the guts and/or balls to be jobless and depend on others for your needs and survival. You are dense enough to ask your spouse, your parents, friends or other family money.
 - You take stuff without returning value.
@@ -29,4 +29,4 @@ Would you like to know how to create value for others?
 - **Write down a list of accomplishments and things you are proud of**. Accomplishments tell us what we can do. Sometimes it mirrors personal achievement and sometimes it is a reflection of how blessed we are with skills and situations. Having a list reminds us that we can get things done. It enables us to believe that we can. When we believe our best performance is unleashed.
 - Work on making your list include at least ten items each. Having the list improves your confidence and gives you a physical document of what you can do and what you can work on.
 - Write down the possibilities you see after completing the list.
-Do you see a better future? After doing the exercise please share your experience in the comments bellow.
+Do you see a better future? After doing the exercise please share your experience in the comments below.

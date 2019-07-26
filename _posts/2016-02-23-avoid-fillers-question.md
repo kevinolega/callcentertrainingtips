@@ -6,7 +6,7 @@ author: Kevin Olega
 comments: true
 categories: [Applicant, Lessons]
 ---
-I admit it. I don't have all the answers all the time. In some situations I'll need to Google or think of an answer. It doesn't take forever to think of an answer. Many answer take a few seconds. We all know own that thinking of good answers to questions require time. In a lot of situations you just have to give it ten to fifteen seconds and go with what you have. Half the time it turns out well. Half the time I give a silly answer and I correct myself half way through my answer.
+I admit it. I don't have all the answers all the time. In some situations, I'll need to Google or think of an answer. It doesn't take forever to think of an answer. Many answer take a few seconds. We all know own that thinking of good answers to questions require time. In a lot of situations you just have to give it ten to fifteen seconds and go with what you have. Half the time it turns out well. Half the time I give a silly answer and I correct myself halfway through my answer.
 
 I believe you are pretty smart after all you spend your time reading to develop your self. Other people only cry and complaining about life.
 

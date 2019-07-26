@@ -13,7 +13,7 @@ Whenever I suck in life I focus on how much of a loser I was or how dumb I acted
 
 The thing was whenever I'm stuck sulking at how bad things are or how bad I am, I end up repeating the same results. 
 
-Self depreciation reinforce repeat performance. 
+Self-depreciation reinforce repeat performance. 
 
 If you believe that "you suck" your mind will work hard to make sure that your performance will suck and you will continually repeat the performance. 
 
@@ -34,9 +34,9 @@ Blessings are not limited to just one event.
 
 **Accomplishments** 
 
-If you approach everything with the mindset of being grateful, you will be able to make use of  everything that you already have and are blessed with. 
+If you approach everything with the mindset of being grateful, you will be able to make use of everything that you already have and are blessed with. 
 
-Instead of looking to people who have what you wanted, you can actually look at what you've accomplished and translate that into success in other fields that you intend to explore.
+Instead of looking to people who have what you wanted, you can actually look at what you've accomplished and translated that into success in other fields that you intend to explore.
 
 **Success Steps** 
 
@@ -48,11 +48,11 @@ Think of a way where the same steps or similar steps can be used in a new field 
 
 A lot of lessons are transferable. 
 
-If you're cooking, you need a recipe which include a list of ingredients and steps. 
+If you're cooking, you need a recipe which includes a list of ingredients and steps. 
 
 You execute the steps on the ingredients in the right sequence and you can apply it in what you are exploring. 
 
-What recipes do you already have and see what you can apply to problem solving, call center work, sales, customer service and so on.
+What recipes do you already have and see what you can apply to problem-solving, call center work, sales, customer service and so on.
 
 **Success Moments** 
 
@@ -68,7 +68,7 @@ The idea is you can replicate the feeling at the right moment.
 
 you don't want your doubt get in the way of your success and don't argue with it. 
 
-Instead of fighting the self doubt instead of changing what its trying to say change the voice or the character or draw something 
+Instead of fighting the self-doubt instead of changing what its trying to say change the voice or the character or draw something 
 
 **Reaffirm "How Awesome You Are"** 
 
