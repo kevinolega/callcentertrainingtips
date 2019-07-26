@@ -47,7 +47,7 @@ How many times should you apply before getting hired in a call center?
 
 ##### What is your name?
 
-My name is James Kevin Lopez Olega.
+My name is Kevin Olega.
 
 ##### Where are you from?
 
@@ -132,3 +132,6 @@ I'd love to hear your answers.
 Email away.
 
 You can also checkout [this article](https://www.cleverism.com/tell-me-about-yourself//).
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g1sxNVhHyVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
