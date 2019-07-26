@@ -15,7 +15,7 @@ Recruiters and business owners prefer to hire college graduates over high school
 
 4. Paid for education. They know that upgrades costs money and have a higher return. They paid for books and a class. 
 
-5. They are expected to be punctual and professional, otherwise they would fail college.
+5. They are expected to be punctual and professional, otherwise, they would fail college.
 
 6. They are more intelligent overall.
 

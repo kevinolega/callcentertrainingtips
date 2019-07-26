@@ -14,7 +14,7 @@ If you keep trying, you'll find a way.
 
 If you give up, you'll find an excuse.
 
-You are unstoppable, until you decide to stop.
+You are unstoppable until you decide to stop.
 
 You have a potential greater than the greatest.
 
@@ -34,7 +34,7 @@ If you are a failure...
 
 That is your own doing.
 
-Bible says: God created you in his own image.
+Bible says: God created you in His own image.
 
 My question to you is...
 

@@ -29,7 +29,7 @@ I usually have one success story and a one unforgettable lesson story.
 
 **3. Sell your skills**
 
-Think of a non related skill that you have and think of a way to reason the skill to convince your interviewer that that skill makes you an awesome call center agent.
+Think of a non-related skill that you have and think of a way to reason the skill to convince your interviewer that that skill makes you an awesome call center agent.
 
 Sales experience allows you to explain important details well. Insert story.
 
@@ -43,7 +43,7 @@ This allows me to send more job applications and get more interviews.
 
 This also allows me to ask the interviewer questions.
 
-What's a typicall workday here?
+What's a typical workday here?
 
 What do you think are the common traits of people who excel at this job?
 

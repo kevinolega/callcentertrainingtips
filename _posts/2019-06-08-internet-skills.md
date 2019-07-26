@@ -16,13 +16,13 @@ If I'm not familiar with a term, I do a search first.
 
 Most photos can be found online.
 
-Most how to guides can be found online.
+Most of how-to guides can be found online.
 
 Most recipes can be found online.
 
 Almost anything can be learned on the internet because the smartest people in the world share their knowledge here.
 
-I even got to listen to Harvard Lectures and virtually sit in at Law School classes.
+I even got to listen to Harvard Lectures and virtually sit-in at Law School classes.
 
 ## Advance Google Search
 
@@ -36,7 +36,7 @@ However, I enjoy receiving the question.
 
 **How to do a Google Site Search**.
 
-site:WEBSITE KEYWORD
+site: WEBSITE KEYWORD
 
 So if you're looking for tips on resume on this page.
 
@@ -69,7 +69,7 @@ Professional communication is done on Email.
 
 Recruiters judge your tech skills by what kind of email address you use.
 
-If your email is Yahoo or Hotmail, they assume you're old and not very tech savvy. 
+If your email is Yahoo or Hotmail, they assume you're old and not very tech-savvy. 
 
 If your email is a Gmail, or iCloud, they'll assume you have some technical knowledge.
 

@@ -20,7 +20,7 @@ You need to pay your debts.
 
 You buy your own food.
 
-You will pay rent.
+You will pay for rent.
 
 If you fuck someone and get them pregnant, you will need to pay child support.
 

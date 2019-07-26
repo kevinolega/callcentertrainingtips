@@ -6,9 +6,9 @@ Tags: [ YouTube, blog ]
 permalink: /karl-smallwood/ 
 author: Kevin Olega 
 --- 
-Karl Smallwood talks about a lot of interesting trivia about my favorite TV Shows, Games and Movies.
+Karl Smallwood talks about a lot of interesting trivia about my favorite TV Shows, Games , and Movies.
 
-If you like movies, TV and games.
+If you like movies, TV , and games.
 
 Check out his channel.
 

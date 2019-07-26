@@ -10,7 +10,7 @@ Medicine tastes bitter.
 
 Exercise is always preceded by a feeling of laziness.
 
-Eating right and sleeping right is difficult too because there's always some asshole trying to poision you with garbage junk food and San Miguel Beer.
+Eating right and sleeping right is difficult too because there's always some asshole trying to poison you with garbage junk food and San Miguel Beer.
 
 Family always requires work and is never effortless.
 

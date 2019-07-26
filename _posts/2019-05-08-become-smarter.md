@@ -9,15 +9,15 @@ There’s a story about Socrates.
 
 A student came to him and asked, “Socrates, how do I get wisdom?” Socrates walked him into a lake. 
 
-When the water was waist high, Socrates suddenly grabbed the student’s head and held it under water. 
+When the water was waist-high, Socrates suddenly grabbed the student’s head and held it underwater. 
 
-At first the student thought it was a joke, but Socrates kept the student underwater. 
+At first, the student thought it was a joke, but Socrates kept the student underwater. 
 
-The student paniced and began fighting for his life.
+The student panicked and began fighting for his life.
 
 He was struggling to get up and his lungs began to hurt.
 
-Finally Socrates let the student go.
+Finally, Socrates let the student go.
 
 The student was coughing and gasping for air. 
 

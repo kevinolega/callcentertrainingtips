@@ -9,11 +9,11 @@ One question we often get asked is what is a BPO and how is it related to call c
 
 In this lesson we will discuss what a BPO is and how knowing about it can help increase your chances of getting hired in a call center.
 
-Understanding what a BPO is will enable you to understand what kind of job you are getting in to and as a result you can prepare better. 
+Understanding what a BPO is will enable you to understand what kind of job you are getting in to and as a result, you can prepare better. 
 
 BPO stands for business process outsourcing. 
 
-A business process is simply a seriece of steps necessary to the survival of the business. 
+A business process is simply a series of steps necessary to the survival of the business. 
 
 Example of business processes include:
 
@@ -60,9 +60,9 @@ Are you ready?
 
 Here goes.
 
-Business Process Outsourcing is an opportunity where Filipinos are are able to jobs from Europeans, Australians and Americans because of advantages in cost, quality and skill.
+Business Process Outsourcing is an opportunity where Filipinos are able to jobs from Europeans, Australians , and Americans because of advantages in cost, quality and skill.
 
-We are taking American jobs because we can provide it at lower cost and at comparable or better quality.
+We are taking American jobs because we can provide it at a lower cost and at comparable or better quality.
 
 Filipinos grew up with heavy American Cultural influence and can often speak in English very well and as a result, able to sound like an American and easily understand American business processes.
 

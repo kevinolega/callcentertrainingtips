@@ -51,7 +51,7 @@ The answer can be yes, the answer can be no.
 
 Here's the thing.
 
-Dream jobs, require a specific skill level.
+Dream jobs require a specific skill level.
 
 If your skill level is high enough, the employer hires you with very little trouble.
 
@@ -131,7 +131,7 @@ I learned the basics of sales in that job and became good at my sales and people
 
 In fact, a few months after, I got hired by a sales manager and made a good income doing sales related work.
 
-I improved my sales skills and practiced learning how to train in a part time job and eventually got offered a job at a call center school.
+I improved my sales skills and practiced learning how to train in a part-time job and eventually got offered a job at a call center school.
 
 While working there I volunteered to do a job and eventually I was offered an opportunity in a recruitment company. 
 

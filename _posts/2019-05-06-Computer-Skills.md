@@ -20,7 +20,7 @@ Are you cool with that?
 Great! Like you have a choice.
 
 - Do you have a Facebook (Friendster, Twitter, Website, Blog, etc) account?
-- Did you type your resume in a computer?
+- Did you type your resume on a computer?
 - Do you check your email account?
 - Do you know how to shut down a computer?
 
@@ -67,7 +67,7 @@ That’s not what call centers need.
 
 Call center companies need someone who can answer the phone and type in some information on the computer. 
 
-They need you know basic stuff like where the keys are. 
+They need you to know basic stuff like where the keys are. 
 
 Maybe copying and pasting text and stuff like that. 
 

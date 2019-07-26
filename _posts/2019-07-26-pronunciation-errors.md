@@ -22,7 +22,7 @@ There are a few errors that stand out a lot.
 
 These errors, when I was screening for call center agents were called disqualifiers. 
 
-When I also screened for girls I wanted to go out with if they kept making these errors it was a turn off. 
+When I also screened for girls I wanted to go out with if they kept making these errors it was a turn-off. 
 
 I mostly never went out with them.
 
@@ -84,7 +84,7 @@ We spent the next few months talking on the phone till 4am.
 
 When we were saying goodnight I told her I had to wake up early because I had to open the gate for the Karpintero (Carpenter). 
 
-She gigled and asked me to say that again. 
+She giggled and asked me to say that again. 
 
 I said Karpintero (pronounced as car-pin-terow kind of how Sam Milby pronounced Tagalog words but he didn’t exist then). 
 
@@ -188,7 +188,7 @@ If you position your mouth properly you can say Fee while maintaining “the rab
 
 **B and V exercise.** 
 
-_If Jolibee and Voldemort fought who will win?_ 
+_If Jollibee and Voldemort fought who will win?_ 
 
 **Want some more?**
 
@@ -196,7 +196,7 @@ _If Jolibee and Voldemort fought who will win?_
 
 **Want to try something harder?**
 
->Voila! In view humble vaudevillian veteran, cast vicariously as both victim and villain by the vicissitudes of fate. This visage, no mere veneer of vanity, is a vestige of the vox populi now vacant, vanished. However, this valorous visitation of a bygone vexation stands vivified, and has vowed to vanquish these venal and virulent vermin, vanguarding vice and vouchsafing the violently vicious and voracious violation of volition. The only verdict is vengeance; a vendetta, held as a votive not in vain, for the value and veracity of such shall one day vindicate the vigilant and the virtuous. Verily this vichyssoise of verbiage veers most verbose, so let me simply add that its my very good honour to meet you and you may call me V.
+>Voila! In view humble vaudevillian veteran, cast vicariously as both victim and villain by the vicissitudes of fate. This visage, no mere veneer of vanity, is a vestige of the vox populi now vacant, vanished. However, this valorous visitation of a bygone vexation stands vivified, and has vowed to vanquish these venal and virulent vermin, van guarding vice and vouchsafing the violently vicious and voracious violation of volition. The only verdict is vengeance; a vendetta, held as a votive not in vain, for the value and veracity of such shall one day vindicate the vigilant and the virtuous. Verily this vichyssoise of verbiage veers most verbose, so let me simply add that it's my very good honor to meet you and you may call me V.
 
 [Watch it on YouTube](https://www.youtube.com/watch?v=ACUpr5GvVsE)
 
@@ -218,7 +218,7 @@ Thor is the Norse god of thunder from Asgard who got his ass kicked by Hulk and 
 
 **Want some more?**
 
-> The throng of thermometers from the Thuringian Thermometer folks arrived Thursday. There were a thousand thirty-three thick thermometers, though, instead of a thousand thirty-six thin thermometers, which was three thermometers fewer than the thousand thirty-six we were expecting , not to mention that they were thick ones rather than thin ones. We thoroughly thought that we had ordered a thousand thirty-six, not a thousand thirty-three thermometers and asked the Thuringian Thermometer folks to reship the thermometers; thin, not thick. They apologized for sending only a thousand thirty-three thermometers rather than a thousand thirty-six and promised to replace the thick thermometers with thin thermometers.
+> The throng of thermometers from the Thuringian Thermometer folks arrived Thursday. There were a thousand thirty-three thick thermometers, though, instead of a thousand thirty-six thin thermometers, which was three thermometers fewer than the thousand thirty-six we were expecting, not to mention that they were thick ones rather than thin ones. We thoroughly thought that we had ordered a thousand thirty-six, not a thousand thirty-three thermometers and asked the Thuringian Thermometer folks to reship the thermometers; thin, not thick. They apologized for sending only a thousand thirty-three thermometers rather than a thousand thirty-six and promised to replace the thick thermometers with thin thermometers.
 
 **Final Tips:** Whenever you’re speaking ask yourself...
 

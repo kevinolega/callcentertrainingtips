@@ -51,13 +51,13 @@ As a Man Thinketh by James Allen
 
 Man's Search for Meaning 
 
-Letter's from a Stoic by Senneca
+Letter's from a Stoic by Seneca
 
-Meditations by Marcus Aurellus
+Meditations by Marcus Aurelius
 
 The Obstacle is the Way by Ryan Holiday
 
-Linchipin by Seth Godin
+Linchpin by Seth Godin
 
 The Subtle Art of Not Giving a Fuck 
 
@@ -77,7 +77,7 @@ If you are busy like me but still want to learn, Audiobooks are the best alterna
 
 Even if you cancel within 30 days, you still get to keep the Audiobook you selected.
 
-I subscribe to Audible for $15 a month and it get me two Audiobooks a month which is a great deal. 
+I subscribe to Audible for $15 a month and it gets me two Audiobooks a month which is a great deal. 
 
 In one year you have listened through 24 books. 
 

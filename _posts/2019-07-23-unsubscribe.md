@@ -10,7 +10,7 @@ When you've reached your limit.
 
 It's okay to give up.
 
-When you have given the your best.
+When you have given your best.
 
 When you've gone beyond.
 
@@ -44,13 +44,13 @@ It is okay.
 
 80% of Filipinos are in financial trouble by age 65.
 
-More than half of all marriges end in divorce.
+More than half of all marriages end in divorce.
 
-In sales and marketing, only one percent of the people who inquire buy.
+In sales and marketing, only one percent of the people who inquire to buy.
 
 That means 99% of the inquiries lie to you and reject you.
 
-Out of thrity trainees of COMCAST Batch 69a, only three agents stayed at the first year.
+Out of thirty trainees of COMCAST Batch 69a, only three agents stayed at the first year.
 
 Only one person stayed for three years.
 
@@ -92,7 +92,7 @@ If you have none of those.
 
 Or you are unwilling to put in effort to get all of those.
 
-Well let's put it this way.
+Well, let's put it this way.
 
 Since we're being honest here...
 

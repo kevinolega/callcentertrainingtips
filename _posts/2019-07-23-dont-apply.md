@@ -16,9 +16,9 @@ If you finished college and have access to a good job, perhaps you can just stic
 
 ## English Only Policy
 
-You will speak in English all the time. Eight hours a day, five days a week, you are on the phone speaking to an American or other English speaking person. 
+You will speak in English all the time. Eight hours a day, five days a week, you are on the phone speaking to an American or another English speaking person. 
 
-Other than your fifteen minute breaks and limited ten minute rest room break, the call center company expects you to talk to a customer in English every minute of those eight hours and accidentally speaking in Tagalog has negative consequences.
+Other than your fifteen-minute breaks and limited ten-minute restroom break, the call center company expects you to talk to a customer in English every minute of those eight hours and accidentally speaking in Tagalog has negative consequences.
 
 If you’re comfortable with this read on.
 
@@ -32,7 +32,7 @@ If the customer did something wrong or stupid, you apologize they are experienci
 
 They scream at you, call you demeaning words, give you racist comments and use profanity, you take it like a champ, smile, apologize and solve their problems.
 
-You’ll be modern day phone Jesus. 
+You’ll be modern-day phone Jesus. 
 
 Turn the other fucking cheek. 
 
@@ -84,7 +84,7 @@ If your customer values speed of processing customer requests then completing ca
 
 Your customers, at the end of the call is often asked to do a survey. They’ll be asked how happy they are with the company, the service and you. If they say no to two of five questions you failed already. Where I worked this is an extra 4K a month. Failing this because an unhappy customer gave me a poor score will mean me not receiving any extra income.
 
-Some call center companies offer an attendance bonus for perfect attendance. Often, this only applies to perfect attendance. So if you arrive on time and never late or absent, you get paid extra. This is often, an all or nothing monthly deal usually and that means if you are absent once or late once, you won’t receive any money for your near perfect attendance.
+Some call center companies offer an attendance bonus for perfect attendance. Often, this only applies to perfect attendance. So if you arrive on time and never late or absent, you get paid extra. This is often, an all or nothing monthly deal usually and that means if you are absent once or late once, you won’t receive any money for your near-perfect attendance.
 
 ## Night Shift Work Schedule
 
@@ -94,7 +94,7 @@ Big companies who outsource their work to the Philippines are in the US.
 
 So office hours there will be evening here. 
 
-For example I work 8-5pm Eastern Standard time, that will mean that I’m online 8pm till 4am here in Philippine Time.
+For example, I work 8-5pm Eastern Standard time, that will mean that I’m online 8pm till 4am here in Philippine Time.
 
 In some situations, I’m part of the closing shift. I work from 2pm to 11pm Eastern Standard Time. 
 
@@ -105,13 +105,13 @@ That means 2am Philippine time.
 
 Holidays in the Philippines do not match holidays in other countries. That said, if it’s Ninoy Aquino day here, the US doesn’t care, and you still have to go to work. You usually get paid extra on holidays.
 
-Also notice that malls are open on weekends and holidays? That’s kind of how you will work. You are likely going to work on weekends and holidays. Weekends, holidays and the day before or after your payday is often considered a critical workday, and not going to work on one of those days can get you fired.
+Also, notice that malls are open on weekends and holidays? That’s kind of how you will work. You are likely going to work on weekends and holidays. Weekends, holidays and the day before or after your payday is often considered a critical workday, and not going to work on one of those days can get you fired.
 
 ## Shifting schedule
 
 Many call center companies follow a shifting schedule.
 
-Companies what to be available for their customers twenty four hours a day, seven days a week.
+Companies what to be available for their customers twenty-four hours a day, seven days a week.
 
 So your schedule may change.
 
@@ -217,7 +217,7 @@ Family members and friends also think it's okay to borrow money from call center
 
 ## Lifestyle Changes
 
-You will have to say no to your friends requests to meet up. 
+You will have to say no to your friend's requests to meet up. 
 
 You won’t be able to go out during the usual times or the times you are used to.
 
@@ -239,7 +239,7 @@ You'll be helping out less with the chores at home.
 
 You'll need to set aside money for yourself.
 
-You can't give your money to someone else and expect them to mange things for you.
+You can't give your money to someone else and expect them to manage things for you.
 
 You'll need to manage your time responsibly like and adult.
 

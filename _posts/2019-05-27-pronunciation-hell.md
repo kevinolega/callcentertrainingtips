@@ -60,7 +60,7 @@ Gives moss, gross, brook, brooch, ninth, plinth.
 Billet does not end like ballet;
 Bouquet, wallet, mallet, chalet; 
 Blood and flood are not like food,
-Nor is mould like should and would. 
+Nor is mold like should and would. 
 Banquet is not nearly parquet,
 Which is said to rime with "darky." 
 Viscous, Viscount, load, and broad.
@@ -70,9 +70,9 @@ When you say correctly: croquet.
 Rounded, wounded, grieve, and sieve,
 Friend and fiend, alive, and live, 
 Liberty, library, heave, and heaven,
-Rachel, ache, moustache, eleven, 
+Rachel, ache, mustache, eleven, 
 We say hallowed, but allowed,
-People, leopard, towed, but vowed. 
+People, leopard, towed but vowed. 
 Mark the difference, moreover,
 Between mover, plover, Dover, 
 Leeches, breeches, wise, precise,
@@ -89,8 +89,8 @@ Muscle, muscular, gaol, iron,
 Timber, climber, bullion, lion, 
 Worm and storm, chaise, chaos, and chair,
 Senator, spectator, mayor, 
-Ivy, privy, famous, clamour
-And enamour rime with hammer. 
+Ivy, privy, famous, clamor
+And enamor rime with hammer. 
 Pussy, hussy, and possess,
 Desert, but dessert, address. 
 Golf, wolf, countenance, lieutenants.
@@ -98,9 +98,9 @@ Hoist, in lieu of flags, left pennants.
 River, rival, tomb, bomb, comb,
 Doll and roll and some and home. 
 Stranger does not rime with anger.
-Neither does devour with clangour. 
+Neither does devour with clangor. 
 Soul, but foul and gaunt but aunt.
-Font, front, won't, want, grand, and grant. 
+Font, front, wont, want, grand, and grant. 
 Shoes, goes, does. Now first say: finger.
 And then: singer, ginger, linger, 
 Real, zeal, mauve, gauze, and gauge,
@@ -116,7 +116,7 @@ Put, nut; granite, and unite.
 Reefer does not rime with deafer,
 Feoffer does, and zephyr, heifer. 
 Dull, bull, Geoffrey, George, ate, late,
-Hint, pint, Senate, but sedate. 
+Hint, pint, senate, but sedate. 
 Scenic, Arabic, Pacific,
 Science, conscience, scientific, 
 Tour, but our and succour, four,

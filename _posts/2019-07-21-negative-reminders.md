@@ -32,7 +32,7 @@ And maybe that kid will ask his/her parent who happens to be a close friend of y
 
 Then that close friend.
 
-The expression on his/her face is slightly embarassed that you're friends.
+The expression on his/her face is slightly embarrassed that you're friends.
 
 Kasi medyo nakakahiya ka ngang kaibigan.
 

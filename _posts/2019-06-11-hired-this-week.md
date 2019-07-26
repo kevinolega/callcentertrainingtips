@@ -6,7 +6,7 @@ Tags: [ lessons, website ]
 permalink: ten-tips-to-get-hired-in-a-call-center-this-week/ 
 author: Kevin Olega 
 --- 
-I wrote tips in this website to help a few friends look for work in a call center. 
+I wrote tips on this website to help a few friends look for work in a call center. 
 
 Later on more people asked me for tips. 
 
@@ -48,7 +48,7 @@ People don’t plan to fail.
 
 They fail because they fail to plan. 
 
-The biggest time waster is not knowing what to do and trying to decide as you’re about to do it. 
+The biggest time-waster is not knowing what to do and trying to decide as you’re about to do it. 
 
 Decide now where you want to go and then act. 
 
@@ -58,15 +58,15 @@ In my experience the more companies I have as prospects the more at ease I am at
 
 In my mind, when I talk to the interviewer, you are one of thirty.
 
-(In reference to the thirty resume that I printed out.)
+(In reference to the thirty resumes that I printed out.)
 
-## 3. Apply via walk in application.
+## 3. Apply via walk-in application.
 
 Feel free to apply online. 
 
 I like this step because I like being in control of my schedule. 
 
-If things don’t go well with my interview I walk in to the nearest one I know of. 
+If things don’t go well with my interview I walk into the nearest one I know of. 
 
 Walking in is more convenient. 
 
@@ -160,7 +160,7 @@ That's because you will be working for foreign companies.
 
 The customers that you will be speaking with are American.
 
-Do do well at this job, it would be best if you can sound like an American.
+Do well at this job, it would be best if you can sound like an American.
 
 Basic English is a good start, but you also need to have an attitude that you need to keep practicing and improving.
 
@@ -178,7 +178,7 @@ Just practice.
 
 Need additional help? 
 
-Try celebrity mode (imitating your favorite celebrity) or go sossy mode (imitating your favorite fictional/real life boss).
+Try celebrity mode (imitating your favorite celebrity) or go sossy mode (imitating your favorite fictional/real-life boss).
 
 ## 8. Learn from your experience.
 
@@ -186,9 +186,9 @@ Sometimes getting hired is like a puzzle you need to learn to solve.
 
 If things don’t go well maybe you don’t have all the pieces you need to win and that’s okay. 
 
-Learn and pick up better tools as you move forward. 
+Learn and pick-up better tools as you move forward. 
 
-Eventually you’ll get it and looking for work will be effortless.
+Eventually, you’ll get it and looking for work will be effortless.
 
 It is for me.
 
@@ -208,13 +208,13 @@ A smile feels good and puts you at ease.
 
 A smile starts bonds. 
 
-A smile is proof of having a bond. 
+A smile is a proof of having a bond. 
 
 A smile can help you because I can’t teach you how to give your best shot. 
 
 All I know is I don’t have to convince you to smile. 
 
-In my experience my best shot starts with a smile.
+In my experience, my best shot starts with a smile.
 
 ## 10. Enjoy it.
 

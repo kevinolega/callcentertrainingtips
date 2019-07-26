@@ -33,7 +33,7 @@ If you spent ten years drawing, Superman, you'll probably be bored but you can p
 
 The reason I know this is because I am, at the time of this writing 32, and I've learned and mastered several skills over the years.
 
-With drawing, I started learning shapes, then structure, then details like eyes, then nose, then ears, I'm still not too good with hair but you get the idea.
+Withdrawing, I started learning shapes, then structure, then details like eyes, then nose, then ears, I'm still not too good with hair but you get the idea.
 
 Anything can be learned and it's a step by step process.
 

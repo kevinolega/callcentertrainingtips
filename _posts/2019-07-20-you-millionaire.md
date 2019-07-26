@@ -75,6 +75,6 @@ Kaya mo ba humindi sa inuman ng tropa mo?
 
 Kaya mo ba alagaan yung sarili mo para hindi ka magkasakit?
 
-Kaya mo ba i-maintain disciplina mo?
+Kaya mo ba i-maintain disiplina mo?
 
 I ❤️ you guys!!!

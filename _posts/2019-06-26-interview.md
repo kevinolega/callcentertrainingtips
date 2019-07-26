@@ -19,7 +19,7 @@ Every tip that led to success was paid for with my failure.
 - How to take care of questions that you don't know the answers to.
 - How to answer random call center interview questions.
 - How to solve problems in call center interviews.
-- How to answer sales related call center interview questions
+- How to answer sales-related call center interview questions
 - How to prepare for the unknown call center interview questions.
 - My answer to the question: If you were a kind of car, what kind of car are you?
 
@@ -131,7 +131,7 @@ Personal examples included.
 
 - How to get hired in a call center.
 - What is the fastest way to get hired in a call center?
-- 15 tips for walkin applications.
+- 15 tips for walk-in applications.
 - How to make getting hired fun.
 - How to get hired this week?
 - How to use big interview mistakes as giant stepping stones to get hired in a call center.
@@ -206,6 +206,6 @@ This is a skill I learned after I failed my interview at Teleperformance at Octa
 
 [Tell Your Interviewer Amazing Stories That Make You Stand Out This Resume Exercise Teaches You How](https://callcentertrainingtips.com/tell-amazing-stories/)
 
-Note: I need to add the story of how I met Jean. Perfect english but failed. How I learned that comm skills are different from people skills.
+Note: I need to add the story of how I met Jean. Perfect English but failed. How I learned that comm skills are different from people skills.
 
 ![You're hired]({{ site.url }}/images/Thumbs up.jpg)

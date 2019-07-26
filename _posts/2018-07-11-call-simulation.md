@@ -33,7 +33,7 @@ Here are some rules that we follow during a call.
 
 **Never panic**. 
 
-You learn to do this by being familiar with the situation. You become familiar with the situation by study and experience. In my case I failed a few times until I understood common patterns. Take deep breaths before a call. Smile when you get nervous.
+You learn to do this by being familiar with the situation. You become familiar with the situation by study and experience. In my case, I failed a few times until I understood common patterns. Take deep breaths before a call. Smile when you get nervous.
 
 **Never get angry**. 
 
@@ -75,20 +75,20 @@ You are likely to get offended or upset by someone who is angry but you are also
 
 Adding the word passionate makes a scary call a fun one for me.
 
-This tip had made the senior team leader refer to me as "the super agent" because I had the highest amount of good customer service feedback and the highest amount of sales in the entire account for that day. 
+This tip had made the senior team leader refer to me as "the super-agent" because I had the highest amount of good customer service feedback and the highest amount of sales in the entire account for that day. 
 
 Another tip. Angry customers are customers who will most likely give "feedback about the customer service representative" and how well you handle the call will reflect your customer service score. This is the reason why I love passionate customers. They are responsible for my 20-30% pay increase.
 
-**Use positive phrasing**. Don't say "your package will be delayed by four days." Instead say "In four days you'll get to enjoy your package" The glass is half full not empty. You need to master this because positively phrasing things will allow you to communicate your message without being interrupted by negative emotions. You can learn this. I'm giving you instructions you you can do this yourself. Is a lot better than. You suck. 
+**Use positive phrasing**. Don't say "your package will be delayed by four days." Instead, say "In four days you'll get to enjoy your package" The glass is half full not empty. You need to master this because positively phrasing things will allow you to communicate your message without being interrupted by negative emotions. You can learn this. I'm giving you instructions you can do this yourself. Is a lot better than. You suck. 
 
-**Use simple words**. College English with five syllable words that nobody but intellectual snobs use anyone? No thanks. Use the simplest words that you can. 
+**Use simple words**. College English with five-syllable words that nobody but intellectual snobs use anyone? No thanks. Use the simplest words that you can. 
 
 **Say it with a smile**. Your smile can be heard over the phone. 
 
 **Speak loud and clear**. You're projecting your voice to be heard in another country. Speak loud and clear. We're not in school anymore passing test answers with our classmates. Seriously, speak loud and clear. Practice it. You need to be heard and understood. Inhale before you speak and increase the volume louder than you're used to especially if you're a shy person like me. 
 
 
-**Avoid dead air**. While waiting for things to load provide the customer with important information about the process or procedures and / or build rapport. How is your day going so far? 
+**Avoid dead air**. While waiting for things to load provide the customer with important information about the process or procedures and/or build rapport. How is your day going so far? 
 
 
 **Use common sense**. Only say what is needed and nothing more. Your goal is to get to a resolution or the next step as quickly as possible. 
@@ -104,7 +104,7 @@ These elements are commonly used in a customer service situation and call simula
 
 Once you are familiar with the parts you will be familiar how to do it properly and eventually do it well all the time. 
 
-Once you are very familiar with these elements  you can pass this test all the time. 
+Once you are very familiar with these elements you can pass this test all the time. 
 
 
 **Introduction**.  
@@ -117,11 +117,11 @@ Okay. I see. Let the customer know that you hear them.
 
 **Clarify**. 
 
-So you calling regarding... Rephrase the situation or the customer concern. Just to make sure I understand the situation correctly. Rephrase the situation. You may further clarify by asking did I get that correctly? 
+So you calling regarding... Rephrase the situation or customer concern. Just to make sure I understand the situation correctly. Rephrase the situation. You may further clarify by asking did I get that correctly? 
 
 **Probe**. 
 
-Can you tell me more about your. Insert issue or problem you are experiencing. 
+Can you tell me more about you. Insert issue or problem you are experiencing. 
 
 **Apologize**. 
 
@@ -137,11 +137,11 @@ But don't worry you have reached the right person or department. I'll work on ge
 
 **Verify the customer**. 
 
-May I have your name address last four digits of your social please. Just to make sure I have the right account may I have your insert required information. 
+May I have your name address last four digits of your social , please. Just to make sure I have the right account may I have your insert required information. 
 
 **Hold procedure. **
 
-May I place you on hold for two minutes? I just need to double check some information related to (their specific question)
+May I place you on hold for two minutes? I just need to double-check some information related to (their specific question)
 
 **Thank the customer for complying. **
 
@@ -165,7 +165,7 @@ Would there be anything else that I can assist you with? Or do you have any othe
 
 **Personalise. **
 
-Use the customers name . It's Mr. Smith or Ms. Smith. Or their first name if they tell you that you can call them by their first name. Don't use ma'am or sir.  It's a Filipino thing. Americans go by names. It affects your confidence negatively. It puts you in an interior position. Your job is to assist them as an equal and not pretend to be lower than them. Using sir and ma'am tells them that you didn't bother to remember their name when they told you the first time. Using sir and ma'am is only allowed if the customer has a name that sounds like a curse word. 
+Use the customer's name. It's Mr. Smith or Ms. Smith. Or their first name if they tell you that you can call them by they're first name. Don't use ma'am or sir.  It's a Filipino thing. Americans go by names. It affects your confidence negatively. It puts you in an interior position. Your job is to assist them as an equal and not pretend to be lower than them. Using sir and ma'am tells them that you didn't bother to remember their name when they told you the first time. Using sir and ma'am is only allowed if the customer has a name that sounds like a curse word. 
 
 **Closing spiel. **
 
@@ -188,11 +188,11 @@ Listen attentively to the questions or what the customer is saying.
 
 Ask questions if you don't understand. Always practice the clarify step.
 
-Don't say, "come again?" Instead use proper English.
+Don't say, "come again?" Instead, use proper English.
 
 I'm sorry you're cutting off. 
 
-There must be a problem with the line on my end, can you say that again please.
+There must be a problem with the line on my end, can you say that again , please.
 
 You can customize the spiel by always asking yourself "How can I say it better?"
 

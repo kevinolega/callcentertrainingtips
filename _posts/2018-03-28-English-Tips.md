@@ -36,7 +36,7 @@ The question is what language are you using?
 
 ## Sossy Mode Gives You Powerful, Smooth, Confident English
 
-> You won’t get to use the blessings that you have if you hate them. -kevin olega
+> You won’t get to use the blessings that you have if you hate them. -Kevin Olega
 
 We Filipinos have a pretty unique attitude when it comes to the English language. 
 

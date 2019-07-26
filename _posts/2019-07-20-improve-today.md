@@ -14,7 +14,7 @@ I also heard.
 
 Kung Walang Corrupt, Walang Mahirap.
 
-Many political candidates built their careers from telling people that they are helping the poor.
+Many political candidates built their careers by telling people that they are helping the poor.
 
 In 2013, I was new at West Contact Services.
 
@@ -52,7 +52,7 @@ Her dad is in the hospital.
 
 I wanted to ignore the message.
 
-But my conscience tells me go.
+But my conscience tells me to go.
 
 She helped me a few months ago.
 
@@ -76,7 +76,7 @@ She was just crying because they ran out of money.
 
 The 1,400 I gave her, allowed them to pay for another dialysis treatment for her dad.
 
-It extended his life for a two more days.
+It extended his life for two more days.
 
 I hated myself more for not having enough money.
 

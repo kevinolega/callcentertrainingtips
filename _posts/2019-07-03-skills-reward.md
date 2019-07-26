@@ -28,7 +28,7 @@ He drew Superman on his notebook and showed us.
 
 Then the trainer went to a person who doesn't know how to draw.
 
-He called the trainee to the white board.
+He called the trainee to the whiteboard.
 
 He confirmed that the trainee did not have any drawing experience.
 
@@ -84,7 +84,7 @@ Practice until you do it well.
 
 Then practice some more if you get better.
 
-He showed us the drawing on the white board. 
+He showed us the drawing on the whiteboard. 
 
 An egg with a face with a rectangle for a body with an S with stick hands and ugly hair and cape.
 
@@ -100,7 +100,7 @@ He answered.
 
 And how old are you now?
 
-Twenty seven.
+Twenty-seven.
 
 He answered.
 
@@ -124,15 +124,15 @@ Then he called the attention of the people who knew how to draw but said can't d
 
 He asked us.
 
-If you knew there was a prize would you have said "yes I know how to draw Superman"?
+If you knew there was a prize would you have said: "yes I know how to draw Superman"?
 
 I said yes.
 
 It's just a man with a cape and an "S" on his chest right?
 
-He then said, the reason why these two guys got the reward was not just because of the skill.
+He then said the reason why these two guys got the reward was not just because of the skill.
 
-It's also because they had the confidence.
+It's also because they had confidence.
 
 The trainee who privately drew the good Superman on his notebook got paid less because he had the skill.
 
@@ -187,7 +187,7 @@ So two things to remember.
 
 More than ten years later, I encounter the drawings of Alex Ross, one of my favorite comic book artists. Then I saw this posted on his social media page.
 
-Just look at that comparrison.
+Just look at that comparison.
 
 Alex Ross at age 7 and 37
 

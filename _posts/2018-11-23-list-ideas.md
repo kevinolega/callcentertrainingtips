@@ -7,19 +7,19 @@ author: Kevin Olega
 --- 
 Whenever I'm stuck with a problem, I force myself to think of 10 possible solutions on paper. 
 
-If something is important enough and I'm desperate enough I write down my thoughts and solutons on paper.
+If something is important enough and I'm desperate enough I write down my thoughts and solutions on paper.
 
 I'm often able to come up with a solution with this method. 
 
 Whenever I see the options and the solution on paper.
 
-My mind bocomes free to choose the best solution and make a wise decission.
+My mind becomes free to choose the best solution and make a wise decision.
   
 Back in school we consider mentally thought up solutions to math problems to be an amazing feat. 
 
 The thing is , real life has more complex problems than basic math problems. 
 
-If we're not familliar with the problem it's best to write it down and break it down and solve it piece by piece. 
+If we're not familiar with the problem it's best to write it down and break it down and solve it piece by piece. 
 
 Complex math problems are just several math problems joined together.
 

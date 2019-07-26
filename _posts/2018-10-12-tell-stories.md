@@ -15,7 +15,7 @@ When did this story take place?
 
 What was going on when this story took place?
 
-Have a beginning, middle and end.
+Have a beginning, middle , and end.
 
 I remember a time when I was...
 

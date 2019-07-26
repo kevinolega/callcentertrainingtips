@@ -20,7 +20,7 @@ Are you old?
 
 Did you spend your resources and utilized your blessings wisely?
 
-Grow up buddy.
+Grow up , buddy.
 
 ![IMAGE TEXT]({{ site.url }}/images/Truth Bomb.jpg).
 

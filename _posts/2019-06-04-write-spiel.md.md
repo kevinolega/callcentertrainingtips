@@ -11,11 +11,11 @@ I always say that call center work is a lot like a career in showbiz.
 
 You get a script and you act the lines out.
 
-Unfortunately it is often difficult to memorize the lines.
+Unfortunately, it is often difficult to memorize the lines.
 
 And sometimes the script is not very well written.
 
-In some case the actor has to come up with better lines and deliver an unforgettable scene.
+In some case, the actor has to come up with better lines and deliver an unforgettable scene.
 
 Call center work is exactly like showbiz.
 
@@ -65,7 +65,7 @@ How do you make your spiel better?
 
 ## 1. Write down your spiel.
 
-This is practice mode. 
+This is a practice mode. 
 
 Let's see if you know the spiel by heart.
 Just write it down. 
@@ -90,7 +90,7 @@ Different customer service and tech support situations have different closing sp
 
 ### 3. Identify the different situations and calls that require different spiels.
 
-During training I ask my trainer and my team lead what the top five of the following: 
+During training, I ask my trainer and my team lead what the top five of the following: 
 
 - most common calls we are going to receive.
 - most difficult calls we are going to receive.
@@ -111,7 +111,7 @@ I take care of the easy ones first. Then I break down the hardest and solve it o
 
 What parts of the spiel are the same on different situations?
 
-Usually it's the opening spiel. 
+Usually, it's the opening spiel. 
 
 So.
 
@@ -120,7 +120,7 @@ Rewrite and separate the opening, middle and closing.
 Next.
 
 
-### 5. Rewrite the the spiel line by line and leave three spaces after each line.
+### 5. Rewrite the spiel line by line and leave three spaces after each line.
 
 We need to break down every element. 
 
@@ -146,7 +146,7 @@ Think of ways to shorten the sentence.
 
 Think of ways to make the sentence friendlier.
 
-Think of ways to make the sentence less offensive by replacing the sentence with more customer friendly terms.
+Think of ways to make the sentence less offensive by replacing the sentence with more customer-friendly terms.
 
 
 ### 7. Carefully combine the elements of your spiel back together.
@@ -179,7 +179,7 @@ You might even finish two or three notebooks.
 
 But it's all worth it.
 
-My company paid be an extra seven thousand a month because my customers are delighted after talking to me.
+My company paid to be an extra seven thousand a month because my customers are delighted after talking to me.
 
 My customers are usually angry and frustrated and often at the end of their patience but I managed to brought them back and became top agent for customer service client feedback.
 
@@ -197,7 +197,7 @@ Highest QA score.
 
 The extra bonus that I got from the sales is one thousand to three thousand a week.
 
-On a good month I made an extra nineteen thousand on top of my already high salary. 
+On a good month, I made an extra nineteen thousand on top of my already high salary. 
 
 On an okay month, I made an extra twelve thousand.
 

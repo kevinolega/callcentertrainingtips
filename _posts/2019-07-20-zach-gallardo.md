@@ -30,11 +30,11 @@ I've tried different bikes as well.
 
 [I also own a Fixed Gear Bike](https://philippineislandliving.com/fixed-gear/).
 
-Zach Gallardo talkes about Fixed Gear bikes.
+Zach Gallardo talks about Fixed Gear bikes.
 
 The fixed gear bike is the simplest bike that I owned.
 
-It's light and fast.
+Its light and fast.
 
 So it's easy to carry.
 

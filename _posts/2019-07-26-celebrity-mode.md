@@ -20,7 +20,7 @@ I asked him if he was feeling nervous and he eventually admitted it.
 
 From my eyes, it’s as if he suddenly got scared.
 
-People don’t usually admit this but one big reason why were not comfortable speaking in English is that we’re not used to it. 
+People don’t usually admit this but one big reason why we're not comfortable speaking in English is that we’re not used to it. 
 
 We only had one hour or two hours of English class at school and we don’t usually have someone who speaks in English well.
 
@@ -34,7 +34,7 @@ My friend was a music lover.
 
 He likes rock bands. 
 
-At first I asked him to introduce himself starting with his name where he was from and that he’s applying for work at a call center.
+At first, I asked him to introduce himself starting with his name where he was from and that he’s applying for work at a call center.
 
 Try it for your self. 
 
@@ -64,7 +64,7 @@ It’s just you imagining your hero and imitating what he or she does.
 
 It makes things pretty easy.
 
-Back in business training we were asked to introduce ourselves to everyone in a small room full of people. 
+Back in business training, we were asked to introduce ourselves to everyone in a small room full of people. 
 
 With that event happening late at night, everyone was feeling crappy and since we already knew most of everyone in the room, we each gave everyone a sloppy introduction.
 
@@ -84,7 +84,7 @@ What I’m trying to say has nothing to do with pretending to be someone you’r
 
 I’m saying is you should have more fun playing around with this. 
 
-Call center work is not just a problem solving job but an acting job as well. You’ll be given a script and you’ll be asked to act out the script on the phone with the customer. 
+Call center work is not just a problem-solving job but an acting job as well. You’ll be given a script and you’ll be asked to act out the script on the phone with the customer. 
 
 You can do it in stage fright or you can do it having fun.
 

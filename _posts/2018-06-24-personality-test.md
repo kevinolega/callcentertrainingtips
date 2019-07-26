@@ -11,7 +11,7 @@ The difference between a confident person and a person who is not confident is t
 
 The person who is not confident hesitates a lot.
 
-The shortcut to being self confident is being familiar with yourself and enough practice that you can communicate what you are trying to say well.
+The shortcut to being self-confident is being familiar with yourself and enough practice that you can communicate what you are trying to say well.
 
 If you're not too familiar with how to introduce yourself and have no idea where to start.
 
@@ -19,7 +19,7 @@ My shortcut is using horoscopes and personality tests.
 
 I don't believe in it 100 percent.
 
-But if you find out about your zodiac sign, or a specific personality type, you can evaluate yourself.
+But if you find out about your zodiac sign or a specific personality type, you can evaluate yourself.
 
 What positive traits are there?
 
@@ -37,7 +37,7 @@ I believe we all have positive and negative traits.
 
 We are all struggling with life.
 
-Having this short list of words can help us find the good and at the same time, find good words in our job application.
+Having this shortlist of words can help us find the good and at the same time, find good words in our job application.
 
 [Find out about your zodiac sign here.](https://www.horoscope.com/us/index.aspx)
 

@@ -31,13 +31,13 @@ It's also important that you check your email everyday.
 
 Small details matter. 
 
-If you have no email address, or no email address on your resume, you are telling your interviewer that you are NOT professional, computer literate, knowledgeable, dependable or qualified for a job that requires good communication skills.
+If you have no email address or no email address on your resume, you are telling your interviewer that you are NOT professional, computer literate, knowledgeable, dependable or qualified for a job that requires good communication skills.
 
 Jobs that don't require an email address include mall sales clerk, fast food crew, maid, house boy, pedicab driver,` yaya, kargador, construction worker, security guard, promodizer, factory worker, etc.
 
 Higher positions in business use email. 
 
-If you don't use email or worse, have no email, Facebook Facebook lang, higher level professionals will look down on you.
+If you don't use email or worse, have no email, Facebook Facebook lang, higher-level professionals will look down on you.
 
 Some notes:
 
@@ -45,7 +45,7 @@ Gmail is acceptable for business email.
 
 iCloud is usually used for personal email.
 
-Yahoo mail and Hotmail indicates that you're old and that you are not tech savvy or updated.
+Yahoo mail and Hotmail indicates that you're old and that you are not tech-savvy or updated.
 
 If you already have your email you can [subscribe to my newsletter](http://eepurl.com/riFT1
 ) and I'll send you tips and opportunities that I don't publish on the website or social media. [Click here to join my mailing list](http://eepurl.com/riFT1).

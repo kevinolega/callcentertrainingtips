@@ -21,7 +21,7 @@ Anong klaseng buhay meron ka ngayon?
 
 The question we're trying to answer with this was, were you responsible? 
 
-Are you doing the tasks assigned by your teachers and parents. 
+Are you doing the tasks assigned by your teachers and parents? 
 
 Or ikaw ba batas sa bahay and school niyo?
 

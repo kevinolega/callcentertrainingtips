@@ -6,7 +6,7 @@ Tags: [ English, blog ]
 permalink: /sossy/ 
 author: Kevin Olega 
 --- 
-> You won’t get to use the blessings that you have if you hate them. -kevin olega
+> You won’t get to use the blessings that you have if you hate them. -Kevin Olega
 
 We Filipinos have a pretty unique attitude when it comes to the English language. 
 
@@ -33,7 +33,7 @@ That’s the requirement when you apply for work in a call center because you’
 
 **Speaking another language well does not make you less of a Filipino than you are**. 
 
-In fact you can contribute more to others if you can speak better. 
+In fact, you can contribute more to others if you can speak better. 
 
 I know employers who pay really well for people who can speak multiple languages.
 

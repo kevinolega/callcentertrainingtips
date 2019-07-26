@@ -7,7 +7,7 @@ author: Kevin Olega
 --- 
 Before smartphones, most cellphones phones are extremely different. 
 
-Some have really good cameras, batteries, speakers etc. 
+Some have really good cameras, batteries, speakers , etc. 
 
 So I ask people about their phone as a conversation starter. 
 

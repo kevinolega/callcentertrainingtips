@@ -20,12 +20,12 @@ Then we think of the right words in English to use.
 
 Then we combine the words.
 
-Then we work on maybe editing and double checking what we want to say.
+Then we work on maybe editing and double-checking what we want to say.
 After all we need to make sure that we don't make a mistake right?
 
 Here's the thing. 
 
-Not matter how you look at it this is too long a process for speaking and its too inefficient.
+No matter how you look at it this is too long a process for speaking and its too inefficient.
 
 The Philippines is a country where we are blessed with multiple languages and I think that's an advantage.
 
@@ -33,7 +33,7 @@ Here's a more efficient way to approach things:
 
 Instead of talking to yourself in Tagalog, talk to yourself in English. 
 
-In fact think in English. 
+In fact, think in English. 
 
 That way you get free practice and more practice hours with how you speak. 
 

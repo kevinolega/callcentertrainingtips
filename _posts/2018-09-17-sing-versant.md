@@ -5,7 +5,7 @@ date: 2018-09-17 22:14
 permalink: /versant/ 
 author: Kevin Olega 
 --- 
-> "Is it true that it you don't have to say anything when the timer start you can read the lyrics of the song or any prayer?"
+> "Is it true that you don't have to say anything when the timer starts you can read the lyrics of the song or any prayer?"
 
 I get this question a lot.
 
@@ -45,12 +45,12 @@ The biggest problem of people is speaking in English correctly and confidently.
 
 There are people who failed the Versant test and still got hired in a call center.
 
-Bad recoding?
+Bad recording?
 
 If the recruiter established that you are great at speaking in English, you are confident, you speak well and are professional in the initial interview, then you fail the Versant test, one of these two things will happen.
 
 1. The recording was bad because of a hardware problem. The mic is probably broken and you'll be asked to repeat the Versant test.
-2. The recruiter, thinking that this is the problem is the headset, will think that a repeat of the Versant test is a waste of time because you speak well, will just ignore the Versant  results and still hire you.
+2. The recruiter, thinking that this is the problem is the headset, will think that a repeat of the Versant test is a waste of time because you speak well, will just ignore the Versant results and still hire you.
 
 ## How to Pass the Versant Exam
 

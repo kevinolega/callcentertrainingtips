@@ -40,11 +40,11 @@ Ask them to correct you an learn from your mistakes and you’ll learn to speak 
 
 We all talk to ourselves. 
 
-If you’re a Filipino chances are, you speak to yourself in Filipino. 
+If you’re Filipino chances are, you speak to yourself in Filipino. 
 
 When you say “gutom na ako” in your head, say “I’m hungry” instead.
 
-A reason why a lot of Filipinos I know have a hard time speaking in English is that try start with their thoughts expressed in Filipino, translate it into English, double-check then speak. 
+A reason why a lot of Filipinos I know have a hard time speaking in English is that try to start with their thoughts expressed in Filipino, translate it into English, double-check then speak. 
 
 Sometimes we get conscious because we have to check if we spoke what we just said correctly. 
 

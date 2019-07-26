@@ -17,9 +17,9 @@ I studied in the middle of the Makati CBD and I kept seeing Convergys recruitmen
 
 I needed a job and I needed money so it made sense for me to go as soon as possible.
 
-A few days before I planned, I was at a drinking session and two chicks in that session said that they were looking for work so I invited them to join me.
+A few days before I planned, I was at a drinking session, and two chicks in that session said that they were looking for work so I invited them to join me.
 
-In that drinking session people told me that Convergys was a difficult company to get in to.
+In that drinking session, people told me that Convergys was a difficult company to get in to.
 
 That got me excited.
 
@@ -31,23 +31,23 @@ If I failed, I can reapply after a few months.
 
 I grew up watching a lot of Japanese cartoons.
 
-At the top of my head, I can recall Dragon Ball Z, Yu Yu Hakusho, locally known as Ghost Fighter, Flame of Recca, Rouroni Kenshin or Samurai X, Grappler Baki and more.
+At the top of my head, I can recall Dragon Ball Z, Yu Yu Hakusho, locally known as Ghost Fighter, Flame of Recca, Rurouni Kenshin or Samurai X, Grappler Baki and more.
 
 One key part of the stories I mentioned is that there's always some kind of tournament of power and that there's a form of elimination where only the strongest survive.
 
 There are multiple battles at different stages and not everybody makes it to the final fight.
 
-That being said, I was mentally prepared to go in and get as far in to the application stages as I possibly can. 
+That being said, I was mentally prepared to go in and get as far into the application stages as I possibly can. 
 
 After submitting my resume, we filled out an application form, waited in line and got called.
 
 There were about sixteen people called into a room.
 
-We were asked to introduce ourselves, read some sentences from a sheet of paper, and count up from eleven to thirty five. I don't remember the exact number but that's what we did.
+We were asked to introduce ourselves, read some sentences from a sheet of paper, and count up from eleven to thirty-five. I don't remember the exact number but that's what we did.
 
 Finally, we were asked a random question.
 
-I don't remember the answers but here were examples.
+I don't remember the answers but here were some of the examples that I remember.
 
 > "If you were stranded on a desert island, and you can bring one food with you, what food would you bring with you? "
 
@@ -77,11 +77,11 @@ I had an answer but I don't remember.
 
 Next interview was the final, can I really do the work, what is my personal definition of customer service, what is my attitude.
 
-Apparently I passed the final interview.
+Apparently, I passed the final interview.
 
 The other 
 
-I'm being scheduled for job offer. 
+I'm being scheduled for a job offer. 
 
 The recruitment manager was printing my contract. 
 
@@ -107,7 +107,7 @@ Isn't education the more important thing?
 
 I asked myself in my mind.
 
-Apparently she saw my hesitation in my eyes.
+Apparently, she saw my hesitation in my eyes.
 
 I said I'll go with my first but I'll try to work while studying at the same time.
 
@@ -129,7 +129,7 @@ She said, she'll call me for a schedule.
 
 She was lying.
 
-When they say "we'll call you" they wont.
+When they say "we'll call you" they won't.
 
 I didn't know how to feel.
 

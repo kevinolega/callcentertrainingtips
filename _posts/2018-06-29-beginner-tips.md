@@ -15,7 +15,7 @@ The initial discussion will be to test your communication skills, professionalis
 
 You don't need to research about specific companies, instead take the opportunity to ask the interviewer questions about the company.
 
-However with knowledge about yourself, I recommend that you come prepared.
+However, with knowledge about yourself, I recommend that you come prepared.
 
 The most important details are:
 
@@ -31,7 +31,7 @@ Do not answer with just one or two words.
 
 Use a complete sentence.
 
-Have your answers checked by somebody who's great at speaking in English.
+Have your answers checked by somebody who's great at speaking in English?
 
 
 ### 2. Asking questions
@@ -44,7 +44,7 @@ Telling someone that you don't understand something and would like to find out m
 
 "I don't have any call center experience, can you tell me what a typical workday looks like for your agents?"
 
-"What traits do people who succeed as agents in your company posess?"
+"What traits do people who succeed as agents in your company possess?"
 
 "What time are the usual schedules in your company's accounts?"
 
@@ -55,9 +55,9 @@ A call center job is 80% asking questions.
 If you've ever listened to a call center spiel here are examples.
 
 - Thank you for calling my name is Kevin! How may I help you?
-- I'd be happy to assist you with your issue. May I have your name please?
+- I'd be happy to assist you with your issue. May I have your name , please?
 - I'll need to pull up your account. Can you dictate to me your complete address or account number?
-- For security purposes may I have the last four digits of your social security number please?
+- For security purposes may I have the last four digits of your social security number , please?
 - Thank you for providing me with your details. Can you tell me more about the issue you are experiencing? 
 - Can you give me more details?
 - Just to make sure I understood your issue correctly, you called today because you have an issue with your services and you tried to resolve the issue by restarting some systems and checking the connection however that was unsuccessful so we are going to do more troubleshooting steps. Is that correct?
@@ -66,7 +66,7 @@ If you've ever listened to a call center spiel here are examples.
 - We are trying to help the environment by minimizing our paper consumption. May I register you for digital billing and notifications? May I have your email address? Can you spell that for me?
 - While I have you on the line, I also noticed that you are paying $100 for your service. We currently have a loyalty offer that will allow you to get more value or save more money. May I review your account further to see if any of these adjustments may be applied to your account?
 - May I place your call on hold while I review the information?
-- I can see that some upgrades can be applied to your account where you can get more features and we can order this features for only $20. Do you want to add these features?
+- I can see that some upgrades can be applied to your account where you can get more features and we can order these features for only $20. Do you want to add these features?
 - Is there anything else that I can assist you with?
 
 
@@ -91,7 +91,7 @@ It is important to follow the same rules with instructions as in stories.
 
 Stories allow you to tell someone what you want to say without telling them directly what you want to say.
 
-Alternatively stories allow you to drive the point.
+Alternatively, stories allow you to drive the point.
 
 Here are some examples.
 
@@ -101,7 +101,7 @@ I understand how difficult the situation is now that your service is currently n
 
 **Interviewer (Sales):**
 
-One of the most challenging things about sales is how some customers initially are not interested that's why in my previous job, we begin by asking our customers questions about what they like about their service provider, then we allow them to talk about it more then we listen to them and allow them to share what they like and eventually they share with us what they would like to change and afterwards we're talking about how they can purchase what we have. 
+One of the most challenging things about sales is how some customers initially are not interested that's why in my previous job, we begin by asking our customers questions about what they like about their service provider, then we allow them to talk about it more then we listen to them and allow them to share what they like and eventually they share with us what they would like to change and afterward we're talking about how they can purchase what we have. 
 
 **Interviewer (General):**
 
@@ -135,7 +135,7 @@ You need to build an environment that will guarantee that you can get eight actu
 
 You need to eat well and stay healthy.
 
-In terms of attitude you need to cooperate with your boss and team learders.
+In terms of attitude, you need to cooperate with your boss and team leaders.
 
 You need to have the mindset of a problem solver.
 
@@ -151,7 +151,7 @@ You need to cooperate with the rules.
 
 You need to be attentive and take note of important rules and policies.
 
-You need to continually improve your listening skills and how you phrase your answers to questions you are asked. If you say something that offended a customers always ask yourself how you can say the exact same thing without getting the same negative response.
+You need to continually improve your listening skills and how you phrase your answers to questions you are asked. If you say something that offended a customer always ask yourself how you can say the exact same thing without getting the same negative response.
 
 Here are common questions that Interviewers usually ask new applicants.
 
@@ -177,13 +177,13 @@ It's important to communicate that you want to work with the company long term.
 
 This is one of the many "random questions" that you may get asked.
 
-I often need to take some time to think of an answer. However a lot of times I don't have a good answer for questions like this. However I still pass this part in the interview.
+I often need to take some time to think of an answer. However, a lot of times I don't have a good answer for questions like this. However I still pass this part in the interview.
 
 You want to know why?
 
 They are not interested in your answer. 
 
-Instead they are interested in your communication skills and your thought process.
+Instead, they are interested in your communication skills and your thought process.
 
 Here's how I answer.
 
@@ -199,7 +199,7 @@ I ask for some time to gather my thoughts.
 
 I describe the answers I'm considering and maybe ask clarifying questions.
 
-> "I'm having some difficulty coming up with an answer but at the top of my head I'd first ask the person I'm speaking with was born blind. If he is not then I'd point out the color of an item that is blue. End of story. If the person is born blind, then I would begin by explaining to the person that colors allow people who can see the ability to tell the difference between some items. For example it is common for work shoes to be black. The color red is usually used for stop signs. The color green for go. And after we have established some context I will begin giving examples of items that are colored blue."
+> "I'm having some difficulty coming up with an answer but at the top of my head, I'd first ask the person I'm speaking with was born blind. If he is not then I'd point out the color of an item that is blue. End of story. If the person is born blind, then I would begin by explaining to the person that colors allow people who can see the ability to tell the difference between some items. For example, it is common for work shoes to be black. The color red is usually used for stop signs. The color green for go. And after we have established some context I will begin giving examples of items that are colored blue."
 
 Then I'd ask the interviewer if they are satisfied with my answer.
 

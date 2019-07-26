@@ -13,7 +13,7 @@ I made two sections on this lesson, part one contains only the questions for if 
 
 **Instructions:**
 
-Please write what comes to your mind as soon as you read the question, no over thinking.
+Please write what comes to your mind as soon as you read the question, no overthinking.
 
 **1.) What do you do for work?**
 
@@ -59,7 +59,7 @@ Leave a comment with your answers or send me a private message if you'd like to 
 
 **Instructions:**
 
-Please write what comes to your mind as soon as you read the question, no over thinking.
+Please write what comes to your mind as soon as you read the question, no overthinking.
 
 **1.) What do you do for work?**
 
@@ -98,7 +98,7 @@ I'm just responding to a lot of situations with silence and things turn out well
 
 **4.) Can you say you are satisfied with what you have or the way your life is playing out, why or why not?**
 
-It's a mix of good and bad but for some reason I can't put into words, I conclude that everything is perfect the way it is.
+It's a mix of good and bad but for some reason, I can't put into words, I conclude that everything is perfect the way it is.
 
 Same answer as last year.
 
@@ -110,7 +110,7 @@ I also have blessings that I didn't work for.
 
 I also have challenges to face that will likely grow me into a better person. 
 
-Challenges develop your problem solving skills and if you're the type person who is pursuing wealth, health and happiness, problem solving skills are a key element to the attainment of these pursuits.
+Challenges develop your problem-solving skills and if you're the type person who is pursuing wealth, health and happiness, problem-solving skills are a key element to the attainment of these pursuits.
 
 **5.) If you can change something in your life, what would it be and why do you want to change it?**
 
@@ -124,7 +124,7 @@ One problem I've had for a long time is I put myself in a bad spot by prioritizi
 
 I'm lying low now. 
 
-I only help people closer to my circle and I don't over extend myself. 
+I only help people closer to my circle and I don't overextend myself. 
 
 I say no every now and then and discovered that people won't hate me for not being able to help. 
 
@@ -138,15 +138,15 @@ I have my problems.
 
 If my hands are full, I won't help. 
 
-If I have a free hand, Ill offer help. 
+If I have a free hand, I'll offer help. 
 
 That's how things work. 
 
-I still feel guilty whenever I can't because I grew up admiring super heroes but this is reality.
+I still feel guilty whenever I can't because I grew up admiring superheroes but this is a reality.
 
 Those stories are what we aspire to be. 
 
-However the range of our influence is limited compared to our ideals despite our efforts to expand ourselves.
+However, the range of our influence is limited compared to our ideals despite our efforts to expand ourselves.
 
 **6.) How do you see yourself in 5 yrs from now?**
 

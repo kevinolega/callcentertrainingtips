@@ -16,23 +16,23 @@ So this is a great form of inspiration for learning how to introduce yourself in
 
 I have overcome depressing moments in my life watching anime.
 
-I have also learned positive attitude and mindsets that allowed me to overcome obstacles through lessons from my favorite anime characters.
+I have also learned a positive attitude and mindsets that allowed me to overcome obstacles through lessons from my favorite anime characters.
 
 ## Life Lessons From Anime
 
 - Naruto Uzumaki taught me to never give up on your dream. Even if it's big and stupid.
 - Kakashi Hatake taught me that learning many skills can make an ordinary person extraordinarily powerful. 
-- Orochimaru taught me that even if I feel that life does not have any meaning, if I stay alive long enough, I'll find something interesting.
+- Orochimaru taught me that even if I feel that life does not have any meaning if I stay alive long enough, I'll find something interesting.
 - Shikamaru taught me to plan and execute.
 - Shikaku (Shikamaru's dad) taught me that running away from responsibility will not improve my situations and that failure gives me the experience to increase my probability of success.
-- Guts (Berserk) taught me to keep going forward no matter how hard life gets and to direct all my negative emotions to positive ends. And that new companions are always a positive because you can't do everything alone. Doesn't matter how much of a badass you are.
+- Guts (Berserk) taught me to keep going forward no matter how hard life gets and to direct all my negative emotions to positive ends. And that new companions are always positive because you can't do everything alone. Doesn't matter how much of a badass you are.
 - Keima Katsuragi (World God Only Knows)taught me that true enjoyment comes from overcoming difficult games without cheating.
 - Onoda Sakamichi (Yowamushi Pedal) taught me that smiling and singing helps you overcome the most difficult tasks that everybody complains about.
 - Shinji Ikari (Neon Genesis Evangelion) taught me to face life not through a mask (his identity as Eva Unit 01's pilot) but as myself.
 - Yui Hirasawa (K-On) taught me that if you're sincere, no matter how clumsy or unskilled you are, you can change your life over time. See first episode and last episode.
 - Takanashi Yomi (DeadMaster - Black Rock Shooter) taught me that everyone has internal struggles.
 - Itachi Uchiha taught me to accept myself and my weakness and to build my life contributing my strength and overcoming my weakness through the cooperation of my allies.
-- Saitou Hajime (Rouroni Kenshin - Samurai X) taught me that the best jobs are the ones people don't like doing.
+- Saitou Hajime (Rurouni Kenshin - Samurai X) taught me that the best jobs are the ones people don't like doing.
 - BK201 (Darker than Black) and Spike Spiegel (Cowboy Beebop) taught me that you can't fully live your life with one eye on your past.
 - Baki Hanma (Grappler Baki) taught me the value of training everyday.
 - Yujiro Hanma "Ogre" (Grappler Baki) taught me the value of physical fitness.
@@ -41,12 +41,12 @@ I have also learned positive attitude and mindsets that allowed me to overcome o
 - Shiore (Log Horizon) taught me the value of strategy.
 - Shido (Date-A-Live) taught me that befriending, not destroying your demons will allow you to ride them into battle. And being mindful of people's happiness level.
 - Jokyuu (AIKI) taught me that to get better at my craft, I need to spend time with people who are best at what I do. Even if they all intimidate me.
-- The characters of Cells at Work taught me how cells in my body work. It's very educational.
+- The characters of Cells at Work taught me how cells in my bodywork. It's very educational.
 - Kei Asai (Sakurada Reset) taught me that in order to accomplish the impossible, you must strive for the outcome that gives all the parties involved what they truly desire.
 - Saitama (One Punch Man) taught me the value of consistency.
-- Harem anime main characters that knowing how to cook and being dependable as well as intelligent and physically fit will make it easier for you to build a harem. I mean find a partner. I mean connect with best girl.
+- Harem anime main characters that know how to cook and being dependable as well as intelligent and physically fit will make it easier for you to build a harem. I mean find a partner. I mean connect with the best girl.
 
-I've watched all these shows, usually by going two or three days straight until I've seen all the episodes, all the movies, OVA, read all the wikipedia page, trivia and production notes of these shows.
+I've watched all these shows, usually by going two or three days straight until I've seen all the episodes, all the movies, OVA, read all the Wikipedia page, trivia and production notes of these shows.
 
 I'm a true otaku. 
 
@@ -168,7 +168,7 @@ Not an activity that should STEAL ALL YOUR OPPORTUNITIES IN LIFE.
 
 When we were younger, our parents taught us that entertainment is something we're allowed after we're DONE ACCOMPLISHING OUR RESPONSIBILITIES.
 
-As kids, we didn't watch TV, see a movie or play a game until after we've cleaned up, eaten dinner, done home work and brush our teeth.
+As kids, we didn't watch TV, see a movie or play a game until after we've cleaned up, eaten dinner, done homework and brush our teeth.
 
 Why do the opposite now that you're old.
 

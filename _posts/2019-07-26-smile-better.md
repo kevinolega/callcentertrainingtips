@@ -31,7 +31,7 @@ I smile as I give my interviewer my answer.
 
 I smile because I am grateful for the opportunity. 
 
-Grateful because a they are considering me.
+Grateful because they are considering me.
 
 Grateful that I'm prepared. 
 

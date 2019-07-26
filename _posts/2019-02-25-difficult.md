@@ -5,9 +5,9 @@ date: 2019-02-25 17:43
 permalink: /difficult/ 
 author: Kevin Olega 
 --- 
-If you are blessed with higher intelligence, resources, education, physical attractiveness, health etc, your life is guaranteed to be set to a higher difficulty.
+If you are blessed with higher intelligence, resources, education, physical attractiveness, health , etc, your life is guaranteed to be set to a higher difficulty.
 
-The good news is, any activity that requires a higher difficulty often yields higher benefits and rewards.
+The good news is any activity that requires a higher difficulty often yields higher benefits and rewards.
 
 That being said, if you want a better life, you will benefit from wanting to do more difficult things.
 
@@ -23,9 +23,9 @@ I had difficulty believing this because almost everything I tried was difficult 
 
 I realized later that I kept trying more difficult things as I achieved small doses of success.
 
-The reality was, I was growing but I was never feeling it becasuse I was always engaged with more difficult challenges.
+The reality was, I was growing but I was never feeling it because I was always engaged with more difficult challenges.
 
-When I was 27, I went back to the call center, became top agent and went after my dream job of becoming my own boss. 
+When I was 27, I went back to the call center, became a top agent and went after my dream job of becoming my own boss. 
 
 At 31 I succeeded.
 
@@ -37,7 +37,7 @@ An ancient book of wisdom has this advice:
 
 If you are faithful with the small things, you will be entrusted with big things and if you are dishonest with the small things, then you will never be trusted with anything.
 
-Learn to value integrity, courage, intelligence and honesty. 
+Learn to value integrity, courage, intelligence , and honesty. 
 
 Teach yourself these values if you haven't already.
 

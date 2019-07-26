@@ -5,14 +5,14 @@ date: 2018-11-17 14:10
 permalink: /american-culture/ 
 author: Kevin Olega 
 --- 
-When you turn eightieen in the US or other English speaking country:
+When you turn eighteen in the US or other English speaking countries:
 
 1. You are considered an adult and responsible for your own life. 
 2. You need to get your own income.
 3. You need to get out of the house and into your own place.
-4. You need to pay for your own education if you would like to go to a university.
+4. You need to pay for your own education if you would like to go to  university.
 
-Very few people in other English speaking countries live with their parients.
+Very few people in other English speaking countries live with their parents.
 
 In these countries, everyone is expected to be independent.
 
@@ -34,7 +34,7 @@ When you begin work, it's important to remember that one day, you are going to s
 
 So it's important to save for retirement because expenses will continue.
 
-Your Filipino parents, knows this well but instead of saving money for their future, the money is then invested in your future through your education.
+Your Filipino parents know this well but instead of saving money for their future, the money is then invested in your future through your education.
 
 Often, when one reaches thirty, you can be responsible for yourself, your parents and your children so it's many people depending on one income source.
 
@@ -45,7 +45,7 @@ There is an "entitlement mentality" where one expects the parents to shoulder al
 Here are some examples of situations that I've encountered.
 
 1. I am a college student and my parent's pay for everything. Halfway through my course, I decided to shift to a new course because "I don't feel like pursuing my course anymore." My parents will then be obligated to pay for my extended year (or years) in college.
-2. I am a college student and my parents are paying for my education. They are bareley making ends meet. But I got pregnant (or got someone pregnant). Now my parents have to pay for my childs expenses too.
+2. I am a college student and my parents are paying for my education. They are barely making ends meet. But I got pregnant (or got someone pregnant). Now my parents have to pay for my child's expenses too.
 3. I'm not studying because of a financial problem. My parents can't afford to send me to school. I just stay at home and help with the chores. I don't really do anything for income.
 
 Are you the hero of your family or are you the burden?

@@ -16,21 +16,21 @@ Wear your clothes.
 
 Bring your wallet and phone.
 
-Maybe bring tissue, wetwipes.
+Maybe bring tissue, wet wipes.
 
 Bring your house keys.
 
-If you have the means, bring a home prepared meal and snack.
+If you have the means, bring a home-prepared meal and snack.
 
 That's it.
 
-But if you struggle with what you wear, and go around your room deciding and this happens more that once a week, you are literally throwing your life away.
+But if you struggle with what you wear, and go around your room deciding and this happens more than once a week, you are literally throwing your life away.
 
 If you have this problem, your performance at work is suffering.
 
 Some people say buti na maganda wag lang late.
 
-Well those people get fired.
+Well, those people get fired.
 
 Lucky for you. 
 
@@ -50,7 +50,7 @@ CEO's of big companies do it.
 
 They don't waste their day thinking about what to wear.
 
-They have more important things to spend their mental resources on.
+They have more important things to spend their mental resources.
 
 Steve Jobs of Apple computer.
 
@@ -62,7 +62,7 @@ Gray shirt. Jeans. Sneakers.
 
 Barack Obama. Former President of the United States of America.
 
-Black suit with either white or blue shirt. 
+Black suit with either a white or blue shirt. 
 
 Why?
 
@@ -118,7 +118,7 @@ You save five hours a week...
 
 You save thirty hours a month...
 
-You save three hundred sixty five hours a year.
+You save three hundred sixty-five hours a year.
 
 If you stay in a call center for three years you save a total of 1,100 hours three years.
 

@@ -14,7 +14,7 @@ If your goal is to buy lessons that will improve your life.
 
 If your goal is to get started on going after your dream job.
 
-Call center money is not enough for luho.
+Call center money is not enough for luxury. (luho)
 
 You can't buy beer for all your friends with call center money.
 

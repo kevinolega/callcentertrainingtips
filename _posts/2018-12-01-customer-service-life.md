@@ -15,7 +15,7 @@ You freshen up and buy what you need from the store.
 
 You set up your work station 15 minutes before your actual time. 
 
-You login and start working at your schedule and start taking calls.
+You log in and start working at your schedule and start taking calls.
 
 
 ### Call Flow
@@ -46,6 +46,6 @@ Most good call centers have a proper sleeping area.
 
 You log out from your work station.
 
-You use the rest room.
+You use the restroom.
 
 You go home.

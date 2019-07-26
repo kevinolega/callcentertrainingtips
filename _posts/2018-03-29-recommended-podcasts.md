@@ -53,7 +53,7 @@ But sometimes, the available time to sit down and enjoy a book is limited.
 
 Audiobooks are a good alternate but many of the good ones are expensive.
 
-Podcasts are a good alternate.
+Podcasts are a good alternate to audiobooks.
 
 The best thing about podcasts is that podcasts are free.
 
@@ -70,9 +70,9 @@ He talks about a wide range of topics.
 
 My favorites include technology, automation and some news. 
 
-Colin is a great story teller. 
+Colin is a great story-teller. 
 
-Expect to pick up inspiration on analogies, story telling, making a case and your communication skills in general. 
+Expect to pick up inspiration on analogies, story-telling, making a case and your communication skills in general. 
 
 This is my favorite podcast and I've listened to every episode.
 

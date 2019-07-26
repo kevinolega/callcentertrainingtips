@@ -7,7 +7,7 @@ author: Kevin Olega
 --- 
 Many people fail their job application because of poor preparation.
 
-Many fail because of poor English skills an confidence.
+Many fail because of poor English skills and confidence.
 
 More people fail because they lack the resources to follow through.
 
@@ -66,7 +66,7 @@ Consider the following details.
 
 **Job Application Stage:**
 
-**25 Walk-in Applications** to reach 15 interviews Php 150/day for food and  for 25 days is approximately Php 3,750.
+**25 Walk-in Applications** to reach 15 interviews Php 150/day for food and for 25 days is approximately Php 3,750.
 
 **Final Interview** Php 150/day for 3 days is Php 450.
 
@@ -90,7 +90,7 @@ Consider the following details.
 
 **Before your first paycheck** you'll need to commute and eat for ten days so expect to spend Php 2,000.
 
-The money you receive on your first payroll will vary depending on company payroll or cut-off procedure so sometimes the first payroll doesn't get you the full salary on that cut off. So expect to shell out for expenses for another ten working days.  Php 2,000
+The money you receive on your first payroll will vary depending on company payroll or cut-off procedure so sometimes the first payroll doesn't get you the full salary on that cut-off. So expect to shell out for expenses for another ten working days.  Php 2,000
 
 **Total Employment Expenses: Php 4,000.**
 
@@ -100,7 +100,7 @@ Expect to spend a little more so **prepare around Php 12,000 just to be sure.**
 
 I didn't include rent, expenses for eating at home, groceries or anything else.
 
-I only included the cost of each trip going out at Php 150 per day for pre hire and Php 200 per day post hire. 
+I only included the cost of each trip going out at Php 150 per day for pre-hire and Php 200 per day post-hire. 
 
 That's if we presume that you only need to spend that much on fare and food. 
 
@@ -108,7 +108,7 @@ When I go out, I do my best to have only one meal and no snacks. I am fortunate 
 
 Not really. Their resources were still used in the process.
 
-I added Php 50 per day post hire because some people need their coffee.
+I added Php 50 per day post-hire because some people need their coffee.
 
 Whenever I feel like quitting my job, I went back to this list of expenses to remind myself of what it cost me to get hired in my current job.
 

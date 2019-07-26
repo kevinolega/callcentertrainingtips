@@ -18,7 +18,7 @@ They give step by step instructions.
 
 They give you an overview before they begin.
 
-They prepared the steps and the instructions. 
+They prepared the steps and instructions. 
 
 They're not just making things up as they go along.
 

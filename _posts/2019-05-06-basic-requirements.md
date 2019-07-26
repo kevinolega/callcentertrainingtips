@@ -31,7 +31,7 @@ You will be reading from a script most of the time.
 
 Your English just needs to be good enough for small talk, asking questions, explaining your process, giving directions, and telling short stories.
 
-Avoid making pronunciation errors like B and V, P and F, and finally TH sounds. We have several exercises on [this call center tips website](http://callcentertrainingtips.com).
+Avoid making pronunciation errors like B and V, P and F, and finally,TH sounds. We have several exercises on [this call center tips website](http://callcentertrainingtips.com).
 
 You can check out the top 100 used words in the English Language and check your pronunciation.
 
@@ -39,7 +39,7 @@ Practice with a friend who works in a call center or is good at speaking in Engl
 
 Think in English so you don't need to translate before you speak. 
 
-Read in English, Write in English, Pray in English and Speak in English whenver you can. The more you do this the easier it is for you.
+Read in English, Write in English, Pray in English and Speak in English whenever you can. The more you do this the easier it is for you.
 
 Speaking in English is like growing a muscle. 
 
@@ -51,7 +51,7 @@ Many call center companies work for clients in the United States.
 
 The usual work schedule is the opposite of Philippine Time.
 
-When I worked in a Call Center we followed, Eastern Standart Time. 
+When I worked in a Call Center we followed Eastern Standart Time. 
 
 Some of the shifts I've taken starts at 8pm, 1am, 2am and 4am Manila time.
 
@@ -77,7 +77,7 @@ An unfilled position is bad for their business so they want to hire agents fast.
 
 There doesn’t seem to be a limit when it comes to age requirements.
 
-You might feel you're too young or too old but like I said, you can prove to your interviewere that you can do the job, you are good as hired.
+You might feel you're too young or too old but like I said, you can prove to your interviewer that you can do the job, you are good as hired.
 
 **Can use a computer**.
 

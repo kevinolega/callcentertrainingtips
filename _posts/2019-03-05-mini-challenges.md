@@ -5,7 +5,7 @@ date: 2019-03-05 07:10
 permalink: /weekly-challenge/ 
 author: Kevin Olega 
 --- 
-My suggestion, print out four copies of this guide and post one on the wall next to your bed, one next to your computer, take one with you all the time and the other is a back up copy.
+My suggestion, print out four copies of this guide and post one on the wall next to your bed, one next to your computer, take one with you all the time and the other is a backup copy.
 
 Here are the mini-challenges (you do not have to do all of these, just pick one per week):
 
@@ -49,7 +49,7 @@ Here are the mini-challenges (you do not have to do all of these, just pick one 
 - Write down what's bothering you.
 - Write down what failure looks like for you.
 - Write down questions that you are interested in knowing the answer to.
-- Start doing push ups, air squats and burpees. Start with 10/day.
+- Start doing push-ups, air squats and burpees. Start with 10/day.
 - Pray in English.
 
 
@@ -73,7 +73,7 @@ Here are the mini-challenges (you do not have to do all of these, just pick one 
 - Try eating one meal a day with only meat.
 - Volunteer to be a moderator on my facebook group
 - Volunteer to be a writer for my facebook page. Write down lessons that helped you and share them with other readers.
-- Start applying in a call centre to test your capability.
+- Start applying in a call center to test your capability.
 - Write down your goals and plans for 1 year, 3 years, 5 years, 10 years and 20 years.
 
 If it sounds easy and you’re already used to speaking in English, try the 7-Day English Only Challenge.
@@ -86,6 +86,6 @@ I believe in a Carnivore diet (out of compassion for humans) and try to eat whol
 
 That doesn’t mean you have to do that.
 
-The one thing I believe is in trying to get foods that are full of nutrients — beef, lamb, organ meats and eat less of the foods that are mostly empty of nutrients (processed foods, white bread and sugar, fried foods). 
+The one thing I believe is in trying to get foods that are full of nutrients — beef, lamb, organ meats and eat less of the foods that are mostly empty of nutrients (processed foods, white bread , and sugar, fried foods). 
 
 Again, you don’t have to be religious about it — I eat cookies and French fries just like most normal people!

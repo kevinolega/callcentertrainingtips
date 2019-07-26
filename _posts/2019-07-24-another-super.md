@@ -76,7 +76,7 @@ And made more money.
 
 I studied other things that allowed me to resolve almost all customer concerns.
 
-I studied work-arounds.
+I studied workarounds.
 
 I found rules that I can easily break that would make the customer happy at the cost of maybe two minutes penalty to my AHT.
 

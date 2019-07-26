@@ -12,7 +12,7 @@ I didn't ask him directly at the end.
 
 I was trying to figure out what the answers were based on the conversation.
 
-Then on the final day of the training I decided to ask the following questions.
+Then on the final day of the training, I decided to ask the following questions.
 
 What are the top five most difficult calls?
 
@@ -62,7 +62,7 @@ Blessings are only good if you are prepared.
 
 If you are not prepared, you just end up hating God because all he gives you are problems.
 
-What the hell do I do with this giant four legged animal with horns God?
+What the hell do I do with this giant four-legged animal with horns God?
 
 Answer: You kill it and eat it.
 
@@ -78,7 +78,7 @@ I'd write this down.
 
 I would take note of words that offended or triggered negative emotions of the customer.
 
-The fat lady next next to me kept screaming to the customer. 
+The fat lady next to me kept screaming to the customer. 
 
 > "No Maam. I can't do that."
 
@@ -86,13 +86,13 @@ I always tell the customer.
 
 > "I understand what you're trying to accomplish. Let me see what I can do from my end. I'll do my best to assist you."
 
-I'd place the call on hold for fourty seconds.
+I'd place the call on hold for forty seconds.
 
 Ask a TL about it.
 
 The request gets rejected.
 
-> "I'm back. I did submit a request for you and my supervisor is reviewing it. For now we're just waiting for feedback. I really hope things work out. But just in case, the request doesn't get approved. What we can do instead is...(PROVIDES ALTERNATE SOLITION)"
+> "I'm back. I did submit a request for you and my supervisor is reviewing it. For now, we're just waiting for feedback. I really hope things work out. But just in case, the request doesn't get approved. What we can do instead is...(PROVIDES ALTERNATE SOLUTION)"
 
 Customer asks for a supervisor.
 
@@ -122,7 +122,7 @@ In the first movie, Iron Man can only fight normal Tanks and Planes.
 
 In the second movie, Iron Man can beat super robots.
 
-In Avengers, he fought the god of thunder himself and won against super strong aliens with advanced weapons.
+In Avengers, he fought the god of thunder himself and won against super-strong aliens with advanced weapons.
 
 In the second Avengers, he beat Ultron.
 
@@ -132,7 +132,7 @@ I'm always doing that.
 
 When I'm working in a call center, I'm always doing that to my spiels and scripts. 
 
-I'm always thinking about the worst case scenario and coming up with a plan to prepare for it.
+I'm always thinking about the worst-case scenario and coming up with a plan to prepare for it.
 
 If I don't have a plan, I ask people smarter than me.
 
@@ -150,7 +150,7 @@ Which of my friends should I see more?
 
 What kind of friends would make me a better person?
 
-Where do I meet those kind of people.
+Where do I meet those kinds of people.
 
 What activities do I do that ruin my day?
 

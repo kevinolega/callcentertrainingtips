@@ -93,7 +93,7 @@ Got a good response from facebook:
 
 **Person:**
 
-I'll become a wise observer at first. Observing every aspects to be a good performer. And who knows, Someday I'll play with the guitar too.
+I'll become a wise observer at first. Observing every aspect to be a good performer. And who knows, Someday I'll play with the guitar too.
 
 **Me:**
 

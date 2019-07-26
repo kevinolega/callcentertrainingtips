@@ -6,7 +6,7 @@ Tags: [ lesson, attitude, website ]
 permalink: /hired-attitude/ 
 author: Kevin Olega 
 --- 
-The most common complain that I receive is from visitors is...
+The most common complaints that I receive is from visitors is...
 
 > I want to work in a BPO but  I failed many times...
 >
@@ -32,7 +32,7 @@ I can answer questions more intelligently because I know from experience what wo
 
 I'm better because don't have ideas but I have experience.
 
-I couldn't make the interviewer smile yesterday but I;'m sure that I can today.
+I couldn't make the interviewer smile yesterday but I'm sure that I can today.
 
 I didn't know how to introduce myself effectively yesterday but I can today.
 

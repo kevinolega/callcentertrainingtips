@@ -7,7 +7,7 @@ author: Kevin Olega
 --- 
 When you look for work, aside from passing interview and exams you'll need to submit some pre emp
 
-Pre employment requirments are a common chore that needs to be done to finalize your job hunting process.
+Pre-employment requirements are a common chore that needs to be done to finalize your job hunting process.
 
  Items in a pre-employment checklist are often standard for most call centers and most jobs I've applied in.
 
@@ -33,7 +33,7 @@ You may [visit BIR for more information](https://www.bir.gov.ph/).
 
 **NBI Clearance** (original copy) . 
 
-In some situations you can get this same day and in other situations they require you to return after three days or so. 
+In some situations, you can get this same day and in other situations, they require you to return after three days or so. 
 
 I recommend paying the extra 100 pesos to have it delivered. It will often cost you more than Php 200 if you'll go back to just pick it up. 
 
@@ -56,14 +56,14 @@ Whenever you're submitting photocopy be sure to include both front and back of t
 _Samples of Primary ID's include:_ 
 
 - **Unified or Digitized SSSID** 
-- **Drivers license. **Should be current. By current they mean not expired. 
-- **Passport. **Should be current. By current they mean not expired. 
-- **PRC ID. **Should be current. By current they mean not expired. Secondary ID's include: 
+- **Drivers license. **Should be current. By current, they mean not expired. 
+- **Passport. **Should be current. By current, they mean not expired. 
+- **PRC ID. **Should be current. By current, they mean not expired. Secondary ID's include: 
 - **Postal ID**. I got mine at a post office. Paid about Php 200. 
 - **Voter's ID. **I don't have one. 
 - **TIN ID. **I don't have one. 
-- **Philhealth ID with Photo.** My previous employer provide this. 
-- **Updated NBI Clearance.** Turns out you can use your NBI clearance as additional ID Secondary pre employment requirements often required before hitting the end of your training or before you start production work. 
+- **Philhealth ID with Photo.** My previous employer provides this. 
+- **Updated NBI Clearance.** Turns out you can use your NBI clearance as additional ID Secondary pre-employment requirements often required before hitting the end of your training or before you start production work. 
 
 _Samples of secondary Pre Employment requirements include._
 
@@ -116,13 +116,13 @@ I would encourage you to review the list so you can review the cost or the amoun
 
 I recommend getting a job offer before worrying about this. 
 
-I often save about Php 3,000 extra on top of my job hunting expenses to pay for requirements so I don't get pressed for money whenever I need to switch. 
+I often save about Php 3,000 extra on top of my job-hunting expenses to pay for requirements so I don't get pressed for money whenever I need to switch. 
 
 If you're looking for required skills in getting hired in a call center please visit this link.
 
 Often you'll be asked to undergo pre-employment medical examinations and the good call center companies will cover the expenses.
 
-You will also need secure your Philhealth MDR as well.
+You will also need to secure your Philhealth MDR as well.
 
 Requirements vary from company to company however these are the common minimum requirements. 
 
@@ -130,8 +130,8 @@ Please inquire with your local HR for
 
 #### Failure often leads to:
 
-- No job offer or widrawal of job offer.
-- Salary delays often requlting from lack of requirements needed for ATM creation.
+- No job offer or withdrawal of job offer.
+- Salary delays often resulting from lack of requirements needed for ATM creation.
 - Termination if found negligent in complying with the requirements.
 
 Don't sweat it just google "how to get (insert requirement)" and you'll find a site that has instructions. If you've ever taken a job with a company before, chances are you have undergone this process already.
