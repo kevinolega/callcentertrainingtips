@@ -22,11 +22,11 @@ When I was asked to describe the Philippines to an American the first images tha
 
 Don't go here. People are going to rob you one way or another and your experience is going to suck.
 
-As a result I couldn't say anything nice in my interview.
+As a result, I couldn't say anything nice in my interview.
 
 I found out later that it was easier to get to the next stage of the recruitment process if you planned for your interviews.
 
-In my experience I found out that when I wrote things down, I can think of an answer.
+In my experience, I found out that when I wrote things down, I can think of an answer.
 
 If I study my answer and give it some time, I could think of a better answer.
 

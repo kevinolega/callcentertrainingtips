@@ -10,7 +10,7 @@ At my level.
 
 It takes me 16 interviews before I can find a company who has an opening that matches my skills and at the same time will have an offer that matches what I want.
 
-Often, after several rejections we feel down and think that there’s something wrong with us.
+Often, after several rejections, we feel down and think that there’s something wrong with us.
 
 If you’re the kind of person who tries to learn and improve that’s usually not the case. 
 
@@ -32,7 +32,7 @@ When I share this attitude in person, people cringe at the thought of walking aw
 
 I can guess that’s because they believe that opportunities are scarce. 
 
-In my experience there’s more than enough opportunities for everybody. 
+In my experience, there’s more than enough opportunities for everybody. 
 
 The problem is that we give up when we hit roadblocks.
 
@@ -56,7 +56,7 @@ Who would want a husband that beats his wife and asks her to pay for all the exp
 
 Pick carefully and understand that no job like no guy or girl is worth stressing yourself over.
 
-**Anyways here's a summary:**
+**Anyway here's a summary:**
 
 First five applications suck. 
 
@@ -72,7 +72,7 @@ The pay is too low.
 
 The work conditions are bad. 
 
-The boss wants suicide bombers not employees or something like that.
+The boss wants suicide bombers , not employees or something like that.
 
 I walk away from these job offers.
 
@@ -80,7 +80,7 @@ The final five are acceptable.
 
 They like me and I seem to like them. 
 
-At this point I pick the best. 
+At this point, I pick the best. 
 
 You don't want to just pick the first good offer, you need to compare so you have a good deal. 
 

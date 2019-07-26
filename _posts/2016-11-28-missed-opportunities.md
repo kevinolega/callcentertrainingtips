@@ -38,7 +38,7 @@ That’s what I believe.
 
 The reason why you’re not where you want to be in life is not just because of your poor English communication skills but because of your refusal to improve your English communication skills.
 
-You miss opportunities in life because your afraid.
+You miss opportunities in life because you're afraid.
 
 You miss opportunities in life because you’re lazy.
 
@@ -82,7 +82,7 @@ Many of these wicked employers will try to get away with paying you less than mi
 
 They have nice cars because they pocket cash instead of paying you the benefits.
 
-It’s common practice to hire people as trainees to pay them less and to put them on permanent probation or contractual employment agreements to avoid paying them basic government mandated benefits.
+It’s common practice to hire people as trainees to pay them less and to put them on permanent probation or contractual employment agreements to avoid paying them basic government-mandated benefits.
 
 In a lot of cases, you need to check with SSS and PAG-IBIG if your payments and contributions are being remitted to the necessary government agency.
 
@@ -142,7 +142,7 @@ Not speaking in English is a fucking disability.
 
 **Making a good impression**
 
-People who speak in English well  always makes a good impression.
+People who speak in English well always makes a good impression.
 
 If you speak in English, people see you as educated, intelligent, refined, a person of class and substance.
 
@@ -168,9 +168,9 @@ Unless you’re already rich and successful then this part doesn’t matter.
 
 Before working in a Call Center I worked in the mall.
 
-Other than the manager, I’m the only person in a team of twenty four sales people who can speak in English. 
+Other than the manager, I’m the only person in a team of twenty-four salespeople who can speak in English. 
 
-Whenever the customer is foreigner or an English speaking rich folk, everybody called me.
+Whenever the customer is a foreigner or an English speaking rich folk, everybody called me.
 
 They say they are, in their exact words “nose-bleed” and I should talk to the customer. They give me half their commission and the client goes with me.
 
@@ -178,7 +178,7 @@ In a lot of these jobs, customers see me as the boss because my English is good.
 
 It’s just English but it’s a big advantage.
 
-Even if you choose a non call center job English will give you an edge over the lazy folk who didn’t study.
+Even if you choose a non-call center job English will give you an edge over the lazy folk who didn’t study.
 
 **Getting promoted at work**
 
@@ -194,7 +194,7 @@ The thing is, because I spoke in English, the customers wants to talk to me inst
 
 This happened multiple times. 
 
-As a result she was afraid because management might change their mind and conclude that her promotion was undeserved and that I am more qualified and will take her job.
+As a result, she was afraid because management might change their mind and conclude that her promotion was undeserved and that I am more qualified and will take her job.
 
 To prevent that, every time a client calls and looks for me she tells them that I’m out of the office and will take the message on my behalf. 
 
@@ -218,14 +218,14 @@ It the business circle it’s okay to speak in Tagalog if you are speaking with 
 
 If you are talking to an employee English is expected among managers.
 
-In the professional circle English is the preferred language.
+In the professional circle, English is the preferred language.
 
 So if you would like to learn from higher performer you need to learn English.
 
 The solution is getting educated. 
 
 > ”Formal education helps you get a living.  
-> Self education helps you make a fortune”  
+> Self-education helps you make a fortune”  
 > - Jim Rohn
 
 Here are two ways that I use to educate myself.
@@ -242,6 +242,6 @@ Smart friends are the short cut to learning faster.
 
 When you read and practice what you learned you can get better. 
 
-I created this website to provide a collection of free self study lessons.
+I created this website to provide a collection of free self-study lessons.
 
 I also offer paid training and books if you need extra help. 

@@ -5,21 +5,21 @@ date: 2017-04-09 17:40
 author: Kevin Olega 
 --- 
 
-Lifehacker is one of the blogs that permanrently changed my life.
+Lifehacker is one of the blogs that permanently changed my life.
 
 I found it when I was looking for tips on how to organize my desk.
 
-I read it for tools and tips on how to save time and how to be an all around awesome person.
+I read it for tools and tips on how to save time and how to be an all-around awesome person.
 
-Fiver of the most awesome people I have met in my life are regular lifehacker readers.
+Fiver of the most awesome people I have met in my life are regular Lifehacker readers.
 
 There are a lot of tips that will save you time and money and at the same time allow you to earn more money this year and instead of writing it all I decided to just put the links here.
 
 You go read them yourself and let me know what worked for you.
 
-I've been reading lifehacker since 2009 and over time, I had read a lot of the job hunting posts.
+I've been reading Lifehacker since 2009 and over time, I had read a lot of the job hunting posts.
 
-If you do happen to read all the posts of Lifehacker and become a regular lifehacker reader, send me a message because I want you in my life. 
+If you do happen to read all the posts of Lifehacker and become a regular Lifehacker reader, send me a message because I want you in my life. 
 
 Lifehacker will make you a better person. I replaced watching the news, gossiping with my coworkers and spending hours on facebook with reading Lifehacker.
 
@@ -37,7 +37,7 @@ Here are some of my favorites.
 
 [Practice Job Assessment Tests to Boost Your Career and Job Search](http://lifehacker.com/practice-job-assessment-tests-to-boost-your-career-and-1719518278) 
 
-[Five Job Search Myths That Might be Holding You Back](http://lifehacker.com/five-job-search-myths-that-might-be-holding-you-back-1718227317) 
+[Five Job Search Myths That Might Be Holding You Back](http://lifehacker.com/five-job-search-myths-that-might-be-holding-you-back-1718227317) 
 
 [The Top 5 Job Skills Employers Are Looking For](http://lifehacker.com/the-top-5-job-skills-employers-are-looking-for-1718019990) 
 

@@ -13,15 +13,15 @@ To prepare you for the call simulation screening we need to prepare you so you n
 
 Here are some rules that we follow during a call. 
 
-**Never panic**. You learn to do this by being familiar with the situation. You become familiar with the situation by study and experience. In my case I failed a few times until I understood common patterns. 
+**Never panic**. You learn to do this by being familiar with the situation. You become familiar with the situation by study and experience. In my case, I failed a few times until I understood common patterns. 
 
 **Never get angry**. The customer is probably having the worst day of his or her life and only you can fix the problem. The customer is not angry at you. The customer is in pain. Your job is to fix it. Also if the customer loses control and say words that you find offensive, you need to remember that people unintentionally hurt other people when they are in pain.
 
-**Use positive phrasing**. Instead of saying "your package will be delayed by four days." the more positive way to phrase it is "In four days you'll get to enjoy your package" The glass is half full not empty. You need to master this because positively phrasing things will allow you to communicate your message without being interrupted by negative emotions. You can learn this. I'm giving you instructions you you can do this yourself. Is a lot better than. You suck. 
+**Use positive phrasing**. Instead of saying "your package will be delayed by four days." the more positive way to phrase it is "In four days you'll get to enjoy your package" The glass is half full not empty. You need to master this because positively phrasing things will allow you to communicate your message without being interrupted by negative emotions. You can learn this. I'm giving you instructions you can do this yourself. Is a lot better than. You suck. 
 
 I make it a practice of taking note of situations when customers become angry and what words I used and after the call I spend some time often on the commute home to ask myself how I can say the potentially bad news or offensive statement better. Always ask yourself the question "How can I say this better?"
 
-**Use simple words**. College English with five syllable words that nobody but intellectual snobs use anyone? No thanks. Use the simplest words that you can. Keep your language appropriate. Grade two English will get you further than complicated and flowery words. 
+**Use simple words**. College English with five-syllable words that nobody but intellectual snobs use anyone? No thanks. Use the simplest words that you can. Keep your language appropriate. Grade two English will get you further than complicated and flowery words. 
 
 **Say it with a smile**. Your smile can be heard over the phone. It makes the pace and mood of the call more positive and you sound better. Try it then do it all the time. 
 
@@ -29,7 +29,7 @@ I make it a practice of taking note of situations when customers become angry an
 
 **You need to be heard and understood**. Inhale before you speak and increase the volume louder than you're used to especially if you're a shy person like me. 
 
-**Avoid dead air**. While waiting for things to load provide the customer with important information about the process or procedures and / or build rapport. 
+**Avoid dead air**. While waiting for things to load provide the customer with important information about the process or procedures and/or build rapport. 
 
 **Build rapport.** Talk about other things. How is your day going so far? How do you use the service or product? Ask them questions. 
 
@@ -40,13 +40,13 @@ I make it a practice of taking note of situations when customers become angry an
 Now here are some parts of a typical inbound customer service call and tech support call. Once you are familiar with the parts you will be familiar how to do it properly and eventually do it well all the time. Once you have that done you can pass this test all the time. 
 
 
-**Introduction**.  Thank you for calling (possibly or if needed insert company name) . My name is Kevin. How can I help you? 
+**Introduction**.  Thank you for calling (possibly or if needed insert company name). My name is Kevin. How can I help you? 
 
 **Acknowledge**. Okay. I see. Let the customer know that you hear them. 
 
-**Clarify**. So you calling regarding… Rephrase the situation or the customer concern. Just to make sure I understand the situation correctly. Rephrase the situation. You may further clarify by asking did I get that correctly? 
+**Clarify**. So you calling regarding… Rephrase the situation or a customer concern. Just to make sure I understand the situation correctly. Rephrase the situation. You may further clarify by asking did I get that correctly? 
 
-**Probe**. Can you tell me more about your. Insert issue or problem you are experiencing. When you probe, ask questions that will make you understand the situation more. Tell me more about what happened. 
+**Probe**. Can you tell me more about you. Insert issue or problem you are experiencing. When you probe, ask questions that will make you understand the situation more. Tell me more about what happened. 
 
 **Apologize**. I'm sorry to hear about that. I'm sorry you are encountering some issues with your service. I'm sorry for the specific experience you are encountering. I apologize for (specific issue). The more specific you are, the more sincere you are perceived. 
   
@@ -56,19 +56,19 @@ Now here are some parts of a typical inbound customer service call and tech supp
 
 **Verify the customer**. May I have your name address last four digits of your social please. Just to make sure I have the right account may I have your insert required information. 
 
-**Hold procedure**. May I place you on hold for two minutes? I just need to double check some information related to (their specific question). I’ll be right back. 
+**Hold procedure**. May I place you on hold for two minutes? I just need to double-check some information related to (their specific question). I’ll be right back. 
 
 **Thank the customer for complying**. If they give you their address or agree to wait on hold thank them. 
 
 **Solve the issue**. Provide the information or instructions needed or transfer the customer to the right department. 
 
-**Transfer procedure**. To best assist you  I'll transfer your call (eventually I used the words get you some help instead of transfer your call) to specific department. They will be able to assist you with your specific concern. Please stay on the line I'll transfer your call now. 
+**Transfer procedure**. To best assist you , I'll transfer your call (eventually I used the words get you some help instead of transfer your call) to specific department. They will be able to assist you with your specific concern. Please stay on the line I'll transfer your call now. 
 
 **Summarize**. I'll just place some notes on the account. You called today about specific concern. We did specific action and your concern is now addressed. Or fixed. 
 
 **Provide additional assistance**. Would there be anything else that I can assist you with? Or do you have any other questions that I can answer for you? 
 
-**Personalize**. Use the customers name . It's Mr. Smith or Ms. Smith. Or their first name if they tell you that you can call them by their first name. Don't use ma'am or sir.  It's a Filipino thing. Americans go by names. It affects your confidence negatively. It puts you in an interior position. Your job is to assist them as an equal and not pretend to be lower than them. Using sir and ma'am tells them that you didn't bother to remember their name when they told you the first time. Using sir and ma'am is only allowed if the customer has a name that sounds like a curse word. 
+**Personalize**. Use the customer's name . It's Mr. Smith or Ms. Smith. Or they're first name if they tell you that you can call them by their first name. Don't use ma'am or sir.  It's a Filipino thing. Americans go by names. It affects your confidence negatively. It puts you in an interior position. Your job is to assist them as an equal and not pretend to be lower than them. Using sir and ma'am tells them that you didn't bother to remember their name when they told you the first time. Using sir and ma'am is only allowed if the customer has a name that sounds like a curse word. 
 
 **Closing spiel**. Thank you for calling (insert company name). 
 

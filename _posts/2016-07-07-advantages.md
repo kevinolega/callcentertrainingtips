@@ -42,7 +42,7 @@ Buying books enable you to multiply your money.
 
 An email address is the best way to contact people. 
 
-Create one on gmail and email people and stay in touch. 
+Create one on Gmail and email people and stay in touch. 
 
 It's better than social medial. 
 
@@ -50,7 +50,7 @@ It's better than social medial.
 
 A website enables you to teach what you learned. 
 
-If you learned one thing a week and post it on your website you have fifty two lessons that year. 
+If you learned one thing a week and post it on your website you have fifty-two lessons that year. 
 
 That's a lot of wisdom you can share with people you admire. 
 
@@ -104,13 +104,13 @@ Get their attention by paying for their work.
 
 **8. Technology**. 
 
-I invested in an iPhone and and Android Phone and a Laptop. 
+I invested in an iPhone and Android Phone and a Laptop. 
 
 I read books, listen to podcast, download courses, YouTube guides. 
 
 My tech is my mobile school. 
 
-It doesn't give me a certificate, but it gives me know how. 
+It doesn't give me a certificate, but it gives me know-how. 
 
 Filipinos are retarded with technology. 
 
@@ -124,7 +124,7 @@ Each job helps me gain confidence.
 
 A CEO or Manager trusted me enough to pay me to do work. 
 
-At the same time I learn skills that are useful for many different businesses.
+At the same time, I learn skills that are useful for many different businesses.
 
 Take care of your job and the skills that you learn will take care of you. 
 
@@ -136,7 +136,7 @@ I like stories that will encourage me to move forward, even if it doesn't look g
 
 I'd rather find a way than just give up. 
 
-Myths, are simplified ways of explaining things. 
+Myths are simplified ways of explaining things. 
 
 It's a story of a struggle and how to overcome it with faith and action. 
 

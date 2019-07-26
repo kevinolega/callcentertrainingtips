@@ -41,7 +41,7 @@ Here are some examples:
 - Work from home.
 - Make money online.
 
-Without goals your direction isn't steady.
+Without goals, your direction isn't steady.
 
 So every year. I write down things that I want to happen. These are my long term goals.
 
@@ -62,8 +62,8 @@ I also set goals for six months and three months and track my progress regularly
 Some lessons I've learned doing this for more than ten years.
 - 85% of all the goals you write down will become reality.
 - You need to read your goals regularly.
-- When you know the goal it's easier to setup a plan.
-- Goals that involve having usually involve buying something are usually expensive. (Car, house, gadgets)
+- When you know the goal it's easier to set up a plan.
+- Goals that involve having usually involved buying something are usually expensive. (Car, house, gadgets)
 - Goals that involve doing (activities) usually makes you happier and cost less money. (Travel, Activities, Etc)
 - Goals that involve being or becoming the person you want to be costs a little amount of money and sometimes free. (Lessons, books, etc)
 
@@ -71,7 +71,7 @@ Here's a template of how I write down my goals.
 
 ### Short term
 
-On your short term goals one month, three month six months
+On your short term goals one month, three months, six months
 Write down
 
 ** Have - What do you want to have?**

@@ -62,7 +62,7 @@ So it is important to remember that you need to ask a lot of questions during th
 
 Call center work will put you into a situation where you are talking to a customer and you don't know the answer to the question. 
 
-On the job, you'll either need to double check with the operations manual, review the account, do a quick Google search, ask a supervisor what to do next or think of an answer yourself. 
+On the job, you'll either need to double-check with the operations manual, review the account, do a quick Google search, ask a supervisor what to do next or think of an answer yourself. 
 
 If you're trying to get hired in a call center, you will be asked questions that will put you in a situation that you don't know the answer to.
 
@@ -72,12 +72,12 @@ This part is simple to learn.
 
 Some questions make a little more sense.
 - Sell me this pen
-- How would you sell ice to an eskimo
+- How would you sell ice to an Eskimo
 - How would you describe the color red to a blind person
 - How many batteries are there in the Philippines
 - Describe the Philippines
 
-These questions are designed to test your sales skills, your descriptive skills and your problem solving skills.
+These questions are designed to test your sales skills, your descriptive skills and your problem-solving skills.
 
 ### How to Solve Problems in Call Center Inteviews
 
@@ -94,13 +94,13 @@ Some problems are complicated and require paper.
 
 Feel free to do so.
 
-### How to answer sales related call center interview questions.
+### How to answer sales-related call center interview questions.
 
-Sales is a problem solving exercise. 
+Sales is a problem-solving exercise. 
 
-The process to selling successfully is similar with the steps highlighted in the problem solving section.
+The process to selling successfully is similar with the steps highlighted in the problem-solving section.
 
-Here's how to answer sales related call center inteview questions.
+Here's how to answer sales-related call center interview questions.
 
 1. Who is the buyer? 
 2. What are you selling?
@@ -120,7 +120,7 @@ All you need to remember is that you need to understand who the buyer is and wha
 1. You need to listen to the question.
 2. You need to confirm that you understand the question.
 3. You need to tell them that you need to think of an answer to the question.
-4. You need to think about the possible answers to the quetion.
+4. You need to think about the possible answers to the question.
 5. You need to select the best answer to the question.
 6. You need to answer the question with an introduction, the answer and the conclusion.
 
@@ -129,7 +129,7 @@ All you need to remember is that you need to understand who the buyer is and wha
 
 What do you like about cars?
 
-Here are some factors to consder about cars:
+Here are some factors to consider about cars:
 - Fast
 - Powerful
 - Comfortable 

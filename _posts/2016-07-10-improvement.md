@@ -27,7 +27,7 @@ A partner challenges you to be better. [Watch this video](https://www.youtube.co
 
 Education doesn't stop after high school or college. 
 
-A high school graduate who continues to learn and improve will surpass a college student who stoped studying in less than five years.**
+A high school graduate who continues to learn and improve will surpass a college student who stopped studying in less than five years.**
 
 **3. Don't take learning seriously.** 
 
@@ -47,7 +47,7 @@ Review your notes regularly.
 
 Learn from a lot of smart people. 
 
-At the end of six months your notebook should have thoughts of a lot of smart people. 
+At the end of six months, your notebook should have thoughts of a lot of smart people. 
 
 **5. Use the recorder and listen to yourself talk.** 
 
@@ -75,7 +75,7 @@ Here are some examples based on my experience:
 
 Some books taught me how to get jobs(20k a month, 45k a month and work from anywhere). 
 
-Some books taught me how to get good at jobs (top agent 3k worth of freeebies, consistent incentive awardee 6k a month for three years is 206k, 100k a month selling real estate).
+Some books taught me how to get good at jobs (top agent 3k worth of freebies, consistent incentive awardee 6k a month for three years is 206k, 100k a month selling real estate).
 
 Some books taught me skills so I don't have to spend on some things (how to cook 6k a month, how to draw 5k a month, how to take care of websites 10k a month.
 
@@ -84,7 +84,7 @@ Some books taught me how to save and invest money (60k to 100k a year).
 
 **8. Pay for a class or tutor.** 
 
-Key word is pay because you get what you pay for. 
+Keyword is pay because you get what you pay for. 
 
 It gives you access to an expert, a partner and a lesson, all in one.**
 

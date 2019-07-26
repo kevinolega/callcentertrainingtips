@@ -68,7 +68,7 @@ Think about simple changes and small improvements can make your life better over
 - If you keep your items below 150 things you will experience more freedom in your life.
 - If you work on your skills and become genuinely skillful you can get more opportunities and make more money than a college grad at a nice school who doesn't know shit.
 - If you practice eating once a day and remove rice, carbs and sugar from your diet you can get the body that you want.
-- If you go to the gym you're automatically have advantages in intelligence, focus and energy over people who don't go to the gym.
+- If you go to the gym you automatically have advantages in intelligence, focus and energy over people who don't go to the gym.
 - I can go on and on.
 
 ### So here's a summary:

@@ -94,7 +94,7 @@ That’s actually a test.
 
 If you say no I don’t have any questions then you’re guaranteed to fail. 
 
-In fact at the beginning, you are being tested about asking questions. 
+In fact, at the beginning, you are being tested about asking questions. 
 
 Your interviewer is secretly noting how many times you ask questions. 
 
@@ -111,7 +111,7 @@ Did you notice any English errors that I made? What do I need to improve on?
 **5. Expound on you answer**
 Practice answering the question why. 
 
-People don’t always understand one word answers. 
+People don’t always understand one-word answers. 
 
 It’s your job to explain well.
 
@@ -265,7 +265,7 @@ Read my website. Read the website of other smart people.
 
 Watch people who are good at what they’re doing and copy them.
 
-I didn’t finish college buy I’m more competent than my batchmates who finished college because I continued studying after I started working.
+I didn’t finish college but I’m more competent than my batchmates who finished college because I continued studying after I started working.
 
 The average college graduate has fourteen years of education. 
 
@@ -321,9 +321,9 @@ Stop drinking alcohol or smoking.
 
 Stop lying to people.
 
-Stop staying too long on facebook.
+Stop staying too long on Facebook.
 
-**20.Don’t lend anyone money in the call center**
+**20. Don’t lend anyone money in the call center**
 
 If someone approaches you to borrow money avoid them. 
 
@@ -353,7 +353,7 @@ How much money you have determines how smart you are.
 
 Money is power. 
 
-If you don’t have money, you you can be put into a position that you’re forced to do something you don’t want to do. Not having money leaves you with less options. 
+If you don’t have money, you can be put into a position that you’re forced to do something you don’t want to do. Not having money leaves you with fewer options. 
 
 Imagine a job offer that pays double but you need to spend and buy a computer but because you don’t have money, the job goes to your best friend. 
 
@@ -379,13 +379,13 @@ So it’s not really worth it.
 
 These days I only pay full price. 
 
-A few weeks ago I bought a cheap second hand iPhone. 
+A few weeks ago I bought a cheap second-hand iPhone. 
 
 Turns out the iPhone is broken so the person who sold it to me got away with the money. 
 
 Time is more valuable than money. 
 
-In my stupidity I took the phone to the repair shop four times to see if I could make it work. 
+In my stupidity, I took the phone to the repair shop four times to see if I could make it work. 
 
 It didn’t. 
 
@@ -429,7 +429,7 @@ Team Lead gets paid 24-30k
 - Basic office apps like excel and reporting tools.
 - Interpersonal and Leadership skills
 
-Entrepreneur gets paid depends on how good you and your team are.
+An entrepreneur gets paid depends on how good you and your team are.
 
 - Communication skills
 - Sales and customer service skills
@@ -490,7 +490,7 @@ Nobody deserves your unquestioning loyalty.
 
 **30. Build relationships with people who can help you**
 
-There’s no such thing as self made millionaire. 
+There’s no such thing as self-made millionaire. 
 
 We get our talents, money, clients from somewhere. 
 
@@ -506,7 +506,7 @@ So I copied her power and eventually got the same results.
 
 Be thankful for what you have. 
 
-Start the day with recognize what you’re thankful for. 
+Start the day with recognizing what you’re thankful for. 
 
 Count your blessings.
 
@@ -516,4 +516,4 @@ I'm thankful I turned 31.
 
 That's why I'm doing this. 
 
-As a form of giving back for everything I have received.
+As a form of giving back for everything, I have received.

@@ -6,9 +6,9 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-For a lot of people there are two states in life. 
+For a lot of people, there are two states in life. 
 
-You have “Success” and you have “non success.” 
+You have “Success” and you have “non-success.” 
 
 So you set a goal, you work on the goal, you succeed. 
 
@@ -26,7 +26,7 @@ What you need to identify is where?
 
 The better questions is at what milestone did you fail? 
 
-Here are examples of mile stones in job hunting:
+Here are examples of milestones in job hunting:
 
 **1. Online application**. 
 
@@ -50,7 +50,7 @@ I usually go to the first interviews so I can use them for practice.
 
 The first interaction with the company. 
 
-If you pass, you get invited to the next step, which is usually an in person interview. 
+If you pass, you get invited to the next step, which is usually an in-person interview. 
 
 If you fail you need to consider the following factors. 
 
@@ -66,7 +66,7 @@ Do you talk confidently?
 
 Were you able to communicate your strengths?
 
-**3. In person interviews**. 
+**3. In-person interviews**. 
 
 This is where they will evaluate your communication skills, confidence, first impressions when it comes to your professionalism, and if you make a good employee. 
 
@@ -129,7 +129,7 @@ This is where the negotiations and the final decision often happens.
 
 Often, final interview questions are related to confirming how well you are a job fit:
 
-- Are you okay working weekends, shifting schedules, holidays, night-shift, graveyard shift etc?
+- Are you okay working weekends, shifting schedules, holidays, night-shift, graveyard shift , etc?
 - Are you confident you will report to work on time all the time?
 - Are you committed to work on improving your English even further?
 - Are you committed to do your best at the job?

@@ -7,7 +7,7 @@ author: Kevin Olega
 --- 
 
 
-Just in case nag aantay ka parin ng final interview mo.
+Just in case nag aantay ka pa rin ng final interview mo.
 
 Konti lang companies na nagpapaantay ng final interview. 
 
