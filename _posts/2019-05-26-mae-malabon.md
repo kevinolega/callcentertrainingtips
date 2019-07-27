@@ -139,3 +139,5 @@ Eventually,  after a year I became top agent for sales, using half the things I 
 Mostly that you can have a shit situation but if you use your brain a little, even if you aren’t very intelligent, you can do well at work and make your life better.
 
 I wrote this lesson to honor her and also to inspire you.
+
+![IMAGE TEXT]({{ site.url }}/images/Mae.jpg).
