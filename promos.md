@@ -16,27 +16,43 @@ Training materials and lessons are available for free on the website.
 
 [SIGN UP HERE FREE EMAIL TRAINING](http://eepurl.com/riFT1)
 
+If you want to support me and you would like more direct and active personal assistance here are more options,
+
 ---
 
-## Paid Lessons
+## Special Lessons
 
-If you want to support me and you would like more direct and active personal assistance.
+This page is part of my community service.
 
-The support that I get helps me pay for the expenses of running the site and the salary of the team.
+So I give lessons on FB, the website (main), YouTube (new) and send activities via email for free.
 
-I do all the training myself.
+I also offer coaching for Php 250.
 
-Joining the paid training program starts a formal relationship with me and this will allow me to notify you of career and personal development opportunities so you can INCREASE YOUR INCOME, and BUILD YOUR DREAM LIFE.
+When you avail the 250, you get an extra set of training materials and three phone sessions with me.
 
-I'm offering this special deal.
+My focus is interview preparation for call center work. 
 
-### LESSONS FOR CALL CENTER APPLICANTS
+We'll be correcting your mistakes and I'll guide you until you get hired. 
 
-**Php 250 (one time) for non-call center agents.**
+This is my community service so I'm only charging a small amount because it helps cover the expenses of maintaining my website and production cost of training materials and the salary of my team.
 
-You'll get three sessions with me on the phone.
+And you are under no obligation to buy if you're not interested.
 
-Learn job application specific personal development lessons and training materials.
+I'm just informing you that the option to pay and get extra time from me is available.
+
+I'm still going to send you free lessons.
+
+I'm still going to answer emails and chat questions when I'm logged in.
+
+And I'm still going to post lessons on the website and the page.
+
+If you want to avail the coaching, payment is by bank deposit and sessions are done on the phone so I'll need your number. Globe and landline is good. Or Skype if you have fast internet.
+
+[CLICK HERE TO GET SPECIAL LESSONS](https://callcentertrainingtips.com/schedule)
+
+**Php 250 (one time) for non-call center agents.** These are lessons for call center applicants.
+
+Lessons include:
 
 - Call Center Basics
 - Computer Skills for BPO workers
@@ -44,9 +60,13 @@ Learn job application specific personal development lessons and training materia
 - Basic Professional Skills
 - Winning Job Application Techniques
 
-### LESSONS FOR EMPLOYED CALL CENTER AGENTS
+---
 
-**Php 500/month for call center agents**.
+# LESSONS FOR EMPLOYED CALL CENTER AGENTS
+
+Joining a paid training program starts a formal relationship with me and this will allow me to notify you of career and personal development opportunities so you can INCREASE YOUR INCOME, and BUILD YOUR DREAM LIFE.
+
+I'm offering this special deal.
 
 You'll get a weekly session with me on the phone. 
 
@@ -54,15 +74,14 @@ FOUR TIMES A MONTH.
 
 You'll get lessons on how to build your confidence and professional skills so you can get regularized, INCREASE your call center INCOME, become a TOP PERFORMER, and achieve your personal goals.
 
-Payments are made by bank deposit.
-
-Let me know if you have any questions.
-
 Thanks.
 
 Kevin
 
 [My lessons have helped hundreds of Filipinos get hired in a call center. CLICK HERE TO SEE ALL THE FILIPINOS I HAVE HELPED](https://callcentertrainingtips.com/testimonials).
+
+
+**Php 500/month for call center agents**.
 
 ---
 
