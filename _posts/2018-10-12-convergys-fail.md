@@ -79,7 +79,13 @@ Next interview was the final, can I really do the work, what is my personal defi
 
 Apparently, I passed the final interview.
 
-The other 
+The other chick got eliminated.
+
+She told me later that she blacked out at one of the questions.
+
+I don't even remember the question.
+
+But I'm really happy at that moment.
 
 I'm being scheduled for a job offer. 
 
