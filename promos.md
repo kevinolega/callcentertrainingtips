@@ -4,7 +4,9 @@ title: TRAINING OFFERS
 description: These are our current call center training offers. 
 permalink: /promos/
 ---
-[My lessons already helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
+I have nothing to prove.
+
+My lessons already helped [hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
 ## Free Lessons
 
@@ -12,11 +14,13 @@ You'll receive the lessons and training materials for free on your email.
 
 I answer questions on chat and email as you self-study.
 
+Please be patient and polite as I get hundreds of messages a week from other people asking for help.
+
 Training materials and lessons are available for free on the website.
 
 [SIGN UP HERE FREE EMAIL TRAINING](http://eepurl.com/riFT1)
 
-If you want to support me and you would like more direct and active personal assistance here are more options,
+If you want to support me and you would like more direct and active personal assistance here are more options...
 
 ---
 
@@ -38,7 +42,7 @@ This is my community service so I'm only charging a small amount because it help
 
 And you are under no obligation to buy if you're not interested.
 
-I'm just informing you that the option to pay and get extra time from me is available.
+I'm just informing you that the option to pay and get extra time and dedicated help from me is available.
 
 I'm still going to send you free lessons.
 
@@ -46,7 +50,15 @@ I'm still going to answer emails and chat questions when I'm logged in.
 
 And I'm still going to post lessons on the website and the page.
 
+[Click here if you still want to go after your dreams solo](http://callcentertrainingtips.com/team).
+
 If you want to avail the coaching, payment is by bank deposit and sessions are done on the phone so I'll need your number. Globe and landline is good. Or Skype if you have fast internet.
+
+GUARANTEE:
+
+We will become a real team and I will teach you my secrets on how to pass interviews and you can get that sweet sweet call center money.
+
+The questions is are you only interested in making 30,000/month or are you committed to becoming the best version of yourself and earning what you are worth?
 
 [CLICK HERE TO GET SPECIAL LESSONS](https://callcentertrainingtips.com/schedule)
 
