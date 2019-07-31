@@ -145,7 +145,7 @@ I have passed dozens of call center interviews.
 
 I worked in a Call Center Training School.
 
-And I personally helped people get hire in a call center.
+And I personally helped people get hired in a call center.
 
 I worked in sales and made six figure income.
 
