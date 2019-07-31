@@ -1,9 +1,9 @@
---- 
-layout: page 
+---
+layout: page
 title: Training Offer
-permalink: /offer/ 
-author: Kevin Olega 
---- 
+permalink: /offer/
+author: Kevin Olega
+---
 Most people give up on their dream jobs... 
 
 Not realizing how CLOSE they are to SUCCESS.
@@ -45,6 +45,8 @@ You might only need to memorize 50 sentences to pass a Call Center Interview.
 You probably need only 100 sentences to get Regularized in a Call Center.
 
 ## I CAN HELP YOU.
+
+My lessons already helped [hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
 This page is part of my community service.
 
