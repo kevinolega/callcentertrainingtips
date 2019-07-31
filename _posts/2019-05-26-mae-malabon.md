@@ -140,4 +140,4 @@ Mostly that you can have a shit situation but if you use your brain a little, ev
 
 I wrote this lesson to honor her and also to inspire you.
 
-![IMAGE TEXT]({{ site.url }}/images/Mae.jpg).
+And because she owes me money.
