@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: How to Overcome Center Interview Fear 
+title: How to Overcome Call Center Interview Fear 
 date: 2019-07-31 01:08
 Tags: [ uncategorized, blog ]
 permalink: /escape-fear/ 
