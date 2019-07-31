@@ -1,5 +1,5 @@
 --- 
-layout: Page 
+layout: page 
 title: Training Offer
 permalink: /offer/ 
 author: Kevin Olega 
