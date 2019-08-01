@@ -25,14 +25,20 @@ Buy a notebook and a nice pen.
 
 Write down two to three lines of lessons a day, every day.
 
-**Consider this.** If you write two or three lessons a day, in a month you have 60 to 90 lessons to consider. If you are consistent, in a year you have anywhere between 720 and 1,080 lessons to study.
+**Consider this.** 
+
+If you write two or three lessons a day, in a month you have 60 to 90 lessons to consider. 
+
+If you are consistent, in a year you have anywhere between 720 and 1,080 lessons to study.
 
 If you do this everyday and do five instead of the minimum 2-3 you'll fill your notebook in six months.
 
 
 #### Step 3: 
 
-Review your notes. Writing things down helps you remember but reading enables you to continue learning.
+Review your notes. 
+
+Writing things down helps you remember but reading enables you to continue learning.
 
 ### Can't think of what to write?
 
@@ -59,8 +65,6 @@ Think about simple changes and small improvements can make your life better over
 - It's your job to educate yourself.
 - You are 100% responsible for how much money you have in your wallet.
 - Your results are caused by a combination of all your decisions in the past few years.
-
-
 
 
 ### Here are examples of crazy experiments I wrote down and tried out:

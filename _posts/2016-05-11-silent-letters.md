@@ -6,7 +6,19 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-Here are commonly used words with silent letters for your reference. There's no easy way to learn it other than being familiar with how it's pronounced. Familiarity is a result of repetition and over time you'll intuitively know which one has silent letters. Reading through the list I found out that I've been mispronouncing some words and its embarrassing to discover that it's a word I use often. Just read each one aloud. When my time frees up I'll produce an audio so you can listen to the pronunciation. For now, just practice on your own.
+Here are commonly used words with silent letters for your reference. 
+
+There's no easy way to learn it other than being familiar with how it's pronounced. 
+
+Familiarity is a result of repetition and over time you'll intuitively know which one has silent letters. 
+
+Reading through the list I found out that I've been mispronouncing some words and its embarrassing to discover that it's a word I use often. 
+
+Just read each one aloud. 
+
+When my time frees up I'll produce an audio so you can listen to the pronunciation. 
+
+For now, just practice on your own.
 
 ### Words with silent B:
 
@@ -146,4 +158,10 @@ In case you're wondering the word I often mispronounce is **"almond"** and **"sa
 4.  Write down what you're saying wrong and make corrections.
 5.  Be patient and eventually you'll get it right all the time just like I do.
 
-As I've said, I plan to create an audio for this. If I forget, send me an email to call center training tips at Gmail do com. Praying for your success. God bless and take care.
+As I've said, I plan to create an audio for this. 
+
+If I forget, send me an email to call center training tips at Gmail do com. 
+
+Praying for your success. 
+
+God bless and take care.

@@ -12,7 +12,9 @@ What can I do to improve my life?
 
 Who can I learn from?
 
-Are there people who succeeded at this challenge that I'm going through? What can I learn from them?
+Are there people who succeeded at this challenge that I'm going through? 
+
+What can I learn from them?
 
 What skills do I need to learn to qualify for my dream job?
 
@@ -28,6 +30,8 @@ What are the lessons that I have learned? What can I use more often?
 
 What habits do I need to gain so I can be better at what I'm trying to do?
 
-What mistakes am I making? What should I do instead?
+What mistakes am I making? 
+
+What should I do instead?
 
 What questions should I be asking to improve my life?

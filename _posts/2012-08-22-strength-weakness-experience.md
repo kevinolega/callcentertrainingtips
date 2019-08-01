@@ -21,11 +21,15 @@ I recommend writing your top ten accomplishments and/or things you’re proud of
 
 I enjoy talking about new strengths because I can tell a story about how it was previously a weakness and how I overcome it. 
 
-In a call center interview, when asked, what are your strengths? I recommend answering in terms of what’s related to the job you’re applying for. 
+In a call center interview, when asked, what are your strengths? 
+
+I recommend answering in terms of what’s related to the job you’re applying for. 
 
 When you answer this question do not recite a list, share some information on why and how it became your strength. 
 
-(There isn’t really a right answer to this question. The interviewer is checking your conversational skills and also watching for grammar and pronunciation mistakes.)
+(There isn’t really a right answer to this question. 
+
+The interviewer is checking your conversational skills and also watching for grammar and pronunciation mistakes.)
 
 ### Here are some call center application-related answers I used for what my strengths:
 
@@ -39,11 +43,15 @@ I often wake up really late because I stayed up all night, I figured I’d do re
 
 For as far as I can remember, I’m the only person people went to if they need help with their computer. 
 
-If they need an explanation on how things worked or to get their computer fixed without going to a computer repair shop and paying. I figure I’d be a good match for that work. 
+If they need an explanation on how things worked or to get their computer fixed without going to a computer repair shop and paying. 
+
+I figure I’d be a good match for that work. 
 
 (If you're applying for tech support) 
 
-I learn a lot talking to different kinds of people. I really enjoy talking to people from other countries. 
+I learn a lot talking to different kinds of people. 
+
+I really enjoy talking to people from other countries. 
 
 I figure, there’s a lot of opportunity for that for me here since I’ll be taking calls from abroad here. 
 

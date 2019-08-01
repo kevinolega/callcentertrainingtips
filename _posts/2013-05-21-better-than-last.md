@@ -14,11 +14,15 @@ This is a really short lesson about attitude in your activities.
 
 I get a lot of messages lately about people who approach their job application that they want to get hired but somehow give off the message that it would be a waste if they apply and fail or practice and fail or do something and fail. 
 
-That's a bad way to approach things. So here's my advice on the topic.
+That's a bad way to approach things. 
+
+So here's my advice on the topic.
 
 Always think of any activity as a learning experience and an opportunity to get better.
 
-If you take on a task with an attitude thinking "It would be a waste if the results are not favorable." then you already wasted an opportunity to learn and get better or you will just waste time because you are bringing a crappy attitude to the table.
+If you take on a task with an attitude thinking "It would be a waste if the results are not favorable." 
+
+then you already wasted an opportunity to learn and get better or you will just waste time because you are bringing a crappy attitude to the table.
 
 Be interested in what you are pursuing and take action.
 

@@ -163,7 +163,9 @@ Always provide a solution to a problem.
 
 Your job whether they’re hiring you for customer service, tech support or sales is to provide solutions to a problem. 
 
-Practice working on solutions to your weaknesses. Write it down so you can explain it better.
+Practice working on solutions to your weaknesses. 
+
+Write it down so you can explain it better.
 
 ## Why you want to work in a call center?
 
@@ -177,13 +179,17 @@ I don’t mind working night shift or weekends or holidays.
 
 I enjoy talking to people over the phone. 
 
-I enjoy talking to foreigners and learning more about their culture (never say to improve your communication skills. If you do I’ll hunt you down and torture you and kill you slowly. 
+I enjoy talking to foreigners and learning more about their culture (never say to improve your communication skills. 
+
+If you do I’ll hunt you down and torture you and kill you slowly. 
 
 Always be confident that your communication skills is good enough and is improving by the minute).
 
 ## Here are some other call center interview questions:
 
-The top questions are always asked. These questions are not asked as often but should come up if you have been applying long enough.
+The top questions are always asked. 
+
+These questions are not asked as often but should come up if you have been applying long enough.
 
 ## Why should we hire you?
 
@@ -223,7 +229,9 @@ You can tell the interviewer that because of your education, you’re already us
 
 ### If you’re a single mom
 
-In traditional Filipino corporate culture. Single moms have experience difficulty in getting hired. That's because the added responsibility of raising a child or children will distract the employee from doing her work, ask for a higher pay and going beyond to do overtime and more.
+In traditional Filipino corporate culture. Single moms have experience difficulty in getting hired. 
+
+That's because the added responsibility of raising a child or children will distract the employee from doing her work, ask for a higher pay and going beyond to do overtime and more.
 
 In the call center industry, as long as you can prove that you are capable of doing your work, responsible for your professional obligations and have solutions prepared so you can be at work all the time, never absent, never late and performing well, you can get hired in a call center.
 
@@ -233,7 +241,9 @@ Tell them that being a mom is a full-time job that requires two people and you w
 
 Being a first-time mom requires learning and adapting to a lot of life and death situations and the fact that you’re still a mom can say that if you did that successfully teaching someone a solution over the phone is no sweat for you. 
 
-Plus, taking care of a baby is mostly night shift. While you’re at it you can tell them that you’re going to get to see your little angel (or devil) more because you’ll be working at night and you’d get to play with them a bit after you wake up and he or she gets back to school.
+Plus, taking care of a baby is mostly night shift. 
+
+While you’re at it you can tell them that you’re going to get to see your little angel (or devil) more because you’ll be working at night and you’d get to play with them a bit after you wake up and he or she gets back to school.
 
 Tell them you have someone who takes care of your baby for you.
 
@@ -296,13 +306,21 @@ Because 90% of the time, the interviewer is just testing your English skills.
 
 And is just waiting for you to make a pronunciation mistake so they can say your English is bad.
 
-If I'm feeling particularly brave that day, I end my answer with this strong statement. Don't try this unless you are really confident but I love the reaction of the interviewer whenever I deliver this answer:
+If I'm feeling particularly brave that day, I end my answer with this strong statement. 
+
+Don't try this unless you are really confident but I love the reaction of the interviewer whenever I deliver this answer:
 
 You processed me for (x hours) if there’s someone better and you don’t have enough slots for the job and you’d like to take your chances on that person then by all means. 
 
 But the fact that I got this far tells me that there’s something in me that you want in a call center agent/customer service representative/salesperson/ or whatever the position is.
 
-I don’t know. I think you’re more qualified to answer that question than me. You see I don’t have experience working in a call center but I made it this far. At the moment do you see any reason why I’m not a good match?
+I don’t know. 
+
+I think you’re more qualified to answer that question than me. 
+
+You see I don’t have experience working in a call center but I made it this far. 
+
+At the moment do you see any reason why I’m not a good match?
 
 My main advice on answering interview questions is:
 
@@ -328,7 +346,9 @@ Tell them you are interested in new and exciting opportunities.
 
 Tell them that you want to experience a new environment. 
 
-Tell them that you want to expand your mind through the exposure to a different kind of people who are (young, positive, fun think of something). This works especially well when you are older.
+Tell them that you want to expand your mind through the exposure to a different kind of people who are (young, positive, fun think of something). 
+
+This works especially well when you are older.
 
 ## Why would you want to shift to a different industry?
 
@@ -338,11 +358,19 @@ It looks exciting.
 
 The pay could be better. 
 
-It might be a perfect match for me because…You can think of your own answer at this point if you read all the above examples.
+It might be a perfect match for me because…
+
+You can think of your own answer at this point if you read all the above examples.
 
 ## Where do you see yourself five years from now?
 
-Problem-solving. Check. Long term thinking. This is what this question is supposed to check.
+Problem-solving. 
+
+Check. 
+
+Long term thinking. 
+
+This is what this question is supposed to check.
 
 ## Main Reason Why Call Center Interview Questions are Difficult
 
@@ -368,13 +396,17 @@ If you do your job well and you stay for at least two years.
 
 My answer is usually along the lines of:
 
-I heard the promotion in a call center if you’re not a job hopper is quite fast. In one or two years I could be a team leader or a trainer or a QA (quality assurance). 
+I heard the promotion in a call center if you’re not a job hopper is quite fast. 
+
+In one or two years I could be a team leader or a trainer or a QA (quality assurance). 
 
 I don’t know what’s next but I’m sure I’ll aim higher when I get there. 
 
 I heard that unlike most local companies as long as I get my work done really well and I learn to lead there are opportunities for me here. 
 
-I don’t know the details about this company but that's what I understand about opportunities from reputable BPO companies. Is my expectation correct? 
+I don’t know the details about this company but that's what I understand about opportunities from reputable BPO companies. 
+
+Is my expectation correct? 
 
 Smile and wait for your interviewer’s answer. 
 
@@ -392,7 +424,11 @@ I smoke and I’m done.
 
 This was my previous answer. 
 
-I don’t really smoke anymore. So I’m thinking of a better answer. I stay positive, think of solutions and understand that thing will turn out well and I have an opportunity to make things better. 
+I don’t really smoke anymore. 
+
+So I’m thinking of a better answer. 
+
+I stay positive, think of solutions and understand that thing will turn out well and I have an opportunity to make things better. 
 
 If you think that’s too much of a Miss Universe answer. 
 
@@ -438,7 +474,9 @@ That's because a call center job involves asking questions 90% of the time.
 
 Whether you do sales, customer service or tech support all you'll be doing is asking questions. 
 
-So that's actually another test. They test your interest in the job and they test your communication skills by the number of questions you asked during the interview. 
+So that's actually another test. 
+
+They test your interest in the job and they test your communication skills by the number of questions you asked during the interview. 
 
 So if you ever got this question at the end. 
 
@@ -460,5 +498,7 @@ This is to remind you that you should be asking a lot of questions during your i
 4. Deliver with confidence and elaborate.
 5. Try to form a bond with your interviewer by asking some questions.
 
-How do you answer questions before? How will you answer questions now?
+How do you answer questions before? 
+
+How will you answer questions now?
 

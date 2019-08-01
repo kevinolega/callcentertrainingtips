@@ -13,7 +13,9 @@ permalink: complete-goals
 
 In 2004 I took a sales job and the boss forced me to write down my goals otherwise I won't get endorsed for training. 
 
-Because I didn't have a choice, I obeyed my boss. I didn't like it at first but writing my goals down changed my life.
+Because I didn't have a choice, I obeyed my boss. 
+
+I didn't like it at first but writing my goals down changed my life.
 
 About 80% of all my goals have been met.
 
@@ -43,7 +45,11 @@ Here are some examples:
 
 Without goals, your direction isn't steady.
 
-So every year. I write down things that I want to happen. These are my long term goals.
+So every year. 
+
+I write down things that I want to happen. 
+
+These are my long term goals.
 
 I also set goals for six months and three months and track my progress regularly.
 
@@ -59,7 +65,8 @@ I also set goals for six months and three months and track my progress regularly
 **Do** - What activities do you want to do?
 **Have** - What things would you like to have
 
-Some lessons I've learned doing this for more than ten years.
+## Some lessons I've learned doing this for more than ten years.
+
 - 85% of all the goals you write down will become reality.
 - You need to read your goals regularly.
 - When you know the goal it's easier to set up a plan.

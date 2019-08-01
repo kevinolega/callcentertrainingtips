@@ -6,18 +6,26 @@ author: Kevin Olega
 comments: true
 categories: [Applicant, Lessons]
 ---
-The purpose of an interview is to sell your self. Not to answer interview questions like a quiz or a beauty pageant.
+The purpose of an interview is to sell your self. 
+
+Not to answer interview questions like a quiz or a beauty pageant.
 
 Instead of memorizing answers to interview questions you need to know who you are and your advantages.
 
-Most people are dumb about who they are. Since I broke up with my girlfriend from five years ago I've dated different girls and the level of stupidity and the lack of self-awareness that I encounter is just crazy.
+Most people are dumb about who they are. 
+
+Since I broke up with my girlfriend from five years ago I've dated different girls and the level of stupidity and the lack of self-awareness that I encounter is just crazy.
 
 - Many people doesn't know how to tell me about themselves.
 - Many people can't tell stories.
 - Many people can't ask questions.
 - Many people can't even decide what they want to fucking eat.
 
-Here's the thing. Be self-aware. Ask yourself questions.
+Here's the thing. 
+
+Be self-aware. 
+
+Ask yourself questions.
 
 Who are you?
 
@@ -47,6 +55,18 @@ How do you handle a difficult job?
 
 How can you convince me to hire you?
 
-Don't be stupid about yourself. If you fail interviews maybe it's not the answers. Maybe the interviewer thinks you don't know why you're there or you don't know who you are.
+Don't be stupid about yourself. 
 
-Ask yourself these questions. Write down your answers. Are you happy with your answers? Think of a better answer. Always ask yourself, "How can I say it better?"
+If you fail interviews maybe it's not the answers. 
+
+Maybe the interviewer thinks you don't know why you're there or you don't know who you are.
+
+Ask yourself these questions. 
+
+Write down your answers. 
+
+Are you happy with your answers? 
+
+Think of a better answer. 
+
+Always ask yourself, "How can I say it better?"

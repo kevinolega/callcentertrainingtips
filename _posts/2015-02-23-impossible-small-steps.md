@@ -4,22 +4,6 @@ title: Impossible Means Small Steps Every Day
 date: 2015-02-23 02:00		
 author: Kevin Olega		
 ---
-I kept telling her we'd get married. 
-
-I failed. 
-
-She waited for six years but got tired and left. 
-
-Now she's married to someone else.
-
-I kept telling myself I'll save enough money for the wedding and the life we'd have together. 
-
-I'm barely making ends meet.
-
-My secret fear was not making it and I held it in, worried and struggled for many years. 
-
-It turned into reality.
-
 I've read every book that says you need to be positive and keep going and learning. 
 
 I read Maxwell, Kiyosaki, Jim Rohn and Brian Tracy and I've copied every lesson into my head and on my notebooks.
@@ -110,7 +94,13 @@ To be fair, many of my ideas have invisible value until much later.
 
 One weird thing is despite all my failures and shortcomings, every time I come across an old list of goals or dream board which is a fancy name for an illustration board with pictures of things I want to buy and experiences that I want to have, I noticed that everything in those wish lists are already part of the list of things that I own.
 
-Other people are discouraging. My dad is. My mom is. Even me.
+Other people are discouraging. 
+
+My dad is. 
+
+My mom is. 
+
+Even me.
 
 I found out that going for your goals is scary because this involves leaving your comfort zone. 
 
@@ -140,7 +130,9 @@ Using paper is the most important step.
 
 It enables you to commit to something you see. 
 
-Paper has power. Learn to use it.  
+Paper has power. 
+
+Learn to use it.  
 
 A few years back I saw this live-action adaptation of the Japanese Manga and anime series titled "Death Note." 
 
@@ -166,7 +158,9 @@ He is saved however his trip to the hospital empties all his personal accounts o
 
 Broke he suffers from hunger for several days and wanders the city filled with regret and a weakening body. 
 
-He finds an open railroad and jumps in front of his train to his death. He is then rescued by a passerby and was taken to a public ward.  
+He finds an open railroad and jumps in front of his train to his death. 
+
+He is then rescued by a passerby and was taken to a public ward.  
 
 As he was recovering from the hospital, out of money but was encouraged to turn his life around by a conversation from a next-door family. 
 
@@ -265,6 +259,12 @@ Ask actionable questions so you can take action and move yourself forward.
 
 If your goal is to get hired in a call center what do I need to work on every day? 
 
-Should I be sending my resume online? Practicing my English? Practicing my interview skills? Practicing correcting my English? Do it everyday.
+Should I be sending my resume online? 
+
+Practicing my English? Practicing my interview skills? 
+
+Practicing correcting my English? 
+
+Do it everyday.
 
 Here are some of the small steps that you need to do everyday to achieve your goals.

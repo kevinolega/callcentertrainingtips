@@ -23,7 +23,9 @@ Call center companies are expanding and have moved to bigger locations so when i
 
 I always recommend starting with the popular big BPO and Call Center Companies since you can learn a lot in the process whether you pass or fail.
 
-You have better opportunities because they are stable companies. If you manage to get hired the offer will be better.
+You have better opportunities because they are stable companies. 
+
+If you manage to get hired the offer will be better.
 
 Some of you may say, if I fail, I will lose the opportunity. 
 
@@ -54,7 +56,9 @@ If you'd like to work for smaller call center companies, I have some friends who
 
 So there you go, more than a dozen to start.
 
-Where do I get the other call centers? Take note of call center companies and what looks like call center companies in the area you are going to. 
+Where do I get the other call centers? 
+
+Take note of call center companies and what looks like call center companies in the area you are going to. 
 
 Whenever you apply, make new friends at the waiting area. 
 

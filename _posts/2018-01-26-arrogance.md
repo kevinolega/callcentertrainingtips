@@ -30,7 +30,9 @@ Successful people learn from their mistakes.
 
 Successful people are humble enough to accept where they are wrong and ask question that will guide them to good results.
 
-Arrogant people are right all the time. In their mind so they never change and true enough their results never change.
+Arrogant people are right all the time. 
+
+In their mind so they never change and true enough their results never change.
 
 When I was 19, my boss told me that rich people have money and poor people have pride.
 

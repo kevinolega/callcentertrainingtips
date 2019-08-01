@@ -28,7 +28,9 @@ After killing your enthusiasm and excitement, they will use your frustration to 
 
 The goal of learning is to acquire a skill, put it into practice and experience the benefit.
 
-The sooner you learn and put what you learned to use, the sooner you can build a habit. Habits are a key to success. 
+The sooner you learn and put what you learned to use, the sooner you can build a habit. 
+
+Habits are a key to success. 
 
 Skills are a combination of good habits associated with doing a task.
 
@@ -65,7 +67,11 @@ Aside from the lessons you're about to learn, just do a regular check.
 - Can I give good instructions? How can I give better instructions?
 - Are my fillers appropriate?
 
-**Writing is refined thought.** If you write things down you will be able to clarify with yourself what you're trying to say not just to your others but to yourself as well. In this activity get a sheet of paper and write down a list of things about...
+**Writing is refined thought.** 
+
+If you write things down you will be able to clarify with yourself what you're trying to say not just to your others but to yourself as well. 
+
+In this activity get a sheet of paper and write down a list of things about...
 
 - Your plans
 - Your dreams
@@ -116,7 +122,9 @@ People ask me for an answer.
 
 I used to enjoy it but every time I answer questions for others my answers often complicated things. 
 
-Instead **you might want to consider asking yourself the question and writing down the answer**. 
+Instead 
+
+**you might want to consider asking yourself the question and writing down the answer**. 
 
 Get your pad and ask yourself the questions I have prepared.
 
@@ -156,7 +164,6 @@ If you have two ways of saying something you can pick the better one.
 - What do you want your life to be like 5 years from now?
 
 ## 3. Professional Information
-
 
 - What is your job?
 - What do you like about your job?

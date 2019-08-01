@@ -13,21 +13,43 @@ I found out today that a lot of people when asked about themselves give bullshit
 
 "I'm a patient, hardworking person that is looking for ways to contribute my skills and talents to your company." or something like this:
 
-1) I am a person with strong interpersonal skills and have the ability to get along well with people. I enjoy challenges and looking for creative solutions to problems.
+1) I am a person with strong interpersonal skills and have the ability to get along well with people. 
 
-2) Besides the details given in my resume, I believe in character values, vision and action. I am quick in learning from mistakes. I am confident that the various tests that you have conducted will corroborate my competencies aptitude and right attitude for the job.
+I enjoy challenges and looking for creative solutions to problems.
+
+2) Besides the details given in my resume, I believe in character values, vision and action. 
+
+I am quick in learning from mistakes. 
+
+I am confident that the various tests that you have conducted will corroborate my competencies aptitude and right attitude for the job.
 
 If you were applying in my company and give me those answers it will give me the following impressions:
+
 One: You are bullshitting me.
 Two: You are lazy. I am asking about you and you are giving me a copy pasted answer from the internet.
 
-To solve this problem I'm going to teach you how I answer. I deconstructed my answer into a series of questions about myself and it includes a bunch of follow up questions I answer after the interviewer becomes interested in hearing what I tell them. It's not a complete list but its an awesome way to start.
+To solve this problem I'm going to teach you how I answer. 
+
+I deconstructed my answer into a series of questions about myself and it includes a bunch of follow up questions I answer after the interviewer becomes interested in hearing what I tell them. 
+
+It's not a complete list but its an awesome way to start.
 
 On the other end...
 
-I'd like to know more about you. Seriously. There are 7,000 of you who read my lessons this month. I've only met around a hundred. This is both a training and bonding activity. I'd like to really connect with you by reading your answers.
+I'd like to know more about you. 
+
+Seriously. 
+
+There are 7,000 of you who read my lessons this month. 
+
+I've only met around a hundred. 
+
+This is both a training and bonding activity. 
+
+I'd like to really connect with you by reading your answers.
 
 Copy-paste the questions and email me your answers or paste them in the comments below.
+
 What is your name?
 Where are you from?
 What was your past work?
@@ -51,7 +73,9 @@ My name is Kevin Olega.
 
 ##### Where are you from?
 
-I live in Sucat in Paranaque. I also lived in Alabang, QC, Mandaluyong and Makati.
+I live in Sucat in Paranaque. 
+
+I also lived in Alabang, QC, Mandaluyong and Makati.
 
 ##### What was your past work?
 

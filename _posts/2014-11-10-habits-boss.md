@@ -50,7 +50,9 @@ Plain and simple.
 
 You need to identify the parts and learn how to take care of each system and each organ so your body does well.
 
-If it can work for bad habits, it can work for good habits as well. That's what bosses do.
+If it can work for bad habits, it can work for good habits as well. 
+
+That's what bosses do.
 
 In a call center environment, the boss takes the data from a quality analyst and a performance analyst and they look at the results of all the activities so they can see if what they are doing is effective and not effective.
 
@@ -61,6 +63,7 @@ If an activity or a step is not effective, they do something different.
 I'm asking you to think like a boss.
 
 I keep saying this on the website:
+
 To achieve a goal, you need to do tasks.
 
 To do tasks, you need skills.

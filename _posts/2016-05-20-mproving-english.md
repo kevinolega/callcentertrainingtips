@@ -6,7 +6,11 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-Call Center Training Tips is now one of the most popular call center job application tips websites on the Internet. Since then we have been flooded with questions from readers. A common message that we get goes something like this.
+Call Center Training Tips is now one of the most popular call center job application tips websites on the Internet. 
+
+Since then we have been flooded with questions from readers. 
+
+A common message that we get goes something like this.
 
 Dear Sir,
 
@@ -16,11 +20,29 @@ Thank you.
 
 Reader
 
-Learning English takes time.&nbsp; To best approach is you need to start now and keep going until you get good.
+Learning English takes time.
 
-I'll need to tell you something important. **You need to be interested in upgrading yourself and getting better**.  
+To best approach is you need to start now and keep going until you get good.
 
-If not,  you will stay the same. All improvements in life starts with our desire to be better people.  Without that, we won't make progress.  Sometimes we see something big and we say it's impossible.  It's not.  We were all born naked and unable to talk. We just learned to be good at what we do. If other people can do it so can you. Just copy from them. Make adjustments if you make mistakes and do what you need to do.
+I'll need to tell you something important. 
+
+**You need to be interested in upgrading yourself and getting better**.  
+
+If not,  you will stay the same. 
+
+All improvements in life starts with our desire to be better people.  
+
+Without that, we won't make progress.  
+
+Sometimes we see something big and we say it's impossible.  
+
+It's not.  
+
+We were all born naked and unable to talk. 
+
+We just learned to be good at what we do. 
+
+If other people can do it so can you. Just copy from them. Make adjustments if you make mistakes and do what you need to do.
 
 **1. Get exposed**. 
 
@@ -72,20 +94,46 @@ Here's what you need to focus on.
 
 1. **Introduction**. 
 
-Who are you? Where are you from? How do you spend your free time? What makes you awesome? 
+Who are you? 
+
+Where are you from? 
+
+How do you spend your free time? What makes you awesome? 
 
 2. **Tell stories**. 
 
-What are you good at?  What challenges have you faced recently and how did you overcome it? 
+What are you good at?  
+
+What challenges have you faced recently and how did you overcome it? 
 
 3. **Give instructions**. 
 
-How do you commute from Makati to your house? How do you prepare you favorite meal? 
+How do you commute from Makati to your house? 
+
+How do you prepare you favorite meal? 
 
 4. **Ask questions**. 
 
-Questions about call center. Questions about love life. Questions you ask someone to determine if they make a good friend. People who don't ask questions are often perceived as dumb people pretending to be smart. The quality of your life is determined by how good you are at asking questions.
+Questions about call center. 
 
-Write these down. Say them out loud.&nbsp; Do they sound right? If yes keep going.&nbsp; If no,&nbsp; make corrections. Keep going until you have everything you need to say and want to say.
+Questions about love life. 
+
+Questions you ask someone to determine if they make a good friend. 
+
+People who don't ask questions are often perceived as dumb people pretending to be smart. 
+
+The quality of your life is determined by how good you are at asking questions.
+
+Write these down. 
+
+Say them out loud. 
+
+Do they sound right? 
+
+If yes keep going. 
+
+If no, make corrections. 
+
+Keep going until you have everything you need to say and want to say.
 
 

@@ -61,7 +61,9 @@ If you need to strike from long range, get close, backstab, go over, slide under
 
 In games, the only time I’m beaten is if I’m hit by an attack that I didn’t expect. The same thing happens in interviews.
 
-I had the “come what may” mindset because I didn’t ask. The truth is, you can ask the question.
+I had the “come what may” mindset because I didn’t ask. 
+
+The truth is, you can ask the question.
 
 I’d say something like 
 

@@ -26,7 +26,7 @@ My ten superpowers.
 
 9.  I can copy superpowers. Whenever I see an ability I find awesome I copy it, imitate and have it.
 
-10.I can make up superpowers. Whenever I want to do something really boring, I create superpowers to help me do it or to excite me to do it.
+10. I can make up superpowers. Whenever I want to do something really boring, I create superpowers to help me do it or to excite me to do it.
 
 Bonus: I can lose 20lbs of fat in thirty days without exercise.
 

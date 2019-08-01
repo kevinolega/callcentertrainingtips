@@ -8,6 +8,7 @@ categories: [Lessons]
 ---
 
 Consider this:
+
 - If you're a shy person and don't have a job, you don't have a job because you have limited communication skills.
 - You have limited communication skills because you don't practice.
 - You don't practice because you are afraid of making a mistake or looking foolish.
@@ -24,9 +25,41 @@ Consider this:
 - **People who have money deserve it because had generated value for others.**
 
 Would you like to know how to create value for others?
-- **Write down a list of your strengths. If you identify your strengths, you will know what you are good at.** Strengths may include your skills and/or attitudes and/or habits that you benefit from. You can use those gifts to serve others.
-- **Write down a list of your weaknesses.** Your weaknesses are challenges that can be overcome and will give you a glimpse of what you can do for others in the future. I had bad communication skills, when I got good at speaking and sharing my message, I started teaching others to do the same in person and through my writing. Sharing about a weakness you overcome inspires other people to take action and improve their situation.
-- **Write down a list of accomplishments and things you are proud of**. Accomplishments tell us what we can do. Sometimes it mirrors personal achievement and sometimes it is a reflection of how blessed we are with skills and situations. Having a list reminds us that we can get things done. It enables us to believe that we can. When we believe our best performance is unleashed.
-- Work on making your list include at least ten items each. Having the list improves your confidence and gives you a physical document of what you can do and what you can work on.
-- Write down the possibilities you see after completing the list.
-Do you see a better future? After doing the exercise please share your experience in the comments below.
+
+## Write down a list of your strengths. 
+
+If you identify your strengths, you will know what you are good at.
+
+Strengths may include your skills and/or attitudes and/or habits that you benefit from. 
+
+You can use those gifts to serve others.
+
+##Write down a list of your weaknesses.
+
+Your weaknesses are challenges that can be overcome and will give you a glimpse of what you can do for others in the future. 
+
+I had bad communication skills, when I got good at speaking and sharing my message, I started teaching others to do the same in person and through my writing. 
+
+Sharing about a weakness you overcome inspires other people to take action and improve their situation.
+
+## Write down a list of accomplishments and things you are proud of. 
+
+Accomplishments tell us what we can do. 
+
+Sometimes it mirrors personal achievement and sometimes it is a reflection of how blessed we are with skills and situations. 
+
+Having a list reminds us that we can get things done. 
+
+It enables us to believe that we can. 
+
+When we believe our best performance is unleashed.
+
+## Work on making your list include at least ten items each. 
+
+Having the list improves your confidence and gives you a physical document of what you can do and what you can work on.
+
+## Write down the possibilities you see after completing the list.
+
+Do you see a better future? 
+
+After doing the exercise please share your experience in the comments below.

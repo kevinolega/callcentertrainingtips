@@ -73,6 +73,7 @@ In this lesson  I don't want to highlight winning is everything.
 What I want to highlight is the value of training.
 
 Training teaches you:
+
 - The objectives and tasks
 - The skills and steps.
 
@@ -80,7 +81,11 @@ Training enables you to win because it teaches you what to do and what to do wel
 
 Let me try to explain more clearly.
 
-Each dream has goals. Goals requires some tasks to be completed. Tasks require skills or a combination of skills.
+Each dream has goals. 
+
+Goals requires some tasks to be completed. 
+
+Tasks require skills or a combination of skills.
 
 If your goal is to get hired in a call center, here's a breakdown of what is needed:
 
@@ -229,12 +234,16 @@ At one point my money went to zero.
 
 To compensate I looked for a job that paid me Php 200 pesos a day for a few hours of work until I have enough money to look for work in Makati and Ortigas. 
 
-That's the largest drop in pay I've experienced but I did what I needed to do. Two years after I was able to negotiate almost twice my highest salary.
+That's the largest drop in pay I've experienced but I did what I needed to do. 
+
+Two years after I was able to negotiate almost twice my highest salary.
 
 Getting hired in a call center looks complicated at first but I want to point out that it is only a combination of small tasks that are put together.
 
 If you train yourself to do the tasks, you can achieve your goals.
 
-What are your thoughts? Do you have the same experience as I did? Please leave a comment on the website.
+What are your thoughts? Do you have the same experience as I did? 
+
+Please leave a comment on the website.
 
 [soundcloud url="https://api.soundcloud.com/tracks/181435047" params="auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" width="100%" height="300" iframe="true" /

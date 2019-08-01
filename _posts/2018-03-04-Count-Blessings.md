@@ -20,7 +20,9 @@ When I was asked to describe the Philippines to an American the first images tha
 3. Traffic.
 4. Corruption.
 
-Don't go here. People are going to rob you one way or another and your experience is going to suck.
+Don't go here. 
+
+People are going to rob you one way or another and your experience is going to suck.
 
 As a result, I couldn't say anything nice in my interview.
 

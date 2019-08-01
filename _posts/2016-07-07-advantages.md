@@ -60,7 +60,9 @@ Do it for a few years and you'll be an expert at what you're trying to learn.
 
 Memory isn't the most reliable way to store information. 
 
-Write it down. Get a nice notebook and write everyday. 
+Write it down. 
+
+Get a nice notebook and write everyday. 
 
 Write your questions, write your blessings, write your problems. 
 

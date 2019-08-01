@@ -10,7 +10,9 @@ How To Get Hired In A Call Center If You Have No Money
 
 Dear Kevin,
 
-I don't have money but I want to get a job in a call center. What is your advice?
+I don't have money but I want to get a job in a call center. 
+
+What is your advice?
 
 Sincerely,
 
@@ -28,7 +30,9 @@ I bought an iPad from the Apple store and had no complaints because I can do wha
 
 I tried to get a lot of cheap gadgets but I realized that I wasted a lot of time looking around instead of just paying for it with money.
 
-If you don't have money yet, spend time practicing by yourself because lessons are available on the internet for free. Start there. 
+If you don't have money yet, spend time practicing by yourself because lessons are available on the internet for free. 
+
+Start there. 
 
 This website is a good example. 
 

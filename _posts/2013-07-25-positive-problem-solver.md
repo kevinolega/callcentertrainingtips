@@ -22,15 +22,21 @@ Test it. See what happens.
 
 Did it work?
 
-If yes. Improve it further. If no try something else.
+If yes. Improve it further. 
+
+If no try something else.
 
 Another key is don't get too attached to the results.
 
 If the results are not favorable, look for lessons and corrections.
 
-Do not take anything personally. The goal is to get the results that you want and/or improvement not credit or self-validation.
+Do not take anything personally. 
 
-Fear points you in the direction that you need to go. Failure points you in the direction of what you need to work on and improve.
+The goal is to get the results that you want and/or improvement not credit or self-validation.
+
+Fear points you in the direction that you need to go. 
+
+Failure points you in the direction of what you need to work on and improve.
 
 If you've actively tried to learn any skill, I feel you will agree that the same rules apply.
 

@@ -42,11 +42,13 @@ Bad things happen and many things we value don't often go the way we intended or
 The Bible says "in this life we will have troubles" my favorite martial artist says "don't pray for an easy life, pray for the strength to endure a hard one." Don't wish it was easier. 
 
 Wish you were better.
+
 Whenever we face conflict, we encounter a fight or flee response and as a result, whenever we face problems, we don't handle it well. 
 
 The goal of this lesson is to encourage you. 
 
 When you encounter problems...
+
 Don't fight it. 
 
 These things happen. 
@@ -55,7 +57,9 @@ Fighting causes problems to escalate.
 
 Don't flee from it. 
 
-These things happen. Running away from problems enable it to grow.
+These things happen. 
+
+Running away from problems enable it to grow.
 
 The only way to deal with a problem is by facing it.
 

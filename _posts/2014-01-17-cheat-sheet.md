@@ -40,11 +40,25 @@ It is the most used after all, so it makes sense that we get this right now.
 
 Do you agree?
 
-I didn't invent this but I found this very useful. Here's the list. I copied it from Wikipedia. Why? Because it works. Here's how you use it.
+I didn't invent this but I found this very useful. 
 
-Can I pronounce each word correctly? Can I say it right?
+Here's the list. 
 
-Do I know what each word means? Can I come up with a short definition?
+I copied it from Wikipedia. 
+
+Why? 
+
+Because it works. 
+
+Here's how you use it.
+
+Can I pronounce each word correctly? 
+
+Can I say it right?
+
+Do I know what each word means? 
+
+Can I come up with a short definition?
 
 Can I use each word in a sentence?
 
@@ -58,7 +72,7 @@ Can I use each word in a sentence?
 
 Source for the words: http://en.wikipedia.org/wiki/Most_common_words_in_English
 
-| 
+ | 
 
 | Rank | Word |
 | 1 | the |
@@ -239,7 +253,6 @@ Here's more.
     - try
     - leave
     - call
-
 
 
 

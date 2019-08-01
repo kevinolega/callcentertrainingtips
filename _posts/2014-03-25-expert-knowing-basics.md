@@ -8,17 +8,49 @@ categories: [Lessons]
 ---
 To be an expert you just need to know what a call center agent does. Dead simple.
 
-A call center representative is someone who takes or makes calls for a company and does a specific business process role. If you’re in customer service, you deal with a customer’s request. If you’re in tech support you give customers instructions on how to fix things and if you’re in sales you sell to customers. Some people prefer one over the other because of their background or personal preference.
+A call center representative is someone who takes or makes calls for a company and does a specific business process role. 
+
+If you’re in customer service, you deal with a customer’s request. 
+
+If you’re in tech support you give customers instructions on how to fix things and if you’re in sales you sell to customers. 
+
+Some people prefer one over the other because of their background or personal preference.
 
 #### General Attitude
 
-**1. Excited To Help The Customer.** You need to be genuinely excited to help. That way you will get the customer to cooperate and that will make your job smoother.
-**2. Positive Problem Solver.** We come to people for problems. In our roles people come to us to solve a problem. To solve a problem you need to exhibit positivity so your brain can actually think of a solution. If you convey hopelessness, then your brain will go lazy and stop working. You need to see the problem as a tiny harmless thing that can be solved because that’s the reality. If we panic, we end up making mountains out of molehills. If we practice being a positive problem solver, this will affect how we deal with problems that we encounter in everyday life.
-**3. Calm and Cool Listener.** Our initial reaction is to react to hostility and whatever the hell offends us doing the opposite allows us to do better than everyone else. Being a cool and calm listener in every situation allows us to formulate a good plan of action and to do what needs to be done to solve the problem.
+**1. Excited To Help The Customer.** 
+
+You need to be genuinely excited to help. 
+
+That way you will get the customer to cooperate and that will make your job smoother.
+
+**2. Positive Problem Solver.** 
+
+We come to people for problems. 
+
+In our roles people come to us to solve a problem. 
+
+To solve a problem you need to exhibit positivity so your brain can actually think of a solution. 
+
+If you convey hopelessness, then your brain will go lazy and stop working. 
+
+You need to see the problem as a tiny harmless thing that can be solved because that’s the reality. 
+
+If we panic, we end up making mountains out of molehills. 
+
+If we practice being a positive problem solver, this will affect how we deal with problems that we encounter in everyday life.
+
+**3. Calm and Cool Listener.** 
+
+Our initial reaction is to react to hostility and whatever the hell offends us doing the opposite allows us to do better than everyone else. 
+
+Being a cool and calm listener in every situation allows us to formulate a good plan of action and to do what needs to be done to solve the problem.
 
 Knowing the other jobs allow you to be better at the job you are doing.
 
-Some people say I’ll just take customer service jobs and I don’t give a shit about tech support or vice versa. Knowing the other roles allow you to maximize how well you do with your current role.
+Some people say I’ll just take customer service jobs and I don’t give a shit about tech support or vice versa. 
+
+Knowing the other roles allow you to maximize how well you do with your current role.
 
 Here are the skills that make you awesome at each role.
 

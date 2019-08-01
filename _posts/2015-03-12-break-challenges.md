@@ -84,7 +84,9 @@ Do I give up and breakdown or do I push forward and achieve a breakthrough?
 
 Read this lesson again. 
 
-I'm not kidding. Emotional highs whether negative or positive are bound to happen in life. 
+I'm not kidding. 
+
+Emotional highs whether negative or positive are bound to happen in life. 
 
 Just don't let it get the best of you.
 

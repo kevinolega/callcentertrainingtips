@@ -21,7 +21,9 @@ I've been reading Lifehacker since 2009 and over time, I had read a lot of the j
 
 If you do happen to read all the posts of Lifehacker and become a regular Lifehacker reader, send me a message because I want you in my life. 
 
-Lifehacker will make you a better person. I replaced watching the news, gossiping with my coworkers and spending hours on facebook with reading Lifehacker.
+Lifehacker will make you a better person. 
+
+I replaced watching the news, gossiping with my coworkers and spending hours on facebook with reading Lifehacker.
 
 The best thing about lifehacker lessons are how you can apply them and achieve the benefit today.
 

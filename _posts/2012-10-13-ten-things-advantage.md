@@ -88,7 +88,9 @@ Job security is not dependent on what the company offers but on what you offer.
 
 I made this list to give you a better chance. 
 
-There’s plenty enough off opportunities for us and I’ll tell you a secret. Most people read advice and don’t try it. 
+There’s plenty enough off opportunities for us and I’ll tell you a secret. 
+
+Most people read advice and don’t try it. 
 
 Or they try it and look for reasons to give up. 
 
@@ -110,7 +112,9 @@ I never graduated so I have this excuse to never stop learning.
 
 Comparing myself with others is a bad thing but every time I had to compete for a job I was always at an advantage over people I competed with even if they graduated from a nice school and have a diploma. 
 
-I’m not afraid of high-level competitors. In fact I’m excited to meet them. 
+I’m not afraid of high-level competitors. 
+
+In fact I’m excited to meet them. 
 
 I read every day. 
 
@@ -146,7 +150,9 @@ I know I was competing with graduates from top schools.
 
 I know I had to have an edge. 
 
-At the time, I’m the only person I know who reads, who asks around, who experiments. I fail and succeed. 
+At the time, I’m the only person I know who reads, who asks around, who experiments. 
+
+I fail and succeed. 
 
 Failing made me feel stupid at times. 
 
@@ -268,7 +274,7 @@ My favorite part was I built minimal changes to answer some questions that peopl
 
 Up til today I meet people who proudly say they don't know how to use computers. 
 
-More people I know only use a computer for <a href="http://www.facebook.com/kevin.olega.3">facebook</a>, email and <a href="http://twitter.com/kevinolega">twitter</a>. 
+More people I know only use a computer for <a href="http://www.facebook.com/callcentertrainingtips">Facebook</a>, email and <a href="http://twitter.com/kevinolega">twitter</a>. 
 
 Add me up while you're at it. 
 
@@ -375,11 +381,15 @@ You’re free to go but what about the bills and the stuff you want to buy and s
 
 You have an idea for a possibly profitable experiment. 
 
-Won’t you need money for that? Having savings helped me fund the important projects in my life and I make sure to have them so it’s easier to make decisions. 
+Won’t you need money for that? 
+
+Having savings helped me fund the important projects in my life and I make sure to have them so it’s easier to make decisions. 
 
 How much savings do you need? 
 
-About six months worth of your salary is a good start. I’m currently aiming for a year’s worth of paychecks. 
+About six months worth of your salary is a good start. 
+
+I’m currently aiming for a year’s worth of paychecks. 
 
 Too difficult? See my next tip.
 

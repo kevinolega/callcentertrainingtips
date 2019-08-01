@@ -46,4 +46,8 @@ I’d like to stick to the one-page resume rule but my resume should not be less
 2.  Trainings and Seminars attended
 3.  Reference
 
-So there you have it. I hope it helps you get hired in a call center. Let me know how the resume writing works for you.
+So there you have it. 
+
+I hope it helps you get hired in a call center. 
+
+Let me know how the resume writing works for you.

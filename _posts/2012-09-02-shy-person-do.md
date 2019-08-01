@@ -53,13 +53,17 @@ If you're a shy person who would like to move forward with what you want in life
 
 **1. Keep your goals a secret.** 
 
-I recently learned that if you share your goals with others, you risk being acknowledged and as a result lose the willpower to make that goal a reality. So I decided to ditch telling people about my goals and just go after it. 
+I recently learned that if you share your goals with others, you risk being acknowledged and as a result lose the willpower to make that goal a reality.
+
+So I decided to ditch telling people about my goals and just go after it. 
 
 I even wrote a post about that on [my personal website](http://minimalchanges.com/why-keep-goals-secret/). 
 
 **2. Go after what excites you.** 
 
-I'm excited by talking to interesting Filipinos so I got a job that allows me to. Early on I moved between call center work and sales. 
+I'm excited by talking to interesting Filipinos so I got a job that allows me to. 
+
+Early on I moved between call center work and sales. 
 
 **3. Go after what scares you.** 
 
@@ -71,7 +75,9 @@ I learned from Tim Ferriss that fear is an excellent guide to where I need to go
 
 Not just the fact that the level of success I'll achieve in life is directly proportionate to how many uncomfortable conversations I'm willing to have. 
 
-Doing what I fear increases my confidence. Try something that scares you. 
+Doing what I fear increases my confidence. 
+
+Try something that scares you. 
 
 **4. Imagine what a better you looks like and grow into that.** 
 
@@ -83,7 +89,9 @@ Let's take that further.
 
 List down the attributes of the kind of person you want to be. 
 
-How does that person make decisions and be that person? Decide how he/she decides and act like how he/she acts. 
+How does that person make decisions and be that person? 
+
+Decide how he/she decides and act like how he/she acts. 
 
 When you do this, you'll notice that the person you want to be and the person you are now is the same person except for some small changes like being consistent and trying out some stuff more. 
 

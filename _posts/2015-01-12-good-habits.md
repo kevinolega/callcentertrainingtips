@@ -76,7 +76,6 @@ If you replicate the feeling and the steps and you've written all your blessings
 
 In fact you can make a video or record your accomplishments and listen to it.
 
-
 You have the means to do it. 
 
 You just have to do it. 
@@ -97,6 +96,8 @@ One success habit I recommend you start with is taking action.
 
 So go get a pen. 
 
-Write down your list. Watch this video as many times.
+Write down your list. 
+
+Watch this video as many times.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/eot7aEV03Q4" frameborder="0" allowfullscreen></iframe>

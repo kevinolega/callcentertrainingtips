@@ -98,4 +98,10 @@ Yun lang naman.
 
 Good luck sa pag aapply.
 
-Nga pala may online course ako na available. May complete guide na yun na babasahin mo nalang. Yung part 2 kompleto sa activities para makapag handa ka sa interview. Kung gusto mo, wag ka mag comment, message mo ko para mabigay ko detalye sayo.
+Nga pala may online course ako na available. 
+
+May complete guide na yun na babasahin mo nalang. 
+
+Yung part 2 kompleto sa activities para makapag handa ka sa interview. 
+
+Kung gusto mo, wag ka mag comment, message mo ko para mabigay ko detalye sayo.

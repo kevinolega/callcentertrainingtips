@@ -102,7 +102,11 @@ I have a lot of ideas but I can guarantee that they are practical and actionable
 
 ### 6. I'm not that good in math 
 
-That's true. I loved math but it's mostly one way. Except if I'm counting money.
+That's true. 
+
+I loved math but it's mostly one way. 
+
+Except if I'm counting money.
 
 ### 7. I live outside the city 
 
@@ -120,11 +124,15 @@ At school that translated to drawing in class, being talkative, passing notes in
 
 It took me a while to lean this task but the thing is I handled this task enough times to know the ins and outs of it and I wasn't unrealistic to get this right the first time because it is the first time I handled a task like this. 
 
-My previous experience was <insert totally unrelated task> and despite that I am able to reach up to this far.  If you give me a chance and a little help I can show you what it's like to have someone on your team who mastered this process.
+My previous experience was <insert totally unrelated task> and despite that I am able to reach up to this far.  
+
+If you give me a chance and a little help I can show you what it's like to have someone on your team who mastered this process.
 
 ### 10. I moved jobs several times. 
 
-I see all work opportunities as partnerships. With that in mind the engagement should be mutually beneficial. 
+I see all work opportunities as partnerships. 
+
+With that in mind the engagement should be mutually beneficial. 
 
 If not the I would have to disengage the agreement or let my employer know that the relationship is not working out.
 
@@ -132,6 +140,8 @@ These answers are not guaranteed to get me through the interview.
 
 Sometimes it does if I answer confidently. 
 
-Sometimes it doesn't. Make it a practice to think of a better way to answer these questions. 
+Sometimes it doesn't. 
+
+Make it a practice to think of a better way to answer these questions. 
 
 What are your thoughts?

@@ -13,7 +13,9 @@ Tell a story about what sucks about (same specific work experience)
 What have you learned from (specific work experience)
 What did you learn from (specific work experience) that would greatly contribute to you your job now?
 
-Apply this exercise to each section including the details. Your home address, your school, from elementary to high school to college, the people in your reference.
+Apply this exercise to each section including the details. 
+
+Your home address, your school, from elementary to high school to college, the people in your reference.
 
 Practice telling these stories.
 
@@ -39,15 +41,24 @@ Seriously.
 
 I enjoy reading every story I get in the email, the comments and in the Facebook page of the website.
 
-**Here are additional tips**.
+## Here are additional tips
+
 Tell the stories again and again and check yourself for grammar and pronunciation errors.
+
 Write it down.
+
 Read it.
+
 Record it.
+
 Listen to yourself.
+
 Does it need to be longer or shorter?
+
 Will it catch their attention?
+
 Does this story say that I'm a good catch?
+
 What other stories can I share?
 
 I have now passed on one of my important techniques. 

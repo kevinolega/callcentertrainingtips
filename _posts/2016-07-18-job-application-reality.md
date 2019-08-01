@@ -24,7 +24,9 @@ Say no to companies you feel doesn’t match yours.
 
 If it’s not a good match learn to say no or if you don’t like the offer or the terms and conditions of employment look for someone else.
 
-If you want to work in a specific company or industry, ask them what you needed to improve on after a “we’ll just call you response.” It show’s that you’re really interested and at the same time should they choose not to hire you, you’re improvements will be an asset to their competitor.
+If you want to work in a specific company or industry, ask them what you needed to improve on after a “we’ll just call you response.” 
+
+It show’s that you’re really interested and at the same time should they choose not to hire you, you’re improvements will be an asset to their competitor.
 
 If a company won’t pay for the value you can deliver somebody else will. Never settle.
 

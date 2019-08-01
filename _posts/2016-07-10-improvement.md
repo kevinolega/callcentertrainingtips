@@ -27,7 +27,7 @@ A partner challenges you to be better. [Watch this video](https://www.youtube.co
 
 Education doesn't stop after high school or college. 
 
-A high school graduate who continues to learn and improve will surpass a college student who stopped studying in less than five years.**
+A high school graduate who continues to learn and improve will surpass a college student who stopped studying in less than five years.
 
 **3. Don't take learning seriously.** 
 

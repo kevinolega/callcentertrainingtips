@@ -19,21 +19,38 @@ I often get a message that goes something like this.
 >
 > P. S.  Do you have tips on how to pass the training?
 
-Companies have different training practices. For some, there's some English training then product training. Others jump immediately to product training. Here are some tips on how to pass the training.
+Companies have different training practices. 
+
+For some, there's some English training then product training. 
+
+Others jump immediately to product training. 
+
+Here are some tips on how to pass the training.
+
 
 **1. Attendance.** 
 
-Be sure to arrive on time all the time. The only reason people get fired during the training period is because they are late or absent.
+Be sure to arrive on time all the time. 
+
+The only reason people get fired during the training period is because they are late or absent.
 
 
-**2. Speak English**. Follow the "English Only Policy". That's your time to practice before you start talking to customers.
+**2. Speak English**. 
+
+Follow the "English Only Policy". 
+
+That's your time to practice before you start talking to customers.
 
 Remember, call center work involves speaking to Americans in English at a level where your customer effortlessly understands what you are saying, eight hours a day, five days a week.
 
 
 **3. Get enough rest**. 
 
-Go home immediately after training. Don't go to drinking after training. Don't engage in activities that will prevent you from getting eight hours of sleep. 
+Go home immediately after training. 
+
+Don't go to drinking after training. 
+
+Don't engage in activities that will prevent you from getting eight hours of sleep. 
 
 Most of the call center related problems are solved by getting enough rest.
 
@@ -64,7 +81,9 @@ Taking notes enabled me to transition from the agent who's "recommended for term
 
 **5. Pick your friends**. 
 
-Be wise. Not everyone you meet is your friend. 
+Be wise. 
+
+Not everyone you meet is your friend. 
 
 Stick to people who inspire you to do better.  
 
@@ -76,12 +95,16 @@ Avoid people who borrow money.
 
 Nobody who earns a call center salary who borrows money from a co-worker can be trusted. 
 
-Not to sound hypocritical, I have borrowed anywhere from coins to two hundred bucks because I either left my wallet in the locker, got robbed or pickpocketed (yes, this happens), or didn't have cash on me and had to pay for something but paid all the time. Most people who borrowed money from me in the call center haven't paid me back. 
+Not to sound hypocritical, I have borrowed anywhere from coins to two hundred bucks because I either left my wallet in the locker, got robbed or pickpocketed (yes, this happens), or didn't have cash on me and had to pay for something but paid all the time. 
+
+Most people who borrowed money from me in the call center haven't paid me back. 
 
 To name a few, there are Edsil Pastoral, [Gian Baylon](https://web.facebook.com/profile.php?id=1628966375&ref=br_rs) [Myrtle Anne Ramos](https://web.facebook.com/profile.php?id=100002471294697&ref=br_rs), [Harvey Ocampo Punla](https://web.facebook.com/charlon.punla?ref=br_rs),Zenneth 
 Hizon, [Russel "Raj" Ylannan](https://web.facebook.com/rushellraj.ylanan?ref=br_rs), and a lot more people owe me a significant amount of money. One of these people have also stolen my wallet, phone , and iPod.
 
-Most of these people never paid me back, have stopped responding to my messages and have just disappeared. Even if they give you their ATM it's easy to get the bank to replace that and escape you.
+Most of these people never paid me back, have stopped responding to my messages and have just disappeared. 
+
+Even if they give you their ATM it's easy to get the bank to replace that and escape you.
 
 A legitimate loan is made with the bank. If that person genuinely sees you as a friend, they will never borrow money from you.
 
