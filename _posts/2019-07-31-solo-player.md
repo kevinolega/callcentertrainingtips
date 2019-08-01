@@ -48,7 +48,9 @@ And if you're going at it alone, you have an even bigger problem.
 
 Let me try to explain by giving you an example.
 
-The financial market is a really competitive game.
+The financial market is an extremely competitive game.
+
+## How to Win in an Unfair Job Market
 
 And in order to win, less powerful and less intelligent players have teamed up in order to combine their strengths and use their numbers to beat strong solo players.
 
@@ -56,7 +58,19 @@ In business and investments, the players who venture as a team have defeated and
 
 The people who make it big are the people with a team.
 
-And this is not limited to Business and Investments.
+There are many names for these teams.
+
+The popular names include corporations, businesses and companies.
+
+Alone, a finger is weak.
+
+But together, it can build a fist.
+
+Or wield powerful tools.
+
+## Teamwork is Not Cheating
+
+This is not limited to Business and Investments.
 
 This also applies to all the different professions.
 
@@ -112,11 +126,27 @@ But if it's just you, you're likely going to give up.
 
 And settle into low paying jobs.
 
+## Filipino Pride Fail
+
 99% of Filipinos stuck in low paying jobs are solo players.
 
-Many are depending on winning the lottery for financial breaks.
+They go alone, and their career gets killed by stronger players.
 
-Having someone who has experience can teach you what to do in the moment that you fail.
+Or usually taken over by teams.
+
+When you are looking for work, you are evaluated based on how well you can fit in with the team.
+
+Many Filipinos are depending on winning the lottery for financial breaks.
+
+We both know that's not a very intelligent strategy.
+
+But here's the thing.
+
+If you're not very intelligent, you need to team up with someone who is.
+
+Because chances are, 99% of your worst mistakes HAVE A SOLUTION.
+
+Having another person on your team who has experience can teach you what to do in the moment that you fail.
 
 And set your perspective straight.
 
@@ -138,15 +168,33 @@ If you want to team up with me.
 
 Then I want our relationship to be one of "mutual benefit."
 
-That means, you get something and I get something.
+That means, you get something...
+
+And I get something.
 
 I want you to voluntarily make a contribution to my team.
 
+I'm not forcing you.
+
+I only want to work with people who are sincere.
+
+And committed to making their life better.
+
 A team is only useful if we work together.
 
-If I'm only getting from you then you won't contribute to me long term.
+If I'm only getting from you then...
 
-And in the same way, if you are only taking from me without making a contribution, I won't be very happy to help you in the future.
+That's not very good...
+
+Because you won't contribute to me long term.
+
+And in the same way... 
+
+If you are only taking from me... 
+
+And NOT making a contribution... 
+
+I won't be very happy to help you in the future.
 
 I want a relationship where I'll support you, and you'll support me and we'll win together.
 
