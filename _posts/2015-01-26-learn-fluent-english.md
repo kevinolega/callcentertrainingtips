@@ -44,7 +44,7 @@ Successfully learning a skill requires you to break the skill down into ingredie
 
 In the process we practice the important steps and learn to do them at the right time.
 
-To make you an effective English communicator, we will be limiting the focus on five topics:
+## To make you an effective English communicator, we will be limiting the focus on five topics:
 
 1. Introductions
 2. Questions.
@@ -67,7 +67,7 @@ Aside from the lessons you're about to learn, just do a regular check.
 - Can I give good instructions? How can I give better instructions?
 - Are my fillers appropriate?
 
-**Writing is refined thought.** 
+## Writing is refined thought.
 
 If you write things down you will be able to clarify with yourself what you're trying to say not just to your others but to yourself as well. 
 
@@ -91,7 +91,7 @@ Include some details and add with the reasons why your answer is your answer.
 
 This is an exercise in how to explain things well.
 
-#### Introductions
+## Introductions
 
 The following are the most common problems of people who are not used to communicating in English.
 
@@ -193,7 +193,7 @@ Smile, take a deep breath then talk.
 
 Listen to how you sound.
 
-#### Questions
+## Questions
 
 Questions are a part of the conversation where you get a response from the other person. 
 
@@ -201,19 +201,19 @@ In an interview situation, your interviewer is asking you questions and observin
 
 If you do the previous steps well you will do better with your first impression.
 
-Here are some problems you might be encountering.
+**Here are some problems you might be encountering.**
 
 1. Unable to build connections
 2. Unable to get the message across
 3. Unable to get help.
 
-I already provided you a list of questions to ask yourself
+**I already provided you a list of questions to ask yourself**
 
 1. Watch interviews
 2. Note down interesting questions
 3. Practice asking people questions
 
-Topics you can start with to build rapport:
+## Topics you can start with to build rapport:
 
 - Family
 - Occupation
@@ -224,7 +224,7 @@ Topics you can start with to build rapport:
 
 > If you don't ask, the answer is always no.
 
-#### Instruction
+## Instruction
 
 I get a lot of good feedback with how I explain things well to the customer. 
 
@@ -232,7 +232,7 @@ I tell the customer I watch a lot of cooking shows.
 
 I just imitate people who are good at giving instructions and try to give instructions as if I was them.
 
-Problems I previously encountered:
+## Problems I previously encountered:
 
 1. The person I'm talking to get’s frustrated.
 2. A lot of time is spent but there are no results.
@@ -247,17 +247,17 @@ Instructions should be prepared in the following format.
 
 The complete step by step procedure.
 
-**Which is better?**
+## Which is better?
 
 Have both so you have a version for people who have knowledge and people who have no knowledge.
 
-**How do you dummy proof your instructions?**
+## How do you dummy proof your instructions?
 
 Just add a description. 
 
 Instead of saying the word, describe it in detail, tell the other person where to find it, what color, what other things help identify it and tell them what to do.
 
-**Where you can go to get better instructions:**
+## Where you can go to get better instructions:
 
 1. **Watch cooking shows**. 
 
@@ -273,11 +273,11 @@ I have a short-list of people I look up to.
 
 I’ll share it in the future.
 
-##### Continue here
+**Continue here**
 
-#### Pronunciation
+## Pronunciation
 
-Problems you might have encountered with pronunciation:
+## Problems you might have encountered with pronunciation:
 
 1. **Pronunciation are the most visible errors in the English language**.
 2. **Bad pronunciation can trigger social biases for your interviewer**. 
@@ -310,7 +310,7 @@ Here are a few things to master.
 
 ## 100 most used words in the English Language
 
-Remember:
+**Remember:**
 
 1. Say things right
 2. Practice regularly
@@ -329,7 +329,7 @@ This section is about creating good habits in your conversations.
 
 Please be patient as I walk you through the process.
 
-How to delay having to give an answer.
+## How to delay having to give an answer.
 
 1. Respond and Acknowledge
 2. Verify and Rephrase
