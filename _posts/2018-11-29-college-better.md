@@ -27,7 +27,7 @@ They know that upgrades costs money and have a higher return. They paid for book
 
 
 
-**## 6. They are more intelligent overall.**
+**6. They are more intelligent overall.**
 
 If you didn't finish college, you can just look at this list and add this to your goals.
 
