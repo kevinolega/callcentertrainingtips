@@ -51,7 +51,7 @@ Many things that you're not familiar with will be introduced and it will be awkw
 
 You will make mistakes and maybe some people will laugh at you.
 
-Here are some trade-offs.
+**Here are some trade-offs.**
 
 - You will learn a useful skill that nobody can take away from you.
 - If anyone else wants to learn the skill you are working on now, they will have to go through exactly the same (possibly painful) process and hardships that you are going through.
