@@ -9,13 +9,18 @@ categories: [Lessons]
 While making calls have you ever been asked the following questions?
 
 Where are you located?
+
 I don't understand your English.
-What? Say that again?
+
+What? 
+
+Say that again?
+
 Can you transfer me to an American agent?
 
 If you are getting this often on your calls your pronunciation still sucks.
 
-Here's how to fix it.
+## Here's how to fix it.
 
 
 - Write down your spiel.
