@@ -111,7 +111,7 @@ A mock call is a practice call for the job. Here are three situations that are c
 
 For more information about this, my website has several tips on how to handle these situations.
 
-**6.Sales Test**. 
+**6. Sales Test**. 
 
 This doesn't happen on all interviews but depending on what kind of call center job or account they are hiring for this is important especially if you intend to become a manager in the future.
 
