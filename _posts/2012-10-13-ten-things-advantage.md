@@ -454,10 +454,10 @@ I hope it helps.
 
 ## Here's what you can do.
 
-**1.Write your version of this essay and send me a link or post it in the comments below.**
+**1. Write your version of this essay and send me a link or post it in the comments below.**
 
 Email me if you're feeling shy.
 
-**2.Tell me what tip you'll be working on this week.**
+**2. Tell me what tip you'll be working on this week.**
 
 See you soon.
