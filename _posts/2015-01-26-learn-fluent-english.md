@@ -239,11 +239,11 @@ I just imitate people who are good at giving instructions and try to give instru
 
 Instructions should be prepared in the following format.
 
-1. **Simplified**. 
+**1. Simplified**. 
 
 1-2 sentence format or the shortest version possible for quick explanations
 
-2. **Long form**. 
+**2. Long form**. 
 
 The complete step by step procedure.
 
