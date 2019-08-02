@@ -13,11 +13,11 @@ I found out today that a lot of people when asked about themselves give bullshit
 
 "I'm a patient, hardworking person that is looking for ways to contribute my skills and talents to your company." or something like this:
 
-## 1) I am a person with strong interpersonal skills and have the ability to get along well with people. 
+## 1)   I am a person with strong interpersonal skills and have the ability to get along well with people. 
 
 I enjoy challenges and looking for creative solutions to problems.
 
-## 2) Besides the details given in my resume, I believe in character values, vision and action. 
+## 2)   Besides the details given in my resume, I believe in character values, vision and action. 
 
 I am quick in learning from mistakes. 
 
