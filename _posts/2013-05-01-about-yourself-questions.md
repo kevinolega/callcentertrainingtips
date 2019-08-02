@@ -25,8 +25,9 @@ I am confident that the various tests that you have conducted will corroborate m
 
 If you were applying in my company and give me those answers it will give me the following impressions:
 
-** One: You are bullshitting me.**
-** Two: You are lazy. I am asking about you and you are giving me a copy pasted answer from the internet.**
+**One: You are bullshitting me.**
+
+**Two: You are lazy. I am asking about you and you are giving me a copy pasted answer from the internet.**
 
 To solve this problem I'm going to teach you how I answer. 
 
