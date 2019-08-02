@@ -6,7 +6,7 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-How to Never Run Out Of Job Opportunities by Learning How To Sell
+# How to Never Run Out Of Job Opportunities by Learning How To Sell
 
 You need to learn how to sell. When you sell, your message convinces another person to take a positive action.
 
@@ -32,7 +32,7 @@ Offer a solution by making a recommendation.
 
 Explain to the customer why you recommended the solution based on his reasons.
 
-I would go say something like:
+## I would go say something like:
 
 Hey, you mentioned earlier that you wanted to make more money, I recommend getting a job in a call center because they offer a good salary package and some companies pay extra for good performance.
 
@@ -88,7 +88,7 @@ But other than that I believe I'll do really well after I learn the scripts and 
 
 If you follow this process I am confident that you'll be able to sell your services well.
 
-Trivia: companies prefer people with sales abilities. 
+**Trivia: companies prefer people with sales abilities.** 
 
 If you become good at selling hiring managers would prefer you over candidates with higher educational credentials. 
 
