@@ -77,10 +77,10 @@ What's your favorite quote?
 
 How many times should you apply before getting hired in a call center?
 
-### Here are my answers.
+Here are my answers
 
 
-### What is your name?
+## What is your name?
 
 My name is Kevin Olega.
 
