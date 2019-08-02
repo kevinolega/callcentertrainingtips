@@ -419,7 +419,7 @@ Minimalism is about saying no so you have resources for what’s beautiful and w
 
 I write more about it in my [website: Minimal Changes](http://minimalchanges.com).
 
-###BONUS 
+### BONUS 
 
 ## 11. I worked in sales.
 
@@ -453,10 +453,10 @@ I hope it helps.
 
 ## Here's what you can do.
 
-1.  Write your version of this essay and send me a link or post it in the comments below. 
+** 1.  Write your version of this essay and send me a link or post it in the comments below.**
 
 Email me if you're feeling shy.
 
-2.  Tell me what tip you'll be working on this week.
+** 2.  Tell me what tip you'll be working on this week.**
 
 See you soon.
