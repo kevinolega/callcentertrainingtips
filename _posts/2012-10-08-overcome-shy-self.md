@@ -1,4 +1,4 @@
-1---
+---
 layout: post
 title: How To Overcome Your Super Shy Self with One Exercise
 date: 2012-10-08 20:13
@@ -28,7 +28,9 @@ When you're done watch yourself and look at things you need to improve.
 
 Have the courage to look at yourself and what you suck at so you can get better. 
 
-Notice your facial expression. Notice your voice. 
+Notice your facial expression. 
+
+Notice your voice. 
 
 Notice how you project your message. 
 
