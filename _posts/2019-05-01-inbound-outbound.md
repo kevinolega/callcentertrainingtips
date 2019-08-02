@@ -5,7 +5,7 @@ date: 2019-05-01 15:48
 permalink: /inbound-outbound/ 
 author: Kevin Olega 
 --- 
-##A call center makes and takes calls. Inbound and Outbound refers to the direction of the calls.
+## A call center makes and takes calls. Inbound and Outbound refers to the direction of the calls.
 
 - Inbound means, you are receiving the calls.
 - Outbound means you’re giving the call.
