@@ -259,15 +259,15 @@ Instead of saying the word, describe it in detail, tell the other person where t
 
 ## Where you can go to get better instructions:
 
-1. **Watch cooking shows**. 
+**1. Watch cooking shows**. 
 
 My favorite chefs are Jamie Oliver, Gordon Ramsay and, Heston Blumenthal.
 
-2. **Read how to guides**. 
+**2. Read how to guides**. 
 
 I read a lot of how-to guides at Lifehacker.com
 
-3. **Emulate great teachers**. 
+** 3. Emulate great teachers**. 
 
 I have a short-list of people I look up to. 
 
@@ -279,12 +279,12 @@ I’ll share it in the future.
 
 ## Problems you might have encountered with pronunciation:
 
-1. **Pronunciation are the most visible errors in the English language**.
-2. **Bad pronunciation can trigger social biases for your interviewer**. 
+**1. Pronunciation are the most visible errors in the English language**.
+**2. Bad pronunciation can trigger social biases for your interviewer**. 
 
 People with good pronunciation are seen as part of the elite and people with bad pronunciation are seen as part of the lower class.
 
-3. **Bad Pronunciation can cause others to misunderstand you**. 
+**3. Bad Pronunciation can cause others to misunderstand you**. 
 
 See SBC Packers by Rex Navarette on YouTube. Google is your friend.
 
