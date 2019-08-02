@@ -201,13 +201,13 @@ In an interview situation, your interviewer is asking you questions and observin
 
 If you do the previous steps well you will do better with your first impression.
 
-**Here are some problems you might be encountering.**
+## Here are some problems you might be encountering.
 
 1. Unable to build connections
 2. Unable to get the message across
 3. Unable to get help.
 
-**I already provided you a list of questions to ask yourself**
+I already provided you a list of questions to ask yourself
 
 1. Watch interviews
 2. Note down interesting questions
@@ -275,7 +275,7 @@ I’ll share it in the future.
 
 **Continue here**
 
-## Pronunciation
+ Pronunciation
 
 ## Problems you might have encountered with pronunciation:
 
@@ -304,11 +304,11 @@ Some people say that back in high school, she was not the smartest person in the
 
 Here are a few things to master.
 
-## 1. Count from one to fifty
+ 1. Count from one to fifty
 
-## 2. P and F, B and V, TH sounds
+ 2. P and F, B and V, TH sounds
 
-## 100 most used words in the English Language
+ 100 most used words in the English Language
 
 **Remember:**
 
