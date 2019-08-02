@@ -14,7 +14,7 @@ Each post will have four short tips with a really short description I thought ab
 
 The goal is to provide you with a regular stream of tips weekly.
 
-**Find better opportunities by starting your application with stable companies.** 
+## Find better opportunities by starting your application with stable companies.
 
 Many people ask me what call center they need to go to first. 
 
@@ -24,7 +24,7 @@ That way whether you pass or fail you will be familiar with the hiring process o
 
 Another benefit is that you will be more comfortable in the call center environment and you the exposure will make you more confident as you visit each company as you go through new opportunities. 
 
-**Ask your interviewer at least one question you're curious about in the call center industry.** 
+## Ask your interviewer at least one question you're curious about in the call center industry.
 
 When I was new I had no idea about the call center aside from the fact that you make or take calls and answer questions for customers and it has a night shift schedule and pays well. 
 
