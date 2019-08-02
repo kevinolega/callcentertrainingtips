@@ -21,7 +21,7 @@ Many companies serve other companies and offer business process outsourcing ( ie
 
 An account is who the call center does business for or in other words the company you will be representing once you start to work there.
 
-#### Here’s an example:
+## Here’s an example:
 
 Say, you work as a customer service representative for a call center company called Sitel and their account is Apple Computers then when you answer your phone, you say “Thank you for calling Apple Computers!” instead of “Thank you for calling Sitel”. 
 
@@ -29,6 +29,6 @@ You are not employed by Apple Computer but you represent apple computer because 
 
 When you work in a call center, the company you represent to the end consumer is not always the same as your employer.
 
-#### So remember:
+## So remember:
 
 In a call center, Account means your employer’s client that you represent.
