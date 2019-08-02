@@ -72,7 +72,7 @@ In this lesson  I don't want to highlight winning is everything.
 
 What I want to highlight is the value of training.
 
-Training teaches you:
+**Training teaches you:**
 
 - The objectives and tasks
 - The skills and steps.
@@ -89,13 +89,13 @@ Tasks require skills or a combination of skills.
 
 If your goal is to get hired in a call center, here's a breakdown of what is needed:
 
-#### Three Job Offers
+## Three Job Offers
 
 To get hired in a call center where you're really happy with the job I recommend having three job offers. 
 
 You can have more than 3-5 but you generally need three to choose one where you'll be satisfied with the offer.
 
-#### Ten good interviews
+## Ten good interviews
 
 Ten good interviews doesn't mean you need a job offer at the end. 
 
@@ -105,7 +105,7 @@ You came prepared and you delivered your best introduction, you arrived on time,
 
 You felt you explained clearly what makes you a good fit for the job and win or lose you've given it your best so you feel it is a good interview.
 
-#### Five bad interviews.
+## Five bad interviews.
 
 None of us are professional job applicants. 
 
@@ -141,7 +141,7 @@ Same thing happens with interviews.
 
 You might use time and money to play but you get experience and you get to play better.
 
-#### A list of fifteen companies you're going to
+## A list of fifteen companies you're going to
 
 It's hard to remember objectives when things get emotional. 
 
@@ -171,7 +171,7 @@ Make a list and visit each company.
 
 Walk in if you have to. Just cross out every company on the list.
 
-#### Fifty Online Applications
+## Fifty Online Applications
 
 If you're looking for a call center job, you'll just need to send out applications. 
 
@@ -181,7 +181,7 @@ All you need to do here is put up your resume on Jobstreet and JobsDB and submit
 
 It'll take you maybe two hours and you'll just need to send the applications.
 
-#### A simple resume
+## A simple resume
 
 A resume is simply a piece of paper with your contact information, work history and skills. 
 
@@ -191,7 +191,7 @@ Highlight skills and experiences that you might find useful.
 
 Do not include your personal info like height and weight, you're applying for call center work and not as a promo girl.
 
-#### Money to get started.
+## Money to get started.
 
 If you're going to quit your job, or something don't do so until you can support yourself. 
 
@@ -215,7 +215,7 @@ Multiply it by twenty days for job application and fifteen days for going to wor
 
 That's a total of thirty-five days for your job application process and time until your first paycheck.
 
-Other expenses include:
+**Other expenses include:**
 
 - Php 150 to print your resume
 - Php 60 for three hours of computer shop time.
