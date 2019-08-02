@@ -49,10 +49,10 @@ Let's consider a few things.
 I'll need you to grab a pen and write down the following questions.
 
 
-- What do I want in life?
-- What kind of person do I want to be?
-- What activities and accomplishments do I want to do?
-- What is my plan to achieve them?
+- **What do I want in life?**
+- **What kind of person do I want to be?**
+- **What activities and accomplishments do I want to do?**
+- **What is my plan to achieve them?**
 
 
 If I answered the following questions and put specific details then you are likely to be a performer or you're on your way to being a performer already.
@@ -73,11 +73,11 @@ If you would like to follow the path of the performer here are some tips I've le
 - **Test your skills by showing it to others.**
 
 
-**Whether you pass or fail get feedback.**
+## Whether you pass or fail get feedback.
 
 
-- What am I doing right? (continue and improve)
-- What am I doing wrong? (adjust and correct)
+- **What am I doing right? (continue and improve)**
+- **What am I doing wrong? (adjust and correct)**
 
 
 A few years ago, I decided to be a performer and my life changed. 
