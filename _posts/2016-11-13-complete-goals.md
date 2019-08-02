@@ -81,7 +81,7 @@ Here's a template of how I write down my goals.
 On your short term goals one month, three months, six months
 Write down
 
-** Have - What do you want to have?**
+**Have - What do you want to have?**
 
 1.
 
@@ -107,7 +107,9 @@ After writing the items down. Add the price. Indicate if one time or monthly.
 
 5.
 
-How often do you want to do the activity? How much does the activity cost? 
+How often do you want to do the activity? 
+
+How much does the activity cost? 
 
 **Be - What kind of person do you want to be?**
 
