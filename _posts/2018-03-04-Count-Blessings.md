@@ -9,7 +9,7 @@ People who know themselves have the advantage over people who don't.
 
 Two examples:
 
-1. In an interview, when I was new at applying, I always had to think of an answer. 
+**1. In an interview, when I was new at applying, I always had to think of an answer.**
 
 My natural response to most things are negative. 
 
@@ -40,7 +40,7 @@ I probably have written my introduction a few hundred times until I came up with
 
 I'd probably have a better answer if I try to write it again but you probably already get the idea.
 
-2. When I go out and hang out with someone new, I ask them to tell me stuff about them. They usually have no answer.
+**2. When I go out and hang out with someone new, I ask them to tell me stuff about them. They usually have no answer.**
 
 
 When I ask them what they're interested in, it's usually vague, unclear or they're unable to express themselves.
@@ -57,7 +57,7 @@ Let me teach you something really cool.
 
 Get your notebook.
 
-Answer the following questions.
+## Answer the following questions.
 
 1. Where do you live?
 2. What is your educational attainment?
