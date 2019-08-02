@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Center Internet Skills
+title: Call Center Internet Skills
 date: 2019-06-08 12:29
 Tags: [ Basics, website ]
 permalink: /internet-skills/ 

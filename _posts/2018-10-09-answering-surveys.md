@@ -11,7 +11,7 @@ I answered and thought it would be great to answer these again this year to see 
 
 I made two sections on this lesson, part one contains only the questions for if you want to answer these questions yourself and part two contains my answers.
 
-**Instructions:**
+## Instructions:
 
 Please write what comes to your mind as soon as you read the question, no overthinking.
 
@@ -47,6 +47,8 @@ Please write what comes to your mind as soon as you read the question, no overth
 
 **9.) If given a choice to restart your life say 10 yrs back, would you? Why?**
 
+
+
 End of questionnaire. 
 
 Copy up to here if you'd like to take these questions for a spin. 
@@ -55,9 +57,9 @@ Leave a comment with your answers or send me a private message if you'd like to 
 
 ---
 
-## This Section Contains My Answers
+### This Section Contains My Answers
 
-**Instructions:**
+## Instructions:
 
 Please write what comes to your mind as soon as you read the question, no overthinking.
 

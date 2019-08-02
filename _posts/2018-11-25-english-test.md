@@ -6,16 +6,26 @@ permalink: /english-test/
 author: Kevin Olega 
 --- 
 
+## Introduce yourself 
 
-Introduce yourself 
-Ask questions
-Give instructions
-Tell stories
-Sell an item
-Solve a problem 
-Ask for permission 
-Tell someone what you want 
-Apologies for an issue
-Ask someone to wait
-Decline a request
-Reschedule an appointment
+## Ask questions
+
+## Give instructions
+
+## Tell stories
+
+## Sell an item
+
+## Solve a problem 
+
+## Ask for permission 
+
+## Tell someone what you want 
+
+## Apologies for an issue
+
+## Ask someone to wait
+
+## Decline a request
+
+## Reschedule an appointment

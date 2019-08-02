@@ -43,7 +43,9 @@ After submitting my resume, we filled out an application form, waited in line an
 
 There were about sixteen people called into a room.
 
-We were asked to introduce ourselves, read some sentences from a sheet of paper, and count up from eleven to thirty-five. I don't remember the exact number but that's what we did.
+We were asked to introduce ourselves, read some sentences from a sheet of paper, and count up from eleven to thirty-five. 
+
+I don't remember the exact number but that's what we did.
 
 Finally, we were asked a random question.
 
@@ -97,7 +99,9 @@ It was a long contract, and she started to talk to me again to break the silence
 
 The interviewer asked me.
 
-I said no. I'm saving up for the tuition fee.
+I said no. 
+
+I'm saving up for the tuition fee.
 
 > "Do you plan to work while studying?"
 
@@ -127,7 +131,9 @@ What about the contract?
 
 I asked her. 
 
-The one I'm about to sign. I asked in my mind.
+The one I'm about to sign. 
+
+I asked in my mind.
 
 She slowly covered the bundle of papers that she just printed.
 

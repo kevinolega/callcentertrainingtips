@@ -11,7 +11,9 @@ Pre-employment requirements are a common chore that needs to be done to finalize
 
  Items in a pre-employment checklist are often standard for most call centers and most jobs I've applied in.
 
- In case it's your first time to apply, or it's your first time to apply in a long time here are some of the documents that you'd like to prepare in advance. I took this list from a couple of my past employers.
+ In case it's your first time to apply, or it's your first time to apply in a long time here are some of the documents that you'd like to prepare in advance. 
+
+ I took this list from a couple of my past employers.
 
  I found some lists as I was cleaning up.
 
@@ -100,15 +102,17 @@ I get mine from Tronix all the time.
 
 It's less than Php 80 pesos and you can find it at almost any SM or mall. 
 
-**Some Technical Terms** BIR 1902 form 
+**Some Technical Terms  BIR 1902 form**
 
-For TIN application. You'll need to speak to the HR if you still don't have a TIN number so you can register online.
+For TIN application. 
+
+You'll need to speak to the HR if you still don't have a TIN number so you can register online.
 
 BIR 1905 form. to transfer your records from your previous RDO to the current employer's RDO. BIR 2305 form. 
 
 To update your employer information and tax status. 
 
-**Some notes:** 
+## Some notes: 
 
 When you look for work here are some requirements that you need to obtain and submit. 
 

@@ -106,7 +106,7 @@ If you have what it takes.
 
 On your journal, write down the topics that you should be studying but aren't spending time on.
 
-**Question to ponder**
+## Question to ponder:
 
 What lesson or skill, that if you study would make your career a lot easier?
 

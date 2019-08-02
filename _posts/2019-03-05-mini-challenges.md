@@ -9,7 +9,7 @@ My suggestion, print out four copies of this guide and post one on the wall next
 
 Here are the mini-challenges (you do not have to do all of these, just pick one per week):
 
-1. Adding healthy things:
+## 1. Adding healthy things:
 
 - Order food in English.
 - Study one website post.
@@ -29,7 +29,7 @@ Here are the mini-challenges (you do not have to do all of these, just pick one 
 - Pray everyday.
 
 
-2. Changing your approach:
+## 2. Changing your approach:
 
 - Speak in English whenever you're ordering food.
 - Read the lessons on my website instead of scrolling Facebook and Instagram Feed.
@@ -53,7 +53,7 @@ Here are the mini-challenges (you do not have to do all of these, just pick one 
 - Pray in English.
 
 
-3. Cutting out unhealthy habits (look at what you do now, and set a target that’s lower):
+## 3. Cutting out unhealthy habits (look at what you do now, and set a target that’s lower):
 
 - Watch lessons of Alan Watts and Jordan Peterson on YouTube instead of watching Tagalog Shows.
 - Write down the characteristics of people you want to avoid.
@@ -68,7 +68,7 @@ Here are the mini-challenges (you do not have to do all of these, just pick one 
 - Switch from processed meats (sausages, bacon, etc.) to real meat, or fish.
 
 
-4. Hardcore stuff (a few people asked for some suggestions):
+## 4. Hardcore stuff (a few people asked for some suggestions):
 
 - Try eating one meal a day with only meat.
 - Volunteer to be a moderator on my facebook group
@@ -78,7 +78,9 @@ Here are the mini-challenges (you do not have to do all of these, just pick one 
 
 If it sounds easy and you’re already used to speaking in English, try the 7-Day English Only Challenge.
 
-Not every change listed above for everyone. Find changes that feel right to you, as I know not everyone agrees with everything I’ve listed.
+Not every change listed above for everyone. 
+
+Find changes that feel right to you, as I know not everyone agrees with everything I’ve listed.
 
 What is healthy for you will be different than what is healthy for me. 
 

@@ -11,13 +11,13 @@ That’s true. The real question is:
 
 ### What is a call center for me?
 
-**For different people there are different answers.**
+## For different people there are different answers.
 
 For business owners it’s a place to outsource business-related tasks we’d rather not handle on our own.
 
 For some entrepreneurs, it’s a business opportunity.
 
-**But that’s not who I wrote this website for.**
+## But that’s not who I wrote this website for.
 
 You just retired from your work voluntarily or involuntarily and you’re bored with staying at home and looking for a source of income a call center may be for you.
 

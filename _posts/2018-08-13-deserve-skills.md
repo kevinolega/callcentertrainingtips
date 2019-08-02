@@ -153,7 +153,9 @@ I believe you can do better.
 
 With the right skills and a good mix of some ingredients, mostly what you already have we can take a step closer to landing your dream job.
 
-Back in 2014, I spent a lot of time learning how to cook and ended up watching a lot of cooking shows. As a result, I got better at teaching others.
+Back in 2014, I spent a lot of time learning how to cook and ended up watching a lot of cooking shows. 
+
+As a result, I got better at teaching others.
 
 There's a lot more examples.
 

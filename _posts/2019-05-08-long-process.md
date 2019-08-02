@@ -17,7 +17,9 @@ Don't forget to write down the lessons on your notebook though.
 
 That's what you need to to keep going.
 
-Failure is part of the process. You want success you need to collect lessons from failure.
+Failure is part of the process. 
+
+You want success you need to collect lessons from failure.
 
 A one day process can mean anything. 
 

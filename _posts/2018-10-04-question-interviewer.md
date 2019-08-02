@@ -40,4 +40,6 @@ Do you offer any scholarships or continuing education for your agents?
 
 What is your procedure for a pay increase?
 
-On a scale of 1 to 10, how satisfied were you with our interview? How can I improve?
+On a scale of 1 to 10, how satisfied were you with our interview? 
+
+How can I improve?

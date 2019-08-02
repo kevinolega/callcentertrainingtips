@@ -35,7 +35,8 @@ You'll get the hang of it. 
 
 Need an exercise?
 
-Write down a list for the following:
+## Write down a list for the following:
+
 1. What are the instructions to commute to the office from your house?
 2. What are the steps do you need to do to cook your favorite dish?
 3. What is your advice to a friend with love problems?

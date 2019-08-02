@@ -61,7 +61,9 @@ What can you do to improve your introduction?
 
 This is a technique that you can do at home to work on your shyness.
 
-You can also read a website post from anywhere. This website works too.
+You can also read a website post from anywhere. 
+
+This website works too.
 
 You can literally record yourself reading this and check how well you do.
 

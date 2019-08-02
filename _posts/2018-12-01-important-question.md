@@ -11,7 +11,7 @@ author: Kevin Olega
 
 Pull out your notebook and prepare to write down what your interviewer says.
 
-**Follow up questions:**
+## Follow up questions:
 
 How was my pronunciation?
 

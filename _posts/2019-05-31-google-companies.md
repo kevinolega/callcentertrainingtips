@@ -8,7 +8,7 @@ author: Kevin Olega
 --- 
 Do a Google search of call center companies in your city.
 
-**For example:**
+## For example:
 
 Call center companies in Quezon City
 

@@ -5,7 +5,7 @@ date: 2018-11-17 14:10
 permalink: /american-culture/ 
 author: Kevin Olega 
 --- 
-When you turn eighteen in the US or other English speaking countries:
+## When you turn eighteen in the US or other English speaking countries:
 
 1. You are considered an adult and responsible for your own life. 
 2. You need to get your own income.
@@ -42,10 +42,12 @@ This is why many Filipino families stay poor.
 
 There is an "entitlement mentality" where one expects the parents to shoulder all expenses.
 
-Here are some examples of situations that I've encountered.
+## Here are some examples of situations that I've encountered.
 
 1. I am a college student and my parent's pay for everything. Halfway through my course, I decided to shift to a new course because "I don't feel like pursuing my course anymore." My parents will then be obligated to pay for my extended year (or years) in college.
+
 2. I am a college student and my parents are paying for my education. They are barely making ends meet. But I got pregnant (or got someone pregnant). Now my parents have to pay for my child's expenses too.
+
 3. I'm not studying because of a financial problem. My parents can't afford to send me to school. I just stay at home and help with the chores. I don't really do anything for income.
 
 Are you the hero of your family or are you the burden?

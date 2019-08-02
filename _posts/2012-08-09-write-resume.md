@@ -177,7 +177,7 @@ Expect all unrecognized numbers as your interviewer.
 
 If you miss a call, call back twice and send an SMS if you don’t get an answer. 
 
-I say:
+FI say:
 
 > I’m sorry I missed your call. May I know who’s this?
 

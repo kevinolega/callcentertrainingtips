@@ -74,7 +74,7 @@ Are you going to be a performer or just an observer?
 
 > "Life is either a daring adventure or nothing at all." Hellen Keller
 
-**Trivia**
+## Trivia
 
 Helen Keller was an American author, political activist, and lecturer. 
 

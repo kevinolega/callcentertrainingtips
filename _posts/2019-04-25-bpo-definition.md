@@ -15,7 +15,7 @@ BPO stands for business process outsourcing.
 
 A business process is simply a series of steps necessary to the survival of the business. 
 
-Example of business processes include:
+## Example of business processes include:
 
 - Sales process
 - Customer support or customer service process.
@@ -24,13 +24,13 @@ Example of business processes include:
 - Document processing.
 - and so on.
 
-Outsourcing is asking someone to do something for you and paying them for it. You outsource something because:
+## Outsourcing is asking someone to do something for you and paying them for it. You outsource something because:
 
 - it’s cheaper (cost-effective)
 - they can do better than you (quality)
 - you don’t have the time to do it yourself (convenience)
 
-**We outsource tasks regularly.**
+## We outsource tasks regularly.
 
 - laundry shops are places where we outsource our laundry
 - fast foods and restaurants are where we outsource our food preparation
@@ -40,7 +40,7 @@ Business process outsourcing is the same as outsourcing our tasks, except they�
 
 Almost any business process can be outsourced. 
 
-**Here are common outsourced business processes in a call center.**
+## Here are common outsourced business processes in a call center.
 
 - Customer Service
 - Technical Support

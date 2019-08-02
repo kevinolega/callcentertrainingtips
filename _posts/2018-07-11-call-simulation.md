@@ -31,11 +31,19 @@ When you know the elements in advance, you will be better prepared.
 
 Here are some rules that we follow during a call.
 
-**Never panic**. 
+## Never panic. 
 
-You learn to do this by being familiar with the situation. You become familiar with the situation by study and experience. In my case, I failed a few times until I understood common patterns. Take deep breaths before a call. Smile when you get nervous.
+You learn to do this by being familiar with the situation. 
 
-**Never get angry**. 
+You become familiar with the situation by study and experience. 
+
+In my case, I failed a few times until I understood common patterns. 
+
+Take deep breaths before a call. 
+
+Smile when you get nervous.
+
+## Never get angry. 
 
 In a customer service situation, some customers will love you.
 
@@ -47,9 +55,15 @@ Whatever the situation is,
 
 Never get angry at the customer. 
 
-The customer is having the worst day of his or her life and only you can fix the problem. The customer is not angry at you. The customer is in pain. Your job is to fix it. 
+The customer is having the worst day of his or her life and only you can fix the problem. 
 
-Here's a tip. Call center agents describe this situation as "angry customer" or "irate customer." In my mind, I replace the word "angry" and "irate" or "upset" with the word "passionate" to describe the situation.
+The customer is not angry at you. 
+
+The customer is in pain. Your job is to fix it. 
+
+## Here's a tip. 
+
+Call center agents describe this situation as "angry customer" or "irate customer." In my mind, I replace the word "angry" and "irate" or "upset" with the word "passionate" to describe the situation.
 
 The customer is passionate about getting his service back.
 
@@ -77,21 +91,69 @@ Adding the word passionate makes a scary call a fun one for me.
 
 This tip had made the senior team leader refer to me as "the super-agent" because I had the highest amount of good customer service feedback and the highest amount of sales in the entire account for that day. 
 
-Another tip. Angry customers are customers who will most likely give "feedback about the customer service representative" and how well you handle the call will reflect your customer service score. This is the reason why I love passionate customers. They are responsible for my 20-30% pay increase.
+## Another tip. 
 
-**Use positive phrasing**. Don't say "your package will be delayed by four days." Instead, say "In four days you'll get to enjoy your package" The glass is half full not empty. You need to master this because positively phrasing things will allow you to communicate your message without being interrupted by negative emotions. You can learn this. I'm giving you instructions you can do this yourself. Is a lot better than. You suck. 
+Angry customers are customers who will most likely give "feedback about the customer service representative" and how well you handle the call will reflect your customer service score. 
 
-**Use simple words**. College English with five-syllable words that nobody but intellectual snobs use anyone? No thanks. Use the simplest words that you can. 
+This is the reason why I love passionate customers. 
 
-**Say it with a smile**. Your smile can be heard over the phone. 
+They are responsible for my 20-30% pay increase.
 
-**Speak loud and clear**. You're projecting your voice to be heard in another country. Speak loud and clear. We're not in school anymore passing test answers with our classmates. Seriously, speak loud and clear. Practice it. You need to be heard and understood. Inhale before you speak and increase the volume louder than you're used to especially if you're a shy person like me. 
+## Use positive phrasing. 
+
+Don't say "your package will be delayed by four days." Instead, say "In four days you'll get to enjoy your package" The glass is half full not empty. 
+
+You need to master this because positively phrasing things will allow you to communicate your message without being interrupted by negative emotions. 
+
+You can learn this. 
+
+I'm giving you instructions you can do this yourself.
+
+Is a lot better than. 
+
+You suck. 
+
+## Use simple words. 
+
+College English with five-syllable words that nobody but intellectual snobs use anyone? 
+
+No thanks. 
+
+Use the simplest words that you can. 
+
+## Say it with a smile. 
+
+Your smile can be heard over the phone. 
+
+## Speak loud and clear. 
+
+You're projecting your voice to be heard in another country. 
+
+Speak loud and clear. 
+
+We're not in school anymore passing test answers with our classmates. 
+
+Seriously, speak loud and clear. 
+
+Practice it. 
+
+You need to be heard and understood. 
+
+Inhale before you speak and increase the volume louder than you're used to especially if you're a shy person like me. 
 
 
-**Avoid dead air**. While waiting for things to load provide the customer with important information about the process or procedures and/or build rapport. How is your day going so far? 
+## Avoid dead air. 
+
+While waiting for things to load provide the customer with important information about the process or procedures and/or build rapport.
+
+How is your day going so far? 
 
 
-**Use common sense**. Only say what is needed and nothing more. Your goal is to get to a resolution or the next step as quickly as possible. 
+## Use common sense. 
+
+Only say what is needed and nothing more. 
+
+Your goal is to get to a resolution or the next step as quickly as possible. 
 
 **Think solutions not excuses**
 
@@ -107,71 +169,143 @@ Once you are familiar with the parts you will be familiar how to do it properly 
 Once you are very familiar with these elements you can pass this test all the time. 
 
 
-**Introduction**.  
+## Introduction.  
 
-Thank you for calling (possibly or if needed insert company name) . My name is Kevin. How can I help you? 
+Thank you for calling (possibly or if needed insert company name). 
 
-**Acknowledge**. 
+My name is Kevin. 
 
-Okay. I see. Let the customer know that you hear them. 
+How can I help you? 
 
-**Clarify**. 
+## Acknowledge. 
 
-So you calling regarding... Rephrase the situation or customer concern. Just to make sure I understand the situation correctly. Rephrase the situation. You may further clarify by asking did I get that correctly? 
+Okay. 
 
-**Probe**. 
+I see. 
 
-Can you tell me more about you. Insert issue or problem you are experiencing. 
+Let the customer know that you hear them. 
 
-**Apologize**. 
+## Clarify. 
 
-I'm sorry to hear about that. I'm sorry you are encountering some issues with your service. I'm sorry for the specific experience you are encountering. I apologize for (specific issue). Avoid saying, I'm sorry for that or I apologize for that. Always refer to the specific issue. I'm sorry to hear that the delivery wasn't on time. I apologize that you are experiencing difficulty with your service.
+So you calling regarding... 
+
+Rephrase the situation or customer concern. 
+
+Just to make sure I understand the situation correctly. 
+
+Rephrase the situation. 
+
+You may further clarify by asking did I get that correctly? 
+
+## Probe. 
+
+Can you tell me more about you. 
+
+Insert issue or problem you are experiencing. 
+
+## Apologize. 
+
+I'm sorry to hear about that. 
+
+I'm sorry you are encountering some issues with your service. 
+
+I'm sorry for the specific experience you are encountering. 
+
+I apologize for (specific issue). 
+
+Avoid saying, I'm sorry for that or I apologize for that.
+
+Always refer to the specific issue. 
+
+I'm sorry to hear that the delivery wasn't on time. 
+
+I apologize that you are experiencing difficulty with your service.
  
-**Empathize**. 
+## Empathize. 
 
-I understand why you are upset. I'm a customer as well and I know how frustrating it is when the product or service is not going or working smoothly. If I was in your situation I would be upset as well. 
+I understand why you are upset. 
 
-**Assure**. 
+I'm a customer as well and I know how frustrating it is when the product or service is not going or working smoothly. 
 
-But don't worry you have reached the right person or department. I'll work on getting insert specific issue fixed. 
+If I was in your situation I would be upset as well. 
 
-**Verify the customer**. 
+## Assure. 
 
-May I have your name address last four digits of your social , please. Just to make sure I have the right account may I have your insert required information. 
+But don't worry you have reached the right person or department. 
 
-**Hold procedure. **
+I'll work on getting insert specific issue fixed. 
 
-May I place you on hold for two minutes? I just need to double-check some information related to (their specific question)
+## Verify the customer. 
 
-**Thank the customer for complying. **
+May I have your name address last four digits of your social , please. 
+
+Just to make sure I have the right account may I have your insert required information. 
+
+## Hold procedure.
+
+May I place you on hold for two minutes? 
+
+I just need to double-check some information related to (their specific question)
+
+## Thank the customer for complying.
 
 If they give you their address or agree to wait on hold, always thank the customer. 
 
-**Solve the issue**. 
+## Solve the issue. 
 
 Provide the information or instructions needed or transfer the customer to the right department. 
 
-**Transfer procedures**. 
+## Transfer procedures. 
 
-To best assist you I'll transfer your call to specific department. They will be able to assist you with your specific concern. Please stay on the line I'll transfer your call now. 
+To best assist you I'll transfer your call to specific department. 
 
-**Summarize. **
+They will be able to assist you with your specific concern. 
 
-I'll just place some notes on the account. You called today about specific concern. We did specific action and your concern is now addressed. Or fixed. 
+Please stay on the line I'll transfer your call now. 
 
-**Provide additional assistance. **
+## Summarize.
 
-Would there be anything else that I can assist you with? Or do you have any other questions that I can answer for you? 
+I'll just place some notes on the account. 
 
-**Personalise. **
+You called today about specific concern. 
 
-Use the customer's name. It's Mr. Smith or Ms. Smith. Or their first name if they tell you that you can call them by they're first name. Don't use ma'am or sir.  It's a Filipino thing. Americans go by names. It affects your confidence negatively. It puts you in an interior position. Your job is to assist them as an equal and not pretend to be lower than them. Using sir and ma'am tells them that you didn't bother to remember their name when they told you the first time. Using sir and ma'am is only allowed if the customer has a name that sounds like a curse word. 
+We did specific action and your concern is now addressed. Or fixed. 
 
-**Closing spiel. **
+## Provide additional assistance.
+
+Would there be anything else that I can assist you with? 
+
+Or do you have any other questions that I can answer for you? 
+
+## Personalise.
+
+Use the customer's name. 
+
+It's Mr. Smith or Ms. Smith. 
+
+Or their first name if they tell you that you can call them by they're first name. 
+
+Don't use ma'am or sir.  
+
+It's a Filipino thing. 
+
+Americans go by names. 
+
+It affects your confidence negatively. 
+
+It puts you in an interior position. 
+
+Your job is to assist them as an equal and not pretend to be lower than them. 
+
+Using sir and ma'am tells them that you didn't bother to remember their name when they told you the first time. 
+
+Using sir and ma'am is only allowed if the customer has a name that sounds like a curse word. 
+
+## Closing spiel.
 
 Thank you for calling (insert company name). 
 
-**Branding. **
+## Branding.
 
 Just insert the company name at the opening and closing spiel as needed. 
 
@@ -186,7 +320,9 @@ Always use your common sense.
 
 Listen attentively to the questions or what the customer is saying.
 
-Ask questions if you don't understand. Always practice the clarify step.
+Ask questions if you don't understand. 
+
+Always practice the clarify step.
 
 Don't say, "come again?" Instead, use proper English.
 

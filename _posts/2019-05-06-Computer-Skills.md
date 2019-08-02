@@ -26,7 +26,7 @@ Great! Like you have a choice.
 
 Congratulations you’re computer literate. 
 
-**Advanced questions:**
+## Advanced questions:
 
 - Do you know how to search for things in Google?
 - Do you know how to save your files in a USB flash drive?

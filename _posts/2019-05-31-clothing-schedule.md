@@ -110,7 +110,7 @@ Start with work clothes.
 
 When you are done, include gym clothes and lounge (pambahay) clothes.
 
-### What are the benefits of following a clothing schedule if you work in a BPO or call center?
+## What are the benefits of following a clothing schedule if you work in a BPO or call center?
 
 If you save an hour a day...
 

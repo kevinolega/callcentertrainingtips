@@ -146,7 +146,7 @@ But never say that you can't.
 
 On your journal, write down all the times you wanted to give up.
 
-**Questions to Ponder:**
+## Questions to Ponder:
 
 What situations did I want to give up on things that are important to me?
 

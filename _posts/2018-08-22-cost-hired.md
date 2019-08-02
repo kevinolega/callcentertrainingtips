@@ -31,7 +31,7 @@ Here's the other part that you need to prepare for.
 
 The expenses part.
 
-I divided this guide into the following stages:
+## I divided this guide into the following stages:
 
 1.  Preparation Stage
 2.  Job Application Stage
@@ -104,9 +104,13 @@ I only included the cost of each trip going out at Php 150 per day for pre-hire 
 
 That's if we presume that you only need to spend that much on fare and food. 
 
-When I go out, I do my best to have only one meal and no snacks. I am fortunate that my family has some snacks and prepares my meals so I saved some money.
+When I go out, I do my best to have only one meal and no snacks. 
 
-Not really. Their resources were still used in the process.
+I am fortunate that my family has some snacks and prepares my meals so I saved some money.
+
+Not really. 
+
+Their resources were still used in the process.
 
 I added Php 50 per day post-hire because some people need their coffee.
 

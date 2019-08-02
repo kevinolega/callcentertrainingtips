@@ -261,7 +261,7 @@ This is to test if you are awake or capable of thinking.
 
 That's because in customer service and sales situations, some customers will try to trick you to agree to something you are not supposed to agree to. 
 
-For example:
+## For example:
 
 - Refund all the customers money even if it's not okay to do so.
 - Get a bunch of free benefits that you're not supposed to give.

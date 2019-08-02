@@ -180,12 +180,14 @@ Because if you only have confidence, you're called a scammer and people will fin
 
 And people who have both skill and confidence gets rewarded.
 
-So two things to remember.
+## Two things to remember.
 
 1. Practice to build skills.
 2. Skills are only rewarded when combined with confidence.
 
-More than ten years later, I encounter the drawings of Alex Ross, one of my favorite comic book artists. Then I saw this posted on his social media page.
+More than ten years later, I encounter the drawings of Alex Ross, one of my favorite comic book artists. 
+
+Then I saw this posted on his social media page.
 
 Just look at that comparison.
 

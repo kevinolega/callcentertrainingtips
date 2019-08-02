@@ -19,9 +19,17 @@ However, with knowledge about yourself, I recommend that you come prepared.
 
 The most important details are:
 
-### 1. Your introduction
+## 1. Your introduction
 
-Who are you? Where are you from? What are your positive professional traits? Why do you want to work in a call center? What skill and attitude did you pick up in your previous job do you think would be useful for a call center agent.
+Who are you? 
+
+Where are you from? 
+
+What are your positive professional traits? 
+
+Why do you want to work in a call center? 
+
+What skill and attitude did you pick up in your previous job do you think would be useful for a call center agent.
 
 Write your answers to these questions down. 
 
@@ -34,7 +42,7 @@ Use a complete sentence.
 Have your answers checked by somebody who's great at speaking in English?
 
 
-### 2. Asking questions
+## 2. Asking questions
 
 Questions tell the interviewer that you are an intelligent person. 
 
@@ -70,12 +78,18 @@ If you've ever listened to a call center spiel here are examples.
 - Is there anything else that I can assist you with?
 
 
-And so on. Mastering this part and sounding great in English pretty much guarantees getting hired in a call center. Unless you have a rotten attitude. This is often the main reason why an interviewer will decline someone with great English.
+And so on. 
+
+Mastering this part and sounding great in English pretty much guarantees getting hired in a call center.
+
+Unless you have a rotten attitude. 
+
+This is often the main reason why an interviewer will decline someone with great English.
 
 
 
 
-### 3. Giving instructions
+## 3. Giving instructions
 
 It's important to remember the following when giving instructions.
 
@@ -85,7 +99,7 @@ It's important to remember the following when giving instructions.
 - Pause a little between steps.
 - Speak loud and clear.
 
-### 4. Telling stories
+## 4. Telling stories
 
 It is important to follow the same rules with instructions as in stories.
 
@@ -97,7 +111,11 @@ Here are some examples.
 
 **Customers:**
 
-I understand how difficult the situation is now that your service is currently not working. I have assisted a couple of customers who are experiencing the exact same issue that you described. That's why I'm confident that I'll be able to assist you.
+I understand how difficult the situation is now that your service is currently not working. 
+
+I have assisted a couple of customers who are experiencing the exact same issue that you described. 
+
+That's why I'm confident that I'll be able to assist you.
 
 **Interviewer (Sales):**
 
@@ -105,7 +123,9 @@ One of the most challenging things about sales is how some customers initially a
 
 **Interviewer (General):**
 
-I used to be a really shy person but I learned from some friends that the pay is really good in this industry. I asked a lot of people, read a lot of books, studied and practiced a lot until I can improve myself. 
+I used to be a really shy person but I learned from some friends that the pay is really good in this industry. 
+
+I asked a lot of people, read a lot of books, studied and practiced a lot until I can improve myself. 
 
 In all these areas practice how you say your words.
 
@@ -125,11 +145,15 @@ You need to be willing to work graveyard shifts.
 
 You need to be willing to work on weekends and holidays.
 
-You need to be on time all the time. Better an hour early than a couple of minutes late. My previous company sometimes fires people if they accumulate fifteen minutes of total late in a month.
+You need to be on time all the time. Better an hour early than a couple of minutes late. 
+
+My previous company sometimes fires people if they accumulate fifteen minutes of total late in a month.
 
 You need to learn and apply new instructions fast because incentives and rules change fast in a call center.
 
-You need to prioritize work. Minimize night outs or personal errands that will conflict with your work schedule.
+You need to prioritize work. 
+
+Minimize night outs or personal errands that will conflict with your work schedule.
 
 You need to build an environment that will guarantee that you can get eight actual hours of sleep.
 

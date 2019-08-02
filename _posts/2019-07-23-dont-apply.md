@@ -78,13 +78,31 @@ If your company wants sales, you get paid extra every time a customer buys or ev
 
 In a lot of situations, not hitting your sales quota can get you fired.
 
-If you’re in customer service or tech support, how well you follow the script is graded and a high score may lead to an incentive this is often referred to as the QA score or Quality Assurance score. There are people who listen to your calls and grade your calls based on how many lines that you say well and give you a negative every time you make an error or forget something. 
+If you’re in customer service or tech support, how well you follow the script is graded and a high score may lead to an incentive this is often referred to as the QA score or Quality Assurance score. 
 
-If your customer values speed of processing customer requests then completing calls as fast as possible while keeping the customer satisfied. This is often called AHT or Average Handling Time. If your calls are long, expect your TL to stand behind you giving you reminders to speed up your call and the TL’s boss to yell your name alerting everyone that your calls are too long.
+There are people who listen to your calls and grade your calls based on how many lines that you say well and give you a negative every time you make an error or forget something. 
 
-Your customers, at the end of the call is often asked to do a survey. They’ll be asked how happy they are with the company, the service and you. If they say no to two of five questions you failed already. Where I worked this is an extra 4K a month. Failing this because an unhappy customer gave me a poor score will mean me not receiving any extra income.
+If your customer values speed of processing customer requests then completing calls as fast as possible while keeping the customer satisfied. 
 
-Some call center companies offer an attendance bonus for perfect attendance. Often, this only applies to perfect attendance. So if you arrive on time and never late or absent, you get paid extra. This is often, an all or nothing monthly deal usually and that means if you are absent once or late once, you won’t receive any money for your near-perfect attendance.
+This is often called AHT or Average Handling Time. 
+
+If your calls are long, expect your TL to stand behind you giving you reminders to speed up your call and the TL’s boss to yell your name alerting everyone that your calls are too long.
+
+Your customers, at the end of the call is often asked to do a survey. 
+
+They’ll be asked how happy they are with the company, the service and you. 
+
+If they say no to two of five questions you failed already. 
+
+Where I worked this is an extra 4K a month. 
+
+Failing this because an unhappy customer gave me a poor score will mean me not receiving any extra income.
+
+Some call center companies offer an attendance bonus for perfect attendance. Often, this only applies to perfect attendance. 
+
+So if you arrive on time and never late or absent, you get paid extra. 
+
+This is often, an all or nothing monthly deal usually and that means if you are absent once or late once, you won’t receive any money for your near-perfect attendance.
 
 ## Night Shift Work Schedule
 
@@ -96,16 +114,26 @@ So office hours there will be evening here.
 
 For example, I work 8-5pm Eastern Standard time, that will mean that I’m online 8pm till 4am here in Philippine Time.
 
-In some situations, I’m part of the closing shift. I work from 2pm to 11pm Eastern Standard Time. 
+In some situations, I’m part of the closing shift. 
+
+I work from 2pm to 11pm Eastern Standard Time. 
 
 That means 2am Philippine time.
 
 
 ## Holidays and Weekends Work Schedule
 
-Holidays in the Philippines do not match holidays in other countries. That said, if it’s Ninoy Aquino day here, the US doesn’t care, and you still have to go to work. You usually get paid extra on holidays.
+Holidays in the Philippines do not match holidays in other countries. 
 
-Also, notice that malls are open on weekends and holidays? That’s kind of how you will work. You are likely going to work on weekends and holidays. Weekends, holidays and the day before or after your payday is often considered a critical workday, and not going to work on one of those days can get you fired.
+That said, if it’s Ninoy Aquino day here, the US doesn’t care, and you still have to go to work. 
+
+You usually get paid extra on holidays.
+
+Also, notice that malls are open on weekends and holidays? 
+
+That’s kind of how you will work. 
+
+You are likely going to work on weekends and holidays. Weekends, holidays and the day before or after your payday is often considered a critical workday, and not going to work on one of those days can get you fired.
 
 ## Shifting schedule
 
@@ -139,7 +167,9 @@ That’s because call center jobs are not as stable as you think it is.
 
 If the client is unhappy, if they lose money, if their customers are not satisfied, the client can give the job to another call center or they will hire their own internal staff.
 
-There’s also the risk of technology replacing call centers. Instead of having to call someone, you can transact or send requests through an app although it may not happen soon, gradually there will be less job openings or less opportunities for promotion.
+There’s also the risk of technology replacing call centers. 
+
+Instead of having to call someone, you can transact or send requests through an app although it may not happen soon, gradually there will be less job openings or less opportunities for promotion.
 
 Call center managers do everything in their power to keep clients happy, so everyone gets to keep their job and that’s why you have to do your part.
 
@@ -199,9 +229,9 @@ Study your notes.
 
 Rewrite lessons as you improve yourself.
 
-You have to do it.
+**You have to do it.**
 
-Nobody will do it for you.
+**Nobody will do it for you.**
 
 ## Negative comments from your circle
 
@@ -322,7 +352,7 @@ It is a high paying job that requires me to be physically, emotionally and menta
 
 It is an opportunity with a personal cost.
 
-**Question to ponder**
+## Question to ponder:
 
 Am I willing to change myself to get the job?
 

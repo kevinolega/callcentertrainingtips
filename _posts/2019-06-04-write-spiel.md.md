@@ -88,7 +88,7 @@ If you're in customer service or tech support, you'll have several of these.
 
 Different customer service and tech support situations have different closing spiels.
 
-### 3. Identify the different situations and calls that require different spiels.
+## 3. Identify the different situations and calls that require different spiels.
 
 During training, I ask my trainer and my team lead what the top five of the following: 
 
@@ -107,7 +107,7 @@ Easiest to the hardest.
 
 I take care of the easy ones first. Then I break down the hardest and solve it on my end.
 
-### 4. Rewrite your spiels based on the different situations.
+## 4. Rewrite your spiels based on the different situations.
 
 What parts of the spiel are the same on different situations?
 
@@ -120,7 +120,7 @@ Rewrite and separate the opening, middle and closing.
 Next.
 
 
-### 5. Rewrite the spiel line by line and leave three spaces after each line.
+## 5. Rewrite the spiel line by line and leave three spaces after each line.
 
 We need to break down every element. 
 
@@ -130,7 +130,7 @@ We remove each part and carefully lay it on a clean space to find what's broken 
 
 Then we carefully put the engine back.
 
-### 6. Study each line of your spiel and find problems.
+## 6. Study each line of your spiel and find problems.
 
 Read each line out loud.
 
@@ -149,13 +149,13 @@ Think of ways to make the sentence friendlier.
 Think of ways to make the sentence less offensive by replacing the sentence with more customer-friendly terms.
 
 
-### 7. Carefully combine the elements of your spiel back together.
+## 7. Carefully combine the elements of your spiel back together.
 
 Write down your spiel again, back into a full call and read it aloud to see if there are any problems with it.
 
 Repeat the previous steps if you find another problem.
 
-### 8. Add the proper emotion and tone of voice to your delivery.
+## 8. Add the proper emotion and tone of voice to your delivery.
 
 You should sound professional over the phone. 
 
@@ -171,7 +171,7 @@ Play with it.
 
 How would your favorite actor or character take the call?
 
-### Closing:
+## Closing:
 
 You'll do a lot of writing.
 

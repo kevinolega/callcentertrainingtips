@@ -7,7 +7,7 @@ author: Kevin Olega
 --- 
 This lesson doesn't have an intro but the tips will help you get hired.
 
-**1. Do an inventory of topics you enjoy talking about.**
+## 1. Do an inventory of topics you enjoy talking about.
 
 Here's mine:
 
@@ -23,21 +23,27 @@ Here's mine:
 
 I plan out each topic on a notebook and use when appropriate.
 
-**2. Have a story for each job or school that you went to.**
+## 2. Have a story for each job or school that you went to.
 
 I usually have one success story and a one unforgettable lesson story.
 
-**3. Sell your skills**
+## 3. Sell your skills
 
 Think of a non-related skill that you have and think of a way to reason the skill to convince your interviewer that that skill makes you an awesome call center agent.
 
-Sales experience allows you to explain important details well. Insert story.
+Sales experience allows you to explain important details well. 
 
-Tech support allowed me to develop my eye for detail. Insert story.
+Insert story.
 
-Mall job allowed me to get used to rejection. Insert story.
+Tech support allowed me to develop my eye for detail. 
 
-**4. Don't read everything when applying online.**
+Insert story.
+
+Mall job allowed me to get used to rejection. 
+
+Insert story.
+
+## 4. Don't read everything when applying online.
 
 This allows me to send more job applications and get more interviews.
 

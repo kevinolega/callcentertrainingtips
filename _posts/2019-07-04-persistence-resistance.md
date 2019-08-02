@@ -34,7 +34,7 @@ If you are a failure...
 
 That is your own doing.
 
-Bible says: God created you in His own image.
+**Bible says: God created you in His own image.**
 
 My question to you is...
 
