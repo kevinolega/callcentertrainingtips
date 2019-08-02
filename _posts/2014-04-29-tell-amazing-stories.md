@@ -6,7 +6,7 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-Look at your résumé and for each section.
+**Look at your résumé and for each section.**
 
 Tell a story about what's awesome about (specific work experience)
 Tell a story about what sucks about (same specific work experience)
@@ -19,7 +19,7 @@ Your home address, your school, from elementary to high school to college, the p
 
 Practice telling these stories.
 
-**What's the point?**
+## What's the point?
 
 Ever want to come up with awesome answers to call center interviews? 
 
