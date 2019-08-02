@@ -21,9 +21,9 @@ If you believe you're awesome, you'll find a way.
 
 The purpose of this lesson is to get you to realize how awesome you are and to get you to repeat that in your future activities and challenges.
 
-#### Here's a quick guide
+## Here's a quick guide
 
-##### Identify the following:
+#### Identify the following:
 
 
 **Blessings** 
