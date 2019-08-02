@@ -42,7 +42,7 @@ If you don't then I hope you leave your answers in the comments to share with ot
 
 Knowing yourself and how to use what you have and do what you can is the key. It's my idea so I'll go first.
 
-### 1. I only had one year in college. 
+## 1. I only had one year in college. 
 
 That's what makes me unique. 
 
@@ -56,7 +56,7 @@ This gives me a four-year head start in the business world compared to everybody
 
 By the way what got you interested in considering me for the position?
 
-### 2. I'm a slow learner 
+## 2. I'm a slow learner 
 
 I'm a kinesthetic learner. 
 
@@ -66,7 +66,7 @@ I don't always recognize patterns and connect the dots immediately.
 
 But when I learn the ropes I tend to master them to the point that I can do it while I sleep.
 
-### 3. I think I have ADHD 
+## 3. I think I have ADHD 
 
 I think its a disadvantage because I sometimes think a thousand thoughts per second. 
 
@@ -80,7 +80,7 @@ So nothings ever permanent.
 
 I can't sit still and I always have to tinker with something.
 
-### 4. I was raised by a single mom 
+## 4. I was raised by a single mom 
 
 At an early age I was in touch with the challenges of reality. 
 
@@ -92,7 +92,7 @@ I knew that money wasn't unlimited and had to look for ways to earn at an early 
 
 This led me to make a combination of ideal and practical choices like wanting to become the perfect partner and be self-sufficient.
 
-### 5. We don't come from a wealthy family 
+## 5. We don't come from a wealthy family 
 
 I didn't start out with a wealthy family so I'm not fixed on having a high maintenance life. 
 
@@ -100,7 +100,7 @@ They say experiencing poverty brings out creativity to overcome tough times.
 
 I have a lot of ideas but I can guarantee that they are practical and actionable. (not out of this world and philosophical)
 
-### 6. I'm not that good in math 
+## 6. I'm not that good in math 
 
 That's true. 
 
@@ -108,19 +108,19 @@ I loved math but it's mostly one way.
 
 Except if I'm counting money.
 
-### 7. I live outside the city 
+## 7. I live outside the city 
 
 I live an hour away from here which gives me an advantage of being forced to start earlier and not leave the house at the last minute. 
 
 I also get a couple of hours each day to decompress and leave work at the office and leave personal problems at home.
 
-### 8. I didn't do that well in school 
+## 8. I didn't do that well in school 
 
 I did better at other things like creating art, making connections, written correspondence, out of the box problem solving and eliminating unnecessary tasks. 
 
 At school that translated to drawing in class, being talkative, passing notes in class, not following instructions and not copying notes (the reality is I summarized notes into keywords and sometimes hieroglyphic like drawings and memorized it).
 
-### 9. I failed a lot of times at. <insert failure> 
+## 9. I failed a lot of times at. <insert failure> 
 
 It took me a while to lean this task but the thing is I handled this task enough times to know the ins and outs of it and I wasn't unrealistic to get this right the first time because it is the first time I handled a task like this. 
 
@@ -128,7 +128,7 @@ My previous experience was <insert totally unrelated task> and despite that I am
 
 If you give me a chance and a little help I can show you what it's like to have someone on your team who mastered this process.
 
-### 10. I moved jobs several times. 
+## 10. I moved jobs several times. 
 
 I see all work opportunities as partnerships. 
 

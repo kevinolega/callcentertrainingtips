@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Be a Positive Problem Solver
+title: How To Be A Positive Problem Solver
 date: 2013-07-25 10:34
 author: Kevin Olega
 comments: true

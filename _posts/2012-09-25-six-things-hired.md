@@ -12,7 +12,7 @@ Despite my disadvantages and my errors I got hired in a call center.
 
 Looking back here are some of the things that I think I did right that got me hired in a call center.
 
-### 1. I spoke in English All the time 
+## 1. I spoke in English All the time 
 
 I texted my friends in English. 
 
@@ -24,7 +24,7 @@ I watched English shows and read English books.
 
 Later on since I can't talk to anyone during my commute to my interview I talked to myself in my head in English practicing my answers.
 
-### 2. I tried to improve 
+## 2. I tried to improve 
 
 I knew I wasn't perfect. 
 
@@ -32,7 +32,7 @@ The fact that I'm not hired yet means I can do better at what I'm trying to do.
 
 When I figure out how this works then it will be worth it but until I do I have to keep trying.
 
-### 3. I went with friends 
+## 3. I went with friends 
 
 I also had some friends who were looking for work. 
 
@@ -46,7 +46,7 @@ We went to the big ones in Makati then Ortigas.
 
 It was a fun experience and while I didn't know what to do I had someone with me who had experience walking in and submitting her resume to reception and knew a few call center companies in different buildings.
 
-### 4. I made new friends 
+## 4. I made new friends 
 
 Both of the girls I was with when I applied didn't join me on the fourth day. 
 
@@ -74,7 +74,7 @@ I met a few who were really pretty and some of them became my friends.
 
 In fact one of the girls I met was the one who coded my first few websites for close to free and I'm forever thankful for her help.
 
-### 5. I kept asking for help 
+## 5. I kept asking for help 
 
 Whenever I get the chance I would tell my interviewer or some call center employee in the smoking area that it was my first time looking for work and I was hoping they could give me some tips. 
 
@@ -88,7 +88,7 @@ If nobody helps you out, then I'm here.
 
 Ask me.
 
-### 6. I kept applying 
+## 6. I kept applying 
 
 I met several people in my job hunt and a lot of them didn't get hired in a call center. 
 
