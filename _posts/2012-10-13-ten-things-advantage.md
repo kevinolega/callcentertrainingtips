@@ -58,7 +58,7 @@ I have a whole website dedicated to helping you find work.
 
 For now here’s my list of things that give me an advantage at work:
 
-**1. I can speak in English.** 
+## 1. I can speak in English. 
 
 Most Filipinos I know don’t want to hear me speak in English. 
 
@@ -104,7 +104,7 @@ There are a lot of things I couldn't talk about.
 
 This is only part one but if you’re going to pick up something from me it’s should be that you need to learn how to speak in English well.
 
-**2. I read everyday**. 
+## 2. I read everyday. 
 
 I only spent one year in college. 
 
@@ -126,7 +126,7 @@ I collect ideas.
 
 What I collect gets processed and if I could use it to my advantage, I use it.
 
-**3. I spent one year in college**.
+## 3. I spent one year in college.
 
 I know how to learn on my own. 
 
@@ -190,7 +190,7 @@ I account skills into short posts and lessons so I could pull it out to teach to
 
 It’s a lot of work but so is what everybody else is doing but I see it as an advantage.
 
-**4. I know how to write**. 
+## 4. I know how to write. 
 
 I had really bad communication skills. 
 
@@ -240,7 +240,7 @@ I also write plans and budgets and stuff like that.
 
 If it looks good on paper I test it out in real life.
 
-**5. I have a website**.
+## 5. I have a website.
 
 I started [minimal changes as my first website](http://minimalchanges.com).
 
@@ -270,7 +270,7 @@ I can’t explain all the details now (maybe next time) but it’s all true.
 
 My favorite part was I built minimal changes to answer some questions that people ask me.
 
-**6. I know how to use a computer.** 
+## 6. I know how to use a computer. 
 
 Up til today I meet people who proudly say they don't know how to use computers. 
 
@@ -301,7 +301,7 @@ It could even impress your boss.
 
 Read <a href="http://lifehacker.com">lifehacker for more tech tricks</a>.
 
-**7. I’m not really a corporate guy**  
+## 7. I’m not really a corporate guy  
 
 Many people are set to think within corporate boundaries. 
 
@@ -329,7 +329,7 @@ We interact with people.
 
 People take things personally.
 
-**8. I’m willing to share my ideas.**  
+## 8. I’m willing to share my ideas.  
 
 Many people warn me about my websites because I share too much ideas. 
 
@@ -371,7 +371,7 @@ Freely I receive and freely I give.
 
 I encourage you to do to.
 
-**9. I have some savings.**  
+## 9. I have some savings. 
 
 If you don’t have money it’s difficult to make the right decisions. 
 
@@ -393,7 +393,7 @@ I’m currently aiming for a year’s worth of paychecks.
 
 Too difficult? See my next tip.
 
-**10. I’m a minimalist.**  
+## 10. I’m a minimalist. 
 
 Here’s why I have savings. 
 
@@ -419,7 +419,9 @@ Minimalism is about saying no so you have resources for what’s beautiful and w
 
 I write more about it in my [website: Minimal Changes](http://minimalchanges.com).
 
-**11. I worked in sales. ** 
+###BONUS 
+
+## 11. I worked in sales.
 
 Most people are afraid of sales. 
 
