@@ -19,7 +19,7 @@ Pre-employment requirements are a common chore that needs to be done to finalize
 
 Primary requirements are often required immediately (usually the same week or the week) after hire date.
 
-#### These are the Call Center Pre Employment Requirements in the Philippines
+### These are the Call Center Pre Employment Requirements in the Philippines
 
 **SSS Document E-1 / E-4 /E-6 dully received by SSS.** 
 
@@ -58,12 +58,12 @@ Whenever you're submitting photocopy be sure to include both front and back of t
 _Samples of Primary ID's include:_ 
 
 - **Unified or Digitized SSSID** 
-- **Drivers license. **Should be current. By current, they mean not expired. 
-- **Passport. **Should be current. By current, they mean not expired. 
-- **PRC ID. **Should be current. By current, they mean not expired. Secondary ID's include: 
+- **Drivers license.**Should be current. By current, they mean not expired. 
+- **Passport.**Should be current. By current, they mean not expired. 
+- **PRC ID.**Should be current. By current, they mean not expired. Secondary ID's include: 
 - **Postal ID**. I got mine at a post office. Paid about Php 200. 
-- **Voter's ID. **I don't have one. 
-- **TIN ID. **I don't have one. 
+- **Voter's ID.**I don't have one. 
+- **TIN ID.**I don't have one. 
 - **Philhealth ID with Photo.** My previous employer provides this. 
 - **Updated NBI Clearance.** Turns out you can use your NBI clearance as additional ID Secondary pre-employment requirements often required before hitting the end of your training or before you start production work. 
 
@@ -132,7 +132,7 @@ Requirements vary from company to company however these are the common minimum r
 
 Please inquire with your local HR for
 
-#### Failure often leads to:
+### Failure often leads to:
 
 - No job offer or withdrawal of job offer.
 - Salary delays often resulting from lack of requirements needed for ATM creation.
