@@ -26,7 +26,7 @@ This had happened to me a few times.
 
 My interviewer was totally talking about a different situation than what I understood about the question and as a result my interviewer pointed out that I didn't understand the question.
 
-##### What will happen if I verify and rephrase?
+## What will happen if I verify and rephrase?
 
 You demonstrate professionalism and listening skills.
 
@@ -36,7 +36,7 @@ Better answers are thought of because you have more time to think.
 
 You can also use it to avoid looking stupid (or lying) when you use uhmms and uhhhh's.
 
-##### How do I verify and rephrase?
+## How do I verify and rephrase?
 
 Before I answer a question I ask them if I got the question correctly and to make sure I got it correctly I rephrase the question.
 
