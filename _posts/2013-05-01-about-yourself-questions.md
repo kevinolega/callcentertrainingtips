@@ -13,11 +13,11 @@ I found out today that a lot of people when asked about themselves give bullshit
 
 "I'm a patient, hardworking person that is looking for ways to contribute my skills and talents to your company." or something like this:
 
-1) I am a person with strong interpersonal skills and have the ability to get along well with people. 
+## 1) I am a person with strong interpersonal skills and have the ability to get along well with people. 
 
 I enjoy challenges and looking for creative solutions to problems.
 
-2) Besides the details given in my resume, I believe in character values, vision and action. 
+## 2) Besides the details given in my resume, I believe in character values, vision and action. 
 
 I am quick in learning from mistakes. 
 
@@ -25,8 +25,8 @@ I am confident that the various tests that you have conducted will corroborate m
 
 If you were applying in my company and give me those answers it will give me the following impressions:
 
-One: You are bullshitting me.
-Two: You are lazy. I am asking about you and you are giving me a copy pasted answer from the internet.
+** One: You are bullshitting me.**
+** Two: You are lazy. I am asking about you and you are giving me a copy pasted answer from the internet.**
 
 To solve this problem I'm going to teach you how I answer. 
 
@@ -51,45 +51,56 @@ I'd like to really connect with you by reading your answers.
 Copy-paste the questions and email me your answers or paste them in the comments below.
 
 What is your name?
+
 Where are you from?
+
 What was your past work?
+
 What did you do in that job?
+
 What kind of traits can you take from that job and apply it in a call center job?
+
 Why did you pick that job?
+
 Why did you pick this job?
+
 Where did you study?
+
 How do you spend your free time?
+
 What do you enjoy doing?
+
 What kind of people do you enjoy being with?
+
 What's your favorite quote?
 
 How many times should you apply before getting hired in a call center?
 
-##### Here are my answers.
+# Here are my answers.
 
-##### What is your name?
+## What is your name?
 
 My name is Kevin Olega.
 
-##### Where are you from?
+## Where are you from?
 
 I live in Sucat in Paranaque. 
 
 I also lived in Alabang, QC, Mandaluyong and Makati.
 
-##### What was your past work?
+## What was your past work?
 
 I used to work in sales and business development (a fancy way of saying, sales, marketing, training and whatever else the hell the boss or the client wants me to do).
 
-##### What did you do in that job?
+## What did you do in that job?
 
 I offered products and services to clients (mostly companies) and took care of requests.
 
-##### What kind of traits can you take from that job and apply it in a call center job?
+## What kind of traits can you take from that job and apply it in a call center job?
 
 Well since I was doing sales, I learned that how you say things is a big factor in convincing people to listen and act on the solution I'm presenting. I'm also dealing with difficult people whether they are prospects or clients.
 
-##### Why did you pick that job?
+## Why did you pick that job?
 
 I used to be a really shy person. 
 
@@ -97,7 +108,7 @@ A close friend of mine advised that I overcome this by getting a job in sales.
 
 After a few months I was able to get over my fear of talking to people and now I'm used to it.
 
-##### Why did you pick this job?
+## Why did you pick this job?
 
 I want to work in a call center because the pay is decent (I say decent because I've made bigger amounts of money in sales) and stable. 
 
@@ -113,19 +124,19 @@ No homework.
 
 I can have a life after work.
 
-##### Where did you study?
+## Where did you study?
 
 I studied in iAcademy in Makati.
 
-##### How do you spend your free time?
+## How do you spend your free time?
 
 I like writing, meeting new people, exploring the net and recently I am learning how to cook.
 
-##### What do you enjoy doing?
+## What do you enjoy doing?
 
 I enjoy traveling, writing, reading things, watching (feel good and inspiring) movies and collecting skills.
 
-##### What kind of people do you enjoy being with?
+## What kind of people do you enjoy being with?
 
 I enjoy hanging out with people who are positive and fun to talk to. 
 
@@ -135,11 +146,11 @@ I like people who like food and travel.
 
 I love meeting people who inspire me to be better.
 
-##### What's your favorite quote?
+## What's your favorite quote?
 
 Today's Tragedies are Tomorrow's Comedies - Colin Wright.
 
-##### How many times should you apply before getting hired in a call center?
+## How many times should you apply before getting hired in a call center?
 
 As many times as needed to get hired. 
 
