@@ -73,7 +73,7 @@ If you would like to follow the path of the performer here are some tips I've le
 - **Test your skills by showing it to others.**
 
 
-****Whether you pass or fail get feedback.**
+**Whether you pass or fail get feedback.**
 
 
 - What am I doing right? (continue and improve)
