@@ -7,7 +7,7 @@ comments: true
 categories: [Lessons]
 ---
 
-Consider this:
+## Consider this:
 
 - If you're a shy person and don't have a job, you don't have a job because you have limited communication skills.
 - You have limited communication skills because you don't practice.
@@ -34,7 +34,7 @@ Strengths may include your skills and/or attitudes and/or habits that you benefi
 
 You can use those gifts to serve others.
 
-##Write down a list of your weaknesses.
+## Write down a list of your weaknesses.
 
 Your weaknesses are challenges that can be overcome and will give you a glimpse of what you can do for others in the future. 
 
