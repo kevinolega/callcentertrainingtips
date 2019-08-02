@@ -92,7 +92,7 @@ Observation,  imitation and correction is the fastest way to learn English.
 
 Here's what you need to focus on. 
 
-1. **Introduction**. 
+**1. Introduction**. 
 
 Who are you? 
 
@@ -100,19 +100,19 @@ Where are you from?
 
 How do you spend your free time? What makes you awesome? 
 
-2. **Tell stories**. 
+**2. Tell stories**. 
 
 What are you good at?  
 
 What challenges have you faced recently and how did you overcome it? 
 
-3. **Give instructions**. 
+**3. Give instructions**. 
 
 How do you commute from Makati to your house? 
 
 How do you prepare you favorite meal? 
 
-4. **Ask questions**. 
+**4. Ask questions**. 
 
 Questions about call center. 
 
