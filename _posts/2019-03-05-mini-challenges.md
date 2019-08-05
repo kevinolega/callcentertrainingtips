@@ -7,7 +7,7 @@ author: Kevin Olega
 --- 
 My suggestion, print out four copies of this guide and post one on the wall next to your bed, one next to your computer, take one with you all the time and the other is a backup copy.
 
-Here are the mini-challenges (you do not have to do all of these, just pick one per week):
+## Here are the mini-challenges *(you do not have to do all of these, just pick one per week):*
 
 ### 1. Adding healthy things:
 
