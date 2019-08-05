@@ -6,12 +6,15 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-**Look at your résumé and for each section.**
+### Look at your resume and for each section.
 
-Tell a story about what's awesome about (specific work experience)
-Tell a story about what sucks about (same specific work experience)
-What have you learned from (specific work experience)
-What did you learn from (specific work experience) that would greatly contribute to you your job now?
+**Tell a story about what's awesome about** *(specific work experience)*
+
+**Tell a story about what sucks about** *(same specific work experience)*
+
+**What have you learned from** *(specific work experience)*
+
+**What did you learn from** *(specific work experience)* **that would greatly contribute to you your job now?**
 
 Apply this exercise to each section including the details. 
 
