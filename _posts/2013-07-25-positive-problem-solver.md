@@ -10,7 +10,7 @@ If you think about it carefully, people who succeed at their goals have a positi
 
 You don't have to blindly pretend that everything is fine but you need to acknowledge the fact that there is a solution to your problem.
 
-##Ask yourself:
+## Ask yourself:
 
 **What is the problem?**
 
@@ -42,13 +42,20 @@ The goal is to get the results that you want and/or improvement not credit or se
 
 If you've actively tried to learn any skill, I feel you will agree that the same rules apply.
 
-##To sum it up:
+## To sum it up:
 
 **1.  Be positive.**
+
 **2.  Look for solutions.**
+
 **3.  Start small. Then increase as you move forward.**
+
 **4.  Keep going.**
+
 **5.  Improve gradually**
+
 **6.  Look for ways to do it better.**
+
 **7.  Celebrate**
+
 **8.  Repeat**
