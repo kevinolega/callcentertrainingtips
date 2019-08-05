@@ -89,7 +89,8 @@ The more choices you have the smaller the problem becomes.
 For simple stuff write down three to five ideas for solutions then make your pick.
 
 For complex and important problems, write down ten or more possible solutions.
-Always pick the best one.
+
+*Always pick the best one.*
 
 A solution may be effective based on quality, convenience and cost.
 
@@ -99,9 +100,11 @@ Many times, the best solution is one that I can do now.
 
 I'll pick a good solution for my problem over the perfect solution for a problem but takes a long time to execute.
 
-Did the solution work? If yes, good. 
+*Did the solution work?* 
 
-If no, try something else.
+If *yes*, good. 
+
+If *no*, try something else.
 
 **It's okay to make mistakes as long as you don't repeat the same one.**
 
