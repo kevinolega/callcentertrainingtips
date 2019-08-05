@@ -6,7 +6,7 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-How to Learn Good English Skills
+## How to Learn Good English Skills
 
 Learning a language is one of the most intimidating activities in the world because we get a lot of bad advice. 
 
@@ -142,7 +142,7 @@ There is more than one way to say anything.
 
 If you have two ways of saying something you can pick the better one.
 
-## 1. Basic Introduction.
+### 1. Basic Introduction.
 
 - Where are you from? 
 - What do you do for work?
@@ -151,7 +151,7 @@ If you have two ways of saying something you can pick the better one.
 - What do you think are your advantages?
 - What do you think are disadvantages?
 
-## 2. Personal Information
+### 2. Personal Information
 
 - Where are you from?
 - How do you spend your free time?
@@ -163,7 +163,7 @@ If you have two ways of saying something you can pick the better one.
 - What kind of music do you listen to?
 - What do you want your life to be like 5 years from now?
 
-## 3. Professional Information
+### 3. Professional Information
 
 - What is your job?
 - What do you like about your job?
@@ -267,7 +267,7 @@ My favorite chefs are Jamie Oliver, Gordon Ramsay and, Heston Blumenthal.
 
 I read a lot of how-to guides at Lifehacker.com
 
-** 3. Emulate great teachers**. 
+**3. Emulate great teachers**. 
 
 I have a short-list of people I look up to. 
 
@@ -275,9 +275,11 @@ I’ll share it in the future.
 
 *Continue here*
 
-#### Pronunciation
+## Pronunciation
 
-## Problems you might have encountered with pronunciation:
+
+
+### Problems you might have encountered with pronunciation:
 
 **1. Pronunciation are the most visible errors in the English language**.
 **2. Bad pronunciation can trigger social biases for your interviewer**. 
@@ -329,7 +331,7 @@ This section is about creating good habits in your conversations.
 
 Please be patient as I walk you through the process.
 
-## How to delay having to give an answer.
+### How to delay having to give an answer.
 
 1. Respond and Acknowledge
 2. Verify and Rephrase
