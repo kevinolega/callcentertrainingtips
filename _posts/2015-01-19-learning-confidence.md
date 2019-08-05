@@ -258,7 +258,7 @@ The more familiar you are with something, the less fear you have at the prospect
 
 These are the elements of confidence that you can start with. 
 
-Here are some tips to get started: 
+## Here are some tips to get started: 
 
 **1. Study each element** *and examine yourself what you can do to apply each element into your life.*
 
