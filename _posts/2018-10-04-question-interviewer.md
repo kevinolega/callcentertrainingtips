@@ -5,7 +5,7 @@ date: 2018-10-04 16:44
 permalink: /question-interviewer/ 
 author: Kevin Olega 
 --- 
-Here are some questions that I ask my interviewer.
+## Here are some questions that I ask my interviewer.
 
 It's my first time to apply and I was hoping you can give me some tips on the next part of my application.
 
@@ -13,7 +13,7 @@ How did I do in my interview with you? Can you give me a few tips on what to imp
 
 Pull out your notebook and prepare to write down what your interviewer says.
 
-Follow up questions:
+## Follow up questions:
 
 How was my pronunciation?
 
@@ -42,4 +42,4 @@ What is your procedure for a pay increase?
 
 On a scale of 1 to 10, how satisfied were you with our interview? 
 
-How can I improve?
+#### How can I improve?
