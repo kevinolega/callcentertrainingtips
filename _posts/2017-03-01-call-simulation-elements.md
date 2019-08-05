@@ -13,7 +13,7 @@ To prepare you for the call simulation screening we need to prepare you so you n
 
 Here are some rules that we follow during a call. 
 
-**Never panic**. 
+## Never panic. 
 
 You learn to do this by being familiar with the situation. 
 
@@ -21,7 +21,7 @@ You become familiar with the situation by study and experience.
 
 In my case, I failed a few times until I understood common patterns. 
 
-**Never get angry**. 
+## Never get angry. 
 
 The customer is probably having the worst day of his or her life and only you can fix the problem. 
 
@@ -33,7 +33,7 @@ Your job is to fix it.
 
 Also if the customer loses control and say words that you find offensive, you need to remember that people unintentionally hurt other people when they are in pain.
 
-**Use positive phrasing**. 
+## Use positive phrasing. 
 
 Instead of saying "your package will be delayed by four days." the more positive way to phrase it is "In four days you'll get to enjoy your package" The glass is half full not empty. 
 
@@ -49,7 +49,7 @@ I make it a practice of taking note of situations when customers become angry an
 
 Always ask yourself the question "How can I say this better?"
 
-**Use simple words**. 
+## Use simple words. 
 
 College English with five-syllable words that nobody but intellectual snobs use anyone? 
 
@@ -61,7 +61,7 @@ Keep your language appropriate.
 
 Grade two English will get you further than complicated and flowery words. 
 
-**Say it with a smile**. 
+## Say it with a smile. 
 
 Your smile can be heard over the phone. 
 
@@ -69,7 +69,7 @@ It makes the pace and mood of the call more positive and you sound better.
 
 Try it then do it all the time. 
 
-**Speak loud and clear**. 
+## Speak loud and clear. 
 
 You're projecting your voice to be heard in another country. 
 
@@ -81,15 +81,15 @@ Seriously, speak loud and clear.
 
 Practice it. 
 
-**You need to be heard and understood**. 
+## You need to be heard and understood. 
 
 Inhale before you speak and increase the volume louder than you're used to especially if you're a shy person like me. 
 
-**Avoid dead air**. 
+## Avoid dead air. 
 
 While waiting for things to load provide the customer with important information about the process or procedures and/or build rapport. 
 
-**Build rapport.** 
+## Build rapport.
 
 Talk about other things. 
 
@@ -99,13 +99,13 @@ How do you use the service or product?
 
 Ask them questions. 
 
-**Use common sense**. 
+## Use common sense. 
 
 Only say what is needed and nothing more. 
 
 Your goal is to get to a resolution or the next step as quickly as possible. 
 
-#### Call Simulation Call Flow for Inbound Customer Service And Tech Support Calls
+# Call Simulation Call Flow for Inbound Customer Service And Tech Support Calls
 
 Now here are some parts of a typical inbound customer service call and tech support call. 
 
@@ -114,7 +114,7 @@ Once you are familiar with the parts you will be familiar how to do it properly 
 Once you have that done you can pass this test all the time. 
 
 
-**Introduction**.  
+## Introduction.  
 
 Thank you for calling (possibly or if needed insert company name). 
 
@@ -122,7 +122,7 @@ My name is Kevin.
 
 How can I help you? 
 
-**Acknowledge**. 
+## Acknowledge. 
 
 Okay. 
 
@@ -130,7 +130,7 @@ I see.
 
 Let the customer know that you hear them. 
 
-**Clarify**. 
+## Clarify. 
 
 So you calling regarding… 
 
@@ -142,7 +142,7 @@ Rephrase the situation.
 
 You may further clarify by asking did I get that correctly? 
 
-**Probe**. 
+## Probe. 
 
 Can you tell me more about you. 
 
@@ -150,7 +150,7 @@ Insert issue or problem you are experiencing.
 
 When you probe, ask questions that will make you understand the situation more. Tell me more about what happened. 
 
-**Apologize**. 
+## Apologize. 
 
 I'm sorry to hear about that. 
 
@@ -158,11 +158,11 @@ I'm sorry you are encountering some issues with your service.
 
 I'm sorry for the specific experience you are encountering. 
 
-I apologize for (specific issue). 
+I apologize for *(specific issue).* 
 
 The more specific you are, the more sincere you are perceived. 
   
-**Empathise**. 
+##Empathise. 
 
 I understand why you are upset. 
 
@@ -170,7 +170,7 @@ I'm a customer as well and I know how frustrating it is when the product or serv
 
 If I was in your situation I would be upset as well. 
 
-**Assure**. 
+## Assure. 
 
 But don't worry you have reached the right person or department. 
 
@@ -178,13 +178,13 @@ I'll work on getting insert specific issue fixed.
 
 I'll make sure your specific issue is addressed by the end of this call. 
 
-**Verify the customer**. 
+## Verify the customer. 
 
 May I have your name address last four digits of your social please. 
 
 Just to make sure I have the right account may I have your insert required information. 
 
-**Hold procedure**. 
+## Hold procedure. 
 
 May I place you on hold for two minutes? 
 
@@ -192,15 +192,15 @@ I just need to double-check some information related to (their specific question
 
 I’ll be right back. 
 
-**Thank the customer for complying**. 
+## Thank the customer for complying. 
 
 If they give you their address or agree to wait on hold thank them. 
 
-**Solve the issue**. 
+## Solve the issue. 
 
 Provide the information or instructions needed or transfer the customer to the right department. 
 
-**Transfer procedure**. 
+## Transfer procedure. 
 
 To best assist you , I'll transfer your call (eventually I used the words get you some help instead of transfer your call) to specific department. 
 
@@ -208,7 +208,7 @@ They will be able to assist you with your specific concern.
 
 Please stay on the line I'll transfer your call now. 
 
-**Summarize**. 
+## Summarize. 
 
 I'll just place some notes on the account. 
 
@@ -218,13 +218,13 @@ We did specific action and your concern is now addressed.
 
 Or fixed. 
 
-**Provide additional assistance**. 
+## Provide additional assistance. 
 
 Would there be anything else that I can assist you with? 
 
 Or do you have any other questions that I can answer for you? 
 
-**Personalize**. 
+## Personalize. 
 
 Use the customer's name. 
 
@@ -248,11 +248,11 @@ Using sir and ma'am tells them that you didn't bother to remember their name whe
 
 Using sir and ma'am is only allowed if the customer has a name that sounds like a curse word. 
 
-**Closing spiel**. 
+## Closing spiel. 
 
 Thank you for calling (insert company name). 
 
-**Branding**. 
+## Branding. 
 
 Just insert the company name at the opening and closing spiel as needed. 
 
