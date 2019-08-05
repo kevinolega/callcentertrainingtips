@@ -10,13 +10,17 @@ Filipinos are naturally respectful to superiors.
 
 Over time some of us had over practiced this trait to the point that we tremble at the idea of speaking with someone we perceive as higher level than us.
 
-When I was working in sales many colleagues were fearful or wait I think that's a bit too harsh.&nbsp; The word should be nervous when speaking to the purchasing manager or the CEO or owner of the company.
+When I was working in sales many colleagues were fearful or wait I think that's a bit too harsh.
+
+The word should be nervous when speaking to the purchasing manager or the CEO or owner of the company.
 
 Filipinos are the only people I know who are still obedient to the class system. 
 
 People see themselves as lower level and as a result they see themselves inferior or unworthy to speak with people in a high position.
 
-You see people referring to people as sir and ma'am a lot. I think it's overused.
+You see people referring to people as sir and ma'am a lot. 
+
+I think it's overused.
 
 In American culture people either go by Mr. Last name or ms. Last name or on a first-name basis. 
 
@@ -26,7 +30,7 @@ Yes the person you are referring to maybe the boss, a superior, a customer but y
 
 Treat yourself with respect as well.
 
-You see westerners marry local Filipina girls despite their low upbringing or income class without any&nbsp; because they see them as equals. 
+You see westerners marry local Filipina girls despite their low upbringing or income class without any because they see them as equals. 
 
 Locally it is rare for a graduate of a popular university or an upper middle class to marry someone who works as a domestic helper. 
 
