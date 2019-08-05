@@ -30,9 +30,9 @@ The goal of learning is to acquire a skill, put it into practice and experience 
 
 The sooner you learn and put what you learned to use, the sooner you can build a habit. 
 
-Habits are a key to success. 
+**Habits** are *a key to success.* 
 
-Skills are a combination of good habits associated with doing a task.
+**Skills** are *a combination of good habits associated with doing a task.*
 
 Our goal is to give you the skills, and let you practice what's important so you can benefit from speaking better English. 
 
