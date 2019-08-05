@@ -6,7 +6,9 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-The Most Brilliant Answer To The Dreaded Salary Question: What is Your Expected Salary?
+## The Most Brilliant Answer To The Dreaded Salary Question: 
+
+#### What is Your Expected Salary?
 
 To be honest I have no idea how to answer the salary question.
 
@@ -29,4 +31,8 @@ It's absolute genius and I intend to add this to my answers in case I'd need to 
 
 They talked among themselves and came up with a new price that was fairer than the initial offer.
 
-What do you think? It totally blew me away. I'm so excited I think I want to test it on an application, even if I don't need another job.
+### What do you think?
+
+It totally blew me away. 
+
+I'm so excited I think I want to test it on an application, even if I don't need another job.
