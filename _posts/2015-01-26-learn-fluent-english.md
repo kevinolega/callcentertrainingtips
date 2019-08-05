@@ -282,6 +282,7 @@ I’ll share it in the future.
 ### Problems you might have encountered with pronunciation:
 
 **1. Pronunciation are the most visible errors in the English language**.
+
 **2. Bad pronunciation can trigger social biases for your interviewer**. 
 
 People with good pronunciation are seen as part of the elite and people with bad pronunciation are seen as part of the lower class.
