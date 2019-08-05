@@ -102,12 +102,12 @@ The following are the most common problems of people who are not used to communi
 
 If you’ve experienced any of these in a situation where you are required to speak in English then I can tell that in that situation you were totally screwed.
 
-The solution is simple.
+The solution is **simple.**
 
 Practice basic English by answering or asking yourself the questions.
 
 
->If you’re a Filipina who’s thinking, I’m already good in English and I’m chatting with foreigners and they think my English is good, think again. They might just think you’re hot and anything you say is good to them. In a work environment, the mastery of basics will lead to the excellent results.**
+>*If you’re a Filipina who’s thinking, I’m already good in English and I’m chatting with foreigners and they think my English is good, think again. They might just think you’re hot and anything you say is good to them. In a work environment, the mastery of basics will lead to the excellent results.*
 
 
 The most common information discussed in English in ah interview and social setting are as follows. 
@@ -174,18 +174,18 @@ If you have two ways of saying something you can pick the better one.
 - Why do you want to work in a call center?
 - If the call center industry didn’t exist what would your job be?
 
-**Here are some good habits when speaking.**
+### Here are some good habits when speaking.
 
-1. **Speak loud and clear**. 
+**1. Speak loud and clear**. 
 
 If you're whispering when you say your words, your interviewer won't understand you or worse, misunderstand you.
 
-2. **Sit/Stand straight**. 
+**2. Sit/Stand straight**. 
 
 If your posture is bad you will have a hard time speaking right. 
 Practice good posture.<br />
 
-3. **Smile and breathe**. 
+**3. Smile and breathe**. 
 
 The guaranteed method to sounding 100 times better. 
 
@@ -207,7 +207,7 @@ If you do the previous steps well you will do better with your first impression.
 2. Unable to get the message across
 3. Unable to get help.
 
-I already provided you a list of questions to ask yourself
+*I already provided you a list of questions to ask yourself*
 
 1. Watch interviews
 2. Note down interesting questions
@@ -273,9 +273,9 @@ I have a short-list of people I look up to.
 
 I’ll share it in the future.
 
-**Continue here**
+*Continue here*
 
- Pronunciation
+#### Pronunciation
 
 ## Problems you might have encountered with pronunciation:
 
@@ -302,7 +302,7 @@ My celebrity crush since I was a kid was Heart Evangelista.
 
 Some people say that back in high school, she was not the smartest person in the world but because she spoke good English and had good Pronunciation and as a result she was really pretty and when she spoke, she sounded like the smartest person in the world.
 
-Here are a few things to master.
+*Here are a few things to master.*
 
  1. Count from one to fifty
 
@@ -335,7 +335,7 @@ Please be patient as I walk you through the process.
 2. Verify and Rephrase
 3. Ask for time
 
-You don’t always have an answer but what do you do in the event that you don’t have an answer?
+*You don’t always have an answer but what do you do in the event that you don’t have an answer?*
 
 Please come back on a regular basis to this page because I’ll be adding more lessons. 
 
