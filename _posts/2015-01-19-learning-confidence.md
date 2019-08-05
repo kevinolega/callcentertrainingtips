@@ -168,7 +168,7 @@ Fuck.
 
 Do I have to think of a bazillion examples to convince you? Just do it.
 
-### 4. Speak Loud and Clear
+#### 4. Speak Loud and Clear
 
 I've never been bullied by a caller. 
 
