@@ -7,9 +7,12 @@ author: Kevin Olega
 --- 
 > Wikipedia says: A call center or call center is a centralized office used for the purpose of receiving and transmitting a large volume of requests by [telephone](http://en.wikipedia.org/wiki/Telephone). A call center is operated by a [company](http://en.wikipedia.org/wiki/Company) to administer incoming product support or information inquiries from consumers. Outgoing calls for [telemarketing](http://en.wikipedia.org/wiki/Telemarketing), clientele, product services, and debt collection are also made.
 
-That’s true. The real question is:
+That’s true. 
 
-### What is a call center for me?
+## The real question is:
+
+#### What is a call center for me?
+
 
 ## For different people there are different answers.
 
@@ -49,6 +52,6 @@ That will be all for now.
 
 Please come back tomorrow for the next lesson.
 
-What is a call center for you? 
+### What is a call center for you? 
 
 **Trivia: One of the most common messages that we receive is "Hi I want to be a call center, can you give me some tips"**
