@@ -96,7 +96,9 @@ That's my proposition.
 
 What if you asked yourself in this format?
 
-**The customer doesn’t know what to do about the situation. How can I guide the customer to achieve the result that they want effectively in a way that they are happy and my employer is happy?**
+**The customer doesn’t know what to do about the situation.**
+
+**How can I guide the customer to achieve the result that they want effectively in a way that they are happy and my employer is happy?**
 
 Agents who complain about how stupid the customer is are missing the point.
 
@@ -140,6 +142,8 @@ Is it the right thing to do?
 
 I’m not going to argue.
 
-Is it worth it? My employer pays me an extra 20-30% to be effective at this KPI.
+Is it worth it? 
+
+My employer pays me an extra 20-30% to be effective at this KPI.
 
 
