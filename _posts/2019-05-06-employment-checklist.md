@@ -132,7 +132,7 @@ Requirements vary from company to company however these are the common minimum r
 
 Please inquire with your local HR for
 
-### Failure often leads to:
+## Failure often leads to:
 
 - No job offer or withdrawal of job offer.
 - Salary delays often resulting from lack of requirements needed for ATM creation.
