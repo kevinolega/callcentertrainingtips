@@ -72,19 +72,23 @@ Consider each point and ask yourself
 
 The next question you want to ask is 
 
-"**What am I doing so I can I improve?**" 
+**"What am I doing so I can I improve?"**
 
 The last question is...
 
-"**Is there a lesson here that I disagree with or haven't applied to in my life?**" 
+**"Is there a lesson here that I disagree with or haven't applied to in my life?"** 
 
-Okay, the last question is "What's stopping me from applying this to my life? What do I need to believe to apply this to my life?"
+Okay, *the last question is*
+
+#### "What's stopping me from applying this to my life? 
+
+#### "What do I need to believe to apply this to my life?"
 
 > **If you are faithful with the small things, you will be entrusted with much. - The Bible** 
 
-> **If you are unfaithful with the small things, you have no business even thinking about upgrading your life. - Kevin Olega**
+> ### If you are unfaithful with the small things, you have no business even thinking about upgrading your life. - Kevin Olega
 
-### 1. Posture
+#### 1. Posture
 
 According to peak performance expert Tony Robbins, a study was done on clinically depressed people. 
 
@@ -100,7 +104,7 @@ Since my effort began, I noticed many improvements.
 
 Posture is one of the things I trained myself to check whenever I felt down.
 
-### 2. Smile
+#### 2. Smile
 
 Smiling makes you sound better. 
 
@@ -120,7 +124,7 @@ Test it out.
 
 Hold it for a few seconds and go on read the next comment.
 
-### 3. Breathing
+#### 3. Breathing
 
 Whenever I'm scared I stop breathing. 
 
@@ -172,7 +176,7 @@ Nobody asks for a manager anymore.
 
 Some calls start as an irate call but they apologize for their rudeness.
 
-### 5. Know what they want.
+#### 5. Know what they want.
 
 If you don't stand for something, you will fall for anything. 
 
@@ -190,7 +194,7 @@ What are my values?
 
 If anything doesn't make sense, Google is your friend.
 
-### 6. Study your beliefs
+#### 6. Study your beliefs
 
 Successful people and unsuccessful people have different beliefs. 
 
@@ -206,7 +210,7 @@ Actions influence reality.
 
 Study the beliefs of successful people by what they say and what you observe they do.
 
-### 7. Know their good points
+#### 7. Know their good points
 
 Do you know your good points? 
 
@@ -234,7 +238,7 @@ There is confidence in the written word.
 
 Write it down.
 
-### 8. Ask questions
+#### 8. Ask questions
 
 Confident people know that they don't know everything and as a result they ask questions about what they need to know. 
 
@@ -246,7 +250,7 @@ They see people who are better than them as resources and people to learn from.
 
 I learned by following a few people around and observing what they do.
 
-### 9. Familiar with the task or job
+#### 9. Familiar with the task or job
 
 Confidence comes from familiarity and practice. 
 
@@ -256,17 +260,17 @@ These are the elements of confidence that you can start with.
 
 Here are some tips to get started: 
 
-**1. Study each element** and examine yourself what you can do to apply each element into your life.
+**1. Study each element** *and examine yourself what you can do to apply each element into your life.*
 
 **2. Slowly adapt one element at a time**. 
 
 The formula for failure is doing too much too soon and quitting. 
 
-I don't want you to quit. 
+*I don't want you to quit.* 
 
-It doesn't matter if the method takes a little longer if the end result is that your confidence is guaranteed.
+*It doesn't matter if the method takes a little longer if the end result is that your confidence is guaranteed.*
 
-**3. Write down your progress** and continue to develop your long list of reasons why you should be confident.
+**3. Write down your progress** *and continue to develop your long list of reasons why you should be confident.*
 
 **4. Do awesome things** with your life. 
 
