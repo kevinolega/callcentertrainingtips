@@ -33,7 +33,7 @@ A punchline of sorts.
 
 It said. 
 
-##### "But winning is everything." 
+## "But winning is everything." 
 
 I suddenly felt that I could relate with the fat guy. 
 
