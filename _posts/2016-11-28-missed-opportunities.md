@@ -22,9 +22,9 @@ As if speaking in English had little application outside call centre work.
 
 Some people tell me they want to find work but they can’t get hired because their English is not good enough.
   
-Whenever people ask me for advice my answer is:
+### Whenever people ask me for advice my answer is:
 
-You need to invest in yourself.
+**You need to invest in yourself.**
 
 How much income you make is equal to how much you have improved your self and your skills.
 
@@ -32,19 +32,19 @@ If you spend time studying and practicing English or any skill you desire to lea
 
 I did this every day until my skills were good enough.
 
-English is a required life skill. 
+**English is a required life skill.** 
 
 That’s what I believe.
 
 The reason why you’re not where you want to be in life is not just because of your poor English communication skills but because of your refusal to improve your English communication skills.
 
-You miss opportunities in life because you're afraid.
+You miss opportunities in life because **you're afraid.**
 
-You miss opportunities in life because you’re lazy.
+You miss opportunities in life because **you’re lazy.**
 
-You know what?
+**You know what?**
 
-You’ll have bigger problems by avoiding this small problem.
+#### You’ll have bigger problems by avoiding this small problem.
 
 If your intention to improve your life is genuine then you should invest every effort and resource in improving your English.
 
@@ -54,11 +54,11 @@ If you don’t then you are doomed to a life of minimum wage.
 
 Interviews in high paying jobs and foreign employers are conducted in English. 
 
-Consider this. 
+*Consider this.* 
 
 The high pay or anything above fifteen thousand pesos and the good benefits that will secure your family is only available to people who can speak in English well.
 
-Imagine this.
+*Imagine this.*
 
 You will never qualify for an acceptable income if you refuse to learn a basic skill. 
 
@@ -72,7 +72,7 @@ Whether you want a job with a good employer or to go abroad to work.
 
 Communicating well is required.
 
-Remember this.
+*Remember this.*
 
 Filipino bosses are the worst bosses in the world because in the Philippines it’s every man for himself. 
 
@@ -104,11 +104,11 @@ You don’t have any advantages because you can’t speak in English.
 
 Even if you’re a hard worker, honest, patient or you have other special skill that’s not enough because you can’t communicate what you can do.
 
-English is the skill that allows you to put your foot in the door. 
+English is the skill that allows you to put your foot in the door.
 
 English allows you to communicate to non-Filipinos, how good you are.
 
-**Not getting a job in a call center**
+### Not getting a job in a call center
 
 Call center is the highest paying job with the lowest specific educational requirement.
 
@@ -140,7 +140,7 @@ If you’re Filipino and you can’t speak in English.
 
 Not speaking in English is a fucking disability.
 
-**Making a good impression**
+### Making a good impression
 
 People who speak in English well always makes a good impression.
 
@@ -164,7 +164,7 @@ It will make you sound silly.
 
 Unless you’re already rich and successful then this part doesn’t matter.
 
-**Extra Money that you can get**
+### Extra Money that you can get
 
 Before working in a Call Center I worked in the mall.
 
@@ -180,7 +180,7 @@ It’s just English but it’s a big advantage.
 
 Even if you choose a non-call center job English will give you an edge over the lazy folk who didn’t study.
 
-**Getting promoted at work**
+### Getting promoted at work
 
 In a past job, I was working for a tech company under a boss who was newly promoted. Her name is Ramona Cruz or something like that.
 
@@ -206,9 +206,11 @@ Had this happened under a different employer I would be promoted instead and the
 
 If you’re good in English, you can get promoted and people will have to play dirty to beat you.
 
-**Connecting with high performers**
+### Connecting with high performers
 
-Don’t you notice that whenever Anne Curtis or Toni Gonzaga plays the role of the boss, they speak in English? This is also true for John Lloyd Cruz.
+Don’t you notice that whenever Anne Curtis or Toni Gonzaga plays the role of the boss, they speak in English? 
+
+This is also true for John Lloyd Cruz.
 
 That’s because high performers speak in English.
 
@@ -228,15 +230,15 @@ The solution is getting educated.
 > Self-education helps you make a fortune”  
 > - Jim Rohn
 
-Here are two ways that I use to educate myself.
+## Here are two ways that I use to educate myself.
 
-1. Read. You are what you read. 
+**1. Read. You are what you read.** 
 
 You are what you study. 
 
 Study the best materials.
 
-2. Observe. 
+**2. Observe.** 
 
 Smart friends are the short cut to learning faster. 
 
