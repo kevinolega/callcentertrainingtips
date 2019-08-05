@@ -42,9 +42,9 @@ You miss opportunities in life because **you're afraid.**
 
 You miss opportunities in life because **you’re lazy.**
 
-**You know what?**
+*You know what?*
 
-#### You’ll have bigger problems by avoiding this small problem.
+# You’ll have bigger problems by avoiding this small problem.
 
 If your intention to improve your life is genuine then you should invest every effort and resource in improving your English.
 
