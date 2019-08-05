@@ -27,9 +27,9 @@ Pull out your smartphone, or borrow one if you don't own one and take a video of
 
 > My name is Kevin. I live in Parañaque. I'm the writer of call center training tips. I used to work in a call center but I'm still working in the BPO industry. I think the call center industry is a great starting point for people who have big dreams because it rewards people who do well.
 
-Do the same thing for yourself. 
+**Do the same thing for yourself.** 
 
-Write down these five sentences that has the following details:
+## Write down these five sentences that has the following details:
 
 1. What is your name?
 2. Where do you live?
@@ -39,7 +39,7 @@ Write down these five sentences that has the following details:
 
 After writing down your answers, get a smartphone, pull out the camera app, switch it to video and record yourself answering the questions.
 
-When done, watch the video and take some notes.
+*When done, watch the video and take some notes.*
 
 What's wrong with it?
 
@@ -71,9 +71,11 @@ Just listen to how you sound.
 
 Now that I wrote this, I'm thinking I'm just going to use this to test the skill level of people who ask me for help.
 
-If you watch your video you can see what to change, make the change and be better.
+**If you watch your video you can see what to change, make the change and be better.**
 
-I've done this with cooking, weightlifting, writing and a lot of other activities. I believe you can do too.
+I've done this with cooking, weightlifting, writing and a lot of other activities. 
+
+*I believe you can do too.*
 
 Record your performance.
 
