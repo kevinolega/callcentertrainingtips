@@ -29,7 +29,7 @@ Pull out your smartphone, or borrow one if you don't own one and take a video of
 
 **Do the same thing for yourself.** 
 
-## Write down these five sentences that has the following details:
+### Write down these five sentences that has the following details:
 
 1. What is your name?
 2. Where do you live?
