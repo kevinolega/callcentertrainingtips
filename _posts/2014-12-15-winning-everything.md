@@ -33,7 +33,7 @@ A punchline of sorts.
 
 It said. 
 
-"But winning is everything." 
+##### "But winning is everything." 
 
 I suddenly felt that I could relate with the fat guy. 
 
@@ -43,22 +43,22 @@ It's not always enjoyable.
 
 Your weaknesses will be revealed. 
 
-Bad habits will be broken. 
+*Bad habits* will be **broken.** 
 
-New habits will be learned. 
+*New habits* will be **learned.** 
 
 Many things that you're not familiar with will be introduced and it will be awkward. 
 
 You will make mistakes and maybe some people will laugh at you.
 
-**Here are some trade-offs.**
+### Here are some trade-offs.
 
 - You will learn a useful skill that nobody can take away from you.
 - If anyone else wants to learn the skill you are working on now, they will have to go through exactly the same (possibly painful) process and hardships that you are going through.
 
 Training sucks, but winning is everything. 
 
-Winning is not everything for me. 
+Winning is not everything for me.*
 
 I'm not willing to do unethical things to win. 
 
@@ -87,7 +87,7 @@ Goals requires some tasks to be completed.
 
 Tasks require skills or a combination of skills.
 
-If your goal is to get hired in a call center, here's a breakdown of what is needed:
+**If your goal is to get hired in a call center,** *here's a breakdown of what is needed:*
 
 ## Three Job Offers
 
@@ -242,7 +242,9 @@ Getting hired in a call center looks complicated at first but I want to point ou
 
 If you train yourself to do the tasks, you can achieve your goals.
 
-What are your thoughts? Do you have the same experience as I did? 
+#### What are your thoughts? 
+
+#### Do you have the same experience as I did? 
 
 Please leave a comment on the website.
 
