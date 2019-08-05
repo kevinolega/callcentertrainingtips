@@ -37,7 +37,8 @@ Then I wrote down the step that I can do.
 
 On a separate sheet of paper, I drew Deadpool and I know it's totally unrelated but whenever I'm stuck for ideas, I draw something.
 
-#### Bad things happen and many things we value don't often go the way we intended or according to our expectations.
+*Bad things happen and many things we value don't often go the way we intended or according to our expectations.*
+
 
 #### The Bible says "in this life we will have troubles" my favorite martial artist says "don't pray for an easy life, pray for the strength to endure a hard one." Don't wish it was easier. 
 
