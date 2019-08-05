@@ -11,7 +11,7 @@ The call center or BPO industry is a stepping stone to bigger income-earning opp
 
 Here's a complete list of ideas that will help you see different possibilities on how to make call center money work for you instead of you working for money forever. 
 
-### How To Build Your Dream Life With Call Center Money
+## How To Build Your Dream Life With Call Center Money
 
 If you work for an international call center with a starting pay of 16-18k per month. 
 
@@ -23,7 +23,7 @@ Personally, I don't recommend staying at call center work for longer than three 
 
 People who stay in call center companies longer than 5 years tend to die sooner. That's actually true because of health and occupational risk.
 
-#### What to do
+### What to do
 
 If you're smart with how you spend your money, you can:
 
@@ -34,7 +34,7 @@ If you're smart with how you spend your money, you can:
 - Learn the skill to become a freelancer to foreign clients.
 - And so on.
 
-#### What not to do (much)
+### What not to do (much)
 
 If you are not smart with your money you can spend it all on:
 
@@ -57,7 +57,7 @@ A good plan and the willingness to make some sacrifices often lead to success.
 
 Just spending your money and waiting for payday is a recipe for disaster.
 
-### Manage Your Money Well To Deal With Call Center Burnout
+## Manage Your Money Well To Deal With Call Center Burnout
 
 When we were all younger we received an allowance from our parents. 
 
@@ -69,7 +69,7 @@ You have to do some chores for your employer and you got paid.
 
 Because we now get our money from jobs and previously from our parents, we somehow expect our employers to act like our parents. 
 
-## Here are some examples in a form of some questions.
+### Here are some examples in a form of some questions.
 
 - Have you ever felt like you're not getting ahead? It's like your pay is not enough to take care of your expenses?
 - Do you always feel the need to jump to a new company for greener pastures?
@@ -105,7 +105,7 @@ Unless you see call center life as your calling forever and ever I don't recomme
 
 The objective has always been to build up resources and use the job as a stepping stone for bigger things as I have seen many people do.
 
-#### List your daily expenses
+## List your daily expenses
 
 Define your expenses by listing down everything you spend on a daily basis for a month. 
 
@@ -119,7 +119,7 @@ Reason one, to familiarize yourself with exactly how much you spend.
 
 Reason two, the record enables you to make wiser spending decisions in the future because you know where you overspend and also where you underspend.
 
-#### Apply the allowance method
+## Apply the allowance method
 
 After one week define your recurring daily expenses and apply the allowance method. 
 
@@ -129,7 +129,9 @@ I noticed that I had the most money in my life back when I was in college.
 
 I got to eat where I wanted to eat, I got to buy the toys that I'd like, I'd get to treat my friends every now and then and I'd get to buy gifts for my crush. 
 
-The thing there is I didn't have as money then as I did now and despite that, I was able to achieve a reasonable amount of happiness with a very limited amount of income. Here's how I do it:
+#### The thing there is I didn't have as money then as I did now and despite that, I was able to achieve a reasonable amount of happiness with a very limited amount of income. 
+
+### Here's how I do it:
 
 - I spend Php 100 on my transportation to work.
 - I spend Php 50 every time I eat out at work.
@@ -149,7 +151,7 @@ The thing there is I didn't have as money then as I did now and despite that, I 
 
 This method enables you to add some freedom and at the same time have some extra and teach you that you don't need to spend all your money by payday.
 
-#### Set up an emergency fund.
+## Set up an emergency fund.
 
 An emergency fund is simply some money that you set aside for important events. 
 
@@ -165,7 +167,7 @@ Going back to your allowance method I recommend doing a gradual approach to doin
 
 Here's how. 
 
-Your emergency fund defines how long you can live without an income. 
+*Your emergency fund defines how long you can live without an income.* 
 
 **If you look back and apply the allowance method, you will notice that you are not using your full income to survive.** 
 
@@ -183,7 +185,7 @@ I'm out of time but I have a lot more to share.
 
 I'll post updates soon.
 
-### How To Use Call Center Money To Improve Your Life
+## How To Use Call Center Money To Improve Your Life
 
 
 If you're working in a call center there's a good chance that you make extra money. 
@@ -205,7 +207,7 @@ I don't recommend this.
 
 This is going to be a post on how to spend your hard-earned call center money based on my mistakes and experiences.
 
-#### Don't spend money on:
+## Don't spend money on:
 
 **1. Networking**. 
 
@@ -263,7 +265,7 @@ I don't know either.
 
 They just do.
 
-#### Spend your money on:
+## Spend your money on:
 
 **1. Building an emergency fund**. 
 
@@ -329,8 +331,8 @@ Call center companies pay a little higher than regular jobs that pay minimum wag
 
 Please take advantage of the opportunity. 
 
-You can be smart with your money and improve your life or you can do stupid things with it and wonder where the money went.
+#### You can be smart with your money and improve your life or you can do stupid things with it and wonder where the money went.
 
-Do you have a wise way to spend call center money? 
+*Do you have a wise way to spend call center money?* 
 
 Share it with me and I'll add it here.
