@@ -15,7 +15,7 @@ This is one of my unfair advantages in an interview.
 
 And I'm sharing this with you now.
 
-I lerned this technique from sales.
+I learned this technique from sales.
 
 I pick up what I learn and eventually eventually apply the useful techniques to everything.
 
@@ -101,7 +101,7 @@ I ask the interviewer the following questions.
 
 - Where do you guys eat during shift?
 - Aside from the salary, what can you say are the best perks of working with this company?
-- I would like to request for some advice. I'm new to the industry. What traits do you see that top performers in your company have that made them top performers? And what's your recommendations for me?
+- I would like to request for some advice. I'm new to the industry. *What traits do you see that top performers in your company have that made them top performers?* And *what's your recommendations for me?*
 - If the interviewer said something interesting that we didn't get to discuss, I ask about it at this point.
 
 ## Other advantages of taking notes during interviews
