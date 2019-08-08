@@ -28,7 +28,9 @@ That is fine.
 
 Skills and attitude are ingredients that contribute to achieving your goals.
 
-The good thing is that ingredients can be acquired. You can copy, learn, practice and eventually master the use of ingredients.
+The good thing is that ingredients can be acquired. 
+
+You can copy, learn, practice and eventually master the use of ingredients.
 
 On the outside, attitude and skills don’t look valuable and that’s the reason why for the longest time we stopped picking up new ones. 
 
@@ -46,7 +48,9 @@ I improved my sales skills and practiced learning how to train in a part-time jo
 
 While working there I volunteered to do a job and eventually I was offered an opportunity in a recruitment company. 
 
-I learned about different opportunities I could explore and took some action. I was able to increase my income then.
+I learned about different opportunities I could explore and took some action. 
+
+I was able to increase my income then.
 
 If learning a few small things took an idiot like me to different places. 
 
