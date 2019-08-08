@@ -45,7 +45,7 @@ Back in high school I thought characters who rarely smile were awesome so I copi
 
 I had trouble making friends because of that move. 
 
-Bad ass or "mataray" (for girls) does not equal awesome. 
+Badass or "mataray" (for girls) does not equal awesome. 
 
 Not smiling repels potential partners, jobs and other opportunities.
 
