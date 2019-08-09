@@ -82,7 +82,7 @@ It's not a very good long term strategy to be the kind of person who always asks
 
 When you go to the interview, you will be asked how you can give value in exchange for the salary but if you only have practice in receiving value and not giving any value back, you'll have a very difficult time answering the "Why should I hire you?" question.
 
-If you have friends who are willing to chat with you about TV shows, movies, games, life, dinking, love life and other topics, but not willing to help you practice in English....
+If you have friends who are willing to chat with you about TV shows, movies, games, life, drinking, love life and other topics, but not willing to help you practice in English....
 
 You need new friends.
 
