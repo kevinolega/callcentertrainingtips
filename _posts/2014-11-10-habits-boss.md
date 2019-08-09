@@ -120,6 +120,6 @@ On another end of the spectrum, what beliefs do you need to have to not have thi
 
 Please use this and tell me what you think.
 
-&nbsp;
+
 
 [soundcloud url="https://api.soundcloud.com/tracks/176200121" params="auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" width="100%" height="450" iframe="true" /]

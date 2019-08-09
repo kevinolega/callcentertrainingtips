@@ -42,7 +42,11 @@ We were all born naked and unable to talk.
 
 We just learned to be good at what we do. 
 
-If other people can do it so can you. Just copy from them. Make adjustments if you make mistakes and do what you need to do.
+If other people can do it so can you. 
+
+Just copy from them. 
+
+Make adjustments if you make mistakes and do what you need to do.
 
 **1. Get exposed**. 
 

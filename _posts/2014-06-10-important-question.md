@@ -6,7 +6,9 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-At the end of the questioning phase, the interview asks, do you have any questions for me. Most people say they don't have questions. 
+At the end of the questioning phase, the interview asks, do you have any questions for me. 
+
+Most people say they don't have questions. 
 
 I acted like an idiot and decided not to ask questions. 
 
@@ -30,7 +32,9 @@ Here's the most useful question I've discovered that I can ask when I was job hu
 
 **It's my first time to apply and I was hoping you can give me some tips on the next part of my application.How did I do in my interview with you? Can you give me a few tips on what to improve?**
 
-Pull out your notebook and prepare to write down what your interviewer says. Shut up and wait for an answer.
+Pull out your notebook and prepare to write down what your interviewer says. 
+
+Shut up and wait for an answer.
 
 Follow up questions:
 How was my pronunciation?

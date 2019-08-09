@@ -32,8 +32,7 @@ In other words.
 
 You don’t know that you don’t know a topic.
 
-<em>An example would be you only know that call center companies pay well but you don’t know the requirements or how to work there.
-</em>
+*An example would be you only know that call center companies pay well but you don’t know the requirements or how to work there.*
 
 ## 2. Awareness
 
@@ -45,7 +44,7 @@ In other words.
 
 You don’t know that you don’t know.
 
-<em>An example would be. Your first failure. You just find out that you can’t get hired in a call center because you gave the wrong interview answer or had spoken at least ten English words correctly.</em>
+*An example would be. Your first failure. You just find out that you can’t get hired in a call center because you gave the wrong interview answer or had spoken at least ten English words correctly.*
 
 Does the world end for you at this point? 
 
@@ -73,7 +72,7 @@ This part is referred to as conscious competent.
 
 You know that you know. You can use the skill but this requires some to a large amount of mental focus or concentration.
 
-<em>An example is doing something you haven’t memorized or are reading, a script for example, from your phone. The words are sometimes mumbled, you sound unsure, you can say it. Most of it at least it’s not perfect and some people might say it’s passable.</em>
+*An example is doing something you haven’t memorized or are reading, a script for example, from your phone. The words are sometimes mumbled, you sound unsure, you can say it. Most of it at least it’s not perfect and some people might say it’s passable.*
 
 After you get to competence it will take some time but eventually, you'll reach mastery.
 
@@ -83,7 +82,7 @@ The part referred to as unconscious competent.
 
 You know something but it doesn’t require your full focus or consciousness.
 
-<em>At this point, the example I’d like to use is the same as in number three. Say you know the script by heart, you’ve practiced it so many times you can say it with the right tone, you speak the words perfectly, you are convincing with every word, even your gestures, tone, facial expression matches what you’re saying. You don’t really need the conscious contribution of your brain anymore because you have mastered the script.</em>
+*At this point, the example I’d like to use is the same as in number three. Say you know the script by heart, you’ve practiced it so many times you can say it with the right tone, you speak the words perfectly, you are convincing with every word, even your gestures, tone, facial expression matches what you’re saying. You don’t really need the conscious contribution of your brain anymore because you have mastered the script.*
 
 Simple examples to tasks where you have achieved mastery include, walking, reading, going to the toilet, taking a shower, speaking, going to the movie, texting, using Facebook, checking email or any process that involves multiple steps that you no longer think or worry about. 
 

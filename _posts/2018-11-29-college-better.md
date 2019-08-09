@@ -21,7 +21,9 @@ You need to do reports, participate in discussions and defend your thesis.
 
 **4. Paid for education.** 
 
-They know that upgrades costs money and have a higher return. They paid for books and a class. 
+They know that upgrades costs money and have a higher return. 
+
+They paid for books and a class. 
 
 **5. They are expected to be punctual and professional, otherwise, they would fail college.**
 

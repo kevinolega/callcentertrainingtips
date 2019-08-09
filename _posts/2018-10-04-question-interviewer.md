@@ -9,7 +9,9 @@ author: Kevin Olega
 
 It's my first time to apply and I was hoping you can give me some tips on the next part of my application.
 
-How did I do in my interview with you? Can you give me a few tips on what to improve?
+How did I do in my interview with you? 
+
+Can you give me a few tips on what to improve?
 
 Pull out your notebook and prepare to write down what your interviewer says.
 

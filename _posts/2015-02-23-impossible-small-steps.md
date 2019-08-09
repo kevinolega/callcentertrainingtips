@@ -261,7 +261,9 @@ If your goal is to get hired in a call center what do I need to work on every da
 
 Should I be sending my resume online? 
 
-Practicing my English? Practicing my interview skills? 
+Practicing my English? 
+
+Practicing my interview skills? 
 
 Practicing correcting my English? 
 

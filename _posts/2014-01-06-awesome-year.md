@@ -54,7 +54,9 @@ I know I don't and I won't push mine to the limit.
 
 I'm avoiding drinking and smoking so I can maintain a healthy body, not to live long or anything but so I'm strong enough and have the energy to do what I want. 
 
-It's not always a mind over body thing, you need to take care of your body because it's the car you drive to do the things that you want. If someone gives you a Ferrari you won't try to make it run on cooking oil right? 
+It's not always a mind over body thing, you need to take care of your body because it's the car you drive to do the things that you want. 
+
+If someone gives you a Ferrari you won't try to make it run on cooking oil right? 
 
 I'm not going to try to convince you further I'm not your boyfriend.
 
@@ -102,7 +104,9 @@ I allocate Php 1,000 a week for groceries.
 
 I give God his cut and toss all my remaining money in a separate bank account for savings and budget to buy investments and spend the rest I have on hand on whatever the hell I like. 
 
-It's a simple and genius system I use to make sure I have budget done without computing that much. A student can do this really well. 
+It's a simple and genius system I use to make sure I have budget done without computing that much. 
+
+A student can do this really well. 
 
 I did and so can you.
 
@@ -120,7 +124,9 @@ In the end it is you and God who will solve your problems but you also need mone
 
 Money is like sun in plants vs zombies you can use it to buy plants. 
 
-Money is like chakra in Naruto you can use it to cast ninja techniques like moving faster and a whole bunch of things. Use it wisely.
+Money is like chakra in Naruto you can use it to cast ninja techniques like moving faster and a whole bunch of things. 
+
+Use it wisely.
 
 **6. Count your blessings.** 
 
@@ -178,4 +184,6 @@ Have an awesome year with these six tips.
 
 It took me a few years to learn this. 
 
-I'll say it again. Don't waste it.
+I'll say it again. 
+
+Don't waste it.

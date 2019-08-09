@@ -169,13 +169,17 @@ You need to be emotionally detached from the job and remain objective.
 
 You need to be careful with your words.
 
-You are not allowed to get angry at your boss or your customers. Your job is to find a solution that satisfies both your employer and their clients.
+You are not allowed to get angry at your boss or your customers. 
+
+Your job is to find a solution that satisfies both your employer and their clients.
 
 You need to cooperate with the rules.
 
 You need to be attentive and take note of important rules and policies.
 
-You need to continually improve your listening skills and how you phrase your answers to questions you are asked. If you say something that offended a customer always ask yourself how you can say the exact same thing without getting the same negative response.
+You need to continually improve your listening skills and how you phrase your answers to questions you are asked. 
+
+If you say something that offended a customer always ask yourself how you can say the exact same thing without getting the same negative response.
 
 Here are common questions that Interviewers usually ask new applicants.
 
@@ -201,7 +205,11 @@ It's important to communicate that you want to work with the company long term.
 
 This is one of the many "random questions" that you may get asked.
 
-I often need to take some time to think of an answer. However, a lot of times I don't have a good answer for questions like this. However I still pass this part in the interview.
+I often need to take some time to think of an answer. 
+
+However, a lot of times I don't have a good answer for questions like this. 
+
+However I still pass this part in the interview.
 
 You want to know why?
 

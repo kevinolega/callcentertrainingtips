@@ -222,7 +222,9 @@ Every effort you put into looking good contributes to your confidence
 
 ## Feel Good. 
 
-Start your day with a smile, pray, do something that contributes to your well being. Do your best to generate good vibes for yourself that day. 
+Start your day with a smile, pray, do something that contributes to your well being. 
+
+Do your best to generate good vibes for yourself that day. 
 
 It’s definitely going to help. 
 

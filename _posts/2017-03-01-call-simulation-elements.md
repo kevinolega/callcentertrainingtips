@@ -148,7 +148,9 @@ Can you tell me more about you.
 
 Insert issue or problem you are experiencing. 
 
-When you probe, ask questions that will make you understand the situation more. Tell me more about what happened. 
+When you probe, ask questions that will make you understand the situation more. 
+
+Tell me more about what happened. 
 
 ## Apologize. 
 

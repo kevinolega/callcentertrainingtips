@@ -38,11 +38,10 @@ I also have readers who support me by buying personal training sessions and emai
 
 For non-call center agents who are looking for work, I send specific lessons on how to prepare for your job application, and how to pass interviews, you'll also get three personal training sessions with me over the phone/Skype:
 
-Php 250 (paid by bank deposit)
 
 For call center agents who want to get regularized, become top agent, or increase your call center income from twenty to thirty thousand a month or more:
 
-Php 500 (per month paid by bank deposit, you get weekly calls and lessons on how to become effective at your job, build more professional skills, improve your life, and get your true goals)
+Get weekly calls and lessons on how to become effective at your job, build more professional skills, improve your life, and get your true goals.
 
 These personal training sessions are done over the phone or we can meet if you live near me (Parañaque and Muntinlupa area only).
 

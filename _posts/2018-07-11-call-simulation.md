@@ -59,7 +59,9 @@ The customer is having the worst day of his or her life and only you can fix the
 
 The customer is not angry at you. 
 
-The customer is in pain. Your job is to fix it. 
+The customer is in pain. 
+
+Your job is to fix it. 
 
 ## Here's a tip. 
 

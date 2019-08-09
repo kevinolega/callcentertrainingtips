@@ -21,7 +21,9 @@ In two to three years, call center work can be a stepping stone to greater thing
 
 Personally, I don't recommend staying at call center work for longer than three years because of health risks. 
 
-People who stay in call center companies longer than 5 years tend to die sooner. That's actually true because of health and occupational risk.
+People who stay in call center companies longer than 5 years tend to die sooner. 
+
+That's actually true because of health and occupational risk.
 
 ### What to do
 

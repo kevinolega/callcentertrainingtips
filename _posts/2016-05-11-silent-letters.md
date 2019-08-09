@@ -158,10 +158,3 @@ In case you're wondering the word I often mispronounce is **"almond"** and **"sa
 4.  Write down what you're saying wrong and make corrections.
 5.  Be patient and eventually you'll get it right all the time just like I do.
 
-As I've said, I plan to create an audio for this. 
-
-If I forget, send me an email to call center training tips at Gmail do com. 
-
-Praying for your success. 
-
-God bless and take care.

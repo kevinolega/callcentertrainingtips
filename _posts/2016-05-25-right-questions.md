@@ -24,7 +24,9 @@ Who can I ask to teach me?
 
 How can I learn this (insert skill)?
 
-What is missing? How do I find it?
+What is missing? 
+
+How do I find it?
 
 What are the lessons that I have learned? What can I use more often?
 

@@ -39,7 +39,9 @@ These days there's only iPhones and Android and there are cheap, mid and expensi
 
 There's little to talk about. 
 
-But then again you can still answer the questions. So let's do that. 
+But then again you can still answer the questions. 
+
+So let's do that. 
 
 Tell me about your phone by asking the above questions. 
 
