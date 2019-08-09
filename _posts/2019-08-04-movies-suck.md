@@ -24,13 +24,17 @@ We enjoyed the escape or chase scene.
 
 We loved the ending.
 
-We loved the lessons and discussions from the movie or TV show.
+We loved the life lessons, impressive quotes and discussions from the movie or TV show.
 
 You’ll just become more knowledgeable.
 
 About the Marvel cinematic universe.
 
 About the Fast and the Furious universe.
+
+About the Harry Potter universe.
+
+About Middle Earth.
 
 About Disney movies.
 
@@ -211,11 +215,19 @@ Same with video games.
 
 Video games teach some nice complex problem solving skills.
 
-But is not to "just play video games" and you'll be fine.
+But the advice isn't to "just play video games" and you'll be fine.
 
-My course back in college was IT related. I was on the computer all the time and I told my grandmother that I was studying when all I was doing was playing Starcraft and Half-life.
+My course back in college was IT related. I was on the computer all the time and I told my grandmother that I was studying when all I was doing was playing Starcraft, Diablo 2 and Half-life.
 
 This is my objection to "just watching English movies."
+
+## The BIGGEST reason why JUST WATCHING Movies won't help improve your English Skills enough to help you qualify for a job.
+
+How many of you watch a movie with a notebook and pen?
+
+You pause the movie, write down an unfamilliar word, maybe play back to the scene when you first encounter a word, Google the definition, say the word out loud and use it in a sentence and get it checked to make sure the word is used well?
+
+Very few crazy people.
 
 ## But we're Filipinos, we're not Americans, you can't expect us to have perfect English.
 
