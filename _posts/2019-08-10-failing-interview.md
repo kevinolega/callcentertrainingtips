@@ -16,6 +16,6 @@ When you become qualified, getting a job is easy.
 
 When you have a job, getting money is easy. 
 
-When you have money, getting more friends and family na mangungitang is easy. 
+When you have money, getting more friends and family who will borrow money is easy. 
 
 Confront your weakness and stay in touch.
