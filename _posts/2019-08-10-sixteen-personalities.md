@@ -1,32 +1,31 @@
 --- 
 layout: post 
-title: Take The DISC Personality Test
-date: 2019-08-07 12:00
+title: Take The Sixteen Personalities Test
+date: 2019-08-10 14:58
 Tags: [ activities, blog ]
-permalink: /disc/ 
+permalink: /16personality/ 
 author: Kevin Olega 
 --- 
 This test helps understand your personality.
 
 You can learn about some of your strenghs that will allow you to move forward with your career.
 
-You can also improve the quality of your relationships by reading the results because it helps you understand yourself and others.
+More importantly, you can use the traits for your job application.
 
 You also learn about positive patterns that make you stronger and negative patterns that make you weaker.
  
-Discover who you are at your core to live a more authentic life.
+What is your Personality Type?
 
-[CLICK HERE TO TAKE THE TEST](https://tonyrobbins.com/disc).
+I'm an ENTP.
 
-What is your dominant DISC Trait?
+ENTPs are inspired innovators, motivated to find new solutions to intellectually challenging problems. They are curious and clever, and seek to comprehend the people, systems, and principles that surround them. Open-minded and unconventional, Visionaries want to analyze, understand, and influence other people.
 
-I'm high Conscientiousness, Steadiness and Dominance.
+## What about you?
 
-Low in influence.
-
-What about you?
+[CLICK HERE TO TAKE THE TEST](https://www.16personalities.com/free-personality-test)
 
 Write the answer on your journal.
+
 
 With that in mind, let's begin!
 
@@ -38,13 +37,13 @@ Do another Google Search.
 
 Ask this question.
 
-## What are positive traits of my DISC results?
+## What are positive traits of my personality type?
 
 Select ten positive traits that apply to you and write that down on your journal.
 
 Next question.
 
-## What are the negative traits of my DISC results?
+## What are the negative traits of my personality type?
 
 Select five negative traits and write those down on your journal.
 

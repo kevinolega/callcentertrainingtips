@@ -12,7 +12,7 @@ If you don't know, you can do a Google search.
 
 Just go to Google.com and ask the question... 
 
-What is my chinese zodiac sign?
+What is my Chinese zodiac sign?
 
 Most sites will generate your results with your birthday.
 
