@@ -121,3 +121,52 @@ Get used to pulling out your notebook.
 Ask people questions and write the answers down.
 
 If you read or hear anything interesting, put it on your notebook.
+
+## WARNING: This technique requires a decent level of self-confidence.
+
+So if you're a low confidence person, please go back to the two lessons:
+
+- [Interview Mindset](https://callcentertrainingtips.com/interview-mind)
+- [Ultimate Self-Confidence Formula](https://callcentertrainingtips.com/confidence-formula)
+
+I scored several jobs by telling them this. 
+
+And because I did, this put the pressure on them to not shop around for applicants. 
+
+Sometimes the interviewer says, we have some other applicants scheduled for evaluation as well and we'd like to talk to them as well.
+
+This is a fancy way of saying we'd like to talk to people who are better than you and if they are a little better than you, then we'll hire them and not you.
+
+When I realize this many intervier, the image of the pretty recruitment staff fills my head and I say out loud "you smooth fucker."
+
+Some companies will ask for a few days to evaluate other candidates.
+
+And it's for exactly the above reason.
+
+This is so important.
+
+I'll say it again.
+
+Recruiters are evaluating multiple people and only selecting the best.
+
+Just like the Tournament of Power in Dragon Ball Z or some other anime.
+
+There are winners and losers.
+
+The solution is to join multiple tournaments so you can become a stronger fighter.
+
+The key lesson is that since they are doing this to you.
+
+You also do this to them.
+
+A strong, confident fighter.... I mean applicant has nothing to fear.
+
+Because there are thousands of BPO opportunities.
+
+New ones can be accessed through a Google search.
+
+## What happens if I do this well? 
+
+The interviewer retracts the wait time and they try to close me on their offer if they know they could afford my asking pay.
+
+They want me, they have to show me.
