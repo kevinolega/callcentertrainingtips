@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Become 1,000 Times Smarter Than All Your Batchmates In Less Than A Year
+title: You Ever Feel Stupid? Here's How to Get Smarter
 description: "This is a complete guide on how to become smarter and more competitive than everyone you met in school."
 date: 2017-10-10 05:54
 author: Kevin Olega
@@ -15,17 +15,17 @@ I learned early on that people forget about improving their mind after they grad
 
 Recall or research the story of the "tortoise and the hare."
 
-### Here's how to catch up:
+# Here's how to catch up:
 
-#### Step 1:
+## Step 1:
 
 Buy a notebook and a nice pen.
 
-#### Step 2:
+## Step 2:
 
 Write down two to three lines of lessons a day, every day.
 
-**Consider this.** 
+**Consider this**.
 
 If you write two or three lessons a day, in a month you have 60 to 90 lessons to consider. 
 
@@ -34,20 +34,20 @@ If you are consistent, in a year you have anywhere between 720 and 1,080 lessons
 If you do this everyday and do five instead of the minimum 2-3 you'll fill your notebook in six months.
 
 
-#### Step 3: 
+## Step 3: 
 
 Review your notes. 
 
 Writing things down helps you remember but reading enables you to continue learning.
 
-### Can't think of what to write?
+## Can't think of what to write?
 
 The lessons you have to write down doesn't need to be profound.
 
 Think about simple changes and small improvements can make your life better over time.
 
 
-### Here are examples of simple things I wrote down:
+## Here are examples of simple things I wrote down:
 
 - Keeping your surroundings clean enable you to think clearly.
 - Thinking on paper enables me to solve more complex problems.
@@ -58,7 +58,7 @@ Think about simple changes and small improvements can make your life better over
 - Lettuce is cheap at Korean groceries.
 - You can save time by buying meat scissors at the Korean store for Php 200-300.
 
-### Here are examples of changes and lessons I wrote down:
+## Here are examples of changes and lessons I wrote down:
 
 - Buy the more expensive items. The cheap one will usually disappoint you. The couple of hundred or even thousand pesos saved isn't worth the heartbreak of said item breaking down at the worst possible moment.
 - A book is an investment where you spend anywhere between Php 500 and Php 2,000 but gain direct or indirect passive income or savings of more than Php 2,000 a month. Online courses have similar returns.
@@ -67,7 +67,7 @@ Think about simple changes and small improvements can make your life better over
 - Your results are caused by a combination of all your decisions in the past few years.
 
 
-### Here are examples of crazy experiments I wrote down and tried out:
+## Here are examples of crazy experiments I wrote down and tried out:
 
 - If you keep your items below 150 things you will experience more freedom in your life.
 - If you work on your skills and become genuinely skillful you can get more opportunities and make more money than a college grad at a nice school who doesn't know shit.
@@ -75,7 +75,7 @@ Think about simple changes and small improvements can make your life better over
 - If you go to the gym you automatically have advantages in intelligence, focus and energy over people who don't go to the gym.
 - I can go on and on.
 
-### So here's a summary:
+## So here's a summary:
 
 1. Buy a notebook and fill it with lessons.
 2. Write what you discover yourself and write what you learn from others.
