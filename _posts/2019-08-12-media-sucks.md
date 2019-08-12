@@ -10,25 +10,25 @@ If you're a child, you would benefit from watching English movies.
 
 The younger you begin, the more English movies and TV shows you'll be able to consume.
 
-Watching movies can help you familiarize with how Americans use the language.
+Watching movies can help you become more familiar with how Americans speak the language.
 
 Your listening skills might improve too.
 
 The more exposure you have, the more fluent you'll be.
 
-This is the most efficient way to create English speaking kids.
+This is the most efficient way to train English speaking kids.
 
 Unfortunately, you are not a kid.
 
-## The BIGGEST Reason Why JUST WATCHING Movies Won’t Help Improve Your English Skills Enough To Help You Qualify For A Job.
+## The BIGGEST Reason Why JUST WATCHING Movies Won’t Help Improve Your English Skills Enough To Help You Qualify For A Job in a Call Center.
 
 How many of you watch a movie with a notebook and pen?
 
-Do you pause the movie every time you encounter an familiar word?
+Do you pause the movie every time you encounter an unfamiliar word?
 
-Do you write down the unfamiliar word and Google the definition?
+Do you write down the unfamiliar word and search Google for the definition?
 
-Do you listen to the proper pronunciation of the unfamiliar word, imitate it, say it out loud and check the proper pronunciation and retry until you get it correctly?
+Do you listen to the proper pronunciation of the unfamiliar word, imitate it, say it out loud and check the proper pronunciation and repeat the process until you get it correctly?
 
 Are you REALLY making an effort to make sure that you're using the word well? the word is used well?
 
@@ -44,7 +44,7 @@ Not that much anyway.
 
 Achieving a goal requires the accomplishment of some tasks.
 
-Accomplishing a task requires some skills.
+Accomplishing a task requires multiple skills.
 
 Skills are a combination of techniques.
 
@@ -60,7 +60,39 @@ The most common examples that you are familiar with include:
 
 **English Output:** Writing and Speaking.
 
-Most Filipinos that we encountered have strong deficiency with their English output.
+Filipinos have the highest English comprehension and compatibility for BPO and Call Center work.
+
+That’s because we have an incredible relationship to American culture.
+
+We all know Star Wars, The Avengers, Transformers, Iron Man, Batman, Superman, the Lord of The Rings, Harry Potter, Twilight and many more.
+
+We saw popular US TV shows like Oprah, Game of Thrones, Friends, How I Met Your Mother and more.
+
+You know the names Tom Cruise, Brad Pitt, Angelina Jolie, Arnold Schwarzenegger, Robin Williams and Michael Jackson.
+
+Other Asians don’t.
+
+They have their own culture.
+
+And only pay attention to local media.
+
+We were the first on Friendster, Facebook and YouTube.
+
+If you finished High School, you already have ten years of English practice.
+
+Usually, people worked with just need to learn and correct 20 mistakes with their spoken English to pass BPO interviews.
+
+Maybe 30 words need to be fixed to be sure.
+
+If you’re really challenged, let’s make it 50 corrections.
+
+People who claim to have problems with English Grammar only need to do a few writing exercises to fix their English.
+
+You might only need to memorize 50 sentences to pass a Call Center Interview.
+
+And you probably need only 100 sentences to get Regularized in a Call Center.
+
+Most Filipinos that I encountered have strong deficiency with their English output.
 
 They understand words.
 
@@ -138,7 +170,7 @@ That means not all the time.
 
 In order to build your English skills to a level that you can competently interact in a business environment, you will need to expend an ungodly amount of hours watching all sorts of movies and TV shows.
 
-I mean, sure you can sometimes find a small piece of pizza in a garbage dump but that’s not the best way to get pizza.
+I mean, sure you can sometimes find a small piece of pizza in a garbage dump but that’s not the best way to get your pizza.
 
 The best way is to write your ideas and discuss with a person who speaks English well.
 
@@ -146,15 +178,19 @@ Watching movies and shows an inferior and incomplete method if your main objecti
 
 Imagine having a match with Manny Pacquiao in a few months. 
 
-Do you think you can expect to win with just watching Rocky, a few boxing movies, YouTube videos and reading some boxing books?
+Do you think you can expect to win with just watching a few boxing movies, YouTube videos and reading boxing books?
 
 You need to be at the gym, practicing on the punching bag, getting coached by an experienced boxer, sparring with other fighters.
 
 In the same way, to learn a language, you must SPEAK it.
 
-Daily practice, SPEAKING and confronting your weakness, until you are skilled enough.
+Daily practice, SPEAKING and confronting your weakness, until you are skilled enough is the missing element in hundreds of Filipinos who send me messages every week.
 
 What you need is real practice.
+
+The kind of practice where your mouth is moving.
+
+And English words are coming out of your mouth.
 
 Not practice in your head.
 
@@ -196,7 +232,7 @@ Listen to how your thoughts sound.
 
 You have enough school to recognize wrong grammar.
 
-You have SEEN ENOUGH ENGLISH MOVIES to detect some small errors.
+You have already SEEN ENOUGH ENGLISH MOVIES to detect many small errors.
 
 Make some edits to your written English then repeat the process.
 
@@ -216,14 +252,15 @@ When you're hungry, do you say, "I'm hungry" or "gutom na ko"?
 
 Thinking in English helps increase the speed and spontaneity of your words in a conversation.
 
-But I’m Afraid, I’ll Get Embarrassed Or Laughed At…
+## But I’m Afraid, I’ll Get Embarrassed Or Laughed At…
+
 It’s a weakness you will have to voluntarily face.
 
 At the end of the year, a minimum wage job gets a person 119k/year
 
-A regular call center gig pays 240k/year.
+A regular call center job pays 240k/year.
 
-And an experienced agent can earn 390k/year.
+And an experienced call center agent can earn 390k/year.
 
 So all the suffering is worth facing.
 
@@ -236,3 +273,6 @@ Which is a whole another long discussion.
 1. Find a practice partner
 2. Buy a notebook and begin writing your thoughts and ideas.
 3. Start thinking in English.
+4. Write your excuses on your journal.
+5. Write your plan of action on how to improve your English.
+6. Write the names of all the people you will ask for help.
