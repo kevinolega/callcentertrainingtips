@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: English Movies Won't Improve Your Communication Skills - Short Version
+title: English Movies Won't Improve Your Communication Skills
 date: 2019-08-12 20:45
 Tags: [ uncategorized, blog ]
 permalink: /media-sucks/ 
