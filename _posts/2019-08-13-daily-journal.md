@@ -16,6 +16,17 @@ You can print more when you're done.
 
 You can also send me your answers if you need help and have questions.
 
+## Results
+
+1. I got my dream income after answering this journal for three years.
+2. My life has gotten better.
+3. My skills have gotten better.
+
+And I believe you will get the same benefits too.
+
+
+[CLICK HERE TO DOWNLOAD JOURNAL](https://www.dropbox.com/s/hpnsemfaxm7kjvv/CCTT%20Printable%20Daily%20Journal.pdf?dl=0)
+
 # Here's How To Answer Your Journal
 
 1. Keep your answers short.
@@ -95,3 +106,6 @@ Write down anything here.
 - Select a number.
 - Are you satisfied with your day?
 - What happened and what needs to be fixed.
+
+
+[CLICK HERE TO DOWNLOAD JOURNAL](https://www.dropbox.com/s/hpnsemfaxm7kjvv/CCTT%20Printable%20Daily%20Journal.pdf?dl=0)
