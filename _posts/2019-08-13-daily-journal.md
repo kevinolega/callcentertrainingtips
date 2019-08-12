@@ -36,7 +36,7 @@ And I believe you will get the same benefits too.
 ## I am grateful for...
 
 - Opportunities and advantages
-- Answered Prayers and Blessongs
+- Answered Prayers and Blessings
 - People who are helping you
 - The current challenge that you're 
 
@@ -76,7 +76,7 @@ And I believe you will get the same benefits too.
 
 ## Power Ups
 
-- Job Application prioriry. (Circle One)
+- Job Application priority. (Circle One)
 - Buy In: Good habits. (circle what you did)
 - Practice: English activities (circle what you did)
 
