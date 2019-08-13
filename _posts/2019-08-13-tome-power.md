@@ -3,7 +3,7 @@ layout: post
 title: True Tome of Power
 date: 2019-08-13 14:11
 Tags: [ uncategorized, blog ]
-permalink: // 
+permalink: /tome-power/ 
 author: Kevin Olega 
 --- 
 I played a game a game called Heretic.
@@ -22,7 +22,7 @@ There's an item called the "Tome of Power." The "Tome of Power" is a black book 
 
 When you read the Tome of Power you get an increase the power of all your magic attacks.
 
-One reason we enjoy fantasy games because of the exagerated properties is we secretly desire some of the abilities in real life.
+One reason we enjoy fantasy games because we secretly desire some of the exagerated properties and abilities in real life.
 
 I'm sure it will be difficult to get to a point where you'll have actual magic attacks. 
 
