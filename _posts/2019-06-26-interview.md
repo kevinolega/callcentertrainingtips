@@ -1,6 +1,7 @@
 --- 
 layout: post 
 title: Call Center Interview Lessons
+description: Here are all my call center interview tips.
 date: 2019-06-26 12:02
 Tags: [ collection, index, website ]
 permalink: /interview/ 
@@ -150,7 +151,7 @@ Personal examples included.
 
 [The Most Important Question You Need To Ask Your Interviewer](https://callcentertrainingtips.com/important-question/)
 
-## How to Get Your Dream Job
+## How to Get Your Dream Job - Call Center Interview Tips
 
 [Dream Job Recipe](https://callcentertrainingtips.com/dream-job/)
 
@@ -162,11 +163,11 @@ Personal examples included.
 
 [Call Center Job Application Milestones](https://callcentertrainingtips.com/milestones/)
 
-## What if you can't think of reasons why a company should hire you?
+## What if you can't think of reasons why a company should hire you? - How to overcome difficult call center interviews.
 
 [Can't think of why they should hire you? Start counting your blessings](https://callcentertrainingtips.com/count-blessings/)
 
-## Connect with your interviewer.
+## Connect with your interviewer. Call center interview tips.
 
 [Why Asking Questions And Small Talk Are Important In Interviews](https://callcentertrainingtips.com/questions-small-talk/)
 
@@ -182,21 +183,21 @@ Here's what you can learn from the experience.
 
 [How To Fix All Your Job Application Errors](https://callcentertrainingtips.com/fix/)
 
-## More weakness means you have more strengths
+## More weakness means you have more strengths. How to pass call center interviews.
 
 [How To Turn A Disadvantage Into A Perk](https://callcentertrainingtips.com/disadvantage-perk/)
 
-## Read this and never worry about getting a job for the rest of your life.
+## Read this and never worry about getting a job for the rest of your life. How to pass call center interviews with these strategies.
 
 [How To Always Have A Job Offer](https://callcentertrainingtips.com/prospecting/)
 
-## Learn this Interview Super Skill
+## Learn this Interview Super Skill - Useful for Call Center Interviews.
 
 This is a skill I learned after I failed my interview at Teleperformance at Octagon Center Ortigas.
 
 [Learn this Interview Super Skill](https://callcentertrainingtips.com/finding-good/).
 
-## More Interview Tips
+## More Call Center Interview Tips
 
 [How to buy time and give yourself better answers](https://callcentertrainingtips.com/avoid-fillers-question/)
 
