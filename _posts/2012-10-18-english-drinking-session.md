@@ -6,6 +6,8 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e64lOyRh4TY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Disclaimer. 
 
 If you’re a guy and you have friends who are violent when drunk do not do this. 
