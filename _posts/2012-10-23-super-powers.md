@@ -83,6 +83,3 @@ If I'm going emo because I miss someone, I just need to recognize that and I'll 
 Consider what I said and use superpowers instead of curses.
 
 Did what I just said made sense? Talk to me.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZKlNePWUQA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
