@@ -6,6 +6,8 @@ author: Kevin Olega
 comments: true
 categories: [Applicant, Lessons]
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LvsFgL6pqNY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Don’t look for things that guarantee success. 
 
 We don’t know the future or how things will always turn out in the end. 
