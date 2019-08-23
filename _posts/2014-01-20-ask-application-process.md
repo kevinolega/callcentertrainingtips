@@ -6,6 +6,7 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hCIz2789Zxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 When I started working in a call center.
 
