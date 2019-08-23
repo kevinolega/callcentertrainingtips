@@ -6,6 +6,8 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xNANYSvTJEw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Here's the problem, I can't convince you that you are.
 
 Nobody will. 
