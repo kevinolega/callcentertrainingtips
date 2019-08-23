@@ -461,3 +461,5 @@ Email me if you're feeling shy.
 **2. Tell me what tip you'll be working on this week.**
 
 See you soon.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t56G04x1TvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
