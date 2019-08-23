@@ -6,7 +6,7 @@ Tags: [ uncategorized, blog ]
 permalink: /weight/ 
 author: Kevin Olega 
 --- 
-This is one of my judgemental posts.
+This is one of my most judgemental posts.
 
 If you're not trying to fix your life, then this post will only insult you.
 
@@ -80,7 +80,12 @@ Vegetables aren't filling.
 
 ## Eat More Beef
 
-[](https://justmeat.co/)
+[Beef is the most nutritionally dense food available for humans](https://justmeat.co/).
+
+Beef is the cheapest food source because it does not require extra ingredients to fill you.
 
 ## Start Exercising
 
+Exercise will not directly help you lose weight but teaches you a lot of good habits that will help you develop discipline and self control.
+
+Your body will also develop better decision making abilities. 

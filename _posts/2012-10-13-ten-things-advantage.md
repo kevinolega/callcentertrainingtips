@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 'Ten Small Things That Give Me an Advantage When Looking for Work'
