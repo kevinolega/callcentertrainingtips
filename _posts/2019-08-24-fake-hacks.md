@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Don't Listen to Fake Job Hunting Advice
+title: Don't Listen to Fake Call Center Job Hunting Advice
 date: 2019-08-24 15:08
 Tags: [ uncategorized, blog ]
 permalink: /fake-hacks/ 
@@ -10,7 +10,9 @@ There are people who make YouTube videos about call center tips with annoying mu
 
 There's always fake laughter between sentences.
 
-That's because the only thing they're doing is tricking the audience into believing their fake hacks and shortcuts.
+That's because the only thing they're doing is tricking the audience into believing their fake hacks and shortcuts works.
+
+The truth is...
 
 You can't trick the interviewer into hiring you.
 
@@ -20,9 +22,11 @@ And even if you did, your life will be a living hell working in a call center if
 
 You will talk to a new American every five minutes eight hours a day five days a week.
 
-If your English isn't good, your customer will hate you, your boss will hate you, and you'll probably lose 12,000 pesos because you lost the opportunity.
+If your English isn't good, your customer will hate you, your boss will hate you, and you'll probably waste 12,000 pesos because you lost the opportunity.
 
 ## Let me paint a clear picture for you...
+
+When you try to get hired because of hacks instead of skill...
 
 It's like faking your way into becoming a professional boxer and your next boxing match is with Manny Pacquiao.
 
@@ -36,4 +40,8 @@ Work on your skills.
 
 Qualify for higher pay.
 
-Shortcuts are only ways for people to fool you.
+Shortcuts are the way these fake advisors try to fool you.
+
+Don't listen to fake call center job hunting advice.
+
+Work on your skills.
