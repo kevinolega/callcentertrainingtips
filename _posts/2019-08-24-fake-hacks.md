@@ -6,6 +6,9 @@ Tags: [ uncategorized, blog ]
 permalink: /fake-hacks/ 
 author: Kevin Olega 
 --- 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/irqP1wNcve4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 There are people who make YouTube videos about call center tips with annoying music and laughing in the background. 
 
 There's always fake laughter between sentences.
@@ -45,3 +48,5 @@ Shortcuts are the way these fake advisors try to fool you.
 Don't listen to fake call center job hunting advice.
 
 Work on your skills.
+
+![IMAGE TEXT]({{ site.url }}/images/FAKE interview tips.png).
