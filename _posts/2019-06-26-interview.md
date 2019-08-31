@@ -13,7 +13,7 @@ Every lesson here was learned from experience.
 
 Every tip that led to success was paid for with my failure.
 
-## How to Answer Random Questions at Call Center Interviews
+## How to Answer Random Questions or Out of The Box Questions at Call Center Interviews
 
 - Effective ways to give good instructions
 - Keep the conversation for more than ten minutes
