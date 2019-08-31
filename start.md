@@ -11,16 +11,17 @@ permalink: /start/
 
 Hi there!
 
-
 If you’re new here, my name is Kevin and I write the lessons and maintain this site.
 
 I'm the number one Call Center Job Hunting Assistance writer in the Philippines.
 
-[My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
+Call Center Training Tips has the largest collection of lessons on how to pass call center interview questions and build professional skills that will allow you to achieve your dream income.
 
-I pay 100% of the website hosting, yearly domain registration, web tools, hardware and software needed to maintain the websiteß using my own money.
+[My lessons have already helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
-I've been helping Filipinos get hired in a call center since 2005. That's thirteen years if you haven't considered the math.
+I pay 100% of the website hosting, yearly domain registration, web tools, hardware and software needed to maintain the websites using my own money.
+
+I've been helping Filipinos get hired in a call center since 2005. That's fourteen years if you haven't considered the math.
 
 If you haven't already, [send me a message to say hi][1]!
 
@@ -48,8 +49,6 @@ I send updates, lessons, tips, special deals and opportunities to Filipinos who 
 
 ## This website contains every lesson I’ve written.
 
-In terms of training I do not offer personal training at the moment.
-
 If you read and self-study the lessons on this website, you can get all my lessons for free.
 
 [CLICK HERE TO GET FREE LESSONS][4].
@@ -70,9 +69,9 @@ And look at your situation.
 
 And see what applies to you.
 
-## The Truth Hurts
+## Truth Hurts
 
-So some of the things I will say WILL BE OFFENSIVE TO A LOT OF FILIPINOS. 
+Some of the things I will say WILL BE OFFENSIVE TO A LOT OF FILIPINOS. 
 
 But know that I say all these in love.
 
@@ -118,9 +117,9 @@ I put this together because call center schools and call center training program
 
 ## I Use The Best Training Methods Develped By The Smartest People In The World
 
-My training methods work because it incorporates the best practices from the best teachers that I have accumulated for over 10 years.
+My training methods work because it incorporates the best practices from the best teachers that I have accumulated for over 13 years.
 
-## When We're Done, YOU'LL BECOME THE SMARTEST PERSON IN YOUR NEIGHBORHOOD
+## When We're Done, YOU'LL BECOME THE SMARTEST PERSON IN YOUR COMMUNITY
 
 I have used accelerated learning techniques that will allow you to learn and apply the lessons faster than any class that you can take.
 
@@ -128,7 +127,7 @@ I am also part of one of the first call center training schools in the Philippin
 
 ## Learning With Me Is Fun
 
-I hope you benefit and enjoy it as much as I enjoyed putting it together.
+I'm CONFIDENT you will benefit and enjoy the lessons as much as I enjoyed putting it together.
 
 I am sharing with you the top lessons that you should read if you want to get hired in a call center.
 

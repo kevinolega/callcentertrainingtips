@@ -1,8 +1,8 @@
 --- 
 layout: post 
-title: English Tips and Tricks
+title: English Tips and Tricks - IN PROGRESS
 description: This is an index post for English tips. All English tips will be added here eventually.
-Tags: [ english, blog, directory ]
+Tags: [ english, collections, blog, directory ]
 date: 2018-03-28 08:53
 permalink: /english-tips/ 
 author: Kevin Olega 
@@ -86,3 +86,17 @@ Despite that many fail call center screenings due to minor errors.
 Minor errors are forgivable. 
 
 [CLICK HERE TO LEARN THE PRONUNCIATION ERRORS THAT YOU NEED TO FIX](http://callcentertrainingtips.com/pronunciation-errors/)
+
+
+ENGLISH
+
+(https://callcentertrainingtips.com/bully/)
+(https://callcentertrainingtips.com/learn-fluent-english/)
+(https://callcentertrainingtips.com/five-communication-skills/)
+(https://callcentertrainingtips.com/cheat-sheet/)
+(https://callcentertrainingtips.com/english-drinking-session/)
+(https://callcentertrainingtips.com/1sp/)
+(https://callcentertrainingtips.com/english-friends/)
+(https://callcentertrainingtips.com/tvshow/)
+(https://callcentertrainingtips.com/five-communication-skills/)
+(https://callcentertrainingtips.com/cooking-shows/)
