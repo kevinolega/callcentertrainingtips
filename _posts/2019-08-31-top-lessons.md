@@ -1,8 +1,52 @@
 --- 
 layout: post 
-title: 
+title: Top Lessons - IN PROGRESS
 date: 2019-08-31 15:14
-Tags: [ uncategorized, blog ]
-permalink: // 
+Tags: [ collections, blog ]
+permalink: /top/ 
 author: Kevin Olega 
 --- 
+(https://callcentertrainingtips.com/smarter/)
+(https://callcentertrainingtips.com/manifesto/)
+(http://callcentertrainingtips.com/beginner/)
+(http://callcentertrainingtips.com/call-flow-complete/)
+(http://callcentertrainingtips.com/how-to-answer-tell-me-something-about-yourself-questions)
+(http://callcentertrainingtips.com/call-simulation/)
+(http://callcentertrainingtips.com/versant/)
+(http://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/)
+(https://www.youtube.com/user/CCTTshow)
+(https://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers)
+(https://callcentertrainingtips.com/pass-training/)
+(https://callcentertrainingtips.com/awesome-year/)
+(https://callcentertrainingtips.com/sir-maam-confidence/)
+(https://callcentertrainingtips.com/cheat-sheet/)
+(https://callcentertrainingtips.com/dj/)
+(https://callcentertrainingtips.com/count-blessings/)
+(https://callcentertrainingtips.com/media-sucks/)
+(https://callcentertrainingtips.com/commitment/)
+(https://callcentertrainingtips.com/copycat/)
+(https://callcentertrainingtips.com/modern-skills/)
+(https://callcentertrainingtips.com/english-friends/)
+(https://callcentertrainingtips.com/waste/)
+(https://callcentertrainingtips.com/team/)
+(https://callcentertrainingtips.com/escape-fear/)
+(https://callcentertrainingtips.com/words/)
+(https://callcentertrainingtips.com/internet-skills/)
+(https://callcentertrainingtips.com/pronunciation-hell/)
+(https://callcentertrainingtips.com/mae-malabon/)
+(https://callcentertrainingtips.com/important-question/)
+(https://callcentertrainingtips.com/convergys-gail/)
+(https://callcentertrainingtips.com/difficult-questions/)
+(https://callcentertrainingtips.com/email-address/)
+(https://callcentertrainingtips.com/milestones/)
+(https://callcentertrainingtips.com/avoid-fillers-question/)
+(https://callcentertrainingtips.com/prospecting/)
+(https://callcentertrainingtips.com/10-small-superior-applicants/)
+(https://callcentertrainingtips.com/tell-amazing-stories/)
+(https://callcentertrainingtips.com/time-looking-easy/)
+(https://callcentertrainingtips.com/ask-application-process/)
+(https://callcentertrainingtips.com/smarter-answer-questions/)
+(https://callcentertrainingtips.com/companies-hiring-apply/)
+(https://callcentertrainingtips.com/six-things-hired/)
+(https://callcentertrainingtips.com/how-to-build-a-call-center-resume-from-scratch-no-work-experience/)
+((https://callcentertrainingtips.com/dont-apply/))
