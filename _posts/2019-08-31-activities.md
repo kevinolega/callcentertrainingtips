@@ -105,6 +105,8 @@ Here's a short list of things that you should be able to do in English. If you c
 
 ## Take This Fun Survey To Improve Your English and Interview Skills
 
+When I was in grade school, we passed around an item called an "autograph book" it's a notebook with a list of questions where we wrote down our name, address, contact information, favorites, likes, dislikes, and answered a bunch of other questions like "What is love?" and "Who's your crush" and lot's of more questions. I think this helped me get used to and even excited to answering different questions about myself. When the entire class is done, we read and compared our answers. Here are some questions to get you comfortable with talking about yourself.
+
 [Click here and answer this survey on your notebook](https://callcentertrainingtips.com/answering-surveys-2018/).
 
 ## Confidence Boosting Activity Using Your Smartphone
