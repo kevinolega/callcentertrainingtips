@@ -3,7 +3,7 @@ layout: page
 title: ASSESSMENTS - IN PROGRESS
 date: 2019-08-31 15:25
 Tags: [ collections, blog ]
-permalink: /assessmentS/ 
+permalink: /assessments/ 
 author: Kevin Olega 
 --- 
 (https://callcentertrainingtips.com/typing-test/)
