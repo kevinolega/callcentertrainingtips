@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: Top Lessons - IN PROGRESS
 Tags: [ collections, blog ]
 permalink: /top/ 

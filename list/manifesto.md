@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: Read This Activity Out Loud
 description: This is both an English test, coaching tool and creed.
 date: 2019-08-28 11:07

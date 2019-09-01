@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: MINDSETS - IN PROGRESS
 date: 2019-08-31 18:30
 Tags: [ collections, blog ]
