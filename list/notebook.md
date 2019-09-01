@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: How to Use Your Notebook
 date: 2019-06-19 20:49
 description: This lesson is intended to teach you how to get the most during your training.

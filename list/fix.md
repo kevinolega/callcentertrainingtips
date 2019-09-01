@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: How To Fix All Your Job Application Errors
 date: 2019-06-12 14:09
 Tags: [ uncategorized, website ]

@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: English Test
 date: 2018-11-25 19:28
 permalink: /english-test/ 

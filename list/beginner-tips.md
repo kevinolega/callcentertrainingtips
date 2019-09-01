@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: Call Center Interview Beginner Tips
 date: 2018-06-29 19:49
 permalink: /beginner/ 

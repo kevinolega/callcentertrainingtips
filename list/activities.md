@@ -137,7 +137,6 @@ Do you drink? I don't anymore. But I used to think that my English is better whe
 
 I don't believe in superstition. But astrology has a good list of positive and negative personality traits that you can copy for your self-description. If you can relate to the personailty trait and it sounds good, you can write that down and add that to your list of positive traits. If you don't feel it applies just go ahead and skip.
 
-
 **Chinese Astrology**
 
 [Click here to learn about Chinese Zodiac](https://callcentertrainingtips.com/astral/).

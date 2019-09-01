@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: English Tips and Tricks - IN PROGRESS
 description: This is an index post for English tips. All English tips will be added here eventually.
 Tags: [ english, collections, blog, directory ]

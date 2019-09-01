@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: Call Center Interview Lessons
 description: Here are all my call center interview tips.
 date: 2019-06-26 12:02

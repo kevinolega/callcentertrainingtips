@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: page
 title: Call Center Basics
 date: 2018-03-28 07:49
 permalink: /basics/

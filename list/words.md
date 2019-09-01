@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: Call Center Words
 date: 2019-07-24 12:59
 Tags: [ uncategorized, blog ]
