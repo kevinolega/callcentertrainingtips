@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: List of Activities That Will Help You Qualify for Higher Paying Jobs
 date: 2019-08-31 16:29
 description: All the activities that I want to share with my student on one page.
