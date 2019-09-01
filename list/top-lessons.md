@@ -1,7 +1,6 @@
 --- 
 layout: post 
 title: Top Lessons - IN PROGRESS
-date: 2019-08-31 15:14
 Tags: [ collections, blog ]
 permalink: /top/ 
 author: Kevin Olega 
