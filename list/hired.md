@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: HIRED - IN PROGRESS	
 date: 2019-08-31 18:28
 Tags: [ collections, blog ]

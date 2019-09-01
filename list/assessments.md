@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: ASSESSMENTS - IN PROGRESS
 date: 2019-08-31 15:25
 Tags: [ collections, blog ]
