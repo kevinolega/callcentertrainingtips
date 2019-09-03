@@ -133,7 +133,7 @@ Do you drink? I don't anymore. But I used to think that my English is better whe
 
 [Click here to learn how to practice your English at a drinking session](https://callcentertrainingtips.com/english-drinking-session/).
 
-## Use Horroscope and Astral
+## Use Horoscope and Astral
 
 I don't believe in superstition. But astrology has a good list of positive and negative personality traits that you can copy for your self-description. If you can relate to the personailty trait and it sounds good, you can write that down and add that to your list of positive traits. If you don't feel it applies just go ahead and skip.
 
