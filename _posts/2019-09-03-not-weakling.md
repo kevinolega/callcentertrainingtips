@@ -18,6 +18,8 @@ If people telling you what's wrong with you bothers you.
 
 If harsh words hurt you...
 
+If cursing hurts you..
+
 If you're not willing to research.
 
 If you're not willing to teach yourself.
