@@ -40,7 +40,7 @@ People regret their life choices in the call center.
 
 People quit in call center work.
 
-Many people can't take the kind of work that call center agents take on a daily basis.
+Many people can't take the kind of work that call center agents receive on a daily basis.
 
 You have to please the company.
 

@@ -30,7 +30,7 @@ If you can afford most creature comforts, it's easy to never get enough sleep, s
 
 Not getting enough sleep ruins your ability to make decisions.
 
-You lose your discpline and you also lose more than half your skills.
+You lose your discipline and you also lose more than half your skills.
 
 ## Stop Consuming Sugar
 

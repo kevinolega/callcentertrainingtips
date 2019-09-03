@@ -18,7 +18,7 @@ The mayor went to trial and went to jail.
 
 I thought that was the end of the story.
 
-I Googled hime every now and then and saw that he's still behind bars.
+I Googled him every now and then and saw that he's still behind bars.
 
 A few days ago there's news that he's probably going to be set free.
 

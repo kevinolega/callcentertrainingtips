@@ -30,12 +30,12 @@ You get what you pay for.
 
 Zero power at presenting your value.
 
-When you're looking for work to increase your momthly salary, being able to provide value and being able to communincate your worth is very important.
+When you're looking for work to increase your monthly salary, being able to provide value and being able to communincate your worth is very important.
 
-And you'kk never learn that lesson until you pay for value.
+And you'll never learn that lesson until you pay for value.
 
 Professional people pay.
 
 Cheap people don't.
 
-You attract what yoou are. 
+You attract what you are. 
