@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: Join My Email List To Get My Best Lessons and Stay In Touch With Me
 date: 2019-08-31 13:55
 Tags: [ uncategorized, blog ]
@@ -23,3 +23,5 @@ When you receive my email, please send a reply to introduce yourself.
 One reason I do all of this is I enjoy meeting new people.
 
 [CLICK HERE TO SIGN UP AND GET FREE EMAIL LESSONS](http://eepurl.com/riFT1)
+
+![IMAGE TEXT]({{ site.url }}/images/email.jpg).
