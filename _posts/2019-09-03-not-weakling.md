@@ -56,6 +56,60 @@ You have to please 60-100 customers a day.
 
 Saying the wrong thing can get you fired on the spot.
 
+There is no spoonfeeding for call center agents.
+
+If you receive the title "call center worker" you are not allowed to receive any spoonfeeding.
+
+You are supposed to give the spoonfeeding.
+
+Your title says it all.
+
+Customer service representative.
+
+Representative motherfucker!
+
+You represent.
+
+You represent the company.
+
+You represent the businessowner.
+
+You are in their place.
+
+This applies to sales representative and technical support representative.
+
+You are given the authority and the responsibility.
+
+And if you don't know, google the meaning of those two words.
+
+Higher paying call center jobs calls you something fancy like..
+
+Customer Account Executive.
+
+Executive motherfucker!
+
+You are supposed to execute.
+
+Google that too.
+
+It's responsibility.
+
+Everyone talks about the benefits of working in a call center.
+
+But do you know the responsibility of working in a call center?
+
+Do you know that if you accept the job, you're supposed to go to work if you have a schedule?
+
+And it doesn't matter if it's raining cats and dogs, you need to be in the office.
+
+If you have to take a grab or hire the neighbor with the car to take you to the office.
+
+You're supposed to go to work even if you're not feeling well.
+
+Minor aches and pains don't cut it.
+
+You have a job to do.
+
 ## You will be judged based on...
 
 How disciplined you are at following the rules.
