@@ -44,4 +44,8 @@ exclude:
 
 paginate: 40
 
-gems: [jekyll-seo-tag, jekyll-paginate]
+url: "http://callcentertrainingtips.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
+gems: [jekyll-seo-tag, jekyll-paginate, jekyll-sitemap]
