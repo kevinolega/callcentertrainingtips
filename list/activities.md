@@ -143,6 +143,6 @@ I don't believe in superstition. But astrology has a good list of positive and n
 
 **Astrology Zodiac**
 
-[Click here to learn about how your horroscope can help you in your interviews](https://callcentertrainingtips.com/horoscope/).
+[Click here to learn about how your horoscope can help you in your interviews](https://callcentertrainingtips.com/horoscope/).
 
 ## MORE ACTIVITIES COMING SOON...
