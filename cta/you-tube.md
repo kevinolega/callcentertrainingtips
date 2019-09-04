@@ -39,3 +39,5 @@ I'll do my best to answer your questions in the next video.
 7. Send me a message or leave a comment with your questions. I'll do my best to answer in detail on my next video.
 
 [Click here to watch our Video Lessons](https://www.youtube.com/user/CCTTshow)
+
+![IMAGE TEXT]({{ site.url }}/images/cctt.jpeg).
