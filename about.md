@@ -23,17 +23,21 @@ I originally wrote the lessons on this blog to help some friends get hired in a 
 
 This website was designed with shy Filipinos in mind. Most of my friends, including myself are introverts.
 
-A few years ago I accompanied friends to interviews and give them tips until they got hired. It normally takes us 4-6 call centers until they get hired. Then we go for pizza and buy me a few beers after.
+A few years ago I accompanied friends to interviews and give them ideas on how to improve until they got hired. 
 
-In 2005 I worked for a call center training school. I assisted students with the enrollment process and gave additional tips upon graduation.
+It normally takes us 4-6 call centers until they get hired. 
 
-Over the years the mistakes, experience, studies and questions led me to accumulate a massive amount of tips.
+When they get hired, we go for pizza and they buy me a few beers after.
 
-You'll find tips on how to improve confidence, speak better English, present well during interviews and job hunting strategies.
+In 2005 I worked for a call center training school. I assisted students with the enrollment process and gave additional coaching upon graduation.
 
-I am grateful for the opportunity to contribute my experiences with you and I'm excited that you'll pick up something useful.
+Over the years, the mistakes, experience, studies and questions led me to accumulate a massive amount of lessons.
 
-I hope you enjoy reading and learning as I much as I enjoyed writing and putting this blog together.
+You'll find lessons on how to improve confidence, speak better English, present well during interviews and job hunting strategies.
+
+I am grateful for the opportunity to contribute my experience with you and I'm excited that you'll pick up something useful.
+
+I hope you enjoy reading and learning as I much as I enjoyed writing and putting this website together.
 
 Website maintenance [by Kevin Olega](http://kevinolega.com).
 
@@ -41,7 +45,7 @@ Website maintenance [by Kevin Olega](http://kevinolega.com).
 
 ## About Kevin Olega
 
-I'm Kevin Olega, the guy behind call center training tips. I work as an content management and virtual assistant to various foreign entrepreneurs. I enjoy writing,creating websites, learning new things and meeting new people on my free time. I'm from Paranaque City and I worked mostly in the Makati and Ortigas area.
+I'm Kevin Olega, the guy behind call center training tips. I work as a project manager and virtual assistant to various foreign entrepreneurs. I enjoy writing,creating websites, learning new things and meeting new people on my free time. I'm from Paranaque City and I worked mostly in the Makati and Ortigas area.
 
 ### Trivia:
 
@@ -60,7 +64,9 @@ Here are some things about me.
 
 **Who are your readers?**
 
-Shy Filipinos mostly. Male, Female, between 18 and 40 years old. Many of them want to work in a call center, some want to read up or connect with someone for English lessons. I decided to write the blog that I wanted to read. The blog I wish, existed when I started looking for work.
+Shy Filipinos mostly. Male, Female, between 18 and 40 years old. Many of them want to work in a call center, some want to read up or connect with someone for English lessons. I decided to write the lessons on the website that I wanted to read. 
+
+The website that I wish existed when I started looking for work.
 
 **What is the best way to ask for your help?**
 
@@ -78,7 +84,7 @@ I need a little help paying for the site. Hosting costs have increased over the 
 
 I helped grow a call center training school in Quezon City, Makati, and Ortigas.
 
-Eventually the company opened their own small call center in Ortigas. Unfortunately, the owner of the company went to the States and the company closed down.
+Eventually the company opened their own small call center in Ortigas. Unfortunately, the owner of the company went to the States and the school closed down.
 
 I helped build the initial program and did research on how to find work in a call center from back in 2005 when I was asked to apply at well known call centers in order to learn the recruitment process and to understand how to qualify for a call center position.
 
@@ -137,10 +143,18 @@ This allowed me to jump to better opportunities.
 
 ![IMAGE TEXT]({{ site.url }}/images/Future Impact.png).
 
-**UPDATE: I eventually worked in a call center. I have been working in a call center for three years. In my first year I almost failed regularization. My new boss told me that my previous boss recommended me for termination. He didn't stop there though. He helped me identify my strengths and overcome my weaknesses and eventually I got regularized. The next month I was awarded top agent for customer feedback. The following year I was awarder top agent again for the most number of repair calls converted into sales. Using the same method my boss taught me, I just got really better at what I did. If you're interested I can also teach you. Just send me a message.**
+**UPDATE 2013:** 
 
-**Update 2017: I have left the call center after three years. I was top agent twice and was classified super agent for the day.I now work from home taking care of foreign clients with their business. I used the call center money to buy the computers I need for a home based work setup, I bought the tools to build a beautiful kitchen, I bought a few bikes to take care of my transportation and I enrolled at CrossFit to help manage my depression.**
+I eventually worked in a call center. I have been working in a call center for three years. In my first year I almost failed regularization. My new boss told me that my previous boss recommended me for termination. He didn't stop there though. He helped me identify my strengths and overcome my weaknesses and eventually I got regularized. The next month I was awarded top agent for customer feedback. The following year I was awarder top agent again for the most number of repair calls converted into sales. Using the same method my boss taught me, I just got really better at what I did. If you're interested I can also teach you. Just send me a message.
+
+**Update 2017:** 
+
+I have left the call center after three years. I was top agent twice and was classified super agent for the day.I now work from home taking care of foreign clients with their business. I used the call center money to buy the computers I need for a home based work setup, I bought the tools to build a beautiful kitchen, I bought a few bikes to take care of my transportation and I enrolled at CrossFit to help manage my depression.
 
 
 [My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
+
+**Update 2019:**
+
+I'm still working remotely (from anywhere). Some days, I work from home, some days, I connect from a computer shop. Some days, I rent an office. I still work out and I'm working on improving my sleep and my health further. I eat a meat-only diet.
 
