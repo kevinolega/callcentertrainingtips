@@ -28,7 +28,7 @@ They do it because it's their job.
 
 It can be previous pay. 
 
-It can be experienced. 
+It can be experience. 
 
 If you have neither, the last thing that you can use is an offer from another company. 
 
