@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: Help Me Reach More People on YouTube
 date: 2019-08-31 13:00
 Tags: [ CTA, blog ]
