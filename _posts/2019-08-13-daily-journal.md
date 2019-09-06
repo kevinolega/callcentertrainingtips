@@ -80,6 +80,69 @@ And I believe you will get the same benefits too.
 - Buy In: Good habits. (circle what you did)
 - Practice: English activities (circle what you did)
 
+Just circle what you did today.
+
+What's your priority for today?
+
+Are you applying online?
+
+Are you waiting for a phone interview?
+
+Are you doing a walk-in application?
+
+Are you staying at home to do writing activities?
+
+Circle what applies.
+
+For buy in...
+
+Did you get enough sleep?
+
+Did you take a shower in the morning?
+
+Did you have a breakfast that has protein/meat in it?
+
+Did you pray today?
+
+Have you completed writing things on your journal?
+
+Circle what you did.
+
+For Practice...
+
+What are you doing to improve your English today?
+
+Are you reading?
+
+Are you writing?
+
+Are you thinking in English?
+
+Are you watching something in English?
+
+Are you singing an English song?
+
+Are you speaking in English with another person?
+
+For Journal...
+
+These are different types of details that I include in my journal.
+
+5m is 5 minute journal. I spend 5 minutes at the start of the day to 
+begin journaling. It's the first thing that I do.
+
+Gratitude. I begin with writing about anything that I am thankful for.
+
+Prayers. I write down my prayers.
+
+Goals. I write down my goals.
+
+Expenses. I write down exactly how much money I spent today.
+
+Calendar. I write what happened on the calendar.
+
+Tracker. I just list down the habits that I want to track.
+
 ## Inspirational Quote:
 
 - Write down an inspirational quote for today.
