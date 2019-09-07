@@ -23,9 +23,11 @@ I just need to retrieve your information so I can assist you further.
 
 May I have your name and account number?
 
+May I have your name please?
+
 Thank you Mister Smith!
 
-I just need to make sure that I'm looking at the correct acount.
+I just need to make sure that I'm looking at the correct account.
 
 May I have your complete address?
 
@@ -53,6 +55,8 @@ May I have your email address?
 
 Can you spell that out for me?
 
+Just to make sure that I have the correct one.
+
 [Practice this](https://callcentertrainingtips.com/palphabet)
 
 Thank you!
@@ -67,17 +71,21 @@ May I have your call back number in case we get disconnected?
 
 Thanks.
 
-By the way, on behalf of our company, I wanted to apologize for the inconvenience that you are experiencing with the issue but you don't need to worry. 
+By the way, on behalf of our company, I wanted to apologize for the inconvenience that you are experiencing with regards to the issue but you don't need to worry. 
 
-I'll be able to assist you. 
+I'll be able to assist you with this specific issue. 
 
-And we'll make sure that everythings working before I let you go.
+And we'll make sure that everything's working before I let you go.
 
 By the way, while I'm waiting for the information to load, can you tell me more about the issue that you're experiencing?
 
 When did you first notice that your service stopped working?
 
 What steps have you done to try to fix your connection?
+
+When did you begin to notice the problem.
+
+I'm sorry, can you say that again please?
 
 What happened after you did some troubleshooting steps?
 
@@ -112,6 +120,10 @@ We have applied the changes to your account.
 Your service is now restored.
 
 Can you check from your end so we're both sure that everything is working?
+
+Is it working now?
+
+That's awesome!
 
 I'm really happy I was able to assist you today.
 
