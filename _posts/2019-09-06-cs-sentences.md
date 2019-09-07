@@ -77,7 +77,9 @@ By the way, while I'm waiting for the information to load, can you tell me more 
 
 When did you first notice that your service stopped working?
 
-What steps have you done to try to fix your connection.
+What steps have you done to try to fix your connection?
+
+What happened after you did some troubleshooting steps?
 
 I just wanted to check, is your computer plugged in and turned on?
 
