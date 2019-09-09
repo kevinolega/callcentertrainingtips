@@ -54,9 +54,9 @@ So I give lessons on FB, the website (main), YouTube (new) and send activities v
 
 What most people don't know is...
 
-I also offer coaching for Php 250.
+I also offer coaching for Php 1,500.
 
-When you avail the 250, you get an extra set of training materials and three phone sessions with me.
+When you avail the training, you get an extra set of training materials and three phone sessions with me.
 
 My focus is interview preparation for call center work.
 
@@ -72,16 +72,4 @@ That the option to pay and get extra time and get dedicated assistance from me i
 
 When I get busy with work, I don't accept training offers.
 
-[CLICK HERE TO SCHEDULE A CALL](http://callcentertrainingtips.com/schedule)
-
-Php 250 (one time) for non-call center agents. These are lessons for call center applicants.
-
-## Lessons include:
-
-- Call Center Basics
-- Computer Skills for BPO workers
-- English Skills for BPO workers
-- Basic Professional Skills
-- Winning Job Application Techniques
-
-[CLICK HERE TO SCHEDULE A CALL](http://callcentertrainingtips.com/schedule)
+[CLICK HERE FOR DETAILS](http://callcentertrainingtips.com/1500)
