@@ -167,3 +167,5 @@ Mobile or email but you can also check my social media accounts.   
 [Click here to check Charles Jeff's Music](https://www.facebook.com/charlesjeffsmusic/)
 
   [Click here to follow Charles Jeff's Instagram](https://www.instagram.com/thejeffs/)
+
+![Charles Jeffs Music]({{ site.url }}/images/Charles Jeffs.jpg).
