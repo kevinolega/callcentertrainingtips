@@ -337,7 +337,7 @@ If you do you will never get paid back.
 
 This happens a lot and I thought it was an isolated case. 
 
-I have Zenette Hizon, Chalton Harvey Punla, Rushelle Raj Ylannan, Edsil Pastoral, Jonelyn Manezze, Myca Nitura and a bunch of other people I met in a call center who’ve borrowed money from me and disappeared. 
+I have Zenette Hizon, Charlon Harvey Punla, Rushelle Raj Ylannan, Edsil Pastoral, Jonelyn Manezze, Myca Nitura and a bunch of other people I met in a call center who’ve borrowed money from me and disappeared. 
 
 Lending money is the most disappointing thing in a call center. 
 

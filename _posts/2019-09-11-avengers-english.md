@@ -324,13 +324,23 @@ Maybe it works if you're young.
 
 Am I too old to learn?
 
+Is it too late for me?
+
 Kevin claims there's a better way.
 
-I don't remember what Kevin said.
+I don't remember exactly what Kevin said.
 
 Something about writing activities.
 
 I hate writing.
+
+I graduated from college and I always hated writing activities.
+
+I should be done by that by now.
+
+Writing is just for students.
+
+I need something more practical.
 
 I guess I'll just watch more movies.
 
@@ -340,7 +350,6 @@ Twilight.
 
 The new Lord of the Rings and Star Wars movies.
 
-I'll also watch Anime and Koreanovelas.
 
 The story continues.
 
