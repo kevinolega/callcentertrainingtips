@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: Yes Kevin... I'm Serious And I Want To Be Part of Interview Master
 date: 2019-09-16 23:59
 Tags: [ uncategorized, blog ]
@@ -69,3 +69,5 @@ Or Get Started Today for Only 6 easy payments of Php 500/session.
 Your 100% 30-Day Zero Risk Guarantee
 
 Kevin, I'm seriously going to give this training my very best effort, and I'm going to give it my all. I also understand that you have a generous **full 30 days without risk** to decide whether or not Interview Master is for me, and that I can ask for a full refund anytime in that 30-day period. By staying in past 30, days, I agree that I'm committed and I'm going to stay with the program all the way through the end!
+
+_**[>CLICK HERE TO BECOME AN INTERVIEW MASTER<](https://callcentertrainingtips.com/appointment)**_
