@@ -223,3 +223,8 @@ All of this is covered in the program...and a whole lot more.
 
 **Here is just a few of the other things you'll learn:**
 
+![IMAGE TEXT]({{ site.url }}/images/checked.png) How to Get Unlimited Job Opportunities
+
+## Yes, Kevin... I'm Serious About Growing My Income And I Want To Be Part Of The Interview Master Training!
+
+_**[>CLICK HERE TO BECOME AN INTERVIEW MASTER<](https://callcentertrainingtips.com/offer00co/)**_
