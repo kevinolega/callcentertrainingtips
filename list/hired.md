@@ -54,6 +54,10 @@ In other words, 90% of agents are newbies.
 
 In other words, weaklings.
 
+In other words I have an opportunity to keep winning because I am only competing with the top 10% of the agents.
+
+And 90% of all the people I've met have given up on improving themselves after they recieved this magical piece of paper called a DIPLOMA.
+
 I put this guide so you can teach yourself to stop being a weakling.
 
 I want to change your destiny from the kind of LOSER who always asks for help...
@@ -174,10 +178,6 @@ NOTE: This the secret to high stats that nobody talks about. 83% of all call cen
 ## Lessons From Another Super Agent
 
 [Click Here to Learn More](https://callcentertrainingtips.com/another-super/)
-
-
-
-
 
 ## How To Exit Call Center Work
 
