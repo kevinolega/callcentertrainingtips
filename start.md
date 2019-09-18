@@ -9,8 +9,6 @@ Let's start with the most important detail.
 
 _**[>CLICK HERE TO GET FREE LESSONS<][4].**_
 
-![Kevin Webmaster]({{ site.url }}images/Call Center Kevin.jpg =300x)
-
 Hi there!
 
 If you’re new here, my name is Kevin and I write the lessons and maintain this site.
@@ -28,6 +26,8 @@ I answer every question I receive on text, messenger, email or calls.
 I give out free reviewers to Filipinos who request them.
 
 In fact, this page is actually part of a free reviewer.
+
+![Kevin Webmaster](images/Call Center Kevin.jpg)
 
 ## Are You Committed To Upgrading Your Life?
 
