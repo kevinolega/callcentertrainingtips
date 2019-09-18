@@ -24,7 +24,25 @@ I'm telling you the truth.
 
 I had a big crush on our OM so I always looked at her when she's in the office.
 
-But I also saw the giant whiteboard near her office from a recent meeting with the client.
+But because I was always looking at her... 
+
+I also saw the giant whiteboard near her office nobody bothered to clean from a recent meeting with the client.
+
+The whiteboard has the stats of our site.
+
+It has the number of agents.
+
+The overall AHT.
+
+The overall customer feedback score.
+
+The overall sales.
+
+The overall attendance.
+
+And all the other KPI.
+
+The whiteboard also said...
 
 90% of the agents hired quit or get fired within one year.
 
