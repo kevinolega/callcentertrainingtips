@@ -88,15 +88,40 @@ Minor errors are forgivable.
 [CLICK HERE TO LEARN THE PRONUNCIATION ERRORS THAT YOU NEED TO FIX](http://callcentertrainingtips.com/pronunciation-errors/)
 
 
-ENGLISH
+## Secret To My Good English
 
-(https://callcentertrainingtips.com/bully/)
-(https://callcentertrainingtips.com/learn-fluent-english/)
-(https://callcentertrainingtips.com/five-communication-skills/)
-(https://callcentertrainingtips.com/cheat-sheet/)
-(https://callcentertrainingtips.com/english-drinking-session/)
-(https://callcentertrainingtips.com/1sp/)
-(https://callcentertrainingtips.com/english-friends/)
-(https://callcentertrainingtips.com/tvshow/)
-(https://callcentertrainingtips.com/five-communication-skills/)
-(https://callcentertrainingtips.com/cooking-shows/)
+Bullying made me a superior English speaker. Don't fear it. Use it.
+
+[Click Here to Learn More](https://callcentertrainingtips.com/bully/)
+
+## Tips To Learn Fluent English
+
+[Click Here to Learn More](https://callcentertrainingtips.com/learn-fluent-english/)
+
+## Five Tips To Improve Your Communication Skills
+
+[Click Here to Learn More](https://callcentertrainingtips.com/five-communication-skills/)
+
+## My Pronunciation Cheat Sheet
+
+[Click Here to Learn More](https://callcentertrainingtips.com/cheat-sheet/)
+
+## Drunken English Tips
+
+[Click Here to Learn More](https://callcentertrainingtips.com/english-drinking-session/)
+
+## Write Using One Sentence Paragraphs
+
+[Click Here to Learn More](https://callcentertrainingtips.com/1sp/)
+
+## Good Friends Boost English Skills
+
+[Click Here to Learn More](https://callcentertrainingtips.com/english-friends/)
+
+## Can You Describe Your Favorite TV Show In Detail?
+
+[Click Here to Learn More](https://callcentertrainingtips.com/tvshow/)
+
+## Watch Cooking Shows To Learn How To Give Instructions Well
+
+[Click Here to Learn More](https://callcentertrainingtips.com/cooking-shows/)

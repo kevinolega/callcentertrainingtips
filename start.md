@@ -5,7 +5,7 @@ description: This is the first reviewer I share with new visitors.
 author: Kevin Olega
 permalink: /start/
 ---
-![Kevin Webmaster](images/Call Center Kevin.jpg)
+![Kevin Webmaster](images/Call Center Kevin.jpg =300x300)
 
 [CLICK HERE TO GET FREE LESSONS][4].
 
