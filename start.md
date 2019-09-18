@@ -7,7 +7,19 @@ permalink: /start/
 ---
 Let's start with the most important detail.
 
+I share my best lessons on my email list.
+
+I’ve written over 250 lessons on how to get hired in a call center and build your professional skills to grow your income.
+
+I’m also going to share opportunities that I don’t post publicly on social media.
+
+When you receive my email, please send a reply to introduce yourself.
+
+One reason I do all of this is I enjoy meeting new people.
+
 _**[>CLICK HERE TO GET FREE LESSONS<][4].**_
+
+---
 
 Hi there!
 
