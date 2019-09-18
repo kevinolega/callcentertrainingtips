@@ -9,7 +9,7 @@ Let's start with the most important detail.
 
 _**[>CLICK HERE TO GET FREE LESSONS<][4].**_
 
-![Kevin Webmaster](images/Call Center Kevin.jpg =300x300)
+![Kevin Webmaster](images/Call Center Kevin.jpg =300x)
 
 Hi there!
 
