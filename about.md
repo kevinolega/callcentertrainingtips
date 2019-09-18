@@ -5,11 +5,13 @@ permalink: /about/
 ---
 ![Kevin Webmaster](images/Call Center Kevin.jpg)
 
-Call Center Training Tips started as a list of tips on how to pass call center interviews, shared with four friends and grew into an extraordinary blog, a book and a [Facebook community](http://facebook.com/callcentertrainingtips/). 
+Call Center Training Tips started as a list of tips on how to pass call center interviews, shared with four friends and grew into the largest collection of lessons on how to pass call center interview questions and build professional skills that will allow you to achieve your dream income.
 
-I'm Kevin and I have been working on the lessons for seven years. I have been publishing the lessons since 2012 and this had reached thousands of Filipinos who want to work in a call center.
+We also have a [Facebook community](http://facebook.com/callcentertrainingtips/). 
 
-[My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
+I'm Kevin and I have been helping friends get hired in a call center since 2005 and I began publishing my lessons in 2012.
+
+[My lessons have already helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
 Several hundred Filipinos had sent me letters and messages, thanking and informing me of their success, that they are already hired in a call center. Some readers went as far as sent me gifts and donations to help keep this blog running.
 
@@ -75,6 +77,8 @@ You can start by the most recent tip you've read. What did you do with it? What 
 **Who pays for all this?**
 
 I do. Every now and then someone asks me to assist them with their application and offers to treat me to coffee and pay me some money. I use the money to pay for this website's maintenance. I spend some buying books on learning and teaching.
+
+I pay 100% of the website hosting, yearly domain registration, web tools, hardware and software needed to maintain the websites using my own money.
 
 **What kind of help do you need?**
 

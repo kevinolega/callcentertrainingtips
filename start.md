@@ -5,9 +5,11 @@ description: This is the first reviewer I share with new visitors.
 author: Kevin Olega
 permalink: /start/
 ---
-![Kevin Webmaster](images/Call Center Kevin.jpg =300x300)
+Let's start with the most important detail.
 
-[CLICK HERE TO GET FREE LESSONS][4].
+_**[>CLICK HERE TO GET FREE LESSONS<][4].**_
+
+![Kevin Webmaster](images/Call Center Kevin.jpg =300x300)
 
 Hi there!
 
@@ -19,11 +21,7 @@ Call Center Training Tips has the largest collection of lessons on how to pass c
 
 [My lessons have already helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
-I pay 100% of the website hosting, yearly domain registration, web tools, hardware and software needed to maintain the websites using my own money.
-
-I've been helping Filipinos get hired in a call center since 2005. That's fourteen years if you haven't considered the math.
-
-If you haven't already, [send me a message to say hi][1]!
+If you haven't already, [send me a message to say hi and introduce yourself][1]!
 
 I answer every question I receive on text, messenger, email or calls.
 
@@ -452,7 +450,7 @@ Thank you for reading this far.
 
 ## Want More Lessons?
 
-[CLICK HERE TO STAY IN TOUCH AND GET MORE FREE LESSONS][4]. 
+_**[>CLICK HERE TO STAY IN TOUCH AND GET MORE FREE LESSONS<][4]**_. 
 
 [My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
