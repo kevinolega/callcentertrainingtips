@@ -164,8 +164,8 @@ Owning a business of course and fulfilling my passion as a musician.
 
 Mobile or email but you can also check my social media accounts.   
 
-[Click here to check Charles Jeff's Music](https://www.facebook.com/charlesjeffsmusic/)
+[Click here to check Charles Jeffs' Music](https://www.facebook.com/charlesjeffsmusic/)
 
-  [Click here to follow Charles Jeff's Instagram](https://www.instagram.com/thejeffs/)
+  [Click here to follow Charles Jeffs' Instagram](https://www.instagram.com/thejeffs/)
 
-![Charles Jeffs Music]({{ site.url }}/images/Charles Jeffs.jpg).
+![Charles Jeffs Music]({{ site.url }}/images/Charles-Jeffs.jpg).
