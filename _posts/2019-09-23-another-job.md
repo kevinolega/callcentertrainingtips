@@ -6,6 +6,8 @@ Tags: [ uncategorized, blog ]
 permalink: /temp-job/ 
 author: Kevin Olega 
 --- 
+Take another job even if it's temporary.
+
 Getting hired in a call center typically costs money.
 
 You are going to spend money, going from company to company to attend interviews.
@@ -44,6 +46,6 @@ Just make sure you're earning enough.
 
 So you can save money for call center work.
 
-And it's way better to have a job that to stay unemployed for a long time.
+And it's way better to have a job than to stay unemployed for a long time.
 
 Recruitment staff and business owners typically look at big gaps of unemployment in a person's resume as a negative thing.
