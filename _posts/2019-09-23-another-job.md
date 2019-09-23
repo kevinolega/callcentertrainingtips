@@ -43,3 +43,7 @@ Whatever it is, any job will do.
 Just make sure you're earning enough.
 
 So you can save money for call center work.
+
+And it's way better to have a job that to stay unemployed for a long time.
+
+Recruitment staff and business owners typically look at big gaps of unemployment in a person's resume as a negative thing.
