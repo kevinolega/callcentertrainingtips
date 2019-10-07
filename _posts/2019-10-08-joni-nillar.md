@@ -7,7 +7,7 @@ permalink: /joni-nillar-sutherland-tarlac/
 author: Kevin Olega 
 --- 
 We recently discovered that 
-Joni Nillar a recruiter from Sutherland Global Services Philippines has been lifting articles from our website, [Call Center Training Tips](https://callcentertrainingtips.com).
+Joni Nillar, a recruiter from Sutherland Global Services Philippines, has been lifting articles from our website, [Call Center Training Tips](https://callcentertrainingtips.com).
 
 ## Joni Nillar was reported by our reader posting our lessons without any mention of who wrote the lessons.
 
@@ -31,9 +31,13 @@ We spent thousands of hours and personal funds to write and publish the lessons.
 
 We appreciate that the Sutherland Recruitment staff found our content useful but the normal way to share is to click the "share button" on our Facebook post or post a link of our post/article or lesson on Facebook.
 
+The normal way of sharing helps promote our page and allows us to reach more people with the lessons that we are sharing for free.
+
+Alternatively, adding a link to our website or Facebook page will allow the reader to discover our posts.
+
 ## What did Joni Nillar do instead?
 
-Joni Nillar removed our names, contact information, links and anything that identifies that we wrote the article and he inserted his name instead.
+Joni Nillar intentionally removed our names, contact information, links and anything that identifies that we wrote the article and he inserted his name instead.
 
 He ends the posts with this statement as a signature:
 
@@ -50,6 +54,8 @@ But we discovered several lessons directly [plagiarized](https://www.plagiarism.
 Upon further investigation, we discovered that the plagiarized posts were also posted on the Sutherland Tarlac Recruitment Hub.
 
 ## Joni Nillar Plagiarism Screenshots and Links to Original Articles
+
+We are posting screenshots of the posts in question as well as the link to the original articles on our website for your review.
 
 ![Joni Nillar Copies God Gives You Darkness So You Can Bloom Blog Post 1 of 2]({{ site.url }}/images/Joni Nillar Copies God Gives You Darkness So You Can Bloom Blog Post 1 of 2.PNG).
 
@@ -91,9 +97,9 @@ Upon further investigation, we discovered that the plagiarized posts were also p
 [Original Post: How To Become An Expert Call Center Agent By Knowing The Basics
 ](https://callcentertrainingtips.com/expert-knowing-basics/)
 
-![Joni Nillar Copies 27 Tips 1 of 2]({{ site.url }}/images/Joni Nillar Copies 27 Tips Post 1 of 2).
+![Joni Nillar Copies 27 Tips 1 of 2]({{ site.url }}/images/Joni Nillar Copies 27 Tips 1 of 2.PNG).
 
-![Joni Nillar Copies 27 Tips 2 of 2]({{ site.url }}/images/Joni Nillar Copies 27 Tips Post 1 of 2).
+![Joni Nillar Copies 27 Tips 2 of 2]({{ site.url }}/images/Joni Nillar Copies 27 Tips 2 of 2.PNG).
 
 [Original Article: 27 Tips To Help You Get Hired In A Call Center](https://callcentertrainingtips.com/27-tips/)
 
