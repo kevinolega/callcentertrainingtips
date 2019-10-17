@@ -17,9 +17,9 @@ And I'm sharing this with you now.
 
 I learned this technique from sales.
 
-I pick up what I learn and eventually eventually apply the useful techniques to everything.
+I pick up what I learn and eventually apply the useful techniques to everything.
 
-Asking questions mean you are sincere and interested.
+Asking questions means you are sincere and interested.
 
 And taking notes brings that sincerity and interest to another level.
 
@@ -31,7 +31,7 @@ I pull out my pen and open my notebook.
 
 Sometimes, I feel lazy and don't do this until the interviewer says something interesting.
 
-The interviewer sometimes looks surprired.
+The interviewer sometimes looks surprised.
 
 ## You're taking notes?
 
@@ -47,7 +47,7 @@ I say.
 
 ## What details?
 
-I get asked as a follow up.
+I get asked as a follow-up.
 
 I casually respond.
 
@@ -137,7 +137,7 @@ Sometimes the interviewer says, we have some other applicants scheduled for eval
 
 This is a fancy way of saying we'd like to talk to people who are better than you and if they are a little better than you, then we'll hire them and not you.
 
-When I realize this many intervier, the image of the pretty recruitment staff fills my head and I say out loud "you smooth fucker."
+When I realize this, the image of the pretty recruitment staff fills my head and I say out loud "you smooth fucker."
 
 Some companies will ask for a few days to evaluate other candidates.
 

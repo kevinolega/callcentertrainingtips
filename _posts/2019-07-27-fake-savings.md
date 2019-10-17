@@ -16,7 +16,7 @@ Take for example.
 
 A call center agent's hourly rate is Php 150 per hour.
 
-A two hour commute is Php 300 for your time.
+A two-hour commute is Php 300 for your time.
 
 And Php 200 for the transportation expense.
 
@@ -26,7 +26,7 @@ What I don't usually realize is that errands like this has some form of energy d
 
 And I'm unable to focus for a few hours after the long commute.
 
-Sometimes all I want to do is stay in bed, watch a movie or pay a game.
+Sometimes all I want to do is stay in bed, watch a movie or play a game.
 
 And I'm unable to work on something productive.
 
@@ -38,7 +38,7 @@ Here are examples of bad deals I got.
 
 I bought an iPhone from Quezon City. It was so cheap and high capacity. I was trapped by the 64 gig capacity.
 
- I live in Parañaque. And the whole trip to Quezon City costs me Php 300. And since I spent six hours on the commute because I hit rush hour. I spent an extra 900 for the trip. The phone was broken and I didn't realize this until much later. The phone heated up and drained faster. I took it to the repair shop in Raon. Which is the cheapest place to get things repaired. Parts. The repair guy tried to fix it. Charged me 4k. But the fix was temporary. I went back three times. Until I finally gave up.  
+ I live in Parañaque. And the whole trip to Quezon City costs me Php 300. And since I spent six hours on the commute because I hit rush hour. I spent an extra 900 for the trip. The phone was broken and I didn't realize this until much later. The phone heated up and drained faster. I took it to the repair shop in Raon. Which is the cheapest place to get things repaired? Parts. The repair guy tried to fix it. Charged me 4k. But the fix was temporary. I went back three times. Until I finally gave up.  
 
 Breakdown:
 
@@ -49,7 +49,7 @@ Breakdown:
 
 Total Cost: Php 20,000
 
-These days, I only buy Apple for gadgets because of the quality.
+These days, I only buy Apple for gadgets because of its quality.
 
 And I buy brand new.
 
@@ -71,7 +71,7 @@ But that's how Android sellers scam you.
 
 The specs are "always better than an iPhone".
 
-But the problem is the preformance is bad.
+But the problem is the performance is bad.
 
 It's only good when it's new.
 
@@ -107,7 +107,7 @@ I decided to buy the oldest iPhone.
 
 At the time it was an iPhone 3g.
 
-An it's many times better than this low quality android phone.
+It's many times better than this low quality android phone.
 
 Breakdown:
 
