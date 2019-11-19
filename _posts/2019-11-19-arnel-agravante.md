@@ -124,7 +124,7 @@ Just to have an animal farm.
 
 Best way is via messenger, just add me first if we do not have common friend.
 
-[Arnel Agravante's IG](https://www.facebook.com/papapogi2019)
+[Arnel Agravante's FB](https://www.facebook.com/papapogi2019)
 
 [Arnel Agravante's IG](https://instagram.com/johnnydbagger)
 
