@@ -1,8 +1,8 @@
 --- 
 layout: post 
-title: How To Thrive in BPO Industry 
+title: How To Thrive in BPO Industry - Lessons from Arnel Agravante 
 date: 2019-11-19 23:10
-Tags: [ uncategorized, blog ]
+Tags: [ interviews, blog ]
 permalink: /arnel-agravante/ 
 author: Kevin Olega 
 --- 
@@ -17,7 +17,6 @@ According to Arnel, practice makes permanent and not perfection.
 He overcame his challenges in speaking English fluently by practicing how to speak in English and listening to movies or video clips on proper pronunciation everyday. 
 
 Perseverance is the key in BPO, he advised.
-
 
 ## Enter Arnel Agravante
 
