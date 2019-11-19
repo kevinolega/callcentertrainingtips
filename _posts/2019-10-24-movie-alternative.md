@@ -60,3 +60,4 @@ Because they saw Avengers and Star Wars and Lord of the Rings and Harry Potter a
 6. Deal with a difficult person or angry customer.
 
 You can't learn all six of these skills watching English movies.
+
