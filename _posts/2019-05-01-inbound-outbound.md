@@ -5,12 +5,12 @@ date: 2019-05-01 15:48
 permalink: /inbound-outbound/ 
 author: Kevin Olega 
 --- 
-## A call center makes and takes calls. Inbound and Outbound refers to the direction of the calls.
+A call center makes and takes calls. Inbound and Outbound refers to the direction of the calls.
 
 - Inbound means, you are receiving the calls.
 - Outbound means you’re giving the call.
 
-## There are both inbound and outbound calls to different business processes. Here are some examples:
+There are both inbound and outbound calls to different business processes. Here are some examples:
 
 - Inbound Customer Service is when a customer calls to make inquiries, follow up on requests or get an issue resolved.
 - Outbound Customer Service is when an agent calls the customer to do a follow up on a customer’s request, solve problems and/or close support tickets.

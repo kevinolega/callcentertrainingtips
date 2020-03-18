@@ -5,7 +5,6 @@ date: 2019-05-03 15:57
 permalink: /commoncallcenterjobs/ 
 author: Kevin Olega 
 --- 
-
 There are a lot of different business processes being outsourced in the Philippines. 
 
 Call center companies receive outsourcing requests and projects from multinational companies abroad and from small and medium enterprises.
@@ -28,10 +27,12 @@ What we can do to improve the situation is to try to improve ourselves bit by bi
 
 I personally believe that it’s a good idea to learn a bit about the three roles because one skill would complement the other. 
 
-I might write about that in the future. 
-
 Remember that these jobs can be both inbound or outbound. 
 
 There are more but these are what we’re going to talk about in detail on the next post. 
+
+## What should I choose?
+
+If I'm new, I usually take the first good offer, then I re-invest my income into building my skills so I can qualify for more difficult and higher paying jobs.
 
 What kind of Call Center Job would you want?

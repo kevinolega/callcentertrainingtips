@@ -9,17 +9,17 @@ When you look for work, aside from passing interview and exams you'll need to su
 
 Pre-employment requirements are a common chore that needs to be done to finalize your job hunting process.
 
- Items in a pre-employment checklist are often standard for most call centers and most jobs I've applied in.
+Items in a pre-employment checklist are often standard for most call centers and most jobs I've applied in.
 
- In case it's your first time to apply, or it's your first time to apply in a long time here are some of the documents that you'd like to prepare in advance. 
+In case it's your first time to apply, or it's your first time to apply in a long time here are some of the documents that you'd like to prepare in advance. 
 
- I took this list from a couple of my past employers.
+I took this list from a couple of my past employers.
 
- I found some lists as I was cleaning up.
+I found some lists as I was cleaning up.
 
 Primary requirements are often required immediately (usually the same week or the week) after hire date.
 
-### These are the Call Center Pre Employment Requirements in the Philippines
+## These are the Call Center Pre Employment Requirements in the Philippines
 
 **SSS Document E-1 / E-4 /E-6 dully received by SSS.** 
 

@@ -17,9 +17,9 @@ If you can prove in a call center interview that you can do the work, you are gu
 
 That’s all you need to remember about getting hired in a call center.
 
-# Call Center Job Application Requirements:
+## Call Center Job Application Requirements:
 
-### Conversational English Skills.
+**Conversational English Skills**.
 
 Having good communication skills are required for the job.
 
@@ -45,7 +45,7 @@ Speaking in English is like growing a muscle.
 
 More exercise, more growth.
 
-### Willing to work night shifts and graveyard shifts.
+**Willing to work night shifts and graveyard shifts**.
 
 Many call center companies work for clients in the United States.
 
@@ -61,7 +61,7 @@ As long as you have discipline and you can say no to distractions and invitation
 
 Leave the house and arrive at your workplace an hour earlier if you haven't done so yet.
 
-### Can start immediately.
+**Can start immediately**.
 
 Call Center companies want to hire agents immediately.
 
@@ -73,19 +73,19 @@ They want a call center agent who can start as soon as they can because call cen
 
 An unfilled position is bad for their business so they want to hire agents fast.
 
-### 18 years old up to around 50plus.
+**18 years old up to around 50plus**.
 
 There doesn’t seem to be a limit when it comes to age requirements.
 
 You might feel you're too young or too old but like I said, you can prove to your interviewer that you can do the job, you are good as hired.
 
-### Can use a computer.
+**Can use a computer**.
 
 Technical skills are an advantage but just so you don't get confused, call center companies don't require you to be really good with a computer.
 
 You just need to navigate or know how to use one.
 
-## Basic Computer Skills Required for a Call Center Agent Position:
+**Basic Computer Skills Required for a Call Center Agent Position**:
 
 - Can turn on computer.
 - Can use Word to open, save and edit files. A resume would be a good example.
@@ -94,8 +94,7 @@ You just need to navigate or know how to use one.
 
 Most of the time, you’ll be working from a phone line attached to a computer.
 
-
-### High School Graduate and up
+**High School Graduate and up**.
 
 Several reputable call center companies that I know are open to hiring high school graduates and people who didn't finish college.
 
@@ -114,3 +113,11 @@ If your interviewer asks about it tell them you need to save money then after on
 Here are the requirements to getting hired in a call center.
 
 Whatever else you have to offer is a plus.
+
+So what do you think?
+
+Do you have what it takes to get hired in a call center?
+
+On your notebook, write down which requirements that you already have.
+
+Write down what you need to work on.

@@ -31,6 +31,6 @@ The longer they let you stay the better.
 
 That means you are moving forward with the process. 
 
-Don"t forget to ask your interviewer or proctor for tips for the next step.
+Don't forget to ask your interviewer or proctor for tips for the next step.
 
 I hope you do well.

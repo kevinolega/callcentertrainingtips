@@ -372,34 +372,6 @@ Pay attention to the tips and improve in that area. Be better and try again.
 
 ### Bonus tip
 
-I use a three-leg strategy when looking for work.
+If I need a job immediately, I have a tried and tested strategy.
 
-If it were me applying here’s what I’d do. 
-
-I have done this for different positions in the past and I’m sure it will still work. 
-
-**Day One and Day Two**. 
-
-Print 20-30 copies of my resume. 
-
-Send out 100-200 online applications per day via Job street and Jobs db. 
-
-I also ask around for friends on Facebook or my recruiter friends via email if they have openings. 
-
-Schedule interview appointments and walk-ins 
-
-**Day Three Onward**.
-
-At my level, **it takes me sixteen interviews to find a job at a company that I like that offers me how much I would like to earn**.
-
-Every experience between interview one and interview 16 is a mix of heartbreaking no's and learning experiences. 
-
-I try to make the most of what I got.
-
-I set myself a rule that I have no right to complain, give up or quit if I attended less than thirty interviews.
-
-I do my best to have 2 or more interviews a day (ideally, one in the morning and one in the afternoon) for a month to get hired as soon as I can.
-
-That's it.
-
-Happy hunting. 
+[Click here to learn the steps that I take to get a new job](https://callcentertrainingtips.com/build-order-apply/).

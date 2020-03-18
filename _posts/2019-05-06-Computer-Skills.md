@@ -26,7 +26,7 @@ Great! Like you have a choice.
 
 Congratulations you’re computer literate. 
 
-## Advanced questions:
+More advanced questions:
 
 - Do you know how to search for things in Google?
 - Do you know how to save your files in a USB flash drive?
@@ -57,7 +57,7 @@ I now have a typing speed of close to 40wpm because I want to type faster so I c
 
 It does take some time though.
 
-#### Where did this fear come from?
+**Where did this fear come from**?
 
 Some people are just too lazy to learn and they make excuses. 
 
