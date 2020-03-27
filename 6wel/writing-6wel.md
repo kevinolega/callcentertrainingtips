@@ -172,6 +172,7 @@ And it starts with writing.
 And with a few small changes, your speaking will be a lot better too.
 
 This training program will help you prepare your interview answers and prepare you for daily conversations in the professional world.
+
 Answer each question of every activity.
 
 That said, you can practice writing your answers, stories, questions and instructions, improve them and when they are perfect you have a script to use.
