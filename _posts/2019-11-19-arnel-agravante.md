@@ -1,12 +1,12 @@
 --- 
 layout: post 
-title: How To Thrive in BPO Industry - Lessons from Arnel Agravante 
+title: How To Thrive in the BPO Industry - Lessons from Arnel Agravante 
 date: 2019-11-19 23:10
 Tags: [ interviews, blog ]
 permalink: /arnel-agravante/ 
 author: Kevin Olega 
 --- 
-Arnel Agravante is a team lead of one of the biggest BPO companies in the Philippines. 
+Arnel Agravante is a team lead for one of the biggest BPO companies in the Philippines. 
 
 During our interview, he shares how he manages not just to survive but to thrive in the call center industry. 
 
