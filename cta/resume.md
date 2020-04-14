@@ -4,6 +4,7 @@ title: Resume Tips
 permalink: /resume/ 
 author: Kevin Olega 
 --- 
+This page contains resources on how to build your resume.
 
 ## How To Write A Resume For Call Center Application
 
