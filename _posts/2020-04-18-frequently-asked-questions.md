@@ -16,6 +16,48 @@ These are the most common questions.
 
 Build your skills and slowly upgrade to a higher paying job.
 
+### How do I become a call center agent?
+
+Make sure your English is good. 
+
+You are confident at introducing yourself.
+
+You ask questions when you don't know or fully understand what the other person is saying.
+
+You can give step by step instructions and tell stories that can convince other people to cooperate with you.
+
+Then you attend 16 interviews.
+
+Expect 5 interviews to be bad, 5 job offers to be bad and the last 5 companies to have good job offers.
+
+### How do I improve my English?
+
+Don't watch English movies.
+
+[Write everyday](https://callcentertrainingtips.com/interview-notes/).
+
+[Talk to someone who speaks English well](https://callcentertrainingtips.com/speak-english/).
+
+### How do I become a top agent?
+
+[Keep a work journal and write everyday](https://callcentertrainingtips.com/notebook/).
+
+[Study and slowly upgrade your spiel]().
+
+Take better care of your health.
+
+### How do I qualify for higher paying jobs after call center?
+
+Buy a good computer.
+
+Save one year worth of your expenses.
+
+Get fast internet connected.
+
+Make a list of your skills.
+
+Begin offering your service to different companies.
+
 ### What should I do with my life?
 
 Read “Happy, Smart, and Useful”.
@@ -48,7 +90,7 @@ I enjoy interviews when the questions are interesting, and haven’t been covere
 
 Here is the archive of my past podcast interviews.
 
-Will you speak at my event?
+### Will you speak at my event?
 
 Maybe. [Email me the details](https://callcentertrainingtips.com/contact).
 
@@ -56,11 +98,11 @@ Maybe. [Email me the details](https://callcentertrainingtips.com/contact).
 
 No, this is my personal site.
 
-No advertising, no income, no analytics, no tracking, nobody else’s stuff.
-
 ### I can’t focus.
 
-Focus is one of the most important habits you can develop. The fear of being stuck at low paying jobs had me putting in all my effort to developing my focus.
+Focus is one of the most important habits you can develop. 
+
+The fear of being stuck at low paying jobs had me putting in all my effort to developing my focus.
 
 I make sure that I get enough sleep.
 
