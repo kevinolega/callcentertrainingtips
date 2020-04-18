@@ -2,7 +2,6 @@
 layout: page
 title: Contact
 permalink: /contact/
-
 ---
 Thank you for visiting my website. Here are the best ways to contact me.
 
@@ -26,13 +25,13 @@ If that page didn’t answer your question, please search my site:
  
 I don’t promote. I don’t invest. And [I’m not taking on any new projects](https://callcentertrainingtips.com/no2). But I love to be aware of what you’re doing, even though I can’t get involved or answer questions about it.
 
-So really the main reason to contact me is to introduce yourself, which I hope you do.
+So really the main reason to contact me is to **introduce yourself**, which I hope you do.
 
 ### My private email list
 
-If you want the announcements and opportunities that I never post publicly, get on my private email list, here:
+If you want the announcements and opportunities that I never post publicly:
 
-[Click here to join my email list](http://eepurl.com/riFT1).
+[Click here to join my private email list](http://eepurl.com/riFT1).
 
 
 ### … or just follow
