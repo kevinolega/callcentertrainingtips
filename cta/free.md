@@ -8,6 +8,8 @@ author: Kevin Olega
 --- 
 Thank you for visiting this website.
 
+![Kevin Webmaster](images/Call Center Kevin.jpg)
+
 My name is Kevin and I'm the writer and website admin.
 
 I have been helping friends get hired in a call center since 2005 and stared this website in 2011.
