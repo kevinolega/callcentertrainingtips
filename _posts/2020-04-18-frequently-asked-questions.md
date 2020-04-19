@@ -34,17 +34,17 @@ Expect 5 interviews to be bad, 5 job offers to be bad and the last 5 companies t
 
 Don't watch English movies.
 
-[Write everyday](https://callcentertrainingtips.com/interview-notes/).
+Read "[Write everyday](https://callcentertrainingtips.com/interview-notes/)".
 
-[Talk to someone who speaks English well](https://callcentertrainingtips.com/speak-english/).
+Read "[Talk to someone who speaks English well](https://callcentertrainingtips.com/speak-english/)".
 
 ### How do I become a top agent?
 
-[Keep a work journal and write everyday](https://callcentertrainingtips.com/notebook/).
+Read "[Keep a work journal and write everyday](https://callcentertrainingtips.com/notebook/)".
 
-[Study and slowly upgrade your spiel]().
+Read "[Study and slowly upgrade your spiel](https://callcentertrainingtips.com/write-spiel/)".
 
-Take better care of your health.
+Read "[Take better care of your health](https://callcentertrainingtips.com/energy-to-succeed/)".
 
 ### How do I qualify for higher paying jobs after call center?
 
@@ -52,7 +52,8 @@ Buy a good computer.
 
 Save one year worth of your expenses.
 
-Get fast internet connected.
+Get fast internet connected at your home
+.
 
 Make a list of your skills.
 
@@ -144,3 +145,47 @@ So stop asking “in-theory” because there's only one way to find out.
 Find just one paying customer, and please that person. 
 
 Start small and move up slowly as you become more successful.
+
+### Where can I find a mentor?
+
+First read “[How to ask your mentors for help](https://callcentertrainingtips.com/mentor/)”.
+
+Then read “[A warning to anyone receiving advice](https://sivers.org/advice/)” by Derek Sivers.
+
+Read books, meet people, talk to people who succeeded and talk to people who fail.
+
+### Why is my progress slow?
+
+I began realizing I had bad English when I was ten.
+
+I have been casually watching English movies and imitating people that I see and talking to friends.
+
+At eighteen, I couldn't get hired in a call center so I got a job in sales.
+
+I started writing lessons and collecting techniques and skills on my notebook.
+
+My first ten years of work were a mix of failures and a little success.
+
+I have been playing this game every day, grinding for experience and trying to build up my stats.
+
+I kept writing, practicing and trying to improve intelligently.
+
+I started publicly writing in 2010. That's ten years now.
+
+Keep pushing, and be patient.
+
+### How should I learn English?
+
+First, buy a notebook.
+
+1. Write down your introductions.
+2. Write down your questions. (Questions you want to ask and questions you want to answer)
+3. Write down step by step instructions of all your skills.
+4. Write down your personal stories.
+
+Then share your writing with friends and mentors.
+
+Keep making improvements.
+
+Keep trying to find what's wrong and make corrections.
+
