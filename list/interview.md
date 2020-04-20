@@ -177,7 +177,7 @@ I failed contract signing at Convergys Ayala.
 
 Here's what you can learn from the experience.
 
-[Don't fail contract signing](https://callcentertrainingtips.com/convergys-gail/).
+[Don't fail contract signing](https://callcentertrainingtips.com/convergys-fail/).
 
 ## Fix All Your Job Application Errors
 
