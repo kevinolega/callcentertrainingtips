@@ -33,7 +33,9 @@ It only costs Php 250.
 
 [CLICK HERE TO READ CALL CENTER BASICS](https://callcentertrainingtips.com/interview)
 
-[CLICK HERE TO READ MY FAVORITE ACTIVITY](https://callcentertrainingtips.com)
+[CLICK HERE TO READ MY FAVORITE ACTIVITY](https://callcentertrainingtips.com/manifesto)
+
+[CLICK HERE IF YOU WANT ADVICE ON HOW TO GET HIRED IN A CALL CENTER](https://callcentertrainingtips.com/4hired)
 
 [CLICK HERE TO GET COACHING](https://callcentertrainingtips.com/6WEL250/)
 
