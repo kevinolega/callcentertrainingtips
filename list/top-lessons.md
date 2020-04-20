@@ -34,7 +34,7 @@ author: Kevin Olega
 [Click Here to Learn More](https://callcentertrainingtips.com/pronunciation-hell/)
 [Click Here to Learn More](https://callcentertrainingtips.com/mae-malabon/)
 [Click Here to Learn More](https://callcentertrainingtips.com/important-question/)
-[Click Here to Learn More](https://callcentertrainingtips.com/convergys-gail/)
+[Click Here to Learn More](https://callcentertrainingtips.com/convergys-fail/)
 [Click Here to Learn More](https://callcentertrainingtips.com/difficult-questions/)
 [Click Here to Learn More](https://callcentertrainingtips.com/email-address/)
 [Click Here to Learn More](https://callcentertrainingtips.com/milestones/)

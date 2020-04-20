@@ -2,7 +2,7 @@
 layout: post 
 title: How I Failed Contract Signing
 date: 2018-10-12 17:38
-permalink: /convergys-gail/ 
+permalink: /convergys-fail/ 
 author: Kevin Olega 
 --- 
 Who the heck fails in a Contract Signing?

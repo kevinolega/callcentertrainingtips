@@ -6,10 +6,7 @@ Tags: [ uncategorized, blog ]
 permalink: /200/ 
 author: Kevin Olega 
 --- 
-
-
-
-Project 2: 
+Whenever I look for work, I call this activity Project 2.
 
 Send out 200 online applications to jobsearch websites.
 

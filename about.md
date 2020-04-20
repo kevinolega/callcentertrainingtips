@@ -173,7 +173,6 @@ This is my primary form of community service.
 
 [You can also hire us to help you through personalized English lessons](https://callcentertrainingtips.com/6WEL250/).
 
-
 ### Website History:
 
 ![IMAGE TEXT]({{ site.url }}/images/I wrote my book and and website on this laptop.png).
