@@ -2,7 +2,7 @@
 layout: post 
 title: Cost of Unemployment
 date: 2019-08-01 00:31
-Tags: [ uncategorized, blog ]
+Tags: [ letter, blog ]
 permalink: /waste/ 
 author: Kevin Olega 
 --- 
@@ -20,7 +20,7 @@ If you're earning a minimum wage of Php 455.47 a day.
 
 That's Php 9,111 a month.
 
-If you work for one year and get paid thriteen months, you make a grand total of...
+If you work for one year and get paid thirteen months, you make a grand total of...
 
 # Php 118,450 a year with minimum wage
 
@@ -52,10 +52,12 @@ If you took care of yourself well and committed yourself to doing a good job and
 
 # Php 1,690,000 after five years.
 
-How much will your life change?
+How much will your life change if you had this income?
 
-How much will your family change?
+How much will your family's life change if you had this amount of money?
 
 I charge people Php 250 to guide them how to get started in a call center
 
-[Let's work together and get you earning that sweet, sweet call center money](http://callcentertrainingtips.com/offer/).
+How much money are you losing every day, month and week that you are not employed?
+
+How much money have you lost so far by being unemployed?
