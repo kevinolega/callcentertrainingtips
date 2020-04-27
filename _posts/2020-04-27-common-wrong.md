@@ -36,17 +36,23 @@ You are not a child.
 
 The advice is not even specific.
 
-What English movies or shows should you read?
+What English movies or shows should you watch and what books should you read?
 
 In management, they teach us that vague instructions means failure specific instructions means success.
 
+## Do this instead:
+
+**1. Speak in English**
+
 I got better in English because I had conversations in English with people who can speak in English well.
+
+**2. Write in English**
 
 When I don't have access to someone who's good at speaking in English, I write on my journal.
 
-When I was younger, I typed my thoughts on our family's computer.
+When I was younger, I typed my thoughts, ideas, goals and plans on our family's computer.
 
-Now we all have smart phones and access to a computer.
+Now we all have smart phones and access to a computer so we don't have any excuse.
 
 • I practiced until I can introduce myself well.
 • I practiced until I can ask questions comfortably.
