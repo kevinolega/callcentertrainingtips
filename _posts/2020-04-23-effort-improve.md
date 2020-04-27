@@ -12,7 +12,7 @@ Neither is anyone.
 
 But when I go to a job application, everyone seems to be perfect.
 
-There's always a temptation to "pretend that you're prefcect."
+There's always a temptation to "pretend that you're perfect."
 
 That's how we get into trouble.
 
