@@ -9,7 +9,7 @@ author: Kevin Olega
 --- 
 Thank you for visiting this website.
 
-![Kevin webmaster]({{ site.url }}/images/2019-07-Kevin-Gray.jpg).
+![Kevin webmaster]({{ site.url }}/images/2019-07-Kevin-Gray.jpg =300).
 
 
 My name is Kevin and I'm the writer and website admin.
