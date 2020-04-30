@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Kevin Webmaster](images/Call Center Kevin.jpg)
+<img src="{{ site.url }}/images/Call Center Kevin.jpg" width="300">
 
 Call Center Training Tips is the largest collection of lessons about call center career advice.
 
