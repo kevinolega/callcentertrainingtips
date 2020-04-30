@@ -9,7 +9,8 @@ author: Kevin Olega
 --- 
 Thank you for visiting this website.
 
-![Kevin Webmaster](https://callcentertrainingtips.com/images/Call%20Center%20Kevin.jpg)
+![Kevin webmaster]({{ site.url }}/images/2019-07-Kevin-Gray.jpg).
+
 
 My name is Kevin and I'm the writer and website admin.
 
