@@ -40,7 +40,7 @@ I don't really know if you are but I'd like to believe that you are.
 
 I recently met another one who like me had terrible skills to begin with and despite that got hired in a call center and started with absolutely nothing and she's pretty awesome. 
 
-Listening to her story of researching [you tube videos at how to speak better English](http://callcentertrainingtips.com/youtube/) made me admire her a lot. 
+Listening to her story of researching [you tube videos at how to speak better English](https://callcentertrainingtips.com/youtube/) made me admire her a lot. 
 
 It wasn't easy, she said but got it done. 
 

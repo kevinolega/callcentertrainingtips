@@ -20,7 +20,7 @@ My ten superpowers.
 
 5.  I can make smart girls smile, like me and tell me their life story. For some reason I can't get this power to work not too smart girls.
 
-6.  I can use technology and my writing to teach you things and send you ideas even if I'm not physically present. I use the [call center training tips website](http://callcentertrainingtips.com) or the [Facebook page](http://www.facebook.com/pages/Call-Center-Training-Tips/449507911746386) or my other websites that [you can check out here](http://kevinolega.com).
+6.  I can use technology and my writing to teach you things and send you ideas even if I'm not physically present. I use the [call center training tips website](https://callcentertrainingtips.com) or the [Facebook page](https://www.facebook.com/pages/Call-Center-Training-Tips/449507911746386) or my other websites that [you can check out here](https://kevinolega.com).
 
 7.  I have superhuman strength. I can lift things by myself that normally require two or three people to lift. Sometimes this hurts my back though.
 

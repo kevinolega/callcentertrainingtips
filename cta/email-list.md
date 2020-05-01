@@ -22,6 +22,6 @@ When you receive my email, please send a reply to introduce yourself.
 
 One reason I do all of this is I enjoy meeting new people.
 
-[CLICK HERE TO SIGN UP AND GET FREE EMAIL LESSONS](http://eepurl.com/riFT1)
+[CLICK HERE TO SIGN UP AND GET FREE EMAIL LESSONS](https://eepurl.com/riFT1)
 
 ![IMAGE TEXT]({{ site.url }}/images/email.jpg).

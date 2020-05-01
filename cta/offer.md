@@ -72,4 +72,4 @@ That the option to pay and get extra time and get dedicated assistance from me i
 
 When I get busy with work, I don't accept training offers.
 
-[CLICK HERE FOR DETAILS](http://callcentertrainingtips.com/1500)
+[CLICK HERE FOR DETAILS](https://callcentertrainingtips.com/1500)

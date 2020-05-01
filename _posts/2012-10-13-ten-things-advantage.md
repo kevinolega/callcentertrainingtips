@@ -242,13 +242,13 @@ If it looks good on paper I test it out in real life.
 
 ## 5. I have a website.
 
-I started [minimal changes as my first website](http://minimalchanges.com).
+I started [minimal changes as my first website](https://minimalchanges.com).
 
 I wrote ideas and thoughts. 
 
 I also put my profile there. 
 
-Today, I have a <a href="http://kevinolega.com">new profile website.</a> 
+Today, I have a <a href="https://kevinolega.com">new profile website.</a> 
 
 When I applied for an interview, my interviewers saw me as an expert with my topics because I was willing to put them in public. 
 
@@ -274,18 +274,18 @@ My favorite part was I built minimal changes to answer some questions that peopl
 
 Up til today I meet people who proudly say they don't know how to use computers. 
 
-More people I know only use a computer for <a href="http://www.facebook.com/callcentertrainingtips">Facebook</a>, email and <a href="http://twitter.com/kevinolega">twitter</a>. 
+More people I know only use a computer for <a href="https://www.facebook.com/callcentertrainingtips">Facebook</a>, email and <a href="https://twitter.com/kevinolega">twitter</a>. 
 
 Add me up while you're at it. 
 
 There are a lot of other awesome things you can do on a computer. 
 
-You can <a href="http://db.tt/H8OFE1L">set up online back ups using dropbox</a>. 
+You can <a href="https://db.tt/H8OFE1L">set up online back ups using dropbox</a>. 
 
 If you use my link we both get 250mb of free space. 
 
 You can learn to make a website. 
-I <a href="http://kevinolega.com">built a my homepage from scratch</a> using <a href="http://jetstrap.com">twitter bootstrap and jetstrap</a>. 
+I <a href="https://kevinolega.com">built a my homepage from scratch</a> using <a href="https://jetstrap.com">twitter bootstrap and jetstrap</a>. 
 
 Photoshop your pictures and make guys drool over you. 
 
@@ -299,7 +299,7 @@ It's not just geeky stuff but despite that 90% of the people in the office don't
 
 It could even impress your boss. 
 
-Read <a href="http://lifehacker.com">lifehacker for more tech tricks</a>.
+Read <a href="https://lifehacker.com">lifehacker for more tech tricks</a>.
 
 ## 7. I’m not really a corporate guy  
 
@@ -417,7 +417,7 @@ If you take all the unnecessary things away you’re left with resources to spar
 
 Minimalism is about saying no so you have resources for what’s beautiful and what’s important. 
 
-I write more about it in my [website: Minimal Changes](http://minimalchanges.com).
+I write more about it in my [website: Minimal Changes](https://minimalchanges.com).
 
 # BONUS 
 

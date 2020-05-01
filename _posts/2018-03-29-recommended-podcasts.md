@@ -76,10 +76,10 @@ Expect to pick up inspiration on analogies, story-telling, making a case and you
 
 This is my favorite podcast and I've listened to every episode.
 
-[link](http://letsknowthings.com/)
+[link](https://letsknowthings.com/)
 
 **Freakonomics**
-[link](http://freakonomics.com/)
+[link](https://freakonomics.com/)
 
 **Hardcore History**
 [link](https://www.dancarlin.com/hardcore-history-series/)
@@ -97,7 +97,7 @@ This is my favorite podcast and I've listened to every episode.
 [link](https://tim.blog/podcast/)
 
 **Jocko Wilnik**
-[link](http://jockopodcast.com/)
+[link](https://jockopodcast.com/)
 
 ### Make you happier
 

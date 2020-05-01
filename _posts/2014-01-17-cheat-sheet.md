@@ -70,7 +70,7 @@ Can I use each word in a sentence?
 3. Record what you wrote on your phone. Listen to it and ask your self if it sounds right.
 
 
-Source for the words: http://en.wikipedia.org/wiki/Most_common_words_in_English
+Source for the words: https://en.wikipedia.org/wiki/Most_common_words_in_English
 
  | 
 

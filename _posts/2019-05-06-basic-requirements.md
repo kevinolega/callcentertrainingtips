@@ -31,7 +31,7 @@ You will be reading from a script most of the time.
 
 Your English just needs to be good enough for small talk, asking questions, explaining your process, giving directions, and telling short stories.
 
-Avoid making pronunciation errors like B and V, P and F, and finally,TH sounds. We have several exercises on [this call center tips website](http://callcentertrainingtips.com).
+Avoid making pronunciation errors like B and V, P and F, and finally,TH sounds. We have several exercises on [this call center tips website](https://callcentertrainingtips.com).
 
 You can check out the top 100 used words in the English Language and check your pronunciation.
 

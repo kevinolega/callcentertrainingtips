@@ -74,6 +74,6 @@ I'm not a perfect agent. I'm a consistently improving one though. Here's a short
 [6]:	https://db.tt/vTWX3Qpf
 [7]:	https://www.uber.com/invite/kevino1009
 [8]:	https://r.grab.com/grabkevinolega
-[9]:	http://carousell.com/kevinolega
-[10]:	http://callcentertrainingtips.com/start
-[11]:	http://callcentertrainingtips.com/promos
+[9]:	https://carousell.com/kevinolega
+[10]:	https://callcentertrainingtips.com/start
+[11]:	https://callcentertrainingtips.com/promos

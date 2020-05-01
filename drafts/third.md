@@ -94,37 +94,37 @@ Training is done over the phone or in person if you live in the Parañaque and M
 
 
 
-[1]:	http://callcentertrainingtips.com/contact/
+[1]:	https://callcentertrainingtips.com/contact/
 [2]:	https://www.facebook.com/profile.php?id=247824095581789&ref=br_rs
-[3]:	http://facebook.com/callcentertrainingtips
-[4]:	http://eepurl.com/riFT1
-[5]:	http://callcentertrainingtips.com/missed-opportunities
-[6]:	http://callcentertrainingtips.com/basics/
-[7]:	http://kevinolega.com
-[8]:	http://philippineislandliving.com
-[9]:	http://callcentertrainingtips.com/call-center-job-interview-preparation-questions/
-[10]:	http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers
-[11]:	http://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/
-[12]:	http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers
-[13]:	http://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/ "How to Write a Resume for Call Center Application"
-[14]:	http://callcentertrainingtips.com/27-tips-to-help-you-get-hired-in-a-call-center/ "27 Tips to Help You Get Hired In a Call Center"
-[15]:	http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers
-[16]:	http://callcentertrainingtips.com/answer-questions/
-[17]:	http://callcentertrainingtips.com/avoid-fillers-and-answer-every-question-with-delaying-tactics/
-[18]:	http://callcentertrainingtips.com/call-center-job-interview-preparation-questions/
-[19]:	http://callcentertrainingtips.com/how-to-connect-your-strength-weakness-or-experience-to-why-you-want-to-work-in-a-call-center/
-[20]:	http://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/
-[21]:	http://callcentertrainingtips.com/how-to-build-a-call-center-resume-from-scratch-no-work-experience/
-[22]:	http://callcentertrainingtips.com/how-to-start-improving-your-english-skills/
-[23]:	http://callcentertrainingtips.com/examples-of-words-with-silent-letters/
-[24]:	http://callcentertrainingtips.com/my-pronunciation-cheat-sheet/
-[25]:	http://callcentertrainingtips.com/how-to-overcome-your-super-shy-self-with-one-exercise/
-[26]:	http://callcentertrainingtips.com/27-tips-to-help-you-get-hired-in-a-call-center/
-[27]:	http://callcentertrainingtips.com/how-to-set-goals/
-[28]:	http://callcentertrainingtips.com/ten-small-things-that-give-me-an-advantage-when-looking-for-work/
-[29]:	http://callcentertrainingtips.com/what-can-a-shy-person-do/
-[30]:	http://callcentertrainingtips.com/six-things-i-did-right-that-got-me-hired-in-a-call-center/
-[31]:	http://callcentertrainingtips.com/how-to-level-up-and-get-hired-in-a-call-center/
-[32]:	http://callcentertrainingtips.com/how-to-pass-call-center-training/
+[3]:	https://facebook.com/callcentertrainingtips
+[4]:	https://eepurl.com/riFT1
+[5]:	https://callcentertrainingtips.com/missed-opportunities
+[6]:	https://callcentertrainingtips.com/basics/
+[7]:	https://kevinolega.com
+[8]:	https://philippineislandliving.com
+[9]:	https://callcentertrainingtips.com/call-center-job-interview-preparation-questions/
+[10]:	https://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers
+[11]:	https://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/
+[12]:	https://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers
+[13]:	https://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/ "How to Write a Resume for Call Center Application"
+[14]:	https://callcentertrainingtips.com/27-tips-to-help-you-get-hired-in-a-call-center/ "27 Tips to Help You Get Hired In a Call Center"
+[15]:	https://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers
+[16]:	https://callcentertrainingtips.com/answer-questions/
+[17]:	https://callcentertrainingtips.com/avoid-fillers-and-answer-every-question-with-delaying-tactics/
+[18]:	https://callcentertrainingtips.com/call-center-job-interview-preparation-questions/
+[19]:	https://callcentertrainingtips.com/how-to-connect-your-strength-weakness-or-experience-to-why-you-want-to-work-in-a-call-center/
+[20]:	https://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/
+[21]:	https://callcentertrainingtips.com/how-to-build-a-call-center-resume-from-scratch-no-work-experience/
+[22]:	https://callcentertrainingtips.com/how-to-start-improving-your-english-skills/
+[23]:	https://callcentertrainingtips.com/examples-of-words-with-silent-letters/
+[24]:	https://callcentertrainingtips.com/my-pronunciation-cheat-sheet/
+[25]:	https://callcentertrainingtips.com/how-to-overcome-your-super-shy-self-with-one-exercise/
+[26]:	https://callcentertrainingtips.com/27-tips-to-help-you-get-hired-in-a-call-center/
+[27]:	https://callcentertrainingtips.com/how-to-set-goals/
+[28]:	https://callcentertrainingtips.com/ten-small-things-that-give-me-an-advantage-when-looking-for-work/
+[29]:	https://callcentertrainingtips.com/what-can-a-shy-person-do/
+[30]:	https://callcentertrainingtips.com/six-things-i-did-right-that-got-me-hired-in-a-call-center/
+[31]:	https://callcentertrainingtips.com/how-to-level-up-and-get-hired-in-a-call-center/
+[32]:	https://callcentertrainingtips.com/how-to-pass-call-center-training/
 [33]:	https://goo.gl/forms/M1MbBbdhieN7Ouvc2
 

@@ -8,7 +8,7 @@ categories: [Lessons]
 ---
 Hi there. 
 
-If you're following me on <a href="http://www.facebook.com/pages/Call-Center-Training-Tips/449507911746386">facebook</a> 
+If you're following me on <a href="https://www.facebook.com/pages/Call-Center-Training-Tips/449507911746386">facebook</a> 
 
 you might have noticed how happy I am about receiving messages from readers that the site was able to help them prepare for their job application and get hired in a call center.
 

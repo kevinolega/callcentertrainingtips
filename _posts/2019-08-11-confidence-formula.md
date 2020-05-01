@@ -30,7 +30,7 @@ This also functions as a pronunciation assessment.
 
 This has TH, B & V, P & F sounds.
 
-If this assessment is too diffuclt for you, practice with [the interview mindset](http://callcentertrainingtips.com/interview-mind).
+If this assessment is too diffuclt for you, practice with [the interview mindset](https://callcentertrainingtips.com/interview-mind).
 
 ---
 

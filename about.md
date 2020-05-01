@@ -15,7 +15,7 @@ I decided to write the lessons on the website that I wanted to read.
 
 The website that I wish existed when I started looking for work.
 
-We also have a [Facebook community](http://facebook.com/callcentertrainingtips/). 
+We also have a [Facebook community](https://facebook.com/callcentertrainingtips/). 
 
 I'm Kevin and I have been helping friends get hired in a call center since 2005 and I began publishing my lessons in 2012.
 
@@ -63,7 +63,7 @@ I am grateful for the opportunity to contribute my experience with you and I'm e
 
 I hope you enjoy reading and learning as I much as I enjoyed writing and putting this website together.
 
-Website maintenance [by Kevin Olega](http://kevinolega.com).
+Website maintenance [by Kevin Olega](https://kevinolega.com).
 
 ---
 

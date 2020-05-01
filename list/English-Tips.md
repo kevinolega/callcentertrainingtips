@@ -24,7 +24,7 @@ English is the primary language and the best part is that your English does not 
 
 If you’re looking for ways to learn how to improve your English, here are some of the tips I can offer to improve your communication skills faster.
 
-[CLICK HERE TO LEARN THE FIVE ACTIVITIES THAT WILL IMPROVE YOUR ENGLISH SKILLS](http://callcentertrainingtips.com/activities-english/)
+[CLICK HERE TO LEARN THE FIVE ACTIVITIES THAT WILL IMPROVE YOUR ENGLISH SKILLS](https://callcentertrainingtips.com/activities-english/)
 
 ## Think in English
 
@@ -32,7 +32,7 @@ We all talk to ourselves in our head.
 
 The question is what language are you using? 
 
-[CLICK HERE TO LEARN THE BENEFITS OF THINKING IN ENGLISH](http://callcentertrainingtips.com/think-english/)
+[CLICK HERE TO LEARN THE BENEFITS OF THINKING IN ENGLISH](https://callcentertrainingtips.com/think-english/)
 
 ## Sossy Mode Gives You Powerful, Smooth, Confident English
 
@@ -46,7 +46,7 @@ We pick on pronunciation errors and call them “Bisaya” or “probinsyano”.
 
 Here’s the best part, **a lot of Filipinos don't have better speaking ability than the people they bully for speaking in English** and when they do encounter a local who speaks very well we call them “pa-social” (which implies that they are social climbers and trying to pretend to be rich) or we call their English “slang” (which I guess should be natural at that level) or worse we call them “maarte” (which means spoiled, high class, picky or hard to please). 
 
-[CLICK HERE TO LEARN THE SOSSY MODE TECHNIQUE](http://callcentertrainingtips.com/sossy/)
+[CLICK HERE TO LEARN THE SOSSY MODE TECHNIQUE](https://callcentertrainingtips.com/sossy/)
 
 ## Activate Celebrity Mode for Smooth Confident English
 
@@ -58,7 +58,7 @@ I actually see nothing wrong with it.
 
 I was training a friend recently and he suddenly started making a lot of mistakes with his English. 
 
-[CLICK HERE TO LEARN HOW TO ENTER CELEBRITY MODE](http://callcentertrainingtips.com/celebrity/)
+[CLICK HERE TO LEARN HOW TO ENTER CELEBRITY MODE](https://callcentertrainingtips.com/celebrity/)
 
 ## Smile to sound better when you talk
 
@@ -71,7 +71,7 @@ They say a smile can be heard on the phone.
 
 Why the heck is this important?
 
-[CLICK HERE TO LEARN MORE](http://callcentertrainingtips.com/smile-better/)
+[CLICK HERE TO LEARN MORE](https://callcentertrainingtips.com/smile-better/)
 
 ## Common English Pronunciation Errors
 
@@ -85,7 +85,7 @@ Despite that many fail call center screenings due to minor errors.
 
 Minor errors are forgivable. 
 
-[CLICK HERE TO LEARN THE PRONUNCIATION ERRORS THAT YOU NEED TO FIX](http://callcentertrainingtips.com/pronunciation-errors/)
+[CLICK HERE TO LEARN THE PRONUNCIATION ERRORS THAT YOU NEED TO FIX](https://callcentertrainingtips.com/pronunciation-errors/)
 
 
 ## Secret To My Good English

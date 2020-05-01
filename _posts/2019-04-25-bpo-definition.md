@@ -70,4 +70,4 @@ That being said, if you want to get hired in a call center or a BPO the ability 
 
 That means you have to speak, read, write, listen and think in English proficiently.
 
-If you are interested in improving your English skills, you can read the lessons here, practice on your own or [hire us to teach you](http://callcentertrainingtips.com/promos/).
+If you are interested in improving your English skills, you can read the lessons here, practice on your own or [hire us to teach you](https://callcentertrainingtips.com/promos/).

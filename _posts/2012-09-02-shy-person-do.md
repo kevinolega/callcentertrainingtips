@@ -57,7 +57,7 @@ I recently learned that if you share your goals with others, you risk being ackn
 
 So I decided to ditch telling people about my goals and just go after it. 
 
-I even wrote a post about that on [my personal website](http://minimalchanges.com/why-keep-goals-secret/). 
+I even wrote a post about that on [my personal website](https://minimalchanges.com/why-keep-goals-secret/). 
 
 **2. Go after what excites you.** 
 
@@ -137,7 +137,7 @@ I believe you're smart enough to figure this out.
 
 **8. Other Filipinos are scared too.**
 
-According to [Derek Sivers](http://sivers.org), Nobody knows the future and nobody knows what they're doing. 
+According to [Derek Sivers](https://sivers.org), Nobody knows the future and nobody knows what they're doing. 
 
 It's a wise quote and I'm trying to embed this in my heart right now so I know how to face people who intimidate me. 
 

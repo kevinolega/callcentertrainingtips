@@ -13,7 +13,7 @@ I tried sales, customer service work, blogging, making videos, freelance work an
 
 For the past several years people depend on me to help them upgrade their livelihood.
 
-I recently [uploaded a video for the blog](http://callcentertrainingtips.com/basics/) and I noticed that my confidence improved a lot.
+I recently [uploaded a video for the blog](https://callcentertrainingtips.com/basics/) and I noticed that my confidence improved a lot.
 
 I'm thinking if you do the same, you can get the same benefit as well.
 

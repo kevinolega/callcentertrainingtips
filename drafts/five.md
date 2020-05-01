@@ -445,7 +445,7 @@ The last one took the most courage. It also gave me the ability to go to the nex
 
 Ask your best friend to practice English with you. Tell them to write down every time you made a mistake or said something that didn"t make sense. Discuss the alternatives.
 
-It"s an honor to be asked all these questions but I"m not always online. I have other things going on in my life. I also have [another blog](http://kevinolega.com). I also [travel around](http://philippineislandliving.com). I wrote the tips on this site to answer questions for people so I don"t need to answer them one by one per person.
+It"s an honor to be asked all these questions but I"m not always online. I have other things going on in my life. I also have [another blog](https://kevinolega.com). I also [travel around](https://philippineislandliving.com). I wrote the tips on this site to answer questions for people so I don"t need to answer them one by one per person.
 
 If you"re asking for some tips please read my tips first and ask for specifics in case I missed out on some details.
 

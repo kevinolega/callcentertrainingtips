@@ -25,7 +25,7 @@ Primary requirements are often required immediately (usually the same week or th
 
 Any printout that came from SSS and has their full Name, SSS Number and Birthdate. 
 
-You can [visit the SSS website](http://sss.gov.ph) to obtain this. 
+You can [visit the SSS website](https://sss.gov.ph) to obtain this. 
 
 **TIN Document.**
 
@@ -94,7 +94,7 @@ You can obtain this from the HR of your previous employer.
 
 **Tax Withheld Form/ITR.** 
 
-For more information [visit the BIR website](http://www.bir.gov.ph/). 
+For more information [visit the BIR website](https://www.bir.gov.ph/). 
 
 **1x1 or 2x2 photos.** 
 

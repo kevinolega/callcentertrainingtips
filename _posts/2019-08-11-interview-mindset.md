@@ -15,7 +15,7 @@ This also functions as a pronunciation assessment.
 
 This has TH, B & V, P & F sounds.
 
-After you master this assessment, procede to [the Ultimate Self Confidence Formula](http://callcentertrainingtips.com/confidence-formula).
+After you master this assessment, procede to [the Ultimate Self Confidence Formula](https://callcentertrainingtips.com/confidence-formula).
 
 ---
 

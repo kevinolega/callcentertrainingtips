@@ -76,7 +76,7 @@ Enough said.
 
 Vegetables aren't filling.
 
-[Vegetables aren't necessary for good health](http://highsteaks.com/do-you-need-veggies-to-be-healthy-a-response-to-marks-daily-apple-caveat-vegor/).
+[Vegetables aren't necessary for good health](https://highsteaks.com/do-you-need-veggies-to-be-healthy-a-response-to-marks-daily-apple-caveat-vegor/).
 
 ## Eat More Beef
 

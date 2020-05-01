@@ -153,7 +153,7 @@ I got a high paying job in corporate sales.
 
 I experienced failure and depression.
 
-I wrote a boook that [helped hundreds of people get hired in a call center](http://callcentertrainingtips.com/testimonials).
+I wrote a boook that [helped hundreds of people get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
 I went to a call center while I was depressed and became Top Agent and consistent top performer for three years.
 
@@ -167,4 +167,4 @@ So I don't help everyone.
 
 And I only charge a small amount for my training sessions.
 
-[You can check my offers here](http://callcentertrainingtips.com/promos)
+[You can check my offers here](https://callcentertrainingtips.com/promos)

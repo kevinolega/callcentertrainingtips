@@ -11,7 +11,7 @@ I'm really a shy person.
 
 If you've noticed recently that I put up a YouTube channel called CCTTShow that you can subscribe to. 
 
-[Click here to support my YouTube channel](http://callcentertrainingtips.com/yt).
+[Click here to support my YouTube channel](https://callcentertrainingtips.com/yt).
 
 I've been trying to make videos to help you with your job application. 
 
@@ -91,4 +91,4 @@ Are you a professional or amateur?
 
 What you do next will determine your destiny.
 
-[Click here to support my YouTube channel](http://callcentertrainingtips.com/yt).
+[Click here to support my YouTube channel](https://callcentertrainingtips.com/yt).

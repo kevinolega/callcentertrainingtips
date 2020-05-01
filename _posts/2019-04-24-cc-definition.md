@@ -5,7 +5,7 @@ date: 2019-04-24 10:22
 permalink: /call-center-definition/ 
 author: Kevin Olega 
 --- 
-> Wikipedia says: A call center or call center is a centralized office used for the purpose of receiving and transmitting a large volume of requests by [telephone](http://en.wikipedia.org/wiki/Telephone). A call center is operated by a [company](http://en.wikipedia.org/wiki/Company) to administer incoming product support or information inquiries from consumers. Outgoing calls for [telemarketing](http://en.wikipedia.org/wiki/Telemarketing), clientele, product services, and debt collection are also made.
+> Wikipedia says: A call center or call center is a centralized office used for the purpose of receiving and transmitting a large volume of requests by [telephone](https://en.wikipedia.org/wiki/Telephone). A call center is operated by a [company](https://en.wikipedia.org/wiki/Company) to administer incoming product support or information inquiries from consumers. Outgoing calls for [telemarketing](https://en.wikipedia.org/wiki/Telemarketing), clientele, product services, and debt collection are also made.
 
 That’s true. 
 

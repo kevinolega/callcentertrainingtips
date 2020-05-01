@@ -18,7 +18,7 @@ Please be patient and polite as I get hundreds of messages a week from other peo
 
 Training materials and lessons are available for free on the website.
 
-[SIGN UP HERE FREE EMAIL TRAINING](http://eepurl.com/riFT1)
+[SIGN UP HERE FREE EMAIL TRAINING](https://eepurl.com/riFT1)
 
 If you want to support me and you would like more direct and active personal assistance here are more options...
 
@@ -50,7 +50,7 @@ I'm still going to answer emails and chat questions when I'm logged in.
 
 And I'm still going to post lessons on the website and the page.
 
-[Click here if you still want to go after your dreams solo](http://callcentertrainingtips.com/team).
+[Click here if you still want to go after your dreams solo](https://callcentertrainingtips.com/team).
 
 If you want to avail the coaching, payment is by bank deposit and sessions are done on the phone so I'll need your number. Globe and landline is good. Or Skype if you have fast internet.
 
@@ -127,7 +127,7 @@ Payments are made via BPI bank deposit. If you're interested, let me know, I'll 
 
 ## English Tutorial Service
 
-[CLICK HERE TO VISIT OUR AFFILIATE TUTORIAL WEBSITE](http://philippinesprivateenglishtutors.com/)
+[CLICK HERE TO VISIT OUR AFFILIATE TUTORIAL WEBSITE](https://philippinesprivateenglishtutors.com/)
 
 [Please send an email](mailto:callcentertrainingtips@gmail.com) or a [Facebook message](https://www.facebook.com/callcentertrainingtips/) to inquire.
 

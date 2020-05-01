@@ -111,7 +111,7 @@ If you're not all three or not commited to become the person you need to be to s
 
 If you are interested in private lessons, please visit our affiliate website and hire an English tutor.
 
-[=>> CLICK HERE TO HIRE PRIVATE ENGLISH TUTOR <<=](http://philippinesprivateenglishtutors.com/)
+[=>> CLICK HERE TO HIRE PRIVATE ENGLISH TUTOR <<=](https://philippinesprivateenglishtutors.com/)
 
 [CLICK HERE TO GET FREE LESSONS][4].
 
@@ -467,7 +467,7 @@ _**[>CLICK HERE TO STAY IN TOUCH AND GET MORE FREE LESSONS<][4]**_.
 [My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
 
-[1]:	http://callcentertrainingtips.com/contact/
+[1]:	https://callcentertrainingtips.com/contact/
 [2]:	https://www.facebook.com/profile.php?id=247824095581789&ref=br_rs
-[3]:	http://facebook.com/callcentertrainingtips
-[4]:	http://eepurl.com/riFT1
+[3]:	https://facebook.com/callcentertrainingtips
+[4]:	https://eepurl.com/riFT1
