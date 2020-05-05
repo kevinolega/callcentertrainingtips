@@ -248,4 +248,4 @@ If you train yourself to do the tasks, you can achieve your goals.
 
 Please leave a comment on the website.
 
-[soundcloud url="https://api.soundcloud.com/tracks/181435047" params="auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" width="100%" height="300" iframe="true" /
+[soundcloud url="https://api.soundcloud.com/tracks/181435047" params="auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" width="100%" height="300" iframe="true"]
