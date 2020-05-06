@@ -37,6 +37,8 @@ It only costs Php 250.
 
 [CLICK HERE IF YOU WANT ADVICE ON HOW TO GET HIRED IN A CALL CENTER](https://callcentertrainingtips.com/4hired)
 
+[CLICK HERE TO DISCOVER AND FIX YOUR JOB APPLICATION ERRORS](https://callcentertrainingtips.com/fix)
+
 [CLICK HERE TO GET COACHING](https://callcentertrainingtips.com/6WEL250/)
 
 ![IMAGE TEXT]({{ site.url }}/images/cctt.jpeg).
