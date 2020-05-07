@@ -1,10 +1,10 @@
---- 
-layout: page 
+---
+layout: page
 title: W1 L2 Recommendations
 date: 2020-05-07 09:49
 permalink: /crab/
-author: Kevin Olega 
---- 
+author: Kevin Olega
+---
 Here are some additional recommendations so you can get the maximum benefit from Lesson 2.
 
 Please read this multiple times and go back to your answers and make the needed changes.
