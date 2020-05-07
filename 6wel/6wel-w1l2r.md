@@ -1,7 +1,7 @@
 ---
 layout: page
 title: W1 L2 Recommendations
-permalink: /crab/
+permalink: /w01l2r/
 author: Kevin Olega
 ---
 Here are some additional recommendations so you can get the maximum benefit from Lesson 2.
