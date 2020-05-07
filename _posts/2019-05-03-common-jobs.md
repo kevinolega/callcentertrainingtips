@@ -48,7 +48,7 @@ Sales teaches you how to be persistent and become more convincing.
 
 Remember that all these jobs can be both inbound or outbound.
 
-## What should I choose?
+### What should I choose?
 
 If I'm new, I usually take the first good offer, then I re-invest my income into building my skills so I can qualify for more difficult and higher paying jobs.
 
