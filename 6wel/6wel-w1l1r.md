@@ -1,7 +1,6 @@
 --- 
 layout: page 
 title: W1 L1 Recommendations
-date: 2020-05-07 09:49
 permalink: /w01l1r/ 
 author: Kevin Olega 
 --- 
