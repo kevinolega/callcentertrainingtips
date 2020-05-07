@@ -9,7 +9,7 @@ Here are some additional recommendations so you can get the maximum benefit from
 
 Please read this multiple times and go back to your answers and make the needed changes.
 
-## Always Take Notes:
+## Always Take Notes
 
 Make it a practice to write down everything that you learned so it will stay with you.
 
@@ -25,7 +25,7 @@ You are learning to improve your English by practicing everyday.
 
 You are writing regularly and looking for opportunities to speak with an English speaker.
 
-## Your Answers Can Evolve:
+## Your Answers Can Evolve
 
 Don't just read once and answer once.
 
@@ -35,7 +35,7 @@ How does it sound?
 
 Are you happy?
 
-### Ask yourself the following questions:
+### Ask yourself the following questions
 
 How can I make my answer more specific?
 
@@ -77,35 +77,35 @@ Back when I was interviewing for our company, whenever an applicant answers with
 	
 For Example:
 
-#### Dedicated: 
+#### Dedicated
 
 We ask them to share a story about a time you had to choose work over personal commitments.
 
-#### Hard working: 
+#### Hard working
 
 We ask them to share a story about your longest overtime.
 
-#### Reliable: 
+#### Reliable
 
 We ask them to share a story about what you do to avoid work related mistakes.
 
-#### Flexible: 
+#### Flexible
 
 We ask them to share a story about a time that you had to do work that is not related to your job description.
 
-#### Strong work ethic: 
+#### Strong work ethic
 
 We ask them to a tell a story about a time where you were supposed to do a task that you personally don't feel like doing.
 
-#### Ambitious: 
+#### Ambitious
 
 We ask them to share what your personal and professional goals are and what is the story behind your goals?
 
-#### Loyal: 
+#### Loyal
 
 We ask them to share a story about how you quit your last three jobs.
 
-#### Disciplined: 
+#### Disciplined
 
 We ask them to share and describe your day to day routine and how you manage your time and tasks.
 
@@ -123,7 +123,7 @@ After writing dozens of stories to prepare or my job application, I discovered t
 
 Every skill that I'm good at, is often connected to a past weakness.
 
-#### I'm the hero of my story:
+#### I'm the hero of my story
 
 The story is simply the journey from the time I discovered my weakness to the time that I developed my strength.
 
@@ -167,7 +167,7 @@ In time, I master the skill.
 
 Eventually, I achieve my goal.
 
-#### We all relate to the same story:
+#### We all relate to the same story
 
 When I read the story aloud to myself, I discover my positive traits and I write those details down in my notebook.
 
@@ -292,7 +292,7 @@ Imagine someone else will reading the instructions you have written.
 
 Imagine using the instructions you have written to teach someone over the phone. 
 
-#### Ask yourself: 
+#### Ask yourself
 
 Are my instructions sufficient that a grade school student will be able complete the task after the instructions were relayed over the phone?
 
