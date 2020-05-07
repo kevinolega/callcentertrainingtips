@@ -66,7 +66,7 @@ The most common are Customer Service, Sales and Tech Support.
 
 I personally believe that it’s a good idea to learn a bit about the three roles because one skill would complement the other.
 
-[Click Here To Read More About the Different Call Center Jobs](https://callcentertrainingtips.com/cc-jobs)
+[Click Here To Read More About the Different Call Center Jobs](https://callcentertrainingtips.com/common-jobs)
 
 ## Call Center Job Application Requirements
 
