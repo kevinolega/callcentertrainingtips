@@ -64,7 +64,7 @@ When your interviewer hears something interesting, they will ask you to elaborat
 
 If you don't have the full English version of your story or instruction, you are not going to deliver your answer well.
 
-Translating your answers from Filipino to English doesn't result in clear or confident communication.
+Translating your answers from Filipino to English during the interview doesn't result in clear or confident communication.
 
 Then you'll fail the interview.
 
