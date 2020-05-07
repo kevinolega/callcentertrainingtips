@@ -1,11 +1,13 @@
 --- 
 layout: post 
-title: Common Call Center Jobs: (Customer Service, Sales And Tech Support)
-date: 2019-06-08 14:21
+title: Common Call Center Jobs
+date: 2019-05-03 14:21
 Tags: [ basics ]
-permalink: /cc-jobs/ 
+permalink: /common-jobs/ 
 author: Kevin Olega 
 --- 
+The most common call center jobs are Customer Service, Sales and Tech Support.
+
 There are different business processes being outsourced to the Philippines. 
 
 Call center companies receive outsourcing requests and projects from multinational companies abroad and from small and medium enterprises.
@@ -45,6 +47,10 @@ Technical support helps you improve your product knowledge, analysis and problem
 Sales teaches you how to be persistent and become more convincing.
 
 Remember that all these jobs can be both inbound or outbound.
+
+## What should I choose?
+
+If I'm new, I usually take the first good offer, then I re-invest my income into building my skills so I can qualify for more difficult and higher paying jobs.
 
 There are more but these are what we’re going to talk about in detail on the next post. 
 
