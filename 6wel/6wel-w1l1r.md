@@ -41,7 +41,7 @@ I made it a practice to meditate for a few minutes and visualize a good outcome 
 
 At exactly 2am, I log in and start taking calls.
 
-#### Call Flow
+**Call Flow**
 
 I usually greet the customers and introduce myself:
 
@@ -59,7 +59,7 @@ I thank them for calling.
 
 Then I repeat the process.
 
-#### Breaks
+**Breaks**
 
 We have a lunch break and two short breaks.
 
@@ -69,7 +69,7 @@ If the day becomes stressful, I put on my headset and meditate using the Headspa
 
 Most good call centers have a proper sleeping area.
 
-#### End Of Day
+**End Of Day**
 
 I log out from my work station at exactly 11am.
 
@@ -119,13 +119,13 @@ Instructions need to be in order.
 
 Open with a summary then include the step by step.
 
-#### Summary:
+**Summary:**
 
 I'm going to teach you how to cook steak. 
 
 To cook steak, you need to get the pan to high heat, let the steak cook for 1-2 minutes on each side, rest for five minutes then serve.
 
-#### Step by step:
+**Step by step:**
 
 Step one: Heat the pan.
 
@@ -157,7 +157,7 @@ I studied at iAcademy (I don’t give the full school name)
 
 I studied Business Management (I don’t give the full course name)
 
-#### Should I give the short version or the full version?
+**Should I give the short version or the full version?**
 
 Here are some guidelines that I follow:
 
@@ -179,7 +179,7 @@ If the questions is...
 
 After reading this, please review your answers and ask yourself this question:
 
-#### How can I communicate this answer better?
+**How can I communicate this answer better?**
 
 Then make the needed changes.
 

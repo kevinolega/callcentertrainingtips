@@ -42,6 +42,14 @@ a {
     &:hover{
      color: $text-color;   
     }
+.bold {
+    font-weight: bolder;
+    color: #61c17d;
+}
+
+}
+
+
 
 p a {
     color: $text-color;

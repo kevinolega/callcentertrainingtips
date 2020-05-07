@@ -30,7 +30,7 @@ compress_html:
   comments: ["<!-- ", " -->"]
   endings: [all]
   ignore:
-  envs: [local]
+    envs: [local]
   blanklines: false
   profile: false
   startings: []
