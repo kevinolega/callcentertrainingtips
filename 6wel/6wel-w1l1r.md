@@ -21,7 +21,11 @@ We will shorten your answers at the end (Week 6) but for now, please try to expa
 
 ### My typical workday in a call center is...
 
-**Start Of Day:**
+To give you an example, I'm going to give you an overview of what happens during my workday.
+
+I'm going to tell you what happens from the start of the day to what happens at the end of the day.
+
+#### Start Of Day:
 
 I wake up at 12 midnight because my shift is at 2am.
 
