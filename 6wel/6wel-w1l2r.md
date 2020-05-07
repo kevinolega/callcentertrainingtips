@@ -2,7 +2,7 @@
 layout: page 
 title: W1 L2 Recommendations
 date: 2020-05-07 09:49
-permalink: /w01l2r/ 
+permalink: /w01l2r/
 author: Kevin Olega 
 --- 
 Here are some additional recommendations so you can get the maximum benefit from Lesson 2.
