@@ -23,9 +23,9 @@ I'm Kevin and I have been helping friends get hired in a call center since 2005 
 
 Several hundred Filipinos had sent me letters and messages, thanking and informing me of their success, that they are already hired in a call center. 
 
-Some readers went as far as sent me gifts and donations to help keep this website running.
+Some readers went as far as sending me gifts and donations to help keep this website running.
 
-Some readers have hired me to assist them get better results in their job application or promotion interviews.
+Some readers have hired me to assist them to get better results in their job application or promotion interviews.
 
 I spend several hours every week writing and publishing new lessons.
 
@@ -55,7 +55,7 @@ In 2005, I worked for a call center training school.
 
 I assisted students with the enrollment process and gave additional coaching upon graduation.
 
-Over the years, the mistakes, experience, studies and questions led me to accumulate a massive amount of lessons.
+Over the years, the mistakes, experience, studies, and questions led me to accumulate a massive amount of lessons.
 
 You'll find lessons on how to improve confidence, speak better English, present well during interviews and job hunting strategies on this website.
 
@@ -73,7 +73,7 @@ I'm Kevin Olega, the guy behind call center training tips.
 
 I work as a project manager and virtual assistant to various foreign entrepreneurs. 
 
-I enjoy writing,creating websites, learning new things and meeting new people on my free time. 
+I enjoy writing, creating websites, learning new things, and meeting new people on my free time. 
 
 I'm from Paranaque City and I worked mostly in the Makati and Ortigas area.
 
@@ -85,9 +85,9 @@ Here are some things about me.
 
 - I'm 34
 - I'm a minimalist. I live with less than 250 things.
-- I like reading, writing and talking to people.
+- I like reading, writing, and talking to people.
 - I often order black brewed coffee at coffee shops and Chamomile tea in the evening.
-- I'm geeky when it comes to Naruto, Fairy Tail, Hannibal, How I Met Your Mother, Starcraft, Diablo 2, Tekken, martial arts and tech stuff.
+- I'm geeky when it comes to Naruto, Fairy Tail, Hannibal, How I Met Your Mother, Starcraft, Diablo 2, Tekken, martial arts, and tech stuff.
 - I enjoy cooking, Crossfit, biking, and outdoor activities like hiking and trekking.
 
 ![IMAGE TEXT]({{ site.url }}/images/My Gamer Mindset.png).
@@ -117,7 +117,7 @@ I use the money to buy tools and pay for this website's maintenance.
 
 I spend some buying books on learning and teaching.
 
-I pay 100% of the website hosting, yearly domain registration, web tools, hardware and software needed to maintain the websites using my own money.
+I pay 100% of the website hosting, yearly domain registration, web tools, hardware, and software needed to maintain the websites using my own money.
 
 [CLICK HERE if you want to donate and support my work](https://www.paypal.me/kevinolega).
 
@@ -137,11 +137,11 @@ I hope someone this site has helped gets to read this and consider contacting me
 
 I helped grow a call center training school in Quezon City, Makati, and Ortigas.
 
-Eventually the company opened their own small call center in Ortigas. 
+Eventually, the company opened its own small call center in Ortigas. 
 
 Unfortunately, the owner of the company went to the States and the school closed down.
 
-I helped build the initial program and did research on how to find work in a call center from back in 2005 when I was asked to apply at well known call centers in order to learn the recruitment process and to understand how to qualify for a call center position.
+I helped build the initial program and did research on how to find work in a call center from back in 2005 when I was asked to apply at well-known call center companies in order to learn the recruitment process and to understand how to qualify for a call center position.
 
 I then further tried to improve and found a way to put what I learned to good use by teaching and giving tips to friends who are looking for work in a call center.
 
@@ -155,13 +155,13 @@ I only have four years of call center work experience and two years of assisting
 
 I only had one year of college, which is a blessing because several call centers accept high school graduates and only a handful of strict ones require two years or a degree in college.
 
-I'm a kinesthetic learner so I learn about things through active research, personal experience and the help of people better than me.
+I'm a kinesthetic learner so I learn about things through active research, personal experience, and the help of people better than me.
 
 What I offer on this website is my personal experience on how I helped myself and a few friends get hired in a call center and other high paying jobs by improving their communication skills.
 
 I am not an expert in grammar, pronunciation or accents but I've improved mine to a point where nobody complains about it.
 
-I spent the last fifteen years working in jobs that require high level communication skills as a primary requirement. 
+I spent the last fifteen years working in jobs that require high-level communication skills as a primary requirement. 
 
 I teach how I communicate and the story behind my techniques.
 
@@ -204,7 +204,7 @@ I was able to save up for my dream gadgets with my call center money.
 ![IMAGE TEXT]({{ site.url }}/images/Top Agent Sales Board.png).
 
 
-![IMAGE TEXT]({{ site.url }}/images/Bought a bike to save money.png).
+
 
 This allowed me to jump to better opportunities.
 
@@ -212,11 +212,11 @@ This allowed me to jump to better opportunities.
 
 ### UPDATE 2013:
 
-I eventually worked in a call center. I have been working in a call center for three years. In my first year I almost failed regularization. My new boss told me that my previous boss recommended me for termination. He didn't stop there though. He helped me identify my strengths and overcome my weaknesses and eventually I got regularized. The next month, I was awarded top agent for customer feedback. The following year I was awarder top agent again for the most number of repair calls converted into sales. Using the same method my boss taught me, I just got really better at what I did. If you're interested I can also teach you. Just send me a message.
+I eventually worked in a call center. I have been working in a call center for three years. In my first year, I almost failed regularization. My new boss told me that my previous boss recommended me for termination. He didn't stop there though. He helped me identify my strengths and overcome my weaknesses and eventually I got regularized. The next month, I was awarded top agent for customer feedback. The following year, I was awarded top agent again for the most number of repair calls converted into sales. Using the same method my boss taught me, I just got really better at what I did. If you're interested I can also teach you. Just send me a message.
 
 ### Update 2017:
 
-I have left the call center after three years. I was top agent twice and was classified super agent for the day.I now work from home taking care of foreign clients with their business. I used the call center money to buy the computers I need for a home based work setup, I bought the tools to build a beautiful kitchen, I bought a few bikes to take care of my transportation and I enrolled at CrossFit to help manage my depression.
+I have left the call center after three years. I was a top agent twice and was classified super agent for the day.I now work from home taking care of foreign clients with their business. I used the call center money to buy the computers I need for a home-based work setup, I bought the tools to build a beautiful kitchen, I bought a few bikes to take care of my transportation and I enrolled at CrossFit to help manage my depression.
 
 
 [My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
@@ -227,7 +227,7 @@ I'm still working remotely (from anywhere). Some days, I work from home, some da
 
 ### Update 2020:
 
-Last December, we launched a six week English learning program and attracted hundreds of studens. I spend half my day sending lessons, helping my students improve their communication skills and giving career advice.
+Last December, we launched a six week English learning program and attracted hundreds of students. I spend half my day sending lessons, helping my students improve their communication skills and giving career advice.
 
 I have more free time to write. 
 
