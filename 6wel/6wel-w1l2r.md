@@ -10,7 +10,11 @@ Please read this multiple times and go back to your answers and make the needed 
 
 ## Always Take Notes
 
-Make it a practice to write down everything that you learned so it will stay with you.
+Make it a practice to write down everything that you learned so the lessons will stay with you.
+
+Memory is undependable unless you're dealing with traumatic experiences.
+
+For everything else, you need to write it down.
 
 ## Focus on Solutions
 
@@ -22,17 +26,21 @@ Avoid saying that you are not good in English.
 
 You are learning to improve your English by practicing everyday. 
 
-You are writing regularly and looking for opportunities to speak with an English speaker.
+You are writing regularly and looking for opportunities to practice with an English speaker.
+
+You no longer have the right to say that you are not good in English.
 
 ## Your Answers Can Evolve
 
-Don't just read once and answer once.
+Don't just read something once and answer a question once.
 
 Read your answer again.
 
-How does it sound?
+How does the answer sound?
 
-Are you happy?
+Are you happy with your answer?
+
+Important questions need to be revisited because our answers changes as our situation and values change.
 
 ### Ask yourself the following questions
 
@@ -62,53 +70,81 @@ During your interview, you want to select your best answers for the interviewer.
 
 When your interviewer hears something interesting, they will ask you to elaborate and explain your answer.
 
+Different interviewers will also find different areas of your story more interesting.
+
 If you don't have the full English version of your story or instruction, you are not going to deliver your answer well.
 
 Translating your answers from Filipino to English during the interview doesn't result in clear or confident communication.
 
 Then you'll fail the interview.
 
-The interviewer will use "poor communication skills" as the reason they rejected you.
+The interviewer will write the words "poor communication skills" on your resume and use that as the reason why they rejected you.
 
 ### Avoid Opening with Positive Traits
 
 It is extremely tempting to answer many interview questions with your positive traits, but we discovered that stories are the best answers to these questions. 
 
 Back when I was interviewing for our company, whenever an applicant answers with a positive trait, we are instructed to ask follow up questions to make sure that the applicant is telling the truth about their positive trait.
-	
-For Example:
+
+Whenever we hear these words, we had prepared follow up questions to check if the applicant is telling the truth.
+
+Often, when we begin asking follow up questions, the applicant received six additional follow up questions.
+
+Your answers need to be consistent and connected.
+
+If you're copying someone else's answer, their values and experience might not match yours so copying their answer may sound inconsistent to a trained hiring professional.
+
+Your copied answers may sound better than your real answer but may destroy your opportunity because it's not real.
+
+#### I want to work in a call center because of the high salary!
+
+- Why do you want to work in a call center?
+- What is your expected salary?
+- How much were you earning and how much more - do you need?
+- What would you need the additional income for?
+- Why is that important to you?
+
+#### I want to work in a call center because I have the skills!
+
+- What do you know about call center work?
+- What skills do you already have and what skills are missing? If you say poor communication skills in English here, the interview is over.
+- Discuss with me the skills and attitude you learned in your past job, that helps you become good at call center work.
+- What positive traits does your boss say about you?
+- Were you always (POSITIVE TRAIT) what's the story of how you became (POSITIVE TRAIT).
+- Tell me a story about your accomplishments related to (POSITIVE TRAIT or SKILL).
+- How do you handle failure?
 
 #### Dedicated
 
-We ask them to share a story about a time you had to choose work over personal commitments.
+We ask applicant to share a story about a time you had to choose work over personal commitments.
 
 #### Hard working
 
-We ask them to share a story about your longest overtime.
+We ask the applicant to share a story about your longest overtime.
 
 #### Reliable
 
-We ask them to share a story about what you do to avoid work related mistakes.
+We ask the applicant to share a story about what you do to avoid work related mistakes.
 
 #### Flexible
 
-We ask them to share a story about a time that you had to do work that is not related to your job description.
+We ask the applicant to share a story about a time that you had to do work that is not related to your job description.
 
 #### Strong work ethic
 
-We ask them to a tell a story about a time where you were supposed to do a task that you personally don't feel like doing.
+We ask the applicant to a tell a story about a time where you were supposed to do a task that you personally don't feel like doing.
 
 #### Ambitious
 
-We ask them to share what your personal and professional goals are and what is the story behind your goals?
+We ask the applicant to share what your personal and professional goals are and what is the story behind your goals?
 
 #### Loyal
 
-We ask them to share a story about how you quit your last three jobs.
+We ask the applicant to share a story about how you quit your last three jobs.
 
 #### Disciplined
 
-We ask them to share and describe your day to day routine and how you manage your time and tasks.
+We ask the applicant to share and describe your day to day routine and how you manage your time and tasks.
 
 There are more.
 
@@ -124,6 +160,10 @@ After writing dozens of stories to prepare or my job application, I discovered t
 
 Every skill that I'm good at, is often connected to a past weakness.
 
+Every success is connected to a past failure.
+
+In the moment, these connections are invisible but if you look at your past carefully, you'll find the connection.
+
 #### I'm the hero of my story
 
 The story is simply the journey from the time I discovered my weakness to the time that I developed my strength.
@@ -136,7 +176,7 @@ Bruce Wayne lost his parents when he was a kid, he studied to become the world's
 
 Bruce Banner almost died in a science experiment and he got exposed to radiation, this transformed him into the incredible Hulk.
 
-Matt Murdock lost his sight in a freak accident. His other senses got sharper and he was later trained by a blind master martial artist. He fights criminals as Daredevil.
+Matt Murdock was bullied and lost his sight in a freak accident. His other senses got sharper and he was later trained by a blind ninja master. He fights crime as Daredevil.
 
 The events that gives us scars also gives us superpowers.
 
@@ -168,7 +208,7 @@ In time, I master the skill.
 
 Eventually, I achieve my goal.
 
-#### We all relate to the same story
+#### We all relate to the same stories
 
 When I read the story aloud to myself, I discover my positive traits and I write those details down in my notebook.
 
@@ -283,6 +323,13 @@ Avoid giving the following answers:
 	- Reflecting the question back to the interviewer. You decide for me.
 	- Vague answers.
 
+The best person to trust with an opportunity is someone who knows what they want, communicates honestly and knows how to connect his personal goals to the employers personal goals so they win together.
+
+If your goal is to only make your life better without helping the company, you are considered as a parasite.
+
+If your goal is to help the company without helping yourself, you are considered undependable.
+
+
 ### Give Great Instructions
 
 Complete all step by step instructions with as many details that you can include. 
@@ -292,6 +339,28 @@ Read your answer aloud.
 Imagine someone else will reading the instructions you have written.
 
 Imagine using the instructions you have written to teach someone over the phone. 
+
+Watch cooking shows and pay attention to how they teach the recipe.
+
+Watch DIY, construction and repair guides and pay attention to how they are able to guide you into completing a complicated task using only words.
+
+Watch drawing tutorials and pay attention to how they give step by step instructions.
+
+Watch programming videos.
+
+Watch Martial Arts videos.
+
+All these different forms of instructions have something useful to teach you.
+
+Learn a new skill and get used to teaching what you know.
+
+Customer service representatives teach customers how to get requests approved.
+
+Technical support representatives teach customers how to fix their product or service.
+
+Sales representatives teach customers how to solve their problem using the product they are selling and the best way to buy.
+
+When you get older, your life will be easy or difficult depending on how well you developed your teaching skills.
 
 #### Ask yourself
 
