@@ -67,7 +67,7 @@ Some can, but not everyone.
 
 ### Time Is Money.. That's True
 
-When I reached the point that I earned dollars per hour, I began to realize that time had my time had value.
+When I reached the point that I earned dollars per hour, I began to realize that my time had value.
 
 The estimated time I spent watching Game of Thrones is 63 hours.
 
@@ -155,7 +155,7 @@ Not good at writing letters? Get someone to teach you.
 
 Not good in sales? Get someone to teach you.
 
-Not good at managing your time? Get someone
+Not good at managing your time? Get someone to teach you.
 
 Anything that you need to know can be learned.
 
