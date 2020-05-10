@@ -2,7 +2,7 @@
 layout: page
 title: Entertainment is the Enemy
 date: 2020-05-09 20:50
-permalink: /ee/ 
+permalink: /ee 
 author: Kevin Olega 
 --- 
 I also fall victim to procrastination.
