@@ -53,7 +53,7 @@ He talks about business, marketing, building relationships, professionalism, bal
 
 There are literally thousands of lessons posted at Seth's Blog.
 
-[Link to Seth's Blog](https://zenhabits.net).
+[Link to Seth's Blog](https://seths.blog).
 
 ### Sivers.org
 
