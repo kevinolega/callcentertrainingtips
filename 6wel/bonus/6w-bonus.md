@@ -20,3 +20,7 @@ IN PROGRESS
 ### Websites That Will Improve Your Life
 
 [Here's a list of websites that you should visit](https://callcentertrainingtips.com/broll/).
+
+### Write Down 100 Blessings
+
+[Click here to start activity](https://callcentertrainingtips.com/hundred).
