@@ -50,7 +50,7 @@ Whatever game you decide to play, you will experience suffering.
 
 That's the bad news.
 
-The good news is, if you keep going, you'll slowly climb the different levels.
+The good news is, if you keep going, you'll slowly climb to the different levels.
 
 In a lot of skills, there are many levels.
 
@@ -104,11 +104,15 @@ Most top level players have reached this point. The only difference between the 
 
 ### Does it until never gets it wrong (97-99%)
 
-It takes a lot of time and practice but this is what happens late in learning a skill. You can do it right 
+It takes a lot of time and practice but this is what happens late in learning a skill. You can get to this point after spending a lot of time,  making a lot of mistakes and eventually matering this skill. 
 
 ### Does it perfectly (100%)
 
-If you start early, follow good instructions, spend time and effort, you'll reach this point. For most of us, we never reach this point.
+If you start early, follow good instructions, spend time and effort, you'll reach this point. For most of us, we never reach this point. 
+
+And that's okay.
+
+We only need to win a few times to achieve our primary goals and succeed.
 
 ## Activity:
 
@@ -118,9 +122,26 @@ How many failures do you need to face in order to become really good?
 
 What is your current skill level?
 
-Knowing the number of jumps you need to make, will failing a few dozen times still bother you?
+Knowing the number of jumps you need to reach, will failing a few dozen times still bother you?
 
 ---
+
+## Recap
+
+There are different stages to learning a skill.
+
+It's not limited to a yes or no answer.
+
+You have to slowly climb your way up so you can learn, get better and eventually, you can use that skill to achieve your goals.
+
+In a lot of cases, all you need is patience.
+
+Just keep going, keep trying.
+
+I've done this for a lot of skills and I know this works. 
+
+If you do become more patient with yourself, and give yourself more chances, you're going to do it too.
+
 
 ### Easter Eggs
 
@@ -139,3 +160,6 @@ If you've ever played the first DoTA games, you'll recognize these items and the
 
 - 70% chance to pierce through evasion and deal 100 bonus magic damage.
 
+I used to complain that the basher only had 25% chance to take effect but my friend told me to keep attacking and after 3-4 times, the basher will stun the target. All I had to do was keep attacking.
+
+Thank you Karlo.
