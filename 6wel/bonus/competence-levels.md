@@ -7,7 +7,7 @@ author: Kevin Olega
 --- 
 Illustration of competence levels.
 
-Most people only have a binary judgement of a person's skill level.
+Most people only have a binary judgment of a person's skill level.
 
 You are either good or you're not.
 
@@ -24,7 +24,7 @@ You can practice something once, fail and say you have zero skill.
 
 You also know that you try enough times, you know that you can learn.
 
-If you've ever watched anime, played videogames, played a sport, learned how to cook, ride a bike, draw, sing, playing the guitar, gotten a girlfriend or applied yourself to learning any skill, you know what I'm talking about.
+If you've ever watched anime, played video games, played a sport, learned how to cook, ride a bike, draw, sing, playing the guitar, gotten a girlfriend or applied yourself to learning any skill, you know what I'm talking about.
 
 People get better as they try to learn a skill.
 
@@ -78,7 +78,7 @@ You tried more times and you've done it right more than once. You're just not to
 
 Because of necessity, you've tried some more and you were able to do it right once in a while. The failure rate is pretty high so you avoid putting yourself on the spot.
 
-Do it right if you try but not all the time. (20%)
+### Do it right if you try but not all the time. (20%)
 
 Since you learned how to do this skill, you've been put on the spot more times than you wanted to be. The failure rate is pretty high but after a few attempts, you can do it right.
 
@@ -96,7 +96,7 @@ You have more wins than losses. You may now consider yourself to be moderately g
 
 ### Do it right almost all the time. (85-95%)
 
-You are about as good as the high level payers. You have high success rate and low failure rate. You still fail, but nobody cares because you win more times than you lose.
+You are about as good as the high level players. You have high success rate and low failure rate. You still fail, but nobody cares because you win more times than you lose.
 
 ### Does it all the time (96%)
 
