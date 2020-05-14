@@ -5,7 +5,7 @@ date: 2020-05-09 20:02
 permalink: /broll/ 
 author: Kevin Olega 
 --- 
-These websites inspired me to upgrade my life, do well at work and  become a writer and communicator.
+These websites inspired me to upgrade my life, do well at work and become a better writer and communicator.
 
 I used to go to these websites regularly when I had free time.
 
