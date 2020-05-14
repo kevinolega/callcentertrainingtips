@@ -2,10 +2,10 @@
 layout: page
 title: How Good Are You?
 date: 2020-05-14 14:20
-permalink: /clevel/ 
+permalink: /slevel/ 
 author: Kevin Olega 
 --- 
-Illustration of competence levels.
+Illustration of competence and skill levels.
 
 Most people only have a binary judgment of a person's skill level.
 
