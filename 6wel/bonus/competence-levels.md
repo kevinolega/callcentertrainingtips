@@ -38,7 +38,7 @@ If you want to learn how to play a sport, you'll stumble, get bruised and laughe
 
 If you want to learn how to ride a bike, you'll fall off your bike and get scraped on the road.
 
-If you want to learn how to play the guitar, your fingers are going to hurt.
+If you want to learn how to play the guitar, your fingers are going to hurt and your neighbors are going to complain.
 
 If you want to learn a martial art, you will get punched in the face and kicked in the balls.
 
