@@ -17,6 +17,10 @@ IN PROGRESS
 
 ### Good Habits to Form When You Get Hired
 
+### My Secret to Confidence
+
+[Click here to read lesson](https://callcentertrainingtips.com/confident/).
+
 ### Websites That Will Improve Your Life
 
 [Here's a list of websites that you should visit](https://callcentertrainingtips.com/broll/).
@@ -27,4 +31,4 @@ IN PROGRESS
 
 ### Competence and Skill Levels
 
-[](https://callcentertrainingtips.com/slevel/)
+[Click here to read lesson](https://callcentertrainingtips.com/slevel/).
