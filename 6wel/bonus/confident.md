@@ -143,7 +143,7 @@ Most Navy SEAL missions are short.
 
 A couple of years ago, I listened to a Navy Seal being interviewed.
 
-Being the old fanboy, I sat and listened to the three hour interview.
+Being the old fan boy, I sat and listened to the three hour interview.
 
 I heard the SEAL share that missions account for only 10-20% of their time "on duty." 
 
