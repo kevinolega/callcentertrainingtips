@@ -91,6 +91,10 @@ I make sure that I get enough sleep.
 
 I guard my sleep schedule the same way as I guard my work day.
 
+I bought eye masks, blackout curtains, melatonin and a good fan so I'll be able to sleep well.
+
+I put my phone inside my bag and avoid using my phone two hours before bedtime.
+
 I am at work thirty minutes before the shift.
 
 I always have enough money saved so I can call a taxi or a Grab to the office so I am never late.
@@ -99,9 +103,40 @@ If the jeep is taking too long and I see a cab, I take the cab.
 
 My transportation budget allows me to call a cab to get to work on time.
 
+I've met people who have excuses.
+
+I decided to just do the opposite.
+
+Do a search on things you can do so you have better sleep and attendance.
+
+Look for commute hacks.
+
+Then put together a list of what applies to you so you can have a routine that will allow you to get perfect attendance.
 
 
 ### Conscientious
+
+Dictionary defines Conscientious as a person wishing to do what is right, especially to do one's work or duty well and thoroughly.
+
+Description borrowed from Jordan Peterson's Personality Test:
+
+	Conscientiousness is a measure of obligation, attention to detail, hard work, persistence, cleanliness, efficiency and adherence to rules, standards and processes. Conscientious people implement their plans and establish and maintain order.
+
+	Conscientious people are decisive, neat, organized, future-oriented, and reliable. 
+
+	They will suffer some shame and guilt when unemployed or otherwise unoccupied, particularly when that occurs through no fault of their own. 
+
+	They believe that those who work hard should and usually will be rewarded.
+
+	Women are very slightly more conscientious than men. 
+
+	Conscientiousness has two aspects: industriousness and orderliness.
+
+	Orderly people are more likely to have items such as event calendars, drawer organizers, laundry baskets, irons and ironing boards in their immediate environments.
+
+Share a story about how you maintain your attention to detail, hard work, persistence, cleanliness, efficiency, follow plans and maintain order in your life.
+
+Very few people are high in conscientiousness, people who can share these traits are incredibly valuable assets to the company.
 ### Focused
 
 ### Obedient

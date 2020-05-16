@@ -24,3 +24,7 @@ IN PROGRESS
 ### Write Down 100 Blessings
 
 [Click here to start activity](https://callcentertrainingtips.com/hundred).
+
+### Competence and Skill Levels
+
+[](https://callcentertrainingtips.com/slevel/)
