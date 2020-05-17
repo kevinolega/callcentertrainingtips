@@ -7,6 +7,18 @@ author: Kevin Olega
 --- 
 Here are some bonus lessons that I don't publicly share.
 
+### Call Center Manifesto
+
+This is my favorite activity.
+
+Read this aloud.
+
+This functions as a pronounciation activity.
+
+This also teaches you basic call center mindsets.
+
+[Click here to read the activity](https://callcentertrainingtips.com/manifesto/).
+
 ### How to Write Your Resume
 
 IN PROGRESS
@@ -32,3 +44,9 @@ IN PROGRESS
 ### Competence and Skill Levels
 
 [Click here to read lesson](https://callcentertrainingtips.com/slevel/).
+
+### Call Center Words:
+
+Learn the common terms used in call center.
+
+[Here are call center words that you need to know](https://callcentertrainingtips.com/words/).

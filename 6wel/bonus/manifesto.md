@@ -1,13 +1,12 @@
 --- 
 layout: page 
-title: Read This Activity Out Loud
+title: Call Center Manifesto
 description: This is both an English test, coaching tool and creed.
 date: 2019-08-28 11:07
-Tags: [ activity, blog ]
 permalink: /manifesto/ 
 author: Kevin Olega 
 --- 
-**INSTRUCTIONS:** Read this English test out loud.
+**INSTRUCTIONS:** Read this English test aloud.
 
 Remember to:
 
@@ -21,7 +20,7 @@ This is a good interview practice, English test and call center lesson in one.
 
 Read this out loud twice a day until you get hired in a call center.
 
-## Start here.
+### Start here.
 
 I can speak in English well.
 
@@ -77,9 +76,15 @@ I never give up.
 
 I believe that persistence overcomes resistance.
 
+I will persist until I succeed.
+
 I look at criticism constructively.
 
 Everything wrong with me is an opportunity to work on myself and become a better person.
+
+If something is not working, I will give up on the method but NEVER on the goal.
+
+I will adjust my approach until I discover exactly what works.
 
 I will keep on trying, learning and improving myself, so that my thoughts, feelings, words and actions are aligned to becoming the person that I need to become and qualify for my dream job.
 

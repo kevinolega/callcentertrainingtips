@@ -2,7 +2,6 @@
 layout: page 
 title: Call Center Words
 date: 2019-07-24 12:59
-Tags: [ uncategorized, blog ]
 permalink: /words/ 
 author: Kevin Olega 
 --- 
@@ -400,6 +399,8 @@ One hour.
 
 This is when I take my longer nap.
 
-Motherfucker this is a long list. 
+This is a long list. 
+
+I'll add more as I remember more words.
 
 You need to buy me three steaks for this.
