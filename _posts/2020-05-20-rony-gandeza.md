@@ -4,7 +4,8 @@ layout: post
 title: Attacking Rony Gandeza 
 date: 2020-05-20 04:19
 Tags: [ uncategorized, blog ]
-permalink: /rony-g/ 
+permalink: /rony-g/
+published: false 
 author: Kevin Olega 
 --- 
 Alternate point of view.
