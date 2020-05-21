@@ -51,16 +51,16 @@ I want you to sincerely consider what you are doing and make a genuine effort to
 
 ### Lesson 4 Recommendations
 
-[Link to Lesson 1 Recommendations](https://callcentertrainingtips.com/w01l4r)
+[Link to Lesson 4 Recommendations](https://callcentertrainingtips.com/w01l4r)
 
 ### Lesson 5 Recommendations
 
-[Link to Lesson 1 Recommendations](https://callcentertrainingtips.com/w01l15r)
+[Link to Lesson 5 Recommendations](https://callcentertrainingtips.com/w01l15r)
 
 ### Lesson 6 Recommendations
 
-[Link to Lesson 1 Recommendations](https://callcentertrainingtips.com/w01l6r)
+[Link to Lesson 6 Recommendations](https://callcentertrainingtips.com/w01l6r)
 
 ### Lesson 7 Recommendations
 
-[Link to Lesson 1 Recommendations](https://callcentertrainingtips.com/w01l7r)
+[Link to Lesson 7 Recommendations](https://callcentertrainingtips.com/w01l7r)
