@@ -3,29 +3,45 @@ layout: post
 title: Viral Interview Video Red Flags- Part 2
 date: 2020-05-23 13:34
 Tags: [ uncategorized, blog ]
-permalink: /redflags/ 
+permalink: /viral-redflags/ 
 author: Kevin Olega 
 --- 
 In a previous post, I shared what happened in a viral interview discussion that several people misunderstood.
 
-There were people who strongly opposed Rony's decisions.
+There were people who strongly opposed Rony's decisions to not hire the "good looking senior management job applicant."
 
-Primary arguements are:
+Primary arguments of the well-meaning but mis-informed netizens are:
 
-1. Rony should have introduced himself before talking to the interviewer. Clearly he has a hidden agenda.
+1. Rony should have introduced himself before talking to the interviewer. Clearly he has a hidden agenda because the applicant is good looking.
 2. Rony embarrassed the job applicant as revenge for the applicant treating him like trash in the reception area. This is clearly payback.
 
 If you weren't paying attention, it is easy to feel this way.
 
-Now that the video is viral, it is easy to try and force a conclusion because people have labled the video as homosexual, powertripper or other negative words.
+Now that the video is viral, it is easy to try and force a conclusion because people have labeled the video as homosexual, power tripper or other forms of lazy name-calling.
 
-It only reminds me of this video from a couple of years ago.
+This event only reminds me of this video from a couple of years ago.
 
 Watch this first before you continue reading.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MxxKUikZ7YY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Making the Job Applicant Sing and Dance is Foul - Debunked
+#### Physical Attractiveness is a Factor in the story - Debunked
+
+The format of the post is a video of a person telling a story.
+
+Since we’re not there, it’s Rony’s job to describe the applicant.
+
+The applicant is a good looking well dressed man who obviously studied in a nice school.
+
+The purpose of this description is to help the listener imagine what is going on in the story. 
+
+Talking to the person pre-interview does not mean hidden agenda.
+
+The reason the word “attractive” was used is for story-telling purpose.
+
+There is also no reason for arguing about ego being hurt or insecurity. 
+
+### Making the Job Applicant Sing and Dance is a Foul Move - Debunked
 
 For sales, marketing and management roles, it is common practice to make an applicant sing and/or dance in front of the team.
 
@@ -53,17 +69,19 @@ I did exactly that.
 
 He stopped me after fifteen seconds and was told that I passed that round.
 
+Good job breaking through the limitations of your comfort zone! He told me.
+
 So whenever I'm asked to sing or dance, even if I didn't have the skills or confidence, I just went ahead and did it.
 
 What's interesting is...
 
 You don't have to sing and dance to get the job.
 
-Upon doing further research about this, I learned from several hiring managers that.
+Upon doing further research about this hiring practice, I learned from several hiring managers that.
 
 This simple test is intended to evaluate culture fit, how an approach ridiculous and potentially embarrassing situations.
 
-Applicants with no confidence in their musical ability or breakdancing chops have the option to fall back on their communication skills.
+Applicants with no confidence in their musical ability or break dancing chops have the option to fall back on their communication skills.
 
 The applicant is allowed to opt out or negotiate not proceeding with this specific test.
 
@@ -77,7 +95,7 @@ A manager who has no ability to gracefully say no won't make a good manager.
 
 Rony's wearing jeans and tshirt.
 
-Back when I was applying for differnt jobs, I was advised that everyone I meet on the company premises is potentially a decision maker.
+Back when I was applying for different jobs, I was advised that everyone I meet on the company premises is potentially a decision maker.
 
 I had the opposite experience.
 
@@ -93,33 +111,17 @@ Apparently he was the HR head.
 
 During my time in corporate sales, I almost got fired because while I was in a hurry to a meeting with a big client, I did not wait for a stranger behind me on the elevator.
 
-Aparently he's one of the managers who went to the office on a restday because the company requested that he was present for our meeting.
+Apparently, he's one of the managers who went to the office on a rest day because the company requested that he was present for our meeting.
 
-We didn't get that account and I was almost fired for that error.
+Our company didn't get that account and I was almost fired for my  error in that "elevator incident."
 
-#### Physical Attractiveness is a Factor in the story - Debunked
+## Applicant's Red Flags:
 
-The format of the post is a video of a person telling a story.
-
-Since we’re not there, it’s Rony’s job to describe the applicant.
-
-The applicant is a good looking well dressed man who obviously studied in a nice school.
-
-The purpose of this description is to help the listener imagine what is going on in the story. 
-
-Talking to the person pre-interview does not mean hidden agenda.
-
-The reason the word “attractive” was used is for story-telling purpose.
-
-There is also no reason for arguing about ego being hurt or insecurity. 
-
-### Applicant's Red Flags:
-
-I'm going to discuss the most important part of this post.
+I'm now going to discuss the most important part of this post.
 
 What exactly did the applicant do wrong?
 
-#### Not Looking At The Person Talking To You Has More Negative Points Than You Think
+### Not Looking At The Person Talking To You Has More Negative Points Than You Think
 
 The applicant is applying for a senior management position.
 
@@ -135,7 +137,11 @@ In a lot of situations, senior managers are put in charge of fifty to a hundred 
 
 ### So what’s wrong with not looking?
 
-#### Preparedness:
+As you may already know, getting hired in a job is not limited to passing a test or saying the right things during interview.
+
+How a person behaves will determine who gets the opportunity and who gets rejected.
+
+### Unpreparedness:
 
 For higher tier positions, we are all expected to arrive prepared with all our research and notes before we got to the location.
 
@@ -151,7 +157,7 @@ Being a manager is not a light responsibility.
 
 Unprepared applicants need to be eliminated early.
 
-#### Perception:
+### Inattentiveness:
 
 If you’re a senior manager, you are responsible for everything that happens to the business.
 
@@ -169,7 +175,15 @@ If a problem happens and you didn’t see it, when you become a manager, it is s
 
 The fact that the applicant was unable to detect that Rony is the interviewer means there’s something wrong with the applicant's ability to pay attention.
 
-#### Communication Skills:
+### Broken Communication Skills:
+
+Call center agents in sales, customer service and tech support knows that how you communicate is more important than the words that you use to communicate.
+
+    7% words
+    38% tone of voice 
+    55% body language
+
+We are also taught early that if we want to keep our jobs, we need to master positive phrasing and to listen first and all those practices and social tactics that fall under "soft skills."
 
 In the event that I'm in an interview and I'm worried that I need to prepare, if someone is talking to me, or distracting me, I may politely excuse myself, admit that I'm nervous and go prepare.
 
@@ -181,13 +195,17 @@ Management requires that you communicate well up and down the hierarchy.
 
 The reason why Rony says "the applicant is good" is because he can communicate up.
 
-Unfortunately, the was unable to communicate down the hierarchy.
+Unfortunately, the applicant displayed that he was unable to communicate down the hierarchy.
+
+How the applicant behaved in front of a person in jeans and tshirt is an indicator of the applicant's true character.
+
+Let's all remember that the applicant a senior management applicant and is in the reception area waiting for his name to be called.
 
 That’s the reason why he didn’t get hired. 
 
 If the applicant wanted privacy to prepare for his interview, did he ask politely or did he attempt to end the conversation without communicating his intentions?
 
-I have worked with managers who did not communicate their plan to us because we were just subbordinates.
+I have worked with managers who did not communicate their plan to us because we were just subordinates.
 
 The manager told me that the boss gave her the power to hire and fire and that she will chop our heads first so she could avoid getting her head chopped off, figuratively speaking.
 
@@ -199,7 +217,7 @@ The company that fired me probably lost a several hundred thousand pesos because
 
 Perhaps Rony is trying to avoid a similar experience.
 
-#### Two-Faced Personality:
+### Two-Faced Personality:
 
 When the applicant discovered that Rony was the interviewer, his personality transformed.
 
@@ -211,7 +229,7 @@ Once you enter company premises and you're about to have your final interview, y
 
 You probably already heard the cliche that character is seen with what you do when nobody is looking.
 
-#### Team and Culture Fit
+#### Poor Team and Culture Fit
 
 In management, we get assigned people that we like and we don't like and we are required to achieve our targets and make the relationship work.
 
@@ -223,15 +241,17 @@ When I worked for West Contact Services, most team leaders helped me when I was 
 
 I don't remember which call center I learned this lesson from but when I'm at work I shouldn't put myself in a position that I'm talking up or down to another person.
 
-I onced asked our OM if she had a spare plastic fork inside her desk.
+I once asked our OM if she had a spare plastic fork inside her desk.
 
-In a Facebook group that I belonged to, there's a running joke about how some team leaders and supervisors who look like janitors.
+In a Facebook group that I belonged to, there's a running joke about how some team leaders and supervisors who look like janitors or maintenance staff.
 
-There are top agents and performers who don't look like top agents and I'm always surprised by how they look.
+There are top agents and performers who also don't look like top agents and I'm always surprised by how they look.
 
 Call center work is more of a merit system.
 
-#### Mindfulness
+We are all taught to treat each others as equal and have developed the practice of leveling with people.
+
+#### Lack of Mindfulness and Self Awareness
 
 If you go to a company, everyone you meet inside the building is potentially someone who has a say if you get hired or get rejected.
 
@@ -239,7 +259,7 @@ How you talk to a security guard or receptionist may be a good reason to reject 
 
 Hiring managers have the authority to make decisions.
 
-People with the ability to make hiring decisions are often given explicit intstuctions to "trust their gut"
+People with the ability to make hiring decisions are often given explicit instructions to "trust their gut"
 
 #### Avoiding High Risk Liabilities
  
@@ -254,4 +274,3 @@ There is no separation between personal and business hours.
 This is a senior management applicant on a final interview.
 
 This is not a newbie job applicant that got bullied.
-
