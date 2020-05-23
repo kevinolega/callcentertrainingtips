@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Red Flags in the Viral Interview Video - Part 2
+title: Viral Interview Video Red Flags- Part 2
 date: 2020-05-23 13:34
 Tags: [ uncategorized, blog ]
 permalink: /redflags/ 
