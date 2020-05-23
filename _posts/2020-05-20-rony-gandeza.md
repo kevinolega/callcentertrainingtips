@@ -4,7 +4,6 @@ title: Attacking Rony Gandeza - Part 1
 date: 2020-05-20 04:19
 Tags: [ uncategorized, blog ]
 permalink: /rony-g/
-published: false 
 author: Kevin Olega 
 --- 
 Alternate point of view.
