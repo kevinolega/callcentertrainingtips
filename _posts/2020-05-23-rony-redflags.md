@@ -25,7 +25,7 @@ Watch this first before you continue reading.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MxxKUikZ7YY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Physical Attractiveness is a Factor in the story - Debunked
+## Physical Attractiveness is a Factor in the story - Debunked
 
 The format of the post is a video of a person telling a story.
 
@@ -41,7 +41,7 @@ The reason the word “attractive” was used is for story-telling purpose.
 
 There is also no reason for arguing about ego being hurt or insecurity. 
 
-### Making the Job Applicant Sing and Dance is a Foul Move - Debunked
+## Making the Job Applicant Sing and Dance is a Foul Move - Debunked
 
 For sales, marketing and management roles, it is common practice to make an applicant sing and/or dance in front of the team.
 
@@ -91,7 +91,7 @@ This helps the recruiters filter out the "yes men" candidates.
 
 A manager who has no ability to gracefully say no won't make a good manager.
 
-#### The Guy Was Wearing a Coat and Tie
+## The Guy Was Wearing a Coat and Tie
 
 Rony's wearing jeans and tshirt.
 
@@ -121,7 +121,7 @@ I'm now going to discuss the most important part of this post.
 
 What exactly did the applicant do wrong?
 
-### Not Looking At The Person Talking To You Has More Negative Points Than You Think
+## Not Looking At The Person Talking To You Has More Negative Points Than You Think
 
 The applicant is applying for a senior management position.
 
@@ -135,13 +135,13 @@ A senior manager has higher responsibilities.
 
 In a lot of situations, senior managers are put in charge of fifty to a hundred employees.
 
-### So what’s wrong with not looking?
+## So what’s wrong with not looking?
 
 As you may already know, getting hired in a job is not limited to passing a test or saying the right things during interview.
 
 How a person behaves will determine who gets the opportunity and who gets rejected.
 
-### Unpreparedness:
+## Unpreparedness:
 
 For higher tier positions, we are all expected to arrive prepared with all our research and notes before we got to the location.
 
@@ -157,7 +157,7 @@ Being a manager is not a light responsibility.
 
 Unprepared applicants need to be eliminated early.
 
-### Inattentiveness:
+## Inattentiveness:
 
 If you’re a senior manager, you are responsible for everything that happens to the business.
 
@@ -175,7 +175,7 @@ If a problem happens and you didn’t see it, when you become a manager, it is s
 
 The fact that the applicant was unable to detect that Rony is the interviewer means there’s something wrong with the applicant's ability to pay attention.
 
-### Broken Communication Skills:
+## Broken Communication Skills:
 
 Call center agents in sales, customer service and tech support knows that how you communicate is more important than the words that you use to communicate.
 
@@ -217,7 +217,7 @@ The company that fired me probably lost a several hundred thousand pesos because
 
 Perhaps Rony is trying to avoid a similar experience.
 
-### Two-Faced Personality:
+## Two-Faced Personality:
 
 When the applicant discovered that Rony was the interviewer, his personality transformed.
 
@@ -229,7 +229,7 @@ Once you enter company premises and you're about to have your final interview, y
 
 You probably already heard the cliche that character is seen with what you do when nobody is looking.
 
-#### Poor Team and Culture Fit
+## Poor Team and Culture Fit
 
 In management, we get assigned people that we like and we don't like and we are required to achieve our targets and make the relationship work.
 
@@ -251,7 +251,7 @@ Call center work is more of a merit system.
 
 We are all taught to treat each others as equal and have developed the practice of leveling with people.
 
-#### Lack of Mindfulness and Self Awareness
+## Lack of Mindfulness and Self Awareness
 
 If you go to a company, everyone you meet inside the building is potentially someone who has a say if you get hired or get rejected.
 
@@ -261,7 +261,7 @@ Hiring managers have the authority to make decisions.
 
 People with the ability to make hiring decisions are often given explicit instructions to "trust their gut"
 
-#### Avoiding High Risk Liabilities
+## Avoiding High Risk Liabilities
  
 The main reason why HR and management many forms of psychological questions and tests is to discover potential deal breakers as early as possible.
 
