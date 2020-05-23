@@ -31,7 +31,7 @@ The format of the post is a video of a person telling a story.
 
 Since we’re not there, it’s Rony’s job to describe the applicant.
 
-The applicant is a good looking well dressed man who obviously studied in a nice school.
+The applicant is a good looking well dressed man who studied in a nice school.
 
 The purpose of this description is to help the listener imagine what is going on in the story. 
 
@@ -79,7 +79,7 @@ You don't have to sing and dance to get the job.
 
 Upon doing further research about this hiring practice, I learned from several hiring managers that.
 
-This simple test is intended to evaluate culture fit, how an approach ridiculous and potentially embarrassing situations.
+This simple test is intended to evaluate the applicant's culture fit and how the applicant approaches ridiculous and potentially embarrassing situations.
 
 Applicants with no confidence in their musical ability or break dancing chops have the option to fall back on their communication skills.
 
@@ -175,6 +175,40 @@ If a problem happens and you didn’t see it, when you become a manager, it is s
 
 The fact that the applicant was unable to detect that Rony is the interviewer means there’s something wrong with the applicant's ability to pay attention.
 
+Whenever I go to interviews and meetings, I avoid listening to music and audio books because I want to pay attention to what's happening.
+
+I am listening to the conversations around me.
+
+I am listening to what is happening inside the office.
+
+I am observing what is happening and taking important notes that I can use for later.
+
+Remember that one important trait of senior management is that they should be goal oriented.
+
+The applicant's goal is to get a job.
+
+The applicant already passed the different stages and has likely been to the site several times.
+
+The applicant should be aware of his surroundings and who the people are.
+
+It's casual Friday. 
+
+He should have noticed that more people are in less formal attire.
+
+The applicant should have opened the conversation with:
+
+It seems to be casual Friday today.
+
+I like how the management in this company are aiming for a more work life balance.
+
+Not looking at the person talking to you, stepping away amd getting a magazine is the universal non-verbal way to communicate "don't talk to me" isn't.
+
+Alternatively, the applicant could have easily deflected the questions properly.
+
+Yes. I'm an applicant. What about you?
+
+If the applicant used the opporunity to gather information about what's happening on the ground, he may have performed better during his interview.
+
 ## Broken Communication Skills:
 
 Call center agents in sales, customer service and tech support knows that how you communicate is more important than the words that you use to communicate.
@@ -265,9 +299,9 @@ People with the ability to make hiring decisions are often given explicit instru
 
 ## Avoiding High Risk Liabilities
  
-The main reason why HR and management many forms of psychological questions and tests is to discover potential deal breakers as early as possible.
+The main reason why HR and management employ many forms of psychological questions and tests is to discover potential deal breakers as early as possible.
 
-Once a person gets hire for a job, the company is liable to paying them.
+Once a person gets hired for a job, the company is liable to paying them.
 
 When a person becomes a manager they no longer have official on and off time. 
 
