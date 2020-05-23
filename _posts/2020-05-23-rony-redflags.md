@@ -259,7 +259,9 @@ How you talk to a security guard or receptionist may be a good reason to reject 
 
 Hiring managers have the authority to make decisions.
 
-People with the ability to make hiring decisions are often given explicit instructions to "trust their gut"
+People with the ability to make hiring decisions are often given explicit instructions to "trust their gut."
+
+
 
 ## Avoiding High Risk Liabilities
  
@@ -274,3 +276,5 @@ There is no separation between personal and business hours.
 This is a senior management applicant on a final interview.
 
 This is not a newbie job applicant that got bullied.
+
+This is a senior management applicant who behaved poorly at the start of the interview, was given the chance to undergo the FULL SCREENING PROCESS for that day, and was rejected because he did not meet the business needs.
