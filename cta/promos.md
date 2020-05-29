@@ -15,8 +15,9 @@ We offer six weeks of English lessons to help support job applicants and profess
 We help our students prepare for interviews and call center work.
 
 We will be correcting your mistakes and I'll guide you until you get hired. 
-<a href="https://callcentertrainingtips.com/6WEL250/">
-<div class="button focus">CLICK HERE TO RECEIVE TRAINING</div></a>
+
+<div class="button focus"><a href="https://callcentertrainingtips.com/6WEL250/">CLICK HERE TO RECEIVE TRAINING</a></div>
+
 ## English Tutorial Service
 
 [CLICK HERE TO VISIT OUR AFFILIATE TUTORIAL WEBSITE](https://philippinesprivateenglishtutors.com/)
