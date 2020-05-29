@@ -16,7 +16,7 @@ We help our students prepare for interviews and call center work.
 
 We will be correcting your mistakes and I'll guide you until you get hired. 
 
-<div class="button focus"><a href="https://callcentertrainingtips.com/6WEL250/">CLICK HERE TO RECEIVE TRAINING</a></div>
+<a href="https://callcentertrainingtips.com/6WEL250/" class="button focus">CLICK HERE TO RECEIVE TRAINING</a>
 
 ## English Tutorial Service
 
