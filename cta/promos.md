@@ -24,7 +24,7 @@ We will be correcting your mistakes and I'll guide you until you get hired.
 
 [Please send an email](mailto:callcentertrainingtips@gmail.com) or a [Facebook message](https://www.facebook.com/callcentertrainingtips/) to inquire.
 
-### Free Lessons
+### Free Email Lessons
 
 This page is part of my community service.
 
@@ -38,4 +38,4 @@ Please be patient and polite as I get hundreds of messages a week from other peo
 
 Training materials and lessons are available for free on the website.
 
-[SIGN UP HERE FREE EMAIL TRAINING](https://eepurl.com/riFT1)
+<a href="https://eepurl.com/riFT1" class="button focus">Get Free Email Lessons</a>
