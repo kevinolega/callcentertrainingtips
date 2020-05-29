@@ -88,6 +88,8 @@ If you need more time, we will give you more time.
 
 That being said, if you have an emergency, a conflict with your schedule or any other commitment that will prevent you from continuing the lessons, please inform us so we can freeze your account.
 
+## Continue After Long Breaks
+
 To continue the lessons, you only need to send us a message and we will continue where you left off.
 
 We keep a record of your info so you never have to worry that we'll forget about you.
@@ -248,6 +250,8 @@ Big blocks of compressed text is also incredibly difficult to correct.
 
 Please add a space above and below each line to make it easier to add corrections and feedback.
 
+## Using Your Phone to Scan and Send Your Answers
+
 Please remember to include page titles and page numbers as well as part numbers (if needed) to the page before a scan to make it easier to review.
 
 Please use a scanner app from Google Drive or Google Keep for Android phones.
@@ -270,9 +274,11 @@ We are committed to helping our students have a smooth experience with upgrading
 
 We have found it beneficial to avoid giving the student information overload or overwhelming the student with many activities.
 
-We will be sending lessons 1-7 first.
+We will be sending lessons 1 to 7 first.
 
 After we received all seven activities, we will check and ask the student to answer any incomplete activities before sending the next set of lessons.
+
+We will ONLY send you the next batch of activities after we have confirmed that you have completed the current week of activities.
 
 ## Phone Coaching Rules
 
@@ -304,4 +310,4 @@ Please be sure to not take any of the activities too seriously and have fun.
 
 If you would like to do some additional activities and find out more about us, please visit our website:
 
-https://callcentertrainingtips.com
+[https://callcentertrainingtips.com](https://callcentertrainingtips.com)
