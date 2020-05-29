@@ -311,3 +311,5 @@ Please be sure to not take any of the activities too seriously and have fun.
 If you would like to do some additional activities and find out more about us, please visit our website:
 
 [https://callcentertrainingtips.com](https://callcentertrainingtips.com)
+
+**Last update: Friday, May 29, 2020**
