@@ -38,6 +38,10 @@ Read "[Write everyday](https://callcentertrainingtips.com/interview-notes/)".
 
 Read "[Talk to someone who speaks English well](https://callcentertrainingtips.com/speak-english/)".
 
+### How do I Pass Call Center Training
+
+[Read "How to Pass Call Center Training"](https://callcentertrainingtips.com/pass-training/).
+
 ### How do I become a top agent?
 
 Read "[Keep a work journal and write everyday](https://callcentertrainingtips.com/notebook/)".
@@ -52,8 +56,7 @@ Buy a good computer.
 
 Save one year worth of your expenses.
 
-Get fast internet connected at your home
-.
+Get fast internet connected at your home.
 
 Make a list of your skills.
 
@@ -121,7 +124,6 @@ I take a nap if I need a reset.
 
 I also put my phone inside my backpack if I'm doing something I sincerely need to finish so it sometimes takes me a long time to reply to messages.
 
-
 Yes it’s hard. Websites, games, apps, and media in general are designed to be as addictive as possible.
 
 ### I have a boring well-paying job. Should I quit my job to pursue my art full-time?
@@ -188,4 +190,3 @@ Then share your writing with friends and mentors.
 Keep making improvements.
 
 Keep trying to find what's wrong and make corrections.
-
