@@ -39,6 +39,6 @@ It only costs Php 250.
 
 [CLICK HERE TO DISCOVER AND FIX YOUR JOB APPLICATION ERRORS](https://callcentertrainingtips.com/fix)
 
-[CLICK HERE TO GET COACHING](https://callcentertrainingtips.com/6WEL250/)
+<a href="https://callcentertrainingtips.com/6WEL250/" class="button focus">CLICK HERE TO GET COACHING</a>
 
 ![IMAGE TEXT]({{ site.url }}/images/cctt.jpeg).
