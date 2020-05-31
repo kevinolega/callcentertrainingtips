@@ -9,6 +9,14 @@ author: Kevin Olega
 We recently discovered that 
 Joni Nillar, a recruiter from Sutherland Global Services Philippines, has been lifting articles from our website, [Call Center Training Tips](https://callcentertrainingtips.com).
 
+## Jann Paul Montecillo is also Joni Nillar:
+
+Update: 2020-05-31 We looked into the status of our complaint and could no longer find Joni Nillar's profile but after another minute of searching, we found a Jann Paul Montecillo.
+
+When we decided to message him, it turns out that it's the exact same profile.
+
+Jann Paul Montecillo is now recruiting for Sutherland Palayan.
+
 ## Joni Nillar was reported by our reader posting our lessons without any mention of who wrote the lessons.
 
 According to a report from one of our readers, [Joni Nillar](https://www.facebook.com/jnillar) has been posting our articles and lessons on his personal Facebook page and possibly other Facebook Call Center Groups that he has copy pasted from our page.
