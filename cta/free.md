@@ -23,10 +23,6 @@ This website has over 400 free lessons.
 
 Feel free to explore.
 
-When you get the chance, please enroll in our coaching to learn new skills and support our website.
-
-It only costs Php 250.
-
 [CLICK HERE TO BEGIN READING LESSONS](https://callcentertrainingtips.com)
 
 [CLICK HERE TO READ INTERVIEW TIPS](https://callcentertrainingtips.com/interview)
@@ -38,6 +34,10 @@ It only costs Php 250.
 [CLICK HERE IF YOU WANT ADVICE ON HOW TO GET HIRED IN A CALL CENTER](https://callcentertrainingtips.com/4hired)
 
 [CLICK HERE TO DISCOVER AND FIX YOUR JOB APPLICATION ERRORS](https://callcentertrainingtips.com/fix)
+
+When you get the chance, please enroll in our coaching to learn new skills and support our website.
+
+It only costs Php 250.
 
 <a href="https://callcentertrainingtips.com/6WEL250/" class="button focus">CLICK HERE TO GET COACHING</a>
 
