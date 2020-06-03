@@ -94,6 +94,20 @@ To continue the lessons, you only need to send us a message and we will continue
 
 We keep a record of your info so you never have to worry that we'll forget about you.
 
+## Testimonials
+
+You may have noticed that our price is crazy cheap.
+
+We are in the process of building a bigger reputation.
+
+One reason why we offered the lessons at a really affordable price is we are collecting testimonials.
+
+When you get hired please let us know.
+
+We enjoy reading these stories.
+
+We also share testimonials to encourage our other students.
+
 ## Daily Email Lessons and Activities
 
 Building English skills, like any skill, requires daily practice and study.
