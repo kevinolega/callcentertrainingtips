@@ -114,6 +114,44 @@ Building English skills, like any skill, requires daily practice and study.
 
 To improve the quality of the words that you use, we are doing writing activities to evaluate your existing vocabulary and grammar as well as your comprehension.
 
+## Write Daily
+
+We send out the lessons and writing activities at 9am every day.
+
+Please answer all the questions to the best of your ability.
+
+For words and phrases that you need help with, a quick search on Google is incredibly useful.
+
+Research is a small but incredibly useful call center skill.
+
+As for the deadline, we'll give you all the time that you need.
+
+But please don't take too long.
+
+From personal experience, we discovered that people who skip writing for three days or longer end up not completing the lessons at all.
+
+We will still wait for you.
+
+If you paid for the lessons, we'll always give you the chance to continue the lessons. 
+
+What you do becomes a habit.
+
+What you DON'T do also becomes a habit.
+
+So please spend time writing every day.
+
+Even if it's just thirty minutes a day.
+
+Even if it's just ten minutes twice a day.
+
+Set a schedule and commit to writing every day.
+
+Turn off your notifications and focus on writing.
+
+You can send in your answers at any time we're waiting for you.
+
+## Our Goal is to Teach You Not Grade You
+
 Instead of grading you as passed or failed, we will give you the opportunity to try again.
 
 We would provide you with feedback on how to answer better and simply ask you to repeat the activity with your new knowledge.
