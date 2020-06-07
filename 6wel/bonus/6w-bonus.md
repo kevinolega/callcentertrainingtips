@@ -7,6 +7,12 @@ author: Kevin Olega
 --- 
 Here are some bonus lessons that I don't publicly share.
 
+### Write Longer Then Shorter
+
+When you start the activities, you want to give longer answers then shorter answers.
+
+[Click here to read the reason](https://callcentertrainingtips.com/longer2shorter).
+
 ### Call Center Manifesto
 
 This is my favorite activity.
