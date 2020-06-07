@@ -36,9 +36,9 @@ Why the hell should I go through all this trouble?
 
 Depending on the situation, you're going to be required to give a longer or shorter answer.
 
-If you tell the interviewer.
+If you tell the interviewer...
 
-My name is Kevin. I live in Parañaque and I work in Makati. Before being a BPO worker, I was working in sales. I also spend my free time writing, baking, going to the gym, going on road trips, and exploring with my bicycle.
+>My name is Kevin. I live in Parañaque and I work in Makati. Before being a BPO worker, I was working in sales. I also spend my free time writing, baking, going to the gym, going on road trips, and exploring with my bicycle.
 
 If your interviewer is interested in your experience baking, you should be able to talk about that in detail.
 
