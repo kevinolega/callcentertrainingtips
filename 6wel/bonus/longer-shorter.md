@@ -53,3 +53,5 @@ Unfortunately, that info is either in Filipino or poorly worded.
 As you may already know, translating from Filipino to English during an interview is incredibly stressful and the output when you translate during a stressful situation is usually not very good.
 
 My solution is to do all that thinking and preparation at home and before your interview so you can minimize loss of opportunities because of simple mistakes that could have been prevented if you only set a schedule to sit down and write long versions of your answers.
+
+Please write the longer version before you attempt to write the shorter version.
