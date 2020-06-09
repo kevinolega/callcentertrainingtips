@@ -126,9 +126,13 @@ We send out the lessons and writing activities at 9am every day.
 
 Please answer all the questions to the best of your ability.
 
+## Learn Basic Research
+
 For words and phrases that you need help with, a quick search on Google is incredibly useful.
 
 Research is a small but incredibly useful call center skill.
+
+## Activity Deadlines
 
 As for the deadline, we'll give you all the time that you need.
 
@@ -139,6 +143,8 @@ From personal experience, we discovered that people who skip writing for three d
 We will still wait for you.
 
 If you paid for the lessons, we'll always give you the chance to continue the lessons. 
+
+## On Forming Habits...
 
 What you do becomes a habit.
 
