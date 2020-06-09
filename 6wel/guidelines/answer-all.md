@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: Answer All Interview Questions
 date: 2020-06-09 14:00
 Tags: [ uncategorized, blog ]
