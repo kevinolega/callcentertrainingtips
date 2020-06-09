@@ -56,7 +56,7 @@ Please read the emails carefully and download the PDF to your phone or computer.
 
 Our goal is to help you develop your ability to express yourself in English comfortably and confidently.
 
-We begin with opening up topics about yourself and slowly transition to more professional and work related conversations.
+We begin with opening up topics about yourself and slowly transition to more professional and work-related conversations.
 
 ## Please do all the writing activities.
 
@@ -68,6 +68,12 @@ Purchase more notebooks as you require.
 
 Done correctly, we expect you to complete anywhere from 200 to 800 pages of writing at the end of the six week period.
 
+## Learn Basic Research
+
+For words and phrases that you need help with, a quick search on Google is incredibly useful.
+
+Research is a small but incredibly useful call center skill.
+
 ## Call For Help
 
 If you have any questions or you’re experiencing any difficulty, please send me a message and we will assist you.
@@ -78,7 +84,7 @@ If a link doesn't work or you can't access a lesson, please let me know so we ca
 
 We can provide a certificate of completion upon completion of all 42 lessons at your request.
 
-We can also provide letters of recommendations and resume building assistance at a minimal cost.
+We can also provide letters of recommendation and resume building assistance at a minimal cost.
 
 ## Non Refundable
 
@@ -92,7 +98,7 @@ We did specify a six week period for the lessons however we would prefer to not 
 
 If you need more time, we will give you more time.
 
-That being said, if you have an emergency, a conflict with your schedule or any other commitment that will prevent you from continuing the lessons, please inform us so we can freeze your account.
+That being said, if you have an emergency, a conflict with your schedule, or any other commitment that will prevent you from continuing the lessons, please inform us so we can freeze your account.
 
 ## Continue After Long Breaks
 
@@ -122,15 +128,9 @@ To improve the quality of the words that you use, we are doing writing activitie
 
 ## Write Daily
 
-We send out the lessons and writing activities at 9am every day.
+We send out the lessons and writing activities at 9 am every day.
 
 Please answer all the questions to the best of your ability.
-
-## Learn Basic Research
-
-For words and phrases that you need help with, a quick search on Google is incredibly useful.
-
-Research is a small but incredibly useful call center skill.
 
 ## Activity Deadlines
 
@@ -172,7 +172,7 @@ Please repeat all the activities that you need to repeat.
 
 ## 42 Lessons and Activities
 
-If you're having a difficult time, [read: How to Complete The Writing Activities](https://callcentertrainingtips.com/42tips)
+If you're having a difficult time, [read: How to Complete The Writing Activities](https://callcentertrainingtips.com/42tips).
 
 ## Answer All Questions
 
@@ -186,27 +186,19 @@ Short Answer: Yes. [READ: Why you should answer all the questions](https://callc
 
 ## Organizing Your Answers:
 
-### Label Your Activities.
+[READ: HOW TO ORGANIZE YOUR ANSWERS](https://callcentertrainingtips.com/organize6w).
 
-Please remember to label your activity in the subject line of your email.
+## I Don't Have Access to A Computer
 
-For example: Activities for Week 05: Lesson 3 and include the title of the lesson.
+Many of our students don't have a laptop or access to a computer.
 
-### File Formats
+After they receive the emails, they answer the questions on their notebook, snap a photo of their answers, and forward the scans back to our email address.
 
-You can send your answers directly from the email, as MS Word, Apple Pages, Google Documents, PDF, RTF and .txt files.
+### Using Your Phone to Scan and Send Your Answers
 
-## Copy The Questions
+Please remember to include page titles and page numbers as well as part numbers (if needed) to the page before a scan to make your answers easier to review.
 
-Please copy the questions when you send in your answers.
-
-## Please keep your paragraph size to one or two sentences.
-
-It is painful to read a big block of text.
-
-Big blocks of compressed text is also incredibly difficult to correct.
-
-Please add a space above and below each line to make it easier to add corrections and feedback.
+[READ: HOW TO SCAN YOUR ANSWERS](https://callcentertrainingtips.com/scan).
 
 ## I Have Access to a Computer
 
@@ -232,35 +224,9 @@ Edit your writing on a computer.
 
 [FULL ANSWER: Read Writing on Paper and Computer](https://callcentertrainingtips.com/both/).
 
-## Submitting Your Scanned Answers
-
-Many of our students don't have a laptop or access to a computer.
-
-After they receive the emails, they answer the questions on their notebook, snap a photo of their answers and forward the scans back to our email address.
-
-**Some reminders:**
-
-## Please write legibly.
-
-Based on personal experience, I found out that increasing the size of my handwriting to two lines or more had helped increase my confidence.
-
-## Please keep your paragraph size to one or two sentences.
-
-It is painful to read a big block of text.
-
-Big blocks of compressed text is also incredibly difficult to correct.
-
-Please add a space above and below each line to make it easier to add corrections and feedback.
-
-## Using Your Phone to Scan and Send Your Answers
-
-Please remember to include page titles and page numbers as well as part numbers (if needed) to the page before a scan to make it easier to review.
-
-[I wrote a short guide on how to scan your answers](https://callcentertrainingtips.com/scan).
-
 ## Modules and Lessons
 
-You need to complete your answers and we need to check your answers before proceeding to the next module.
+You need to complete your answers and we need to check your answers before proceeding to the phone coaching session and the next module.
 
 We are committed to helping our students have a smooth experience with upgrading their English skills.
 
@@ -282,7 +248,7 @@ Whenever a question pops into your head, please write that on your notebook so I
 
 ### Complete Your Written Activities
 
-We need the activities to evaluate your performance and as the main point of reference for the phone coaching.
+We need you to submit all the activities to evaluate your performance and as the main point of reference for phone coaching.
 
 ### Inform Us of Your Availability
 
