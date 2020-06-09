@@ -7,6 +7,10 @@ author: Kevin Olega
 --- 
 Here are the guidelines to follow for the English lessons.
 
+Please read everything.
+
+This will be also part of your final exam.
+
 ## Enrollment
 
 Please send us your payment confirmation with the confirmation number.
@@ -27,6 +31,8 @@ Current open schedule for phone coaching are:
 - Friday (10am-10pm)
 - Saturday (10am-10pm)
 - Sunday (5pm-9pm)
+
+The phone coaching session gets scheduled after you complete lesson 1 to lesson 7 of your current week.
 
 ## Start Date
 
@@ -160,115 +166,29 @@ Please repeat all the activities that you need to repeat.
 
 ## 42 Lessons and Activities
 
-Unless you make your living as a professional writer, we expect everyone to take their time to write complete answers instead of trying to finish the lessons as quickly as possible.
+If you're having a difficult time, [read: How to Complete The Writing Activities](https://callcentertrainingtips.com/42tips)
 
-### Shorten Your Writing Sessions
+## Answer All Questions
 
-If you don't have the time to write, shorten your writing sessions.
+> "I don't want to work in a call center or BPO, should I still answer the call center and BPO related questions?"
 
-If a lesson is challenging or difficult, focus on answering just one question at a time.
+Please remember that the written activities are communications practice, and is not limited to "Getting Hired as a Call Center Agent".
 
-Some questions require a full day to come up with a good answer and that is okay.
+You have to be able to articulate your goals, plans, intentions, preferences, and ideas.
 
-### List Your Ideas
+Short Answer: Yes. [READ: Why you should answer all the questions](https://callcentertrainingtips.com/answerall/).
 
-If you can’t think of an answer, I found it helpful making a list of ten possible answers and combining my ideas to create a good answer.
+## Organizing Your Answers:
 
-### Read Your Answers Aloud
-
-Reading the lessons aloud as well as your answers multiple times is good practice.
-
-### Listen to Yourself
-
-Recording your voice as you read your answers and listening is not required but extremely helpful for independent learners.
-
-### Repeating and Rewriting
-
-It’s always a good idea to rewrite your answer to a question whenever you have a better answer ready.
-
-Repeating and rewriting is a failure's greatest fear.
-
-At the same time, repeating and rewriting is a master's shortcut.
-
-### Sincerely Study and Review
-
-Make it a habit to review a lesson, and review your answers.
-
-There is no reading material that's so good that you only have to read it once and you're done.
-
-Leaders are readers.
-
-Even religious leaders read and study their Bible every day.
-
-Lawyers and doctors review their legal and medical books and case files on a regular basis.
-
-Studying is something you can't escape. 
-
-And the people who believe that they can escape studying usually fall into worse situations.
-
-Avoiding studying is like running away from your teacher's punishment by hiding inside a burning building.
-
-### Don't Quit
-
-To complete this program, you are only required to read the training materials, answer the questions and send in your answers.
-
-We will read your answers, tell you what's wrong, teach you how to fix the problems and discuss during your phone coaching.
-
-That's it.
-
-It's only six weeks.
-
-If you can't finish six weeks of writing, emailing and talking on the phone, what makes you think you can talk to sixty to one hundred Americans a day eight hours a day? 
-
-What makes you think you can succeed learning more difficult and complex tasks like running a business?
-
-### Don't take shortcuts
-
-The shortcut is the long cut.
-
-Don't try to avoid the work.
-
-Don't make yourself a failure simply because you lost to laziness.
-
-Remember this:
-
-If you take shortcuts, you don't deserve success.
-
-To deserve success, you have to reject shortcuts.
-
-## Call Center Interview Questions
-
-We have students who are professionals in the education, IT, medical and business field.
-
-We understand that not everyone who enrolls is not interested in working for a Call Center or BPO and that's perfectly fine.
-
-You still need to answer the interview questions.
-
-Instead of pretending that you want to work in a call center, you can cross out the "call center" from these questions and insert your dream or target job instead.
-
-**For example:**
-
-What are the advantages of working in a call center?
-
-This question then gets changed to:
-
-What are the advantages of working in the IT department?
-
-What are the advantages of owning a business.
-
-Many of the questions apply to interviews in your field as well as work related conversations.
-
-The main goal is to get you comfortable in expressing yourself.
-
-## Submitting Your Answers
-
-If you have access to a computer, you may type in your answers and email it back to us.
-
-You can send your answers directly from the email, as MS Word, Apple Pages, Google Documents, PDF, RTF and .txt files.
+### Label Your Activities.
 
 Please remember to label your activity in the subject line of your email.
 
 For example: Activities for Week 05: Lesson 3 and include the title of the lesson.
+
+### File Formats
+
+You can send your answers directly from the email, as MS Word, Apple Pages, Google Documents, PDF, RTF and .txt files.
 
 ## Copy The Questions
 
@@ -282,9 +202,33 @@ Big blocks of compressed text is also incredibly difficult to correct.
 
 Please add a space above and below each line to make it easier to add corrections and feedback.
 
+## I Have Access to a Computer
+
+If you have access to a computer, you may type in your answers and email it back to us.
+
+Typing speed is also a factor in job applications.
+
+When you type in your answers, you increase your typing speed.
+
+## Should I Write on Paper or Computer?
+
+Short Answer: For best results, do both.
+
+Write on paper when you're outside or don't have access to a computer.
+
+If you experience mental block on the computer, write on paper.
+
+If you experience mental block while writing on paper, write on your computer.
+
+Encode your writing on your computer.
+
+Edit your writing on a computer.
+
+[FULL ANSWER: Read Writing on Paper and Computer](https://callcentertrainingtips.com/both/).
+
 ## Submitting Your Scanned Answers
 
-Most of our students don't have a laptop or access to a computer.
+Many of our students don't have a laptop or access to a computer.
 
 After they receive the emails, they answer the questions on their notebook, snap a photo of their answers and forward the scans back to our email address.
 
@@ -306,17 +250,7 @@ Please add a space above and below each line to make it easier to add correction
 
 Please remember to include page titles and page numbers as well as part numbers (if needed) to the page before a scan to make it easier to review.
 
-Please use a scanner app from Google Drive or Google Keep for Android phones.
-
-If you are using an iPhone, the notes app has a built in scanner feature inside the app.
-
-When doing the scan, please do so in a well lit room and/or in the morning.
-
-Please avoid using pencils, colored pens or shiny ink as it may not be readable during the scan.
-
-Please check for readability or faded scans before sending.
-
-If the photo is more readable than the scan, please send in the photo instead.
+[I wrote a short guide on how to scan your answers](https://callcentertrainingtips.com/scan).
 
 ## Modules and Lessons
 
@@ -333,6 +267,8 @@ After we received all seven activities, we will check and ask the student to ans
 We will ONLY send you the next batch of activities after we have confirmed that you have completed the current week of activities.
 
 ## Phone Coaching Rules
+
+We need you to complete the first seven activities before your first phone coaching session.
 
 ### Save Your Questions
 
@@ -364,4 +300,4 @@ If you would like to do some additional activities and find out more about us, p
 
 [https://callcentertrainingtips.com](https://callcentertrainingtips.com)
 
-**Last update: Friday, May 29, 2020**
+**Last update: Tuesday, June 9, 2020**
