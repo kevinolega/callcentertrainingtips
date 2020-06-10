@@ -9,9 +9,9 @@ author: Kevin Olega
 
 If you don't have a lot of time, use the scanner app on your smartphone.
 
-I have developed the habit of scanning my notes so I always have a copy in case the paper gets lost or ruined.
+I have developed the habit of scanning my notes, so I always have a copy in case the paper gets lost or ruined.
 
-Scanning your writing using a smartphone is a quick way to have a digital backup of your writing.
+Scanning your writing using a smartphone is a quick way to have a digital backup of your notes.
 
 You can encode your most important writing on a computer later.
 
@@ -27,7 +27,7 @@ Avoid using pencils, colored pens, or shiny ink because these are difficult for 
 
 Please always check for readability or faded scans before sending or disposing of your paper scan.
 
-If the photo is more readable than the scan, please send in the photo instead.
+If the photo is more readable than the scan, please send us the picture instead.
 
 
 <a href="https://callcentertrainingtips.com/6wlguide/" class="button focus">RETURN TO GUIDELINES</a>

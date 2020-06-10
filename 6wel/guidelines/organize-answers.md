@@ -7,11 +7,11 @@ author: Kevin Olega
 --- 
 This is a guide on how to organize your answers.
 
-Please remember that developing your ability to organize your thoughts and submit organized answers is also a key factor in the hiring process.
+Please remember that developing your ability to organize your thoughts and submit organized answers is also a critical factor in the hiring process.
 
 People who are organized are given more opportunities than people who are not organized.
 
-Organization is an important skill to develop whenever possible.
+Knowing how to organize is an important skill to develop whenever possible.
 
 This is your opportunity to practice.
 
@@ -39,7 +39,7 @@ Big blocks of compressed text are also incredibly difficult to correct.
 
 Please add space above and below each line to make it easier to add corrections and feedback.
 
-## Please write short simple sentences.
+## Please write short, simple sentences.
 
 Back in school, we were taught to write compound and complex sentences.
 
@@ -53,27 +53,27 @@ For business and day to day communication, simple sentences are BETTER.
 
 GOOD FORMAT:
 
-Have many short sentences. 
+I have many short sentences. 
 
-Have one idea in one sentence.
+I have one idea in one sentence.
 
 BAD FORMAT:
 
-Have many ideas in one sentence.
+I have many ideas in one sentence.
 
 Complex sentences are difficult to understand.
 
-Complex sentences are also difficult to speak.
+Complex sentences are also awkward to speak.
 
 **Some reminders if you're writing by hand:**
 
 ## Please write legibly.
 
-Based on personal experience, I found out that increasing the size of my handwriting to two lines or more had helped increase my confidence.
+Based on personal experience, I found out that increasing the size of my handwriting to two lines or more had helped boost my confidence.
 
 ## Add Spaces
 
-You need to add spaces on your writing so you have a place to put notes and corrections.
+You need to add spaces to your writing, so you have a place to put notes and corrections.
 
 Add a one-inch margin to the left and right of a page.
 
@@ -98,7 +98,7 @@ Examples:
 
 ## Scan Your Pages Properly
 
-If your answers get too difficult to read, we'll ask you to send it again.
+If your answers get too tricky to read, we'll ask you to send it again.
 
 [READ: HOW TO SCAN YOUR PAGES](https://callcentertrainingtips.com/scan)
 

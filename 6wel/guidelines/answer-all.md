@@ -10,21 +10,23 @@ I get this question often.
 
 > "I don't want to work in a call center or BPO, should I still answer the call center and BPO related questions?"
 
-Short Answer: Yes answer ALL the questions.
+Short Answer: Yes, answer ALL the questions.
 
 ## Full Answer:
 
-Please remember that the written activities are communications practice, and is not limited to "Getting Hired as a Call Center Agent".
+Please remember that the written activities are communications practice, and is not limited to "Getting Hired as a Call Center Agent."
 
 You have to be able to articulate your goals, plans, intentions, preferences, and ideas.
 
 The main goal is to get you comfortable in expressing yourself.
 
-If you already love your job and have ZERO plans to leave, then take this opportunity to write down exactly why you enjoy working there or why staying at the job will bring the highest good to you and the people around you.
+If you already love your job and have ZERO plans to leave, then take this opportunity to write down exactly why you enjoy working there.
+
+Write why staying at the job will bring the highest good to you and the people around you.
 
 We have students who are professionals in the education, IT, medical and business field.
 
-We understand that not everyone who enrolls is not interested in working for a Call Center or BPO and that's perfectly fine.
+We understand that not everyone who enrolls is not interested in working for a Call Center or BPO, and that's perfectly fine.
 
 You still need to answer the interview questions.
 
@@ -50,7 +52,11 @@ What is your favorite part about working for HR?
 
 What are the advantages of owning a business?
 
-Many of the questions apply to interviews in your field as well as work-related conversations such as building rapport with your boss and coworkers, during negotiations, promotions.
+Many of the questions apply to interviews in your field.
+
+After you complete the activities, you will be equipped for work-related conversations.
+
+Many of the questions can help you building rapport with your boss and coworkers during negotiations, promotions.
 
 
 <a href="https://callcentertrainingtips.com/6wlguide/" class="button focus">RETURN TO GUIDELINES</a>

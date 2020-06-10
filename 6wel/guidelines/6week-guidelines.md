@@ -9,7 +9,7 @@ Here are the guidelines to follow for the English lessons.
 
 Please read everything.
 
-This will be also part of your final exam.
+This will also be part of your final exam.
 
 ## Enrollment
 
@@ -20,7 +20,7 @@ Please be sure that you submitted the following information.
 - **Complete Name** (for the certificate of completion)
 - **Nickname** (for phone coaching)
 - **Mobile Number** (please let us know what network for easy reference)
-- **Voice App:** Skype, Viber, and What’s App (for students abroad)
+- **Voice App:** Skype, Viber, and What's App (for students abroad)
 - **Preferred day** and time for your phone coaching.
 
 ## Phone Coaching Schedule
@@ -42,7 +42,7 @@ We send out our lessons at 9 am.
 
 If you do not receive an email on the first day, please send us a message so we can check.
 
-In many situations, the email can be found in the SPAM folder so please check there too.
+In many situations, the email can be found in the SPAM folder, so please check there too.
 
 ## Purpose of the Training
 
@@ -60,13 +60,13 @@ We begin with opening up topics about yourself and slowly transition to more pro
 
 ## Please do all the writing activities.
 
-In order to improve your speaking ability, we need to evaluate the quality of the words that you use through the writing activities. 
+To improve your speaking ability, we need to evaluate the quality of the words that you use through the writing activities. 
 
 Please purchase two notebooks because you will be doing a lot of writing.
 
 Purchase more notebooks as you require.
 
-Done correctly, we expect you to complete anywhere from 200 to 800 pages of writing at the end of the six week period.
+Done correctly, we expect you to complete anywhere from 200 to 800 pages of writing at the end of the six weeks.
 
 ## Learn Basic Research
 
@@ -76,7 +76,7 @@ Research is a small but incredibly useful call center skill.
 
 ## Call For Help
 
-If you have any questions or you’re experiencing any difficulty, please send me a message and we will assist you.
+If you have any questions or you're experiencing any difficulty, please send me a message, and we will assist you.
 
 If a link doesn't work or you can't access a lesson, please let me know so we can fix it.
 
@@ -92,29 +92,35 @@ The tuition is non-refundable.
 
 ## Freeze Policy
 
-If for any reason, you need more time to finish the lessons or reschedule your phone coaching for an indefinite period, please let us know.
+If, for any reason, you need more time to finish the lessons or reschedule your phone coaching for an indefinite period, please let us know.
 
-We did specify a six week period for the lessons however we would prefer to not implement a finished or not finished policy.
+We did specify six weeks for the lessons; however, we would prefer to not implement a finished or not finished policy.
 
 If you need more time, we will give you more time.
 
-That being said, if you have an emergency, a conflict with your schedule, or any other commitment that will prevent you from continuing the lessons, please inform us so we can freeze your account.
+If you have:
+
+- an emergency
+- a conflict with your schedule
+- any other commitment that will prevent you from continuing the lessons 
+
+Please inform us, and we can freeze your account.
 
 ## Continue After Long Breaks
 
-To continue the lessons, you only need to send us a message and we will continue where you left off.
+To continue the lessons, you only need to send us a message, and we will resume where you left off.
 
-We keep a record of your info so you never have to worry that we'll forget about you.
+We keep a record of your info, so you never have to worry that we'll forget about you.
 
 ## Testimonials
 
-You may have noticed that our price is crazy cheap.
+You may have noticed that our price is crazy low.
 
-We are in the process of building a bigger reputation.
+We are in the process of building a more significant reputation.
 
 One reason why we offered the lessons at a really affordable price is we are collecting testimonials.
 
-When you get hired please let us know.
+When you get hired, please let us know.
 
 We enjoy reading these stories.
 
@@ -124,11 +130,11 @@ We also share testimonials to encourage our other students.
 
 Building English skills, like any skill, requires daily practice and study.
 
-To improve the quality of the words that you use, we are doing writing activities to evaluate your existing vocabulary and grammar as well as your comprehension.
+To improve the quality of the words that you use, we are doing writing activities to evaluate your existing vocabulary and grammar, as well as your comprehension.
 
 ## Write Daily
 
-We send out the lessons and writing activities at 9 am every day.
+We send out the lessons, and writing activities at 9 am every day.
 
 Please answer all the questions to the best of your ability.
 
@@ -164,11 +170,11 @@ You can send in your answers at any time we're waiting for you.
 
 ## Our Goal is to Teach You Not Grade You
 
-Instead of grading you as passed or failed, we will give you the opportunity to try again.
+Instead of grading you as passed or failed, we will allow you to try again.
 
 We would provide you with feedback on how to answer better and simply ask you to repeat the activity with your new knowledge.
 
-Please repeat all the activities that you need to repeat.
+Please redo all the activities that you need to repeat.
 
 ## 42 Lessons and Activities
 
@@ -226,7 +232,7 @@ Edit your writing on a computer.
 
 ## Modules and Lessons
 
-You need to complete your answers and we need to check your answers before proceeding to the phone coaching session and the next module.
+You need to complete your answers, and we need to check your answers before proceeding to the phone coaching session and the next module.
 
 We are committed to helping our students have a smooth experience with upgrading their English skills.
 
@@ -236,7 +242,7 @@ We will be sending lessons 1 to 7 first.
 
 After we received all seven activities, we will check and ask the student to answer any incomplete activities before sending the next set of lessons.
 
-We will ONLY send you the next batch of activities after we have confirmed that you have completed the current week of activities.
+We will ONLY send you the next batch of lessons after we have confirmed that you have completed the activities for the current week.
 
 ## Phone Coaching Rules
 
@@ -244,7 +250,9 @@ We need you to complete the first seven activities before your first phone coach
 
 ### Save Your Questions
 
-Whenever a question pops into your head, please write that on your notebook so I will be able to discuss that with you during the phone coaching.
+Whenever a question pops into your head, please write that in your notebook.
+
+Let's discuss all your questions during the phone coaching session.
 
 ### Complete Your Written Activities
 
@@ -260,7 +268,9 @@ Please inform us of any reschedule requests.
 
 Please send a text to 09178952637 for Globe or 09190078440 for Smart.
 
-If you miss phone coaching, please send us a message with three options of your next available time and we will check our schedule if we can accommodate you. If we are not available, the session continues on your next schedule.
+If you miss phone coaching, please send us a message with three options of your next available time, and we will check our schedule if we can accommodate you. If we are not available, the session continues on your following schedule.
+
+> "Hi, this is Mitzi Cruz, I'd like to reschedule my phone coaching session. I'm available at 6pm on Friday, Saturday and Monday. Thanks"
 
 ## Have Fun
 

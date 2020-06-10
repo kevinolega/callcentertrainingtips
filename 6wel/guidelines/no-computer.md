@@ -22,11 +22,15 @@ I used the USB to save my files if the computer doesn't have an internet connect
 
 I later discovered that I can save my writing to Dropbox, SimpleNote, Evernote, and Google Drive.
 
-I borrowed computers from my roommates I tell them I just need to encode something for thirty minutes. 
+I borrowed computers from my roommates. 
+
+I tell them I just need to encode something for thirty minutes. 
 
 Some of them give me more time.
 
-Whenever I got the chance, I visited friends and family members and asked for permission to encode something using their computer.
+Whenever I got the chance, I visited friends and family members.
+
+ I asked for permission to encode something using their computer.
 
 If I really didn't have access to a computer, I went to a computer shop and typed away.
 
@@ -42,7 +46,7 @@ I also took a part-time job managing a small gym.
 
 I later got promoted as a project manager.
 
-I feel that all my efforts writing has made a big contribution to my career progress.
+I feel that all my efforts writing has made an enormous contribution to my career progress.
 
 
 <a href="https://callcentertrainingtips.com/6wlguide/" class="button focus">RETURN TO GUIDELINES</a> 
