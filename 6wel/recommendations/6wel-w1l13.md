@@ -22,7 +22,7 @@ If you want to get better at any skill, you need this habit to make the most amo
 
 Write down what you did today.
 
-Write down improvements you've observed.
+Write down the improvements you've observed.
 
 Write down things that didn't work out well.
 
@@ -30,33 +30,41 @@ Write down ideas on how to do better next time.
 
 ### Collect Valuable Questions
 
-Make it a habit to write down and collect your questions on your notebook so we have more things to discuss during the phone coaching.
+Make it a habit to write down and collect your questions in your notebook, so we have more things to discuss during the phone coaching.
 
 ### Revisit Your Questions
 
 Many important questions require that you make an effort to answer multiple times.
 
-The first answer is usually a reflex answer, based on something that you know in the past.
+The first answer is usually a reflex answer based on something that you know in the past.
 
-The second answer is usually combined with new information, so you’re just repeating what you learned.
+The second answer is usually combined with new information, so you're just repeating what you learned.
 
 The third answer is usually something you thought of but may be combined with an untested idea.
 
-The fourth answer is usually something that you’ve given enough thought and the answer is more reliable.
+The fourth answer is usually something that you've given enough thought, and the answer is more reliable.
 
 The fifth answer is a more refined version of the fourth answer.
 
 The sixth answer is usually delivered more confidently because you already tested and carefully thought about your ideas.
 
-You want to give yourself more opportunities to give a good answer.
+You want to give yourself more opportunities to provide an excellent answer.
 
-I am a slow thinker so it takes me a while to put together a good answer.
+I am a slow thinker, so it takes me a while to put together an answer I'm happy to share.
 
 If you're not super intelligent or fast at composing your thoughts, then the strategy of combining and updating your answers help.
 
 ### My Writing Process
 
-Based on experience, I write things down on my notebook, I encode the ideas on my computer, I read everything aloud, I edit and add in additional details based on how my writing sounds.
+I write things down in my notebook.
+
+I encode the ideas on my computer.
+
+I read everything aloud.
+
+I edit.
+
+I insert additional details and remove unnecessary words based on how my writing sounds.
 
 ### Mistakes are Normal
 
@@ -64,23 +72,23 @@ It's okay to make mistakes.
 
 It's not okay to keep repeating the same mistakes. 
 
-During the phone coaching session, please write down your errors on your notebook so you can collect your errors and fix them one by one.
+During the phone coaching session, please write down your errors in your notebook so you can collect your mistakes and fix them one by one.
 
-If you spend your time fixing your errors, your mistakes won’t be a problem in the future.
+If you spend your time fixing your errors, your mistakes won't be a problem in the future.
 
 If you decide to ignore your mistakes, then you risk repeating your errors over and over again.
 
-Mistakes costs opportunities.
+Mistakes cost opportunities.
 
 If you invest some time fixing your mistakes, you'll have a better outcome in everything you attempt.
 
 Small errors repeated over time can cause a lifetime of failure.
 
-A few good habits, accumulated over time can give you a life of success.
+A few good habits accumulated over time can give you a lifetime of success.
 
 The problem is the habits of failures are often fun and entertaining.
 
-The habits of success are often easy but boring.
+The habits of success are often easy but boring and tedious.
 
 You have to choose between temporary pleasure over permanent success.
 
@@ -88,13 +96,13 @@ You have to choose between temporary pleasure over permanent success.
 
 Don't be tempted by shortcuts and laziness. 
 
-This is exactly how people scam you and steal your money and your time. 
+Your laziness will become the biggest opening to how people scam you and steal your money and your time. 
 
-The long method is the true short method.
+The long method is the actual short method.
 
-Get better so you have true better results. 
+Get better, so you have better results. 
 
-Some people flex fast result but that's not true. 
+Some people flex fast results, but that's not true. 
 
 Fast results are often just people trying to trick you into buying what they are selling.
 
@@ -108,9 +116,9 @@ Writing down your obstacles helps you create good plans to make your life better
 
 Be as specific as possible. 
 
-Answer the questions, who, what and where so you know exactly what to avoid.
+Answer the questions, who, what, and where so you know precisely what to avoid.
 
-### To Do List
+### To-Do List
 
 Writing down your tasks enable you to have a clear picture of what you need to do. 
 
@@ -118,7 +126,9 @@ Always ask yourself, what is the next step for this task and write your answer d
 
 ### Keep Goals Secret
 
-Instead of attempting to convince people to support you, it is better to write down both your goals and the plans that you are considering and talk to people who will give you good advice.
+Instead of attempting to convince people to support you, write down both the goals and the plans that you are considering.
+
+When all the details are clear to you in writing, talk to people who will give you good advice.
 
 Negative feedback is often extremely discouraging. 
 
@@ -136,7 +146,7 @@ Sometimes you have to have faith that it will happen.
 
 The best way is to plant your ideas in your notebooks.
 
-Slowly but surely, you can watch your ideas grow and you can develop the power so you can help yourself build your dream life.
+Slowly but surely, you can watch your ideas grow, and you can develop the power so you can help yourself build your dream life.
 
 As I did mine.
 
