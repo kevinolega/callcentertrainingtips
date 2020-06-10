@@ -25,3 +25,7 @@ I just share my ideas online.
 Sooner or later, you'll find my mistakes and that's okay.
 
 That being said, being worried about other people finding your mistakes shouldn't stop you from doing something that you really enjoy.
+
+For me, mistakes like these are no big deal.
+
+I'll just fix the grammar as I find my errors.
