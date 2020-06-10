@@ -29,17 +29,17 @@ To help out, you can send us money through the following links.
 
 If you get these freebies, we both get a benefit.
 
-**[Create a Dropbox account so we both get free 500mb online storage][6]**. 
+**[Create a Dropbox account, so we both get free 500mb online storage][6]**. 
 
 This is perfect for saving your resume, having a private backup of your photos and files that you can access from any computer. 
 
-**[Create an Uber account so we both get free rides][7]**. 
+**[Create an Uber account, so we both get free rides][7]**. 
 
-Uber is better than taking a taxi. Install both Uber and Grab and you never need to buy a car in the city.
+Uber is better than taking a taxi. Install both Uber and Grab, and you never need to buy a car in the city.
 
-**[Create a Grab account and we both get a Php 40 discount][8]**. 
+**[Create a Grab account, and we both get a Php 40 discount][8]**. 
 
-Grab is an alternate to uber and beats taking a taxi. Install both Uber and Grab and you never need to buy a car in the city. Use the code: GRABKEVINOLEGA
+Grab is an alternate to uber and beats taking a taxi. Install both Uber and Grab, and you never need to buy a car in the city. Use the code: GRABKEVINOLEGA
 
 **[Buy from my Online Store][9]**. 
 
@@ -47,23 +47,23 @@ I'm selling some stuff I'm no longer using. If you find something you like, send
 
 ### How to Get Support
 
-This website is built to help friends who need help get hired in a call center. Eventually, the people I assisted grew into a small facebook community.
+This website is built to help friends who need help get hired in a call center. Eventually, the people I assisted grew into a small Facebook community.
 
 [CLICK HERE TO CLAIM YOUR FREE REVIEWER][10].
 
 
 ## Call Center Training Tips Testimonials
 
-> "I am a shy person, the first time I went for an interview, I feel like someone is choking me. On the second day, I went to three call center companies, on the third day, I got a job offer. You are correct, the more companies I went to, the more I learned from my mistakes, and the more confident, I became. The best thing about applying in the call center is that the recruitment staff is honest with me about my performance on the interview. I got a no or a yes and didn't have to wait days or weeks to find out. Thank you for all the training tips. More Power!" - Jomel D.
+> "I am a shy person, the first time I went for an interview, I feel like someone is choking me. On the second day, I went to three call center companies, on the third day, I got a job offer. You are correct, the more companies I went to, the more I learned from my mistakes, and the more confident I became. The best thing about applying to the call center is that the recruitment staff is honest with me about my performance in the interview. I got a no or a yes and didn't have to wait days or weeks to find out. Thank you for all the training tips. More Power!" - Jomel D.
 
 [My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
 
 ## Kevin Olega's Testimonial During Call Center Work
 
-I'm not a perfect agent. I'm a consistently improving one though. Here's a short list of compliment's I received while I'm at work.
+I'm not a perfect agent. I'm a consistently improving one, though. Here's a shortlist of compliments I received while I'm at work.
 
-> Of all the (company name removed) people I've worked with you are by far the most ultimately helpful. - Mr. Kaweseki.
+> Of all the (company name removed) people I've worked with, you are by far the most ultimately helpful. - Mr. Kaweseki.
 
 > You do not have a heavy Asian accent - Mr. (Name Removed)
 

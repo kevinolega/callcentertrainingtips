@@ -33,13 +33,13 @@ And I'm excited to be here and started the interview.
 
 I try to answer as many questions as I can during the interview.
 
-Then the interviewer asks about something that I say.
+Then the interviewer asks about something that I said.
 
 The real reason is they're interested in what I said.
 
 The professional reason is they're grading my English.
 
-My interviewers are required to listen to every word I say and get me to talk more about what they find interesting.
+My interviewers are required to listen to every word that I say and get me to talk more about what they find interesting.
 
 Different people will have different interests.
 
@@ -59,7 +59,7 @@ If the interviewer is more traditional, I will be asked about the story of my ed
 
 The interviewer may also ask me to talk about my family and my relationship with my other family members.
 
-To know more about your personality, attitude, and to build rapport before the business questions, the interviewer will ask you how you spend your free time.
+To know more about your personality, attitude, and to build rapport before the business questions, the interviewer may ask you how you spend your free time.
 
 If the interviewer is male and within my age range, he will ask me about my bike, cooking, writing, technology, blogging, etc.
 
@@ -69,16 +69,23 @@ If the interviewer is female, and about my age range, we talk about my experienc
 
 From experience, women are often more interested in people and relationships.
 
-If the interviewer is an officeror owner of the company, there's additional emphasis on how well I could do the work.
+If the interviewer is an officer or owner of the company, there's additional emphasis on how well I could do the work.
 
 The interviewer will ask you to tell stories about the most exciting topic that you shared.
 
 I will be asked to connect my current work experience to their current hiring needs.
 
-
 ## Keep it Professional
 
 I've heard this advice in person and read this on the internet many times.
+
+Whenever you're asked to talk about something personal or not 100% related to the job or your responsibilities, you can decline giving additional personal info.
+
+In the United States, to avoid discrimination, rules like these are observed during in the interviews.
+
+I suspect this advice is targeted toward Americans.
+
+So if, for example, if I feel that my lack of a complete formal education may prevent me from getting hired, I should say:
 
 > "Are you interested in my past academic achievements, or do you want me to talk about how I can help your company?"
  
@@ -132,11 +139,9 @@ So they have to be really careful about hiring me.
 
 They want to get the most out of me.
 
-They also want to make sure that I don't cause any problems.
+They also want to make sure that I don't cause any problems on the job.
 
-Asking about my personal background may not be the perfect way to find out, but that's better than not asking.
-
-That's all they got.
+Asking about my personal background may not be the perfect way to find out if I'm the best fit, but asking me these questions are better than not asking.
 
 This is the final reason why I'm okay with talking about my personal details during the interview:
 
@@ -179,9 +184,7 @@ I make a perfect partner because I'm honest, dedicated, caring, hard-working, re
 
 You should run away.
 
-In Filipino, we have a term for that situation during phone coaching, and almost everybody recognizes what I mean when they hear the words.
-
-It's called "nagbubuhat ng sariling bangko."
+In Filipino, we have a term for that situation and during phone coaching, and almost everybody recognizes what I mean when I say the words "nagbubuhat ng sariling bangko."
 
 If you shouldn't do that during dating, you shouldn't do that during interviews.
 
@@ -201,7 +204,7 @@ They still need to get people hired.
 
 So they have a strategy to give people who use positive traits a second chance.
 
-They ask them to tell stories.
+They ask applicants to tell stories.
 
 You tell stories to prove that you are who you say you are.
 
@@ -223,7 +226,7 @@ Sometimes the conversation turns into a debate.
 
 When a conversation turns into a debate, it does not end well.
 
-##
+## I have a different solution - I open with stories.
 
 My solution is to use stories.
 
@@ -242,6 +245,8 @@ I answer with the same story.
 
 I just move the details around because I want to acknowledge the question that the interviewer asked.
 
+## Here's my usual story
+
 I didn't have excellent communication skills.
 
 I often find myself getting rejected by people at school.
@@ -254,7 +259,7 @@ I'm not close friends with anybody in the popular crowd.
 
 I was an extreme introvert.
 
-I'm only interested in video games, martial arts, anime, science fiction, fantasy rock music, and metal.
+I'm only interested in rock and metal music, video games, martial arts, anime, science fiction, fantasy stories.
 
 During my first day in college, I sat next to the prettiest girl in class and asked her if she practiced kung fu.
 
@@ -264,13 +269,13 @@ That's how bad my communication skills and people skills are.
 
 I had to stop going to school because I couldn't communicate my goals properly to my parents.
 
-I thought that I did my best, but from my explanation, they concluded that the best thing to do is to stop sending me to school.
+I thought that I did my best, at the time, but from my explanation, they concluded that the best thing to do is to stop sending me to school.
 
 I got rejected for a call center job so many times.
 
 I got my first job because I was fortunate.
 
-My interviewer is interested in martial arts and gave me a spot because he is interested in me teaching him a few moves.
+My interviewer is interested in martial arts and gave me a shot at the job because he is interested in me teaching him a few martial arts moves.
 
 This was a sales job. 
 
@@ -282,15 +287,15 @@ Our trainer asked us to draw Superman.
 
 Everybody's drawing of Superman isn't excellent.
 
-But he asked us what would happen if we practiced drawing for a year, five years, ten years or twenty years.
+But he asked us what would happen if we practiced drawing Superman every day for a year, five years, ten years or twenty years.
 
 We all agreed our drawing skill would keep getting better until it was close to perfect.
 
 He taught us that the only way that would happen is if we kept practicing.
 
-Most people can't draw.
+Most adults can't draw.
 
-Most people also have some experience drawing back in school.
+But most people had some experience learning how to draw back in school.
 
 Many of those people quit drawing after they leave school because, for most jobs, drawing is not a requirement.
 
@@ -300,7 +305,7 @@ And that lesson stuck to me.
 
 If I don't quit, and I kept going, I can keep getting a little better, and eventually, I'll level up just like in a video game.
 
-This is also my experience when I went to the gym and when I learned martial arts.
+This is also my experience when I went to the gym and when I practiced martial arts.
 
 And this works for any professional skill.
 
@@ -332,7 +337,7 @@ I took a real estate sales job.
 
 I was also rejected for four months.
 
-This was heartbreaking because we had no salary.
+This was a heartbreaking experience because we had no salary.
 
 Then I made one sale.
 
@@ -348,7 +353,11 @@ So every job that I took is a story about me being rejected and failing at the b
 
 Every personal skill that I learned from cooking to martial arts to riding a bike to driving is also a failure at the beginning.
 
-I'm 26 now. (NOTE: This was my age during my last call center interview, so I'm using this as an example.)
+## Why do you want to work in a call center?
+
+NOTE: I'm using my answer from my last call center interview. I was 26 at the time so I'm going to use this for my example.
+
+I'm 26 now. 
 
 And I'm beginning to realize that I'm running out of time.
 
@@ -356,7 +365,7 @@ I'm looking for work that pays well and that the pay is more predictable.
 
 My first years in my career were spent working in sales.
 
-I made a higher income, and it was fun and exciting, but at the age that I'm in, I can't afford to have a big paycheck one month and a tiny or no paycheck some months.
+I made a higher income, and it was fun and exciting, but at the age that I'm in, I can't afford to have a big paycheck one month and a tiny or no paycheck some other months.
 
 Because that's what happens in sales.
 
@@ -376,6 +385,8 @@ The pay may not be as high as I'm used to, but I'm going to enjoy the stability,
 
 It's just a little slower and that's okay.
 
+I just need to become a little more patient.
+
 And I know that many people find call center work difficult.
 
 And that's okay.
@@ -394,7 +405,7 @@ That's the interviewer's exact reaction.
 
 The next question I'm usually asked is about my expected pay and when I could start.
 
-I don't have to answer any of the other bullshit questions anymore because I already shared with them what they needed to know about me.
+I don't have to answer any of the other bullshit questions anymore because I already shared with the interviewer what they needed to know about me.
 
 That's enough to get hired based on my personal experience.
 
@@ -404,7 +415,7 @@ The story follows a critical format.
 
 You want to talk about what you're trying to do.
 
-You want to start your story with a weakness.
+You want to start your story with a weakness and an obstacle.
 
 I talked about why I'm not a good communicator.
 
@@ -412,7 +423,7 @@ I talked about my personal failures because I wasn't a good communicator.
 
 I talked about the consequences of being a poor communicator.
 
-Then I talked about the story of how I learned the skill.
+Then I talked about the story of how I learned the skill that allowed me to overcome my challenge.
 
 I talked about the most important lesson that I learned.
 
@@ -422,7 +433,7 @@ Think about your favorite stories.
 
 It's always a story of a person who has a goal.
 
-But that person is in a difficult spot.
+But that person is in a difficult spot and has a big obstacle.
 
 That character just kept going.
 
@@ -438,7 +449,7 @@ Met another failure.
 
 Kept going.
 
-Got closest to the goal.
+Got closer to the goal.
 
 Encountered the biggest failure.
 
@@ -507,13 +518,13 @@ I want you to complain about me.
 
 I want you to call me an asshole and a scam for all the writing activities that I asked you to do.
 
-Here's an example.
+## Here's an example.
 
 I wanted to get hired in a call center, but I kept getting rejected.
 
 Three companies already said no to me.
 
-They told me I needed to fix my p and f, th and d sounds, and a little more practice expressing myself.
+They told me I needed to fix my p and f sounds, th and d sounds, and a little more practice expressing myself.
 
 But the worst rejection that I got is from myself.
 
@@ -577,7 +588,7 @@ Sometimes I have to wait for days to get my answer.
 
 So I got used to searching on Google for answers.
 
-After I did all my writing on paper, he asked me to encode all my answers on a computer.
+After I did all my writing on paper, Kevin asked me to encode all my answers on a computer.
 
 I didn't own a computer, so I had to borrow or rent one.
 
@@ -593,7 +604,7 @@ When I started, my typing speed was 10 words per minute.
 
 I was so slow.
 
-But Kevin, that asshole forced me to type all my answers.
+But Kevin, that asshole, he forced me to type all my answers.
 
 Now my typing speed is around 35 words per minute.
 
@@ -613,9 +624,9 @@ He made me think a lot.
 
 He made me write a lot.
 
-I just kept going.
-
 He made me practice on the computer a lot.
+
+I just kept going.
 
 During phone coaching, he was pointing out all my grammar and pronunciation mistakes.
 
@@ -636,6 +647,24 @@ So after seven weeks of that rigorous training, I decided to apply here.
 Stupid Kevin.
 
 ## 1% Success 99% Failure
+
+I learned about this when I was eleven years old.
+
+And I didn't pay attention to this until I'm 34 years old.
+
+It was 1998 when our family got our first computer and internet connection.
+
+In 2020, people shared their thoughts and inspirational messages on social media.
+
+Back in 1998, it was through email.
+
+At that time, we don't have unlimited internet so many people developed the habit of printing their interesting emails and sharing the printouts to their friends and families.
+
+The ones I kept in my room contained jokes shared by my mom and my uncle.
+
+One inspirational message that I received was the law of the see.
+
+
 
 ## What does it take?
 

@@ -6,15 +6,15 @@ permalink: /promos/
 ---
 My lessons already helped [hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
-If you want to support me and you would like more direct and active personal assistance here are your options.
+If you want to support me and you would like more direct and active personal assistance, here are your options.
 
 ## 6 Week English Lessons
 
-We offer six weeks of English lessons to help support job applicants and professionals who want to upgrade their career.
+We offer six weeks of English lessons to help support job applicants and professionals who want to upgrade their careers.
 
 We help our students prepare for interviews and call center work.
 
-We will be correcting your mistakes and I'll guide you until you get hired. 
+We will be correcting your mistakes, and I'll guide you until you get hired. 
 
 <a href="https://callcentertrainingtips.com/6WEL250/" class="button focus">CLICK HERE TO RECEIVE TRAINING</a>
 
@@ -28,7 +28,7 @@ We will be correcting your mistakes and I'll guide you until you get hired.
 
 This page is part of my community service.
 
-So I give lessons on FB, the website (main), YouTube (new) and send activities via email for free.
+So I give lessons on FB, the website (main), YouTube (new), and send activities via email for free.
 
 You'll receive the lessons and training materials for free on your email.
 

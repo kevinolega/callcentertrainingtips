@@ -6,7 +6,7 @@ Tags: [ uncategorized, blog ]
 permalink: /el/ 
 author: Kevin Olega 
 --- 
-I share my best lessons on my email list.
+I share the best lessons on my email list.
 
 The sequence of learning the lessons is just as important as the lessons that you are learning.
 
@@ -20,7 +20,15 @@ I look forward to staying in touch with you via email.
 
 When you receive my email, please send a reply to introduce yourself.
 
-One reason I do all of this is I enjoy meeting new people.
+One reason I do all of this is I enjoy meeting new people. 
+
+Thank You For Investing In Your Future
+
+[My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
+
+So let's do a quick call, and I'll help you get started.
+
+I'll also answer your questions over the phone or on Skype.
 
 [CLICK HERE TO SIGN UP AND GET FREE EMAIL LESSONS](https://eepurl.com/riFT1)
 

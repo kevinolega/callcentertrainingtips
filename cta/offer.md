@@ -14,13 +14,13 @@ Compared to other Asians...
 
 Filipinos have the highest English comprehension and compatibility for BPO and Call Center work.
 
-That's because we have an incredible relationship to American culture.
+That's because we have an incredible relationship with American culture.
 
-We all know Star Wars, The Avengers, IronMan, Batman, Superman, the Justice League, the Lord of The Rings, Harry Potter, Twilight and many more.
+We all know Star Wars, The Avengers, IronMan, Batman, Superman, the Justice League, the Lord of The Rings, Harry Potter, Twilight, and many more.
 
-We saw popular US TV shows like Game of Thrones, Friends, How I Met Your Mother and more.
+We saw popular US TV shows like Game of Thrones, Friends, How I Met Your Mother, and more.
 
-You know the names Tom Cruise, Brad Pitt, Angelina Jolie, Arnold Schwarzenegger, Robin Williams and Michael Jackson.
+You know the names Tom Cruise, Brad Pitt, Angelina Jolie, Arnold Schwarzenegger, Robin Williams, and Michael Jackson.
 
 Other Asians don't.
 
@@ -28,7 +28,7 @@ They have their own culture.
 
 And only pay attention to local media.
 
-We were the first on Friendster, Facebook and YouTube.
+We were the first on Friendster, Facebook, and YouTube.
 
 If you finished High School, you already have ten years of English practice. 
 
@@ -50,21 +50,21 @@ My lessons already helped [hundreds of Filipinos get hired in a call center](htt
 
 This page is part of my community service.
 
-So I give lessons on FB, the website (main), YouTube (new) and send activities via email for free.
+So I give lessons on FB, the website (main), YouTube (new), and send activities via email for free.
 
 What most people don't know is...
 
-I also offer coaching for Php 1,500.
+I also offer to coach for Php 1,500.
 
-When you avail the training, you get an extra set of training materials and three phone sessions with me.
+When you avail of the training, you get an extra set of training materials and three phone sessions with me.
 
 My focus is interview preparation for call center work.
 
-We’ll be correcting your mistakes and I’ll guide you until you get hired.
+We'll be correcting your mistakes, and I'll guide you until you get hired.
 
-This is my community service so I’m only charging a small amount because it helps cover the expenses of maintaining my website and production cost of training materials and the salary of my team.
+This is my community service, so I'm only charging a small amount because it helps cover the expenses of maintaining my website and production cost of training materials and the salary of my team.
 
-If you want to avail the coaching, payment is by bank deposit and sessions are done on the phone so I’ll need your number. Globe and landline is good. Or Skype if you have fast internet.
+If you want to avail of the coaching, payment is by bank deposit, and sessions are done on the phone, so I'll need your number. Globe and landline are good. Or Skype if you have fast internet.
 
 I just want you to remember...
 
