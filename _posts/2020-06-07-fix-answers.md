@@ -40,7 +40,7 @@ And people think that's acceptable.
 
 If you correct it, you actually display your ability to learn from your mistakes.
 
-If you pretend that the mistake didn't happen and hope that the interviewer missed the mistake, guess what?
+If you pretend that the mistake didn't happen and hope that the interviewer missed the error, guess what?
 
 You are wrong.
 

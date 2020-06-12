@@ -14,19 +14,19 @@ My objective is to find areas of my life that I can improve and lessons to share
 
 During a writing session, I came across this memory.
 
-Somewhere around third year high school and first year college, I made a big mistake.
+Somewhere around the third year of high school and first year college, I made a big mistake.
 
 I picked up a toxic mindset that ruined my ability to keep up in school.
 
-This was before I understood the term toxic mindset so it never really connected with me until today.
+This was before I understood the term toxic mindset, so it never really connected with me until today.
 
-On the second trimester of my first year in college, I ran into a problem.
+In the second trimester of my first year in college, I ran into a problem.
 
 I failed English and Programing.
 
 As a result, both my parents decided to stop sending me to school.
 
-I don't remember exactly who I heard this from.
+I don't exactly remember who I heard this from.
 
 But you probably heard this statement yourself somewhere.
 
@@ -40,9 +40,9 @@ In fact, I recite this in my head whenever I don't agree with how the teacher co
 
 I paid attention to lessons and discussions and passed all those classes where the teacher explained everything during the lecture.
 
-But when the class involved research and self study, I found myself NOT studying at all.
+But when the class involved research and self-study, I found myself NOT studying at all.
 
-I was playing online games, socializing on the early social media websites and researching topics that's unrelated to the class.
+I was playing online games, socializing on the early social media websites, and researching topics that are unrelated to the class.
 
 It's the teacher's job to teach the student.
 
@@ -50,7 +50,7 @@ I tell myself.
 
 I didn't complete my research activity.
 
-I didn't understand C++ so I failed the exam.
+I didn't understand C++, so I failed the exam.
 
 In hindsight...
 
@@ -62,25 +62,25 @@ The guys were serious.
 
 They were reading all the time.
 
-They took turns explaining the difficult topics to each other.
+They took turns explaining the problematic topics to each other.
 
-I was using the internet to flirt on Friendster, MySpace, Multiply, Tickle and Hi5.
+I was using the internet to flirt on Friendster, MySpace, Multiply, Tickle, and Hi5.
 
-I was talking to Annelle whom I met at Starbucks Glorietta, and Issa whom I met online both were from Assumption College or so they say on their online profiles.
+I was talking to Annelle, whom I met at Starbucks Glorietta, and Issa, whom both I met online and studied at Assumption College, or so they say on their online profiles.
 
-I was researching how to become an awesome Tekken player.
+I was researching how to become an excellent Tekken player.
 
-I was trying to become a kick ass Bryan Fury player.
+I was trying to become a kick-ass Bryan Fury player.
 
 I was researching the good habits of MMA fighters.
 
-During college I wanted to be a cage fighter.
+During college, I wanted to be a cage fighter.
 
 I just saw college as a way to get a job that will pay for the expenses until I win fights and eventually start my own martial arts gym.
 
 Bad idea.
 
-My mom said I couldn't compete in a kick boxing match.
+My mom said I couldn't compete in a kickboxing match.
 
 This killed my motivation.
 
@@ -98,7 +98,7 @@ I had good grades with my other subjects.
 
 I was okay with the instructors who engaged and taught the class directly.
 
-I failed the subject where the instructor gave us an opportunity to research and do some self study.
+I failed the subjects where the instructor allowed us to research and do some self-study.
 
 I hated the teacher.
 
@@ -106,7 +106,7 @@ I was blaming everyone.
 
 I didn't realize that I was the problem.
 
-I never approached the teacher to ask for help, guidance or advice on what to do.
+I never approached the teacher to ask for help, guidance, or advice on what to do.
 
 I kept telling myself that it's the teacher's job to teach the student.
 
@@ -118,17 +118,17 @@ They talk about terror teachers.
 
 They talk about teachers who failed them.
 
-I was at work and many of my friends were in school.
+I was at work, and many of my friends were in school.
 
 I began to realize that in real life, there are very few teachers and very few discussions.
 
-When you go out into the job market or worse, your own business, there are no teachers.
+When you go out into the job market or, worse, your own business, there are no teachers.
 
 There are no discussions.
 
 There are no classes that will teach you all the details from start to finish.
 
-It's all self study.
+It's all self-study.
 
 It's all research using your personal time.
 
@@ -138,8 +138,8 @@ When I told myself, it's the teacher's job to teach the student...
 
 My English and Programming teacher did teach me indirectly.
 
-During first year college, about eight of my subjects were discussed by the professor and two of the subjects were self study and research intensive.
+During first year college, about eight of my subjects were discussed by the professor, and two of the subjects were self-study and research-intensive.
 
-By not teaching me, I discovered the value of research and self study and approaching teachers for problems.
+By not teaching me, I discovered the value of research and self-study and approaching teachers for problems.
 
 Because you have to do it all the time when you leave school.
