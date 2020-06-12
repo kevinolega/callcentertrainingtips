@@ -351,3 +351,13 @@ I became cynical and thought that everyone is out to get me and put me down.
 But that is simply not true.
 
 If I accept challenges and kept going, I'll eventually keep winning.
+
+TL Gerry changed my life.
+
+First by changing my attitude.
+
+Second by teaching me the skills.
+
+You need both to succeed.
+
+Thank you TL Gerry!!!
