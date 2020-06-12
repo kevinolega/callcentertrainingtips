@@ -8,7 +8,7 @@ author: Kevin Olega
 --- 
 During my OJT, I  got assigned to TL Gerry.
 
-I learned from the other agents that I met that Gerry, a top-performing Team Leader.
+I learned from the other agents that I met that Gerry is a top-performing Team Leader.
 
 I suspect he's really strict.
 
