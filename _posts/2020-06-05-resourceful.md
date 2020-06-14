@@ -16,7 +16,7 @@ There is no need to print it if you can't.
 
 It's not the fancy tools that you have that will help you succeed.
 
-Your determination and resourcefulness is more important.
+Your determination and resourcefulness are more important.
 
 Use the tools that you have so you can practice. 
 
@@ -26,9 +26,9 @@ Always remember our goal.
 
 You will practice English so you can...
 
-Introduce yourself well, express your ideas and talk about your thoughts.
+Introduce yourself well, express your ideas, and talk about your thoughts.
 
-Ask questions that will help you understand your thoughts, situations and solve problems.
+Ask questions that will help you understand your thoughts, situations, and solve problems.
 
 Give clear, step by step instructions that will make life easier for you and others.
 
@@ -36,9 +36,9 @@ Tell stories that will help deliver your most important message.
 
 These are the four tasks that we send all our students.
 
-When we have the phone coaching and send email recommendations, we help fix your grammar and pronunciation.
+When we have phone coaching and send email recommendations, we help fix your grammar and pronunciation.
 
-If you don't have a computer or printer work with what you have.
+If you don't have a computer or printer, work with what you have.
 
 Your notebook and your phone are enough.
 
@@ -46,6 +46,6 @@ If you don't have access to a normal keyboard, you can write down your lessons o
 
 Just sit down and spend time doing it.
 
-Little by little you can make progress and we're here to help you.
+Little by little, you can make progress, and we're here to help you.
 
 Go back to writing.

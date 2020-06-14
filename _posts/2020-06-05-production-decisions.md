@@ -10,15 +10,15 @@ When the global pandemic hit, the department of education announced that they're
 
 When we started selling our lessons, we wanted to give our students the most amount of help that we can afford.
 
-To reach more people we decided to deliver lessons online and offline.
+To reach more people, we decided to deliver lessons online and offline.
 
 We used email for writing activities.
 
 We used phone coaching for grammar and pronunciation corrections.
 
-These are two basic technologies that everybody had access to.
+These are two technologies that everybody had access to.
 
-On social media, there's a big debate about online classes because not everyone has access to a computer, good smartphone, or steady internet connection.
+On social media, there's a big debate about online classes because not everyone has access to a computer, a good smartphone, or a steady internet connection.
 
 Many people use data and pay Php 50 a week.
 
@@ -30,9 +30,9 @@ I think to myself, we were pulling our hair out with these questions a few month
 
 When we sold English lessons last December, we received hundreds of inquiries.
 
-Only a few people enrolled and we got tons of requests and complaints as well.
+Only a few people enrolled, and we got tons of requests and complaints as well.
 
-People didn't enroll because of their circumstances, some people can't shell out money and other people had the money but no tools to study.
+People didn't enroll because of their circumstances, some people can't shell out money, and other people had the money but no tools to study.
 
 The craziest message I got is from a construction worker.
 
@@ -60,21 +60,21 @@ Here are some considerations:
 
 ### Budget Problems
 
-Many of our students have low budget.
+Many of our students have a low budget.
 
 We did our best to keep our packages under $10.
 
-Our first batch of English lessons was sold for only $5 or Php 250 and our students got six weeks of lessons in return.
+Our first batch of English lessons was sold for only $5 or Php 250, and our students got six weeks of lessons in return.
 
 ### Internet Connection Problem
 
-Many of our students don't have strong, stable or steady internet connection.
+Many of our students don't have a strong, stable, or steady internet connection.
 
 We understand that not everybody has home internet.
 
 We understand that many people just use regular load for their mobile phones.
 
-All the lessons that we sent to our students were sent via email and PDF's.
+All the lessons that we sent to our students were sent via email and PDFs.
 
 We also made the file size as small as possible.
 
@@ -84,7 +84,7 @@ So people can load the minimum per week to download all our activities.
 
 ### Extra Charges
 
-Whenever we sell to our students, all our packages are a one time payment.
+Whenever we sell to our students, all our packages are a one-time payment.
 
 We don't upsell or charge extra.
 
@@ -98,18 +98,20 @@ We understand that not everyone can afford a good computer or mobile phone.
 
 So we designed our program to keep everything simple.
 
-We use phone and email to deliver the lessons.
+We use the phone and email to deliver the lessons.
 
-We pay Globe and Smart for unlimited calls so our students don't need to spend extra money on data or video calls.
+We pay Globe and Smart for unlimited calls, so our students don't need to spend extra money on data or video calls.
 
-We use email so we can send and recieve lessons while consuming the least amount of data.
+We use email so we can send and receive lessons while consuming the least amount of data.
 
 ### You Don't Offer Videos or Video Calls?
 
-We produced a few videos but realized that many of our students can't watch it because videos cost money to watch if you don't have home internet.
+We produced a few videos but realized that many of our students can't watch it because videos cost money to attend if you don't have home internet.
 
-FaceTime, Skype, Viber, Google Hangouts, Zoom, What's App and Messenger are available.
+FaceTime, Skype, Viber, Google Hangouts, Zoom, What's App, and Messenger is available.
 
 Video calls are available.
 
 But not required.
+
+UPDATE: We charge an additional Php 200 for video calls.
