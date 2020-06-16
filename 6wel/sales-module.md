@@ -111,7 +111,7 @@ You want to pay attention at what kind of person you are dealing with.
 You want to equip yourself with sales strategies to guide your prospects to a logical conclusion and 
 
 
-SALES WORDS:
+## SALES WORDS:
 
 - Prospect
 - Product

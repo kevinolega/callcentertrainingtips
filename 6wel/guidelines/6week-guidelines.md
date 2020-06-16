@@ -11,6 +11,8 @@ Please read everything.
 
 This will also be part of your final exam.
 
+**WARNING: Carelessly scanning instructions is one of the biggest reasons why job applicants get rejected by employers.**
+
 ## Enrollment
 
 Please send us your payment confirmation with the confirmation number.
@@ -34,6 +36,8 @@ Current open schedule for phone coaching are:
 
 The phone coaching session gets scheduled after you complete lesson 1 to lesson 7 of your current week.
 
+During phone coaching, we will discuss your answers to the writing exercises and discuss corrections to your grammar and pronunciation.
+
 ## Start Date
 
 The training materials will be sent to your email address.
@@ -42,11 +46,11 @@ We send out our lessons at 9 am.
 
 If you do not receive an email on the first day, please send us a message so we can check.
 
-In many situations, the email can be found in the SPAM folder, so please check there too.
+In many situations, the email can be found in the promotions or SPAM folder, so please check there too.
 
 ## Purpose of the Training
 
-We provide our students with a safe space to practice their English with a dedicated instructor through writing activities and one to one phone coaching.
+We provide our students with a safe space to practice their English with a dedicated instructor through writing exercises and one to one phone coaching.
 
 We deliver lessons via email and phone coaching to make the learning experience affordable and convenient for both the student and the instructor.
 
@@ -58,7 +62,7 @@ Our goal is to help you develop your ability to express yourself in English comf
 
 We begin with opening up topics about yourself and slowly transition to more professional and work-related conversations.
 
-## Please do all the writing activities.
+## Please do all the writing exercises.
 
 To improve your speaking ability, we need to evaluate the quality of the words that you use through the writing activities. 
 
@@ -67,6 +71,10 @@ Please purchase two notebooks because you will be doing a lot of writing.
 Purchase more notebooks as you require.
 
 Done correctly, we expect you to complete anywhere from 200 to 800 pages of writing at the end of the six weeks.
+
+## I Have Questions
+
+[READ: Frequently Asked Questions](https://callcentertrainingtips.com//faq6students/).
 
 ## Learn Basic Research
 
