@@ -6,10 +6,6 @@ Tags: [ uncategorized, blog ]
 permalink: /sellme/ 
 author: Kevin Olega 
 --- 
-
-
-Understanding Sales
-
 Sales is an essential professional skill.
 
 People who can sell make more money that people who can't sell.
@@ -26,13 +22,15 @@ Selling is very much like a combination of a martial art and a language.
 
 If you know how to sell, you have a GIANT advantage over people who don't know how to sell.
 
-The more times you pracice, the better you become at sales.
+I used the word GIANT because the advantage is so big, it's almost unfair.
+
+The more times you practice, the better you become at sales.
 
 I have friends who grew up in families that owned several businesses and selling is normal practice to them ever since they were young.
 
-So when we got to start working, they were already comfortably earning six figure incomes while I was just learning how to sell.
+When we got to start working, my friends with sales experience were already comfortably earning six figure incomes while I was just learning how to sell and making less than minimum wage.
 
-This is very much like a comparrison of someone who's training to become an athlete starting from four to six years old and someone who got interested learning a sport in their twenties.
+This is very much like a comparrison of an athlete who started training at four to six years old and a casual hobbyist who just stared learning the sport in his twenties.
 
 This is the reason why a lot of people feel defeated in sales.
 
@@ -42,7 +40,7 @@ Sales is like any skill.
 
 It takes time to develop.
 
-When you become fairly good it becomes extremely valuable.
+When you become fairly good sales skills becomes extremely valuable.
 
 There is no shame in failing as you learn sales.
 
@@ -62,11 +60,13 @@ Sales skills applies to relationships and family.
 
 Sales skills applies to business.
 
+The people who master sales skills early often do exceptionally well in these other "non-sales" related areas.
+
 Sales skills also apply to call center work.
 
 That's why I'm teaching this skill.
 
-In customer service and tech support, having a highe enough level in sales skills helps convince the customers to cooperate with your instructions.
+In customer service and tech support, having a high enough level in sales skills helps convince the customers to cooperate with your instructions and boost your primary KPI.
 
 You get higher customer service feedback.
 
@@ -74,7 +74,9 @@ You also get better AHT scores.
 
 Your work also becomes less stressful overall because you understand sales princples.
 
-## 1Sales Lessons
+Here are some sales lessons.
+
+## Sales Lessons
 
 A person buys to make a gain or stop a pain.
 
@@ -82,9 +84,9 @@ People are looking for a benefit.
 
 When you are trying to sell to someone, remind them of the benefit.
 
-Other people buy because they arte looking for a solution to a problem.
+Other people buy because they are looking for a solution to a problem.
 
-What is stronger?
+## What is the stronger motivation for a sale?
 
 If a person is extremely logical, they want the benefit.
 
@@ -98,25 +100,104 @@ They buy because they just feel like it.
 
 In a lot of situations, the gain is not strong enough motivation for people to take action.
 
-99% follow a very specific way of thinking and living.
+99% follow a very specific way of thinking and living based on emotions.
 
-1% often do the opposite.
+1% often do the opposite and that's following logic.
 
 READ: 99 LINK
 
+You want to pay attention at what kind of person you are dealing with.
+
+You want to equip yourself with sales strategies to guide your prospects to a logical conclusion and 
+
+
+SALES WORDS:
+
+- Prospect
+- Product
+- Client
+- Customer
+- Account
+- Purchase
+- Investment
+- Downpayment
+- Payment
+- Installment
+- Installation
+- Preffered
+- Preferrence
 
 ## Common Resons Why People Don't Buy
 
-No Trust
+These are the common reasons why people don't buy.
 
-No Need
+- No Trust
+- No Need
+- No Worry
+- No Help
+- No Hurry
+- No Money
 
-No Hurry
+Let's discuss these elements one by one.
 
-No Worry
+## No Trust
 
-No Money
+You won't buy people you don't trust. 
 
+Trust is the number one reason people buy.
+
+Trust is also the biggest reason people don't buy.
+
+Trust is also difficult to establish because a prospect will never directly say "I don't trust you."
+
+The prospect will end up smiling and agreeing with you and leave without buying anything.
+
+## No Need
+
+If the prospect doesn't seen the need, they won't buy.
+
+It's your job as a sales person to discover the needs of the customer and remind the customer of their needs.
+
+## No Worry
+
+If there is no worry, the customer doesn't need to buy.
+
+Many of our purchases involves, buying things to prevent bad things from happening.
+
+We buy insurance to secure money for our family in case we die.
+
+We buy a house because we are worried about not being able to pay rent in the future.
+
+We buy good clothes and other status symbols because we are worried about how other people see us.
+
+We send our kids to school because we are worried that they will grow up stupid and other people will take advatage of them.
+
+The customer's worry is the reason why the customer will buy.
+
+## No Help
+
+If the customer sees your offer as a solution to the problem, and they trust you, they will buy from you.
+
+If the customer does not see your solution is the best way to help them, they will walk away and you DON'T make a sale.
+
+## No Hurry
+If there is no urgency, even if there is a need, the prospect won't buy.
+
+Urgency simply means that they need to take a positive action today.
+
+If a person does not see the importance of buying the product now, they won't buy.
+
+No Money is the final reason.
+
+This is the final reason because this is the least important.
+
+If trust is established.
+
+If the needs are discovered and discussed.
+
+If the customer sees the urgency of making a positive action.
+
+ and the customer 
 
 ## Sales Requirements:
 
