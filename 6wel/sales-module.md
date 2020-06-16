@@ -181,33 +181,79 @@ If the customer sees your offer as a solution to the problem, and they trust you
 If the customer does not see your solution is the best way to help them, they will walk away and you DON'T make a sale.
 
 ## No Hurry
+
 If there is no urgency, even if there is a need, the prospect won't buy.
 
 Urgency simply means that they need to take a positive action today.
 
 If a person does not see the importance of buying the product now, they won't buy.
 
+## No Money
+
 No Money is the final reason.
 
 This is the final reason because this is the least important.
 
-If trust is established.
+If **TRUST** is established.
 
-If the needs are discovered and discussed.
+If the **NEED**s are discovered and discussed.
 
-If the customer sees the urgency of making a positive action.
+If the customer sees your offer as a solution that will **HELP** them.
 
- and the customer 
+If the customer sees the urgency of making a positive action, they will **HURRY** and buy.
+
+If all these conditions are made, the customer will buy even if they don't have money.
+
+If the customer doesn't buy, it's not usually a money problem.
+
+You probably failed to build trust, or any of the other reasons.
+
+People without money buy expensive houses, cars, insurance, education, travel, give money at church, toys all the time.
+
+These expenses are a priority to these people.
+
+A person who values travel may sacrifice buying a house or a car because that person believes they're always out of the country anyway.
+
+A person who values cars, may sacrifice buying a house or travel because that person believes his car is more important than anything else.
+
+A religious person may give his money to church even if that person doesn't have enough to satisfy the needs of his family because that person believes that God will provide for them.
+
+The key word in this is believe.
+
+You have to know what the person believes and adjusting your presentation before making your recommendation.
 
 ## Sales Requirements:
 
-Attention
+- Attention
+- Interest
+- Desire
+- Action
 
-Interest
+You want to get the prospect's attention, interest, desire and action.
 
-Desire
+## Attention
 
-Action
+Do something that calls the attention of the customer.
+
+Ask for attention.
+
+## Interest
+
+To become interesting, you need to be interested.
+
+If you want something, always go first.
+
+If you want the prospect to smile, you need to smile first.
+
+If you want the prospect to open up, you need to open up first.
+
+Talk about your interest and talk about their interest.
+
+## Desire
+
+When you know their interest, you can talk about their desire.
+
+## Action
 
 ## Sales Process:
 
