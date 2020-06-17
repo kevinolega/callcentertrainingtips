@@ -7,37 +7,47 @@ author: Kevin Olega
 --- 
 Here are some bonus lessons that I don't publicly share.
 
-### Write Longer Then Shorter
+## Write Longer Then Shorter
 
 When you start the activities, you want to give longer answers then shorter answers.
 
 [Click here to read the reason](https://callcentertrainingtips.com/longer2shorter).
 
-### Call Center Manifesto
+## Call Center Manifesto
 
 This is my favorite activity.
 
-Read this aloud.
-
 This functions as a pronounciation activity.
 
-This also teaches you basic call center mindsets.
+This also teaches you basic call center mindsets that boosts your confidence.
 
 [Click here to read the activity](https://callcentertrainingtips.com/manifesto/).
 
-### How to Write Your Resume
+## My Secret to Confidence
+
+[Click here to read lesson](https://callcentertrainingtips.com/confident/).
+
+
+## Different Skill Levels
+
+[READ: How Skillful Are You?](https://callcentertrainingtips.com/slevel/)
+
+#### How to Write Your Resume
 
 IN PROGRESS
 
-### Traits of Great Call Center Agents
+#### Traits of Great Call Center Agents
 
-### Different Situations Require Different Tools
+IN PROGRESS
 
-### Good Habits to Form When You Get Hired
+#### Different Situations Require Different Tools
 
-### My Secret to Confidence
+IN PROGRESS
 
-[Click here to read lesson](https://callcentertrainingtips.com/confident/).
+#### Good Habits to Form When You Get Hired
+
+IN PROGRESS
+
 
 ### Websites That Will Improve Your Life
 

@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: Improve Your Communication with Writing Exercises
 date: 2020-06-15 13:51
 Tags: [ uncategorized, blog ]
