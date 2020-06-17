@@ -9,7 +9,7 @@ We attempt to answer the most common questions on this page.
 
 If your question isn't answered here, please send us a message.
 
-## I Can't Find Your Emails?
+## I Can't Find Your Emails. What do I do?
 
 In a lot of cases, our email got sent to the Promotions or SPAM Folder.
 
@@ -17,11 +17,13 @@ Please search for our email address.
 
 callcentertrainingtips@gmail.com
 
+If you still do not find the emails, please let us know.
+
 ## I Accidentally Deleted a Message. What Do I Do?
 
 Your email can be found on the Trash Folder.
 
-## I Stopped Receiving Lessons
+## I Stopped Receiving Lessons. Why Did Your Emails Stop?
 
 We are committed to helping our students have a smooth experience with upgrading their English skills.
 
@@ -30,28 +32,28 @@ We have found it beneficial to avoid giving the student information overload or 
 We will be sending lessons 1 to 7 first.
 
 
-## Why haven't We Scheduled Phone Coaching?
+## Why Haven't We Scheduled Phone Coaching?
 
 The phone coaching session gets scheduled after you complete lesson 1 to lesson 7 of your current week.
 
 That's because, we will discuss your answers to the writing exercises and help fix your grammar and pronunciation.
 
 
-## I'm Having Difficulty With The Activities
+## I'm Having Difficulty With The Activities. What Do I Do?
 
 [READ: How to Complete Your 42 Writing Exercises](https://callcentertrainingtips.com/42tips/).
 
-## How Do I Send The Activities
+## How Do I Send The Activities?
 
 [READ: HOW TO ORGANIZE YOUR ANSWERS](https://callcentertrainingtips.com/organize6w).
 
-## The Activities Are Too Long
+## The Activities Are Too Long.
 
 Yes.
 
 The intention is to help you become comfortable communicting in English.
 
-## The Activities Are Too Difficult
+## The Activities Are Too Difficult. Should I Give Up?
 
 If the activities are too difficult, that's because this is your first time exercising your writing skills.
 
@@ -67,7 +69,7 @@ And that's a good thing.
 
 Discomfort is a sign that you are learning something new.
 
-## The Questions Are Too Personal
+## The Questions Are Too Personal. Can I Skip These Questions?
 
 Our goal is to help you develop your ability to express yourself in English comfortably and confidently.
 
@@ -75,7 +77,7 @@ We begin with opening up topics about yourself and slowly transition to more pro
 
 [READ: Improve Your Communication With Writing Exercises](https://callcentertrainingtips.com/writingexercise/)
 
-## Do I Need to Print The Activities
+## Do I Need to Print The Activities?
 
 You may, but it's not required.
 
@@ -83,7 +85,7 @@ You may, but it's not required.
 
 Yes. Please do.
 
-## Do I Need To Answer Call Center Questions?
+## Do I Need To Answer Call Center Questions? I Only Want To Improve My English.
 
 Please remember that the written activities are communications practice, and is not limited to "Getting Hired as a Call Center Agent".
 
@@ -91,7 +93,7 @@ You have to be able to articulate your goals, plans, intentions, preferences, an
 
 Short Answer: Yes. [READ: Why you should answer all the questions](https://callcentertrainingtips.com/answerall/).
 
-## Do I Need To Write The Questions
+## Do I Need To Write The Questions?
 
 Yes. 
 
@@ -102,7 +104,7 @@ This also makes the discussion easier.
 [READ: HOW TO ORGANIZE YOUR ANSWERS](https://callcentertrainingtips.com/organize6w).
 
 
-## The Activities Take Too Much Time
+## The Activities Take Too Much Time. How Do I Fit This Training In My Schedule?
 
 Write for 30 minutes to an hour then stop if you're out of time.
 
@@ -114,9 +116,11 @@ We don't expect you to finish everything in one day.
 
 And that's okay.
 
-## I'm Worried About The Time Limit
+## I'm Worried About The Time Limit. Will Failing To Complete The Exercises Kick Me Out of Your Training?
 
-We did specify six weeks for the lessons; however, we would prefer to not implement a finished or not finished policy.
+No.
+
+We did specify six weeks for the lessons; however, we would prefer to NOT implement a finished or not finished policy.
 
 If you need more time, we will give you more time.
 
@@ -125,8 +129,6 @@ If you need more time, we will give you more time.
 For words and phrases that you need help with, a quick search on Google is incredibly useful.
 
 Research is a small but incredibly useful call center skill.
-
-
 
 ## I Don't Want to Submit My Answers Because I'm Worried About My English.
 
@@ -137,6 +139,8 @@ Write poorly.
 Answer those questions.
 
 Fill those pages with your thoughts so we have something to fix.
+
+We repair your broken English during the phone coaching.
 
 ## I Give Up
 
