@@ -146,6 +146,10 @@ We send out the lessons, and writing activities at 9 am every day.
 
 Please answer all the questions to the best of your ability.
 
+## Write Poorly
+
+[READ: WRITE POORLY](https://callcentertrainingtips.com/poorly/).
+
 ## Activity Deadlines
 
 As for the deadline, we'll give you all the time that you need.
@@ -183,6 +187,8 @@ Instead of grading you as passed or failed, we will allow you to try again.
 We would provide you with feedback on how to answer better and simply ask you to repeat the activity with your new knowledge.
 
 Please redo all the activities that you need to repeat.
+
+[READ: WRITE POORLY](https://callcentertrainingtips.com/poorly/).
 
 ## 42 Lessons and Activities
 
@@ -284,10 +290,12 @@ If you miss phone coaching, please send us a message with three options of your 
 
 Please be sure to not take any of the activities too seriously and have fun.
 
+[READ: WRITE POORLY](https://callcentertrainingtips.com/poorly/).
+
 ## Extra Work
 
 If you would like to do some additional activities and find out more about us, please visit our website:
 
 [https://callcentertrainingtips.com](https://callcentertrainingtips.com)
 
-**Last update: Tuesday, June 9, 2020**
+**Last update: Wednesday, June 17, 2020**

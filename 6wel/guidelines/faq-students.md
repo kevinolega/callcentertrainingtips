@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Frequently Asked Questions
+title: Frequently Asked Questions - Students
 date: 2020-06-17 00:37
 permalink: /faq6students/ 
 author: Kevin Olega 
@@ -43,6 +43,8 @@ That's because, we will discuss your answers to the writing exercises and help f
 
 [READ: How to Complete Your 42 Writing Exercises](https://callcentertrainingtips.com/42tips/).
 
+[READ: WRITE POORLY](https://callcentertrainingtips.com/poorly/).
+
 ## How Do I Send The Activities?
 
 [READ: HOW TO ORGANIZE YOUR ANSWERS](https://callcentertrainingtips.com/organize6w).
@@ -52,6 +54,8 @@ That's because, we will discuss your answers to the writing exercises and help f
 Yes.
 
 The intention is to help you become comfortable communicting in English.
+
+[READ: WRITE POORLY](https://callcentertrainingtips.com/poorly/).
 
 ## The Activities Are Too Difficult. Should I Give Up?
 
@@ -68,6 +72,8 @@ Sometimes you'll feel stupid.
 And that's a good thing.
 
 Discomfort is a sign that you are learning something new.
+
+[READ: WRITE POORLY](https://callcentertrainingtips.com/poorly/).
 
 ## The Questions Are Too Personal. Can I Skip These Questions?
 
@@ -116,6 +122,8 @@ We don't expect you to finish everything in one day.
 
 And that's okay.
 
+[READ: WRITE POORLY](https://callcentertrainingtips.com/poorly/).
+
 ## I'm Worried About The Time Limit. Will Failing To Complete The Exercises Kick Me Out of Your Training?
 
 No.
@@ -123,6 +131,8 @@ No.
 We did specify six weeks for the lessons; however, we would prefer to NOT implement a finished or not finished policy.
 
 If you need more time, we will give you more time.
+
+[READ: WRITE POORLY](https://callcentertrainingtips.com/poorly/).
 
 ## What's the Meaning of WORD or PHRASE?
 
@@ -142,6 +152,8 @@ Fill those pages with your thoughts so we have something to fix.
 
 We repair your broken English during the phone coaching.
 
+[READ: WRITE POORLY](https://callcentertrainingtips.com/poorly/).
+
 ## I Give Up
 
 It's okay to give up.
@@ -157,3 +169,5 @@ Me neither.
 If you want to become happy and successful, work on your communications skills.
 
 We're here to help you.
+
+<a href="https://callcentertrainingtips.com/6wlguide/" class="button focus">RETURN TO GUIDELINES</a> 
