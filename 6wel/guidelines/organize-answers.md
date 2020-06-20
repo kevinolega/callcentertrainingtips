@@ -19,9 +19,15 @@ This is your opportunity to practice.
 
 Please remember to label your activity in the subject line of your email.
 
-For example: 
+Example Subject Line: 
 
     Activities for Week 05: Lesson 3 and include the title of the lesson.
+
+Example File Name:
+
+	Week 04: Activity 2 - Call Center Math - Ralph Reyes.pdf
+
+Labelling is a key call center skill.
 
 ## File Formats
 
@@ -30,6 +36,14 @@ You can send your answers directly from the email, as MS Word, Apple Pages, Goog
 ## Copy The Questions
 
 Please copy the questions when you send in your answers.
+
+Copying the questions is additional practice writing in English and thinking in English.
+
+Copying the questions makes it easy for us to review your answers.
+
+Copying the questions helps you develop your ability to ask questions.
+
+As you may already know 90% of professional work involves asking questions.
 
 ## Please keep your paragraph size to one or two sentences.
 

@@ -48,7 +48,6 @@ IN PROGRESS
 
 IN PROGRESS
 
-
 ### Websites That Will Improve Your Life
 
 [Here's a list of websites that you should visit](https://callcentertrainingtips.com/broll/).
