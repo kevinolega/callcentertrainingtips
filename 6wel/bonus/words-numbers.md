@@ -239,7 +239,7 @@ $6 is worth Php 300.
 
 $120 is worth Php 6,000.
 
-$720 is Php 72,000.
+$1,440 is Php 72,000.
 
 If I kept my call center job, wrote for two hours a day, and saved the money that I earned writing short articles, I would have an additional Php 72,000 at the end of the year.
 
@@ -295,7 +295,7 @@ $18 is worth Php 900.
 
 $360 is worth Php 18,000.
 
-$2,160 is Php 216,000.
+$4,320 is Php 216,000.
 
 If I kept a less stressful part-time job that is close to home, and wrote for four hours a day, and saved the money that I earned writing short articles, I would have an additional Php 216,000 at the end of the year.
 
