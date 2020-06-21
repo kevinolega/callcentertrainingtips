@@ -35,8 +35,7 @@ I converted the computations into short essays, so if you'd prefer just to revie
 
 I'm posting a link here and at the end of this post for your reference.
 
-[Link to Original Computation Spreadsheet](https://docs.google.com/spreadsheets/d/1BNZgae2UidfDHvaY3cZunlc0N53mPv8iSH2_8dsjjJo/edit?usp=sharing
-).
+[Link to Original Computation Spreadsheet](https://docs.google.com/spreadsheets/d/1BNZgae2UidfDHvaY3cZunlc0N53mPv8iSH2_8dsjjJo/edit?usp=sharing).
 
 ## Writing for 15 Minutes a Day
 
@@ -421,9 +420,7 @@ I worked a more stressful job as a virtual assistant and eventually worked as a 
 
 But that's for another story.
 
-[Link to Original Computation Spreadsheet](https://docs.google.com/spreadsheets/d/1BNZgae2UidfDHvaY3cZunlc0N53mPv8iSH2_8dsjjJo/edit?usp=sharing
-).
-
+[Link to Original Computation Spreadsheet](https://docs.google.com/spreadsheets/d/1BNZgae2UidfDHvaY3cZunlc0N53mPv8iSH2_8dsjjJo/edit?usp=sharing).
 
 ### EXTRA:
 
