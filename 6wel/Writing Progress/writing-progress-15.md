@@ -2,7 +2,7 @@
 layout: page
 title: Writing Progress Activity 15 minutes
 date: 2020-06-21 23:29
-permalink: /DRAFT/ 
+permalink: /wp15m/ 
 author: Kevin Olega 
 --- 
 ## Writing for 15 Minutes a Day
@@ -35,6 +35,6 @@ After twenty years, you've written 100,800 sentences.
 
 People tend to overestimate what they can do in a day and underestimate what they can accomplish if they were only consistent for longer than a year.
 
+<a href="https://callcentertrainingtips.com/wphend/" class="button focus">I WILL WRITE FOR 15 MINUTES DAILY</a>
 
-
-
+<a href="https://callcentertrainingtips.com/wph/" class="button focus">I WILL SPEND MORE TIME WRITING</a>

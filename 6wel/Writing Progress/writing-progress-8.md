@@ -2,7 +2,7 @@
 layout: page
 title: Writing Progress Activity 8 hours
 date: 2020-06-21 23:29
-permalink: /DRAFT/ 
+permalink: /wp8hr/ 
 author: Kevin Olega 
 --- 
 ## Writing for 8 Hours a Day
@@ -37,4 +37,4 @@ People tend to overestimate what they can do in a day and underestimate what the
 
 <a href="https://callcentertrainingtips.com/wphend/" class="button focus">I WILL WRITE FOR 8 HOURS DAILY</a>
 
-<a href="https://callcentertrainingtips.com/wph/" class="button focus">I WILL SPEND MORE TIME WRITING</a>
+<a href="https://callcentertrainingtips.com/wph/" class="button focus">I WILL SPEND MORE TIME WRITING</a>l

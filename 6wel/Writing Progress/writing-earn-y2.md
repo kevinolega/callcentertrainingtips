@@ -1,8 +1,8 @@
 --- 
 layout: page
-title: Writing to Earn Year One
+title: Writing to Earn Year Two
 date: 2020-06-21 23:29
-permalink: /DRAFT/ 
+permalink: /wey2/ 
 author: Kevin Olega 
 --- 
 
