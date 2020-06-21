@@ -414,6 +414,8 @@ I'm happy I've recovered some of the money that I used to buy my computer and pa
 
 I'm happy that the simple activity that I used to improve my life is now a source of income.
 
+I know that more experienced writers earn more money.
+
 I did not continue working as a professional writer at this point.
 
 I worked a more stressful job as a virtual assistant and eventually worked as a project manager.
