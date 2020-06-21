@@ -33,3 +33,8 @@ $1,440 is Php 72,000.
 
 If I kept my call center job, wrote for two hours a day, and saved the money that I earned writing short articles, I would have an additional Php 72,000 at the end of the year.
 
+### What do you want to do?
+
+<a href="https://callcentertrainingtips.com/weh/" class="button focus">I WANT TO CHANGE MY WORK HOURS</a>
+
+<a href="https://callcentertrainingtips.com/wey1/" class="button focus">I WANT TO EARN MORE MONEY</a>
