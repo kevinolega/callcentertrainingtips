@@ -299,9 +299,7 @@ $2,160 is Php 216,000.
 
 If I kept a less stressful part-time job that is close to home, and wrote for four hours a day, and saved the money that I earned writing short articles, I would have an additional Php 216,000 at the end of the year.
 
-
 ## My First Year as a Freelance Writer Part 2
-
 
 When I got a little more experience as a writer, I earned $1.50 for every 100 words that I've written.
 
