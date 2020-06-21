@@ -426,22 +426,22 @@ But that's for another story.
 
 ### EXTRA:
 
-(15*5*4)*0.7 = 210
+    (15*5*4)*0.7 = 210
 
-15 = minutes a day
-5 = words in a sentence
-4 = number to complete an hour
-0.7 = success rate. 30% of what I do is probably wrong and will be edited out.
+    15 = minutes a day
+    5 = words in a sentence
+    4 = number to complete an hour
+    0.7 = success rate. 30% of what I do is probably wrong and will be edited out.
 
 Two hundred ten words per minute if I wrote a consistent one sentence per minute.
 
 I should have computed this way.
 
-(60*5)*0.7 = 210
+    (60*5)*0.7 = 210
 
-60 = minutes
-5 = words in a sentence
-0.7 = success rate.
+    60 = minutes
+    5 = words in a sentence
+    0.7 = success rate.
 
 I'd get the same answer.
 
