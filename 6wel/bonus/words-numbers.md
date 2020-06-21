@@ -19,6 +19,10 @@ This computation is useful to consider when you're trying to learn a skill, and 
 
 The answer is ALWAYS to stay consistent.
 
+## The Phone Coaching is NOT the Most Important Element of Your Lessons
+
+The most important part of the lessons is you forming the habit of putting your ideas on paper in English.
+
 If you continue writing every day, even fifteen minutes a day can give you a LOT of progress.
 
 This computation also shows you how much writing you can finish if you stayed a little longer.
