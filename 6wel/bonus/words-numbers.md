@@ -417,6 +417,10 @@ I worked a more stressful job as a virtual assistant and eventually worked as a 
 
 But that's for another story.
 
+[Link to Original Computation Spreadsheet](https://docs.google.com/spreadsheets/d/1BNZgae2UidfDHvaY3cZunlc0N53mPv8iSH2_8dsjjJo/edit?usp=sharing
+).
+
+
 ### EXTRA:
 
 (15*5*4)*0.7 = 210
