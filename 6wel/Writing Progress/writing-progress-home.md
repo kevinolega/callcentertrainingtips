@@ -11,9 +11,11 @@ Please select one.
 
 Remember that you have to write every day.
 
-<a href="https://callcentertrainingtips.com/wp15m/" class="button focus">I'LL WRITE DAILY FOR 15 MINUTES</a>
+### [I'LL WRITE DAILY FOR 15 MINUTES](https://callcentertrainingtips.com/wp15m/)
 
-<a href="https://callcentertrainingtips.com/wp30m/" class="button focus">I'LL WRITE DAILY FOR 30 MINUTES</a>
+
+### [I'LL WRITE DAILY FOR 30 MINUTES](https://callcentertrainingtips.com/wp30m/)
+
 
 <a href="https://callcentertrainingtips.com/wp1hr/" class="button focus">I'LL WRITE DAILY FOR 1 HOUR</a>
 

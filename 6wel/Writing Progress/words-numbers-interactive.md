@@ -37,4 +37,4 @@ I'm posting a link here for your reference.
 [Link to Original Computation Spreadsheet](https://docs.google.com/spreadsheets/d/1BNZgae2UidfDHvaY3cZunlc0N53mPv8iSH2_8dsjjJo/edit?usp=sharing).
 
 
-<a href="https://callcentertrainingtips.com/wph/" class="button focus">PEEK INTO THE FUTURE</a>a>
+<a href="https://callcentertrainingtips.com/wph/" class="button focus">PEEK INTO THE FUTURE</a>
