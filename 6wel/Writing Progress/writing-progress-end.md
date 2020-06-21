@@ -73,9 +73,3 @@ After a few months, after receiving my first paycheck, I decided that I will beg
 <a href="https://callcentertrainingtips.com/" class="button focus">I'M CONSIDERING HOW MUCH MONEY I CAN EARN FROM MY WRITING SKILLS</a>
 
 <a href="https://callcentertrainingtips.com/" class="button focus">I DON'T WANT TO BECOME A WRITER BUT SHOW ME THE MONEY</a>
-
-Sales
-Customer Service
-
-
-You'll be more organized.
