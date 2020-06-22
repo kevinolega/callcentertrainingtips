@@ -2,7 +2,7 @@
 layout: page
 title: Better Writing Upgrades Life and Income
 date: 2020-06-21 23:29
-permalink: /wphend/ 
+permalink: /wphc/ 
 author: Kevin Olega 
 --- 
 When you get better at writing, you'll get better at other areas.

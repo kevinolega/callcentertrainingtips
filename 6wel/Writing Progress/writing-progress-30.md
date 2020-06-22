@@ -5,7 +5,7 @@ date: 2020-06-21 23:29
 permalink: /wp30m/ 
 author: Kevin Olega 
 --- 
-## Writing Progress Activity 30 minutes
+### Writing Progress Activity 30 minutes
 
 When you write for thirty minutes a day:
 
@@ -37,6 +37,6 @@ People tend to overestimate what they can do in a day and underestimate what the
 
 **What do you want to do next?**
 
-**[I WILL WRITE FOR 30 MINUTES DAILY](https://callcentertrainingtips.com/wphend/)**
+**[I WILL WRITE FOR 30 MINUTES DAILY](https://callcentertrainingtips.com/wphc/)**
 
 **[I WILL SPEND MORE TIME WRITING](https://callcentertrainingtips.com/wph/)**
