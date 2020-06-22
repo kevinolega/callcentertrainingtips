@@ -41,6 +41,6 @@ If I kept a less stressful part-time job that is close to home, and wrote for si
 
 This amount of money is double my call center income.
 
-At this point, I got a part-time job close to home watching a gym.
+At this point, I got a part-time job close to home watching a gym's front desk.
 
 
