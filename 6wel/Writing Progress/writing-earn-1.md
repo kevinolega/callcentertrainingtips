@@ -1,11 +1,11 @@
 --- 
 layout: page
-title: Writing to Earn 1 hour
+title: 1 Hour Writing to Earn
 date: 2020-06-21 23:29
 permalink: /we1/ 
 author: Kevin Olega 
 --- 
-## My First Month as a Freelance Writer
+### My First Month as a Freelance Writer
 
 When I got hired as a writer, I made $1 for every 100 words that I've written.
 
@@ -37,7 +37,7 @@ If I kept my call center job, wrote for an hour a day, and saved the money that 
 
 **[I WANT TO CHANGE MY WORK HOURS](https://callcentertrainingtips.com/weh/)**
 
-**[I WANT TO EARN MORE MONEY](https://callcentertrainingtips.com/wey2/)**
+**[I WANT TO EARN MORE MONEY](https://callcentertrainingtips.com/wey1/)**
 
 
 

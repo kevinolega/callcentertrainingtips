@@ -23,9 +23,9 @@ I'll tell you how much money you can earn.
 
 ## How many hours can you commit to writing?
 
-<a href="https://callcentertrainingtips.com/we1/" class="button focus">1 HOUR DAILY</a>
+**[1 HOUR DAILY](https://callcentertrainingtips.com/we1)**
 
-<a href="https://callcentertrainingtips.com/we2/" class="button focus">2 HOURS DAILY</a>
+**[2 HOURS DAILY](https://callcentertrainingtips.com/we2/)**
 
-<a href="https://callcentertrainingtips.com/we3/" class="button focus">3 HOUR DAILY</a>
+**[3 HOUR DAILY](https://callcentertrainingtips.com/we3/)**
 

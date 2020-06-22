@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Writing to Earn 6 hours
+title: 6 Hours Writing to Earn
 date: 2020-06-21 23:29
 permalink: /we6/ 
 author: Kevin Olega 
