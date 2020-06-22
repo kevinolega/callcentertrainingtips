@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Better Writing, Life and Income
+title: Better Writing Upgrades Life and Income
 date: 2020-06-21 23:29
 permalink: /wphend/ 
 author: Kevin Olega 
