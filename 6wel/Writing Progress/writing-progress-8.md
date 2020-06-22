@@ -37,6 +37,6 @@ People tend to overestimate what they can do in a day and underestimate what the
 
 ### What do you want to do next?
 
-<a href="https://callcentertrainingtips.com/wphend/" class="button focus">I WILL WRITE FOR 8 HOURS DAILY</a>
+**[I WILL WRITE FOR 8 HOURS DAILY](https://callcentertrainingtips.com/wphend/)**
 
-<a href="https://callcentertrainingtips.com/wph/" class="button focus">I WILL SPEND MORE TIME WRITING</a>l
+**[I WILL SPEND MORE TIME WRITING](https://callcentertrainingtips.com/wph/)**

@@ -70,6 +70,6 @@ After a few months, after receiving my first paycheck, I decided that I will beg
 
 ### What do you want to do?
 
-<a href="https://callcentertrainingtips.com/" class="button focus">I'M CONSIDERING HOW MUCH MONEY I CAN EARN FROM MY WRITING SKILLS</a>
+**[I'M CONSIDERING HOW MUCH MONEY I CAN EARN FROM MY WRITING SKILLS](https://callcentertrainingtips.com/)**
 
-<a href="https://callcentertrainingtips.com/" class="button focus">I DON'T WANT TO BECOME A WRITER BUT SHOW ME THE MONEY</a>
+**[I DON'T WANT TO BECOME A WRITER BUT SHOW ME THE MONEY](https://callcentertrainingtips.com/)**

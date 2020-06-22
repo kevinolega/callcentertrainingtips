@@ -35,8 +35,8 @@ After twenty years, you've written 201,600 sentences.
 
 People tend to overestimate what they can do in a day and underestimate what they can accomplish if they were only consistent for longer than a year.
 
-### What do you want to do next?
+**What do you want to do next?**
 
-<a href="https://callcentertrainingtips.com/wphend/" class="button focus">I WILL WRITE FOR 30 MINUTES DAILY</a>
+**[I WILL WRITE FOR 30 MINUTES DAILY](https://callcentertrainingtips.com/wphend/)**
 
-<a href="https://callcentertrainingtips.com/wph/" class="button focus">I WILL SPEND MORE TIME WRITING</a>
+**[I WILL SPEND MORE TIME WRITING](https://callcentertrainingtips.com/wph/)**
