@@ -57,6 +57,6 @@ I worked a more stressful job as a virtual assistant and eventually got promoted
 
 But that's for another story.
 
-**[](https://callcentertrainingtips.com/wetips/)**
+**[I WANT TO DO THIS GIVE ME SOME TIPS](https://callcentertrainingtips.com/wetips/)**
 
 **[I WANT TO EARN MONEY WRITING](https://callcentertrainingtips.com/contact/)**
