@@ -1,11 +1,11 @@
 --- 
 layout: page
-title: Writing to Earn 4 hours
+title: 4 Hours Writing to Earn
 date: 2020-06-21 23:29
 permalink: /we4/ 
 author: Kevin Olega 
 --- 
-## My First Year as a Freelance Writer Part 1
+### My First Year as a Freelance Writer Part 1
 
 When I got a little more experience as a writer, I earned $1.50 for every 100 words that I've written.
 
@@ -33,4 +33,9 @@ $4,320 is Php 216,000.
 
 If I kept a less stressful part-time job that is close to home, and wrote for four hours a day, and saved the money that I earned writing short articles, I would have an additional Php 216,000 at the end of the year.
 
+### What do you want to do next?
+
+**[I WANT TO CHANGE MY WORK HOURS](https://callcentertrainingtips.com/wey1/)**
+
+**[I WANT MORE MONEY](https://callcentertrainingtips.com/wey2/)**
 

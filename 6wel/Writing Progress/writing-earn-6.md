@@ -43,4 +43,6 @@ This amount of money is double my call center income.
 
 At this point, I got a part-time job close to home watching a gym's front desk.
 
+**[I'LL WORK MORE AND EARN MORE](https://callcentertrainingtips.com/we8/)**.
 
+**[SHOW ME THE MAXIMUM INCOME OF AN EIGHT HOUR SHIFT](https://callcentertrainingtips.com/we8/)**

@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Writing Progress Activity
+title: Better Writing, Life and Income
 date: 2020-06-21 23:29
 permalink: /wphend/ 
 author: Kevin Olega 
@@ -65,12 +65,12 @@ I was posting some of my writing on my websites when I got home.
 
 In 2016, I tried getting a job as a writer.
 
-I found a part time job.
+I found a part time writing job writing about my experience in the gym.
 
 After a few months, after receiving my first paycheck, I decided that I will begin working from home.
 
 ### What do you want to do?
 
-**[I'M CONSIDERING HOW MUCH MONEY I CAN EARN FROM MY WRITING SKILLS](https://callcentertrainingtips.com/)**
+**[I'M CONSIDERING HOW MUCH MONEY I CAN EARN FROM MY WRITING SKILLS](https://callcentertrainingtips.com/weh)**
 
-**[I DON'T WANT TO BECOME A WRITER BUT SHOW ME THE MONEY](https://callcentertrainingtips.com/)**
+**[I DON'T WANT TO BECOME A WRITER BUT SHOW ME THE MONEY](https://callcentertrainingtips.com/weh)**

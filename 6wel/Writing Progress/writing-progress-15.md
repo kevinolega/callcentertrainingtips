@@ -1,11 +1,11 @@
 --- 
 layout: page
-title: Writing Progress Activity 15 minutes
+title: Writing 15 Minutes Daily
 date: 2020-06-21 23:29
 permalink: /wp15m/ 
 author: Kevin Olega 
 --- 
-## Writing for 15 Minutes a Day
+### Writing Progress Activity 15 minutes 
 
 When you write for fifteen minutes a day:
 

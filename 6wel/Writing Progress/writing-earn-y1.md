@@ -25,6 +25,6 @@ After my first year, I left my call center work and took a lower paying and less
 
 ### How many hours do you want to write?
 
-<a href="https://callcentertrainingtips.com/we4/" class="button focus">4 HOURS DAILY</a>
+**[4 HOURS DAILY](https://callcentertrainingtips.com/we4/)**
 
-<a href="https://callcentertrainingtips.com/we5/" class="button focus">5 HOURS DAILY</a>
+**[5 HOURS DAILY](https://callcentertrainingtips.com/we5/)**

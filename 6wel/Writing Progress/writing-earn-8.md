@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Writing to Earn 8 hours
+title: 8 Hours Writing to Earn
 date: 2020-06-21 23:29
 permalink: /we8/ 
 author: Kevin Olega 
@@ -53,7 +53,10 @@ I know that more experienced writers earn more money.
 
 I did not continue working as a professional writer at this point.
 
-I worked a more stressful job as a virtual assistant and eventually worked as a project manager.
+I worked a more stressful job as a virtual assistant and eventually got promoted to a project manager.
 
 But that's for another story.
 
+**[](https://callcentertrainingtips.com/wetips/)**
+
+**[I WANT TO EARN MONEY WRITING](https://callcentertrainingtips.com/contact/)**

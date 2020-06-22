@@ -1,11 +1,11 @@
 --- 
 layout: page
-title: Writing Progress Activity 1 hour
+title: Writing 1 Hour Daily
 date: 2020-06-21 23:29
 permalink: /wp1hr/ 
 author: Kevin Olega 
 --- 
-## Writing for 1 Hour a Day
+### Writing Progress Activity 1 hour
 
 When you write for one hour a day:
 
@@ -34,7 +34,6 @@ After ten years, you've written 100,800 sentences.
 After twenty years, you've written 201,600 sentences.
 
 People tend to overestimate what they can do in a day and underestimate what they can accomplish if they were only consistent for longer than a year.
-
 
 **What do you want to do next?**
 

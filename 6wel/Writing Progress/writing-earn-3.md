@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Writing to Earn 3 hours
+title: 3 Hours Writing to Earn
 date: 2020-06-21 23:29
 permalink: /we3/ 
 author: Kevin Olega 
@@ -33,9 +33,8 @@ $2,160 is Php 108,000.
 
 If I kept my call center job, wrote for three hours a day, and saved the money that I earned writing short articles, I would have an additional Php 108,000 at the end of the year.
 
-### What do you want to do?
+### What do you want to do next?
 
-<a href="https://callcentertrainingtips.com/weh/" class="button focus">I WANT TO CHANGE MY WORK HOURS</a>
+**[I WANT TO CHANGE MY WORK HOURS](https://callcentertrainingtips.com/weh/)**
 
-<a href="https://callcentertrainingtips.com/wey1/" class="button focus">I WANT TO EARN MORE MONEY</a>
-
+**[I WANT TO EARN MORE MONEY](https://callcentertrainingtips.com/wey1/)**

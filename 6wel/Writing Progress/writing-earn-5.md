@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Writing to Earn 5 hours
+title: 5 Hours Writing to Earn
 date: 2020-06-21 23:29
 permalink: /we5/ 
 author: Kevin Olega 
@@ -35,5 +35,11 @@ $5,400 is Php 270,000.
 If I kept a less stressful part-time job that is close to home, and wrote for five hours a day, and saved the money that I earned writing short articles, I would have an additional Php 270,000 at the end of the year.
 
 This amount of money is more substantial than my call center income.
+
+### What do you want to do next?
+
+**[I WANT TO CHANGE MY WORK HOURS](https://callcentertrainingtips.com/wey1/)**
+
+**[I WANT MORE MONEY](https://callcentertrainingtips.com/wey2/)**
 
 

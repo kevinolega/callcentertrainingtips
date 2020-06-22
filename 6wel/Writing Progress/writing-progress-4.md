@@ -1,11 +1,11 @@
 --- 
 layout: page
-title: Writing Progress Activity 4 hours
+title: Writing 4 Hours Daily
 date: 2020-06-21 23:29
 permalink: /wp4hr/ 
 author: Kevin Olega 
 --- 
-## Writing for 4 Hours a Day
+### Writing Progress Activity 4 hours
 
 When you write for four hours a day:
 

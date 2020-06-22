@@ -1,11 +1,11 @@
 --- 
 layout: page
-title: Writing Progress Activity 8 hours
+title: Writing 8 Hours Daily
 date: 2020-06-21 23:29
 permalink: /wp8hr/ 
 author: Kevin Olega 
 --- 
-## Writing for 8 Hours a Day
+### Writing Progress Activity 8 hours
 
 When you write for eight hours a day:
 
@@ -35,7 +35,7 @@ After twenty years, you've written 3,225,600 sentences.
 
 People tend to overestimate what they can do in a day and underestimate what they can accomplish if they were only consistent for longer than a year.
 
-### What do you want to do next?
+**What do you want to do next?**
 
 **[I WILL WRITE FOR 8 HOURS DAILY](https://callcentertrainingtips.com/wphend/)**
 

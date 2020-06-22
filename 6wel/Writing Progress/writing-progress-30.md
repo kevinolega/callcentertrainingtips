@@ -1,11 +1,11 @@
 --- 
 layout: page
-title: Writing Progress Activity 30 minutes
+title: Writing 30 Minutes Daily
 date: 2020-06-21 23:29
 permalink: /wp30m/ 
 author: Kevin Olega 
 --- 
-## Writing for 30 Minutes a Day
+## Writing Progress Activity 30 minutes
 
 When you write for thirty minutes a day:
 
