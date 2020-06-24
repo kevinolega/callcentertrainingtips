@@ -34,7 +34,7 @@ It's the first time someone said I lacked substance.
 
 I smiled and pretended to understand then went on with my day.
 
-	NOTE FROM 2020 KEVIN: This was my first indicator that I didn't have substance in 2007. I was operating on a "fake it till you make it" way of living.
+*NOTE FROM 2020 KEVIN: This was my first indicator that I didn't have substance in 2007. I was operating on a "fake it till you make it" way of living*.
 
 The office had internet so I was hoping I could research later.
 
