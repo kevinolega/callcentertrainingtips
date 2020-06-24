@@ -72,7 +72,7 @@ Imagine a fifty-year-old business owner.
 
 They probably don't read books as much as you do, but they have a lot of lessons from personal experience.
 
-So instead of quoting John Maxwell, Zig Ziglar, Brian Tracy, Jim Rohn, or Tony Robbins, these business owners can talk from experience.
+So instead of quoting John Maxwell, Zig Ziglar, Brian Tracy, Jim Rohn, Dale Carnegie, or Tony Robbins, these business owners can talk from experience.
 
 These business owners make their own decisions based on what they learned.
 
