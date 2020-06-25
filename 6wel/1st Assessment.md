@@ -14,7 +14,7 @@ In this assessment, I want you to answer interview questions.
 
 This activity has two parts.
 
-## Part 1:  Reading the Questions
+## Part 1 - Reading the Questions
 
 I want you to read all the questions aloud twice.
 
@@ -30,7 +30,7 @@ Write down the words that you felt that sounded wrong.
 
 We will discuss this on your first call.
 
-## Part 2: Answer the questions. 
+## Part 2 - Answer the questions. 
 
 **Some tips:**
 
@@ -46,7 +46,7 @@ One word answers kill job applications.
 
 Even two word answers like “yes, sir!” and “no, ma’am!” get applicants eliminated.
 
-## I'll go first:
+## I'll go first...
 
 My name is Kevin.
 
@@ -75,7 +75,7 @@ For questions that require instructions, explanation or stories, keep your longe
 
 Your answers will get better over time as you learn more of the lessons.
 
-## More Tips:
+## More Tips...
 
 **Write like you talk**.
 
