@@ -8,7 +8,7 @@ author: Kevin Olega
 --- 
 I get this question often.
 
-> "I don't want to work in a call center or BPO, should I still answer the call center and BPO related questions?"
+> "I only want to improve my English. I don't want to work in a call center or BPO, should I still answer the call center and BPO related questions?"
 
 Short Answer: Yes, answer ALL the questions.
 
