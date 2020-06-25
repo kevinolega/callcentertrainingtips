@@ -3,7 +3,7 @@ layout: page
 title: First Interview Assessment
 date: 2019-08-31 13:00
 Tags: [ 6wel, activity ]
-permalink: /ia6w/ 
+permalink: /first-assessment/ 
 author: Kevin Olega 
 --- 
 Chances are, this might be the main reason you paid for our lessons.
