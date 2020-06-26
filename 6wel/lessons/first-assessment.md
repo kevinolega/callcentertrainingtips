@@ -8,7 +8,7 @@ author: Kevin Olega
 --- 
 Chances are, this might be the main reason you paid for our lessons.
 
-Our main goal, is to get you comfortable talking during your interviews.
+Our main goal is to get you comfortable talking during your interviews.
 
 In this assessment, I want you to answer interview questions.
 
@@ -20,7 +20,7 @@ I want you to read all the questions aloud twice.
 
 Read the questions as if you were an interviewer.
 
-I want you to pretend that you’re the interviewer and you are asking the questions.
+I want you to pretend that you're the interviewer, and you are asking the questions.
 
 Now ask away.
 
@@ -36,15 +36,15 @@ We will discuss this on your first call.
 
 Use complete sentences.
 
-Avoid one word answers.
+Avoid one-word answers.
 
-Don’t just say yes, no, the number, the one word answer.
+Don't just say yes, no, the number, the one-word answer.
 
 Answer in complete sentences.
 
 One word answers kill job applications.
 
-Even two word answers like “yes, sir!” and “no, ma’am!” get applicants eliminated.
+Even two word answers like "yes, sir!" and "no, ma'am!" get applicants eliminated.
 
 ## I'll go first...
 
@@ -54,40 +54,40 @@ I live in Parañaque.
 
 I previously worked in sales.
 
-I want to work in a call center because I’m attracted to the high pay, benefits and opportunities for advancement.
+I want to work in a call center because I'm attracted to the high pay, benefits, and opportunities for advancement.
 
-I also like the fact that call center work has a predictable schedule and the reputable call center companies pay well and pay on time.
+I also like the fact that call center work has a predictable schedule, and the reputable call center companies pay well and pay on time.
 
 I studied at iAcademy in Makati.
 
 I took up Business Management.
 
-I spend my free time writing, reading books and taking online courses.
+I spend my free time writing, reading books, and taking online courses.
 For questions that require a short answer, stick to one to two sentences.
 
-## There are questions that require longer answers
+## Some questions require longer answers
 
-For questions that require a longer answer try to explain in three to five sentences.
+For questions that require a longer answer, try to explain in three to five sentences.
 
-For questions that require instructions, explanation or stories, keep your longer answers within 10-20 sentences.
+For questions that require instructions, explanations, or stories, keep your longer answers within 10-20 sentences.
 
-**Remember: This is the version 0.01 of your interview answers. By the end of our lessons, you will have version 0.47.**
+**Remember: This is version 0.01 of your interview answers. By the end of our lessons, you will have version 0.47.**
 
 Your answers will get better over time as you learn more of the lessons.
 
 ## More Tips...
 
-**Write like you talk**.
+**Write as you speak**.
 
 If you are more comfortable talking instead of writing, do this:
 
 - Use the voice recorder or video recorder on your phone
 - Begin answering the questions. 
-- Listen to your recording and write down your answer on your notebook. 
-- Make corrections to anything that doesn’t sound correctly.
+- Listen to your recording and write down your answer in your notebook. 
+- Make corrections to anything that doesn't sound correct.
 - Repeat the process.
 
-You’re free to give longer answers to questions that require an explanation.
+You're free to give longer answers to questions that require an explanation.
 
 If you have a lot of free time, try to give a longer answer and a shorter answer.
 
@@ -97,25 +97,25 @@ If you find an error, cross it out and write down your new answer.
 
 If you figure out a better answer, write that down.
 
-If you have ten ideas on how to answer the question, write all those answers down and select the best one.
+If you have ten ideas on how to answer the question, write all those answers down, and select the best one.
 
-In order to become good at speaking, you also need to do a lot of writing.
+To become good at speaking, you also need to do a lot of writing.
 
 Sometimes you only need to change 2-3 words.
 
-And that’s okay.
+And that's okay.
 
-There is no shame in repeating an activity especially if the newer answer is better than the previous attempt.
+There is no shame in repeating an activity, especially if the newer answer is better than the previous attempt.
 
-I have worked with top performers in the corporate world, professional athletes and seven figure income entrepreneurs.
+I have worked with top performers in the corporate world, professional athletes, and seven-figure income entrepreneurs.
 
-One thing that I learned, is that making tiny improvements to your activities every day is the key to success.
+One thing that I learned is that making tiny improvements to your activities every day is the key to success.
 
 Remember.
 
-This is version 0.01!
+This exercise is version 0.01!
 
-I’m excited to see your version 0.50!
+I'm excited to see your version 0.50!
 
 God bless.
 
@@ -124,21 +124,21 @@ Kevin Olega
 ## Interview questions follow...
 
 
-**Hi. My name is Kevin. What’s your name?**
+**Hi. My name is Kevin. What's your name?**
 
 **Where do you live?**
 
 **Are you currently working?**
 
-**That’s awesome! What’s your current work?**
+** That's awesome! What's your current work?**
 
 **Where is your office?**
 
-**What’s your previous job?**
+** What's your previous job?**
 
 **What does a typical workday look like for you?**
 
-**No work? So you’re in between jobs?**
+**No work? So you're in between jobs?**
 
 **Where did you finish college?**
 
@@ -150,17 +150,17 @@ Kevin Olega
 
 **Why did you pick that?**
 
-**What’s the most attractive benefit of working for a call center?**
+** What's the most attractive benefit of working for a call center?**
 
 **Why do you find that benefit attractive?**
 
 **What worries you the most about working in a call center?**
 
-**What’s your plan to overcome that challenge?**
+** What's your plan to overcome that challenge?**
 
 **Where do you experience doubt in your skills?**
 
-**If call center work wasn’t an option for you, what would your job be and why?**
+**If call center work wasn't an option for you, what would your job be and why?**
 
 Attendance and keeping your promises are extremely valuable to our company.
 
