@@ -37,7 +37,7 @@ Feel free to explore.
 
 When you get the chance, please enroll in our coaching to learn new skills and support our website.
 
-It only costs Php 250.
+It only costs ₱300.
 
 <a href="https://callcentertrainingtips.com/6WEL250/" class="button focus">CLICK HERE TO GET COACHING</a>
 
