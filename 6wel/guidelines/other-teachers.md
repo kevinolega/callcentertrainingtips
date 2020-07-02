@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: Don't Listen to Other Teachers
 date: 2020-07-02 21:56
 Tags: [ uncategorized, guidelines ]
