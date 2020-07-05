@@ -30,6 +30,14 @@ Then you attend 16 interviews.
 
 Expect 5 interviews to be bad, 5 job offers to be bad and the last 5 companies to have good job offers.
 
+### Sir Kevin...
+
+Just call me Kevin.
+
+I talked about it in detail on this lesson.
+
+[READ:Stop Using Sir and Ma'am](https://callcentertrainingtips.com/sir-maam-confidence/).
+
 ### How do I improve my English?
 
 Don't watch English movies.
