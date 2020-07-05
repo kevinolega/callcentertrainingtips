@@ -76,7 +76,7 @@ The mechanic will then look for the part that needs to be repaired and replace, 
 
 This method applies to cellphone and computer repair.
 
-This method appies to fixing customer service and sales spiels.
+This method applies to fixing customer service and sales spiels.
 
 This method applies to problem solving.
 
