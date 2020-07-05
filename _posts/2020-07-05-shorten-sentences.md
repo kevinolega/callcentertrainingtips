@@ -2,7 +2,7 @@
 layout: post 
 title: Shorten Sentences
 date: 2020-07-05 15:30
-permalink: /shorter/ 
+permalink: /ss/ 
 Tags: [ uncategorized, blog ]
 author: Kevin Olega 
 --- 
