@@ -103,3 +103,9 @@ TK EDIT: Please write more examples.
 3. Cycling
 4. Parenting
 5. Another Skill.
+
+Note: A few hours after posting this lesson, we noticed a couple of more spelling errors in the bad examples.
+
+I decided to leave that alone to prove the point.
+
+When you write long sentences like these, it's easy to miss mistakes that you wouldn't normally miss when you use shorter sentences.
