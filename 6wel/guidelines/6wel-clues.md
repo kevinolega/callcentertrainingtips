@@ -123,6 +123,8 @@ I recommend writing shorter sentences whenever possible.
 
 ## Week 1 Lesson 6
 
+Read this lesson carefully so you can learn how to expand your ideas.
+
 Do your best to write 100 sentences.
 
 ## Week 1 Lesson 7
@@ -130,3 +132,9 @@ Do your best to write 100 sentences.
 Please write about 2019.
 
 If you want additional practice, write about another year.
+
+## Phone Coaching Session One
+
+Week 1 coaching gets scheduled as soon as you complete answering activity 1 to 7.
+
+Please send us a message as soon as you complete all seven activities so we can schedule your first phone coaching session.
