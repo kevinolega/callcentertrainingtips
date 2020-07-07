@@ -31,7 +31,7 @@ So really the main reason to contact me is to **introduce yourself**, which I ho
 
 If you want the announcements and opportunities that I never post publicly:
 
-[Click here to join my private email list](https://eepurl.com/riFT1).
+[Click here to join my private email list](https://tinyletter.com/cctt).
 
 
 ### … or just follow

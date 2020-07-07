@@ -38,4 +38,4 @@ Please be patient and polite as I get hundreds of messages a week from other peo
 
 Training materials and lessons are available for free on the website.
 
-<a href="https://eepurl.com/riFT1" class="button focus">Get Free Email Lessons</a>
+<a href="https://tinyletter.com/cctt" class="button focus">Get Free Email Lessons</a>

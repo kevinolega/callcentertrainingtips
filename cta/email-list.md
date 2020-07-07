@@ -30,6 +30,6 @@ So let's do a quick call, and I'll help you get started.
 
 I'll also answer your questions over the phone or on Skype.
 
-[CLICK HERE TO SIGN UP AND GET FREE EMAIL LESSONS](https://eepurl.com/riFT1)
+[CLICK HERE TO SIGN UP AND GET FREE EMAIL LESSONS](https://tinyletter.com/cctt)
 
 ![IMAGE TEXT]({{ site.url }}/images/email.jpg).

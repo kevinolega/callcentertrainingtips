@@ -470,4 +470,4 @@ _**[>CLICK HERE TO STAY IN TOUCH AND GET MORE FREE LESSONS<][4]**_.
 [1]:	https://callcentertrainingtips.com/contact/
 [2]:	https://www.facebook.com/profile.php?id=247824095581789&ref=br_rs
 [3]:	https://facebook.com/callcentertrainingtips
-[4]:	https://eepurl.com/riFT1
+[4]:	https://tinyletter.com/cctt
