@@ -179,6 +179,6 @@ That said, you can practice writing your answers, stories, questions and instruc
 
 Need help with your answers?
 
-Send an email to callcentertrainingtips@gmail.com
+Send an email to kevin@callcentertrainingtips.com
 
 Kevin O.

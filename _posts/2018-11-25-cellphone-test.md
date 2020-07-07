@@ -67,4 +67,4 @@ Start answering the above questions but instead of talking about your phone or i
 
 Begin. 
 
-You may send your answers to Callcentertrainingtips@gmail.com and I'll do my best to check your answers when I'm logged in.
+You may send your answers to kevin@callcentertrainingtips.com and I'll do my best to check your answers when I'm logged in.

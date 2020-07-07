@@ -15,7 +15,7 @@ In a lot of cases, our email got sent to the Promotions or SPAM Folder.
 
 Please search for our email address.
 
-callcentertrainingtips@gmail.com
+kevin@callcentertrainingtips.com
 
 If you still do not find the emails, please let us know.
 

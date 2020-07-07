@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 Thank you for visiting my website. Here are the best ways to contact me.
 
-I love hearing from people, so please email me at [callcentertrainingtips@gmail.com](mailto:callcentertrainingtips@gmail.com) and introduce yourself.
+I love hearing from people, so please email me at [kevin@callcentertrainingtips.com](mailto:kevin@callcentertrainingtips.com) and introduce yourself.
 
 ### Why? Here are two reasons:
 

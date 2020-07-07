@@ -22,7 +22,7 @@ We will be correcting your mistakes, and I'll guide you until you get hired.
 
 [CLICK HERE TO VISIT OUR AFFILIATE TUTORIAL WEBSITE](https://philippinesprivateenglishtutors.com/)
 
-[Please send an email](mailto:callcentertrainingtips@gmail.com) or a [Facebook message](https://www.facebook.com/callcentertrainingtips/) to inquire.
+[Please send an email](mailto:kevin@callcentertrainingtips.com) or a [Facebook message](https://www.facebook.com/callcentertrainingtips/) to inquire.
 
 ### Free Email Lessons
 
