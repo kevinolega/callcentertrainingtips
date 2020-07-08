@@ -2,7 +2,7 @@
 layout: page
 title: Welcome New Subscriber
 date: 2020-07-07 13:30
-permalink: /subscriber/ 
+permalink: /subscribers/ 
 author: Kevin Olega 
 --- 
 Thank you for joining my top subscribers.

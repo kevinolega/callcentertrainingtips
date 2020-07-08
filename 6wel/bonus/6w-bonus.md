@@ -65,3 +65,8 @@ IN PROGRESS
 Learn the common terms used in call center.
 
 [Here are call center words that you need to know](https://callcentertrainingtips.com/words/).
+
+
+### Photos Activity
+
+[ACTIVITY: Do This Activity](https://callcentertrainingtips.com/photo6w/).
