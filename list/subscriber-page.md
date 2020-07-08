@@ -54,7 +54,7 @@ When you have a list, you save time and stay motivated.
 
 ## Invest in a Notebook
 
-A 0notebook is a powerful tool. Use it to qualify for a 50k job. In this lesson, I'll teach you how.
+A notebook is a powerful tool. Use it to qualify for a 50k job. In this lesson, I'll teach you how.
 
 **[READ: Notebook](https://callcentertrainingtips.com/notebook)**.
 
