@@ -24,3 +24,8 @@ https://p85qk.app.goo.gl/4M9Y
 USE THE REFERRAL CODE
 
 129PEAT
+
+
+If you would like to send us funds through PayMaya...
+
+Our PayMaya number is 09178952637.
