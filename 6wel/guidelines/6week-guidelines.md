@@ -298,4 +298,11 @@ If you would like to do some additional activities and find out more about us, p
 
 [https://callcentertrainingtips.com](https://callcentertrainingtips.com)
 
-**Last update: Wednesday, June 17, 2020**
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WpyxZIrX8EI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[CLICK HERE TO WATCH VIDEO](https://youtu.be/WpyxZIrX8EI).
+
+
+**Last update: Saturday, July 25, 2020**
