@@ -47,3 +47,10 @@ Pray to your best self.
 Pray to your highest intelligence.
 
 It's important to pray.
+
+I'm going to sound incredibly selfish saying this.
+
+More importantly, it is beneficial that you pray.
+
+Start praying.
+
