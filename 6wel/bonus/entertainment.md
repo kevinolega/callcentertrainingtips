@@ -79,7 +79,7 @@ These hours are based on the total play time of the series.
 
 This does not include the times I re-watched episodes.
 
-###  Free Entertainment is Not Free
+### Free Entertainment is Not Free
 
 It's embarrassing to admit that I re-watched these shows several times.
 

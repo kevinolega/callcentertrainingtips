@@ -98,14 +98,26 @@ I'm exhausted.
 
 TK EDIT: Please write more examples.
 
-1. Baking
-2. Cooking
-3. Cycling
-4. Parenting
-5. Another Skill.
+I believe that people who know how to bake will make good hires because they follow the rules of the recipe to the dot and I'm thinking that you can expect them to be obedient, consientious and disciplined, because there's such a low margin for error in baking so if a person has been baking for a while and you try their pastry, you can expect them to be dependable and responsible and I know you want more people like that in your company.
+
+People who know how to cook know more than one skill because to become an excelent cook, you need to be organized, you have to know how to slice meat and vegetables, you also need to know how to control temperature through the use of different kitchen gadgets and cookware so that you can follow a recipe that will give you a great dish and I know for a fact that people who can cook can apply these skills and disciplines to not just cooking but to any field.
+
+Cyclists are excelent hires because as an activity, cycling requires a person to be positive and to keep both looking and moving forward to get anywhere and to do so you need to travel light, and be intelligent with your decision-making because bringing too much can ruin your cycling trip and I believe that when you hire cyclists, you'll get 
+
+
+In order to become a successful parent, you need to be incredibly disciplined, cautious and conscientious, because one tiny mistake can result in a dead baby and if your goal is to have your child survive to adulthood, you tend to do anything and everything to ensure that that goal is fulfiled because failure means death, and as you know, parenting is not just one skill, you need to learn food prep, nutrition, you need to be good at cleaning, hygiene, anatomy, first aid and a bunch of other complex skills because one mistake is fatal and if someone can do all that, you can expect that parent to be responsible and dependable in their professional career.
+
+
+People in sales are expected to be knowledgable in the product and to know how to market and sell the product and for them to do so they need to get used to talking to people, asking them questions, listening well so they can know about their motivations and offer their product or service effectively otherwise the sales person will have no sale and a lot of people who stay in sales are incredibly good at prospeting, qualifying, presenting and closing sales and even if they have to do a different job, you can expect them to be thourough, positive and persistent with what they do.
 
 Note: A few hours after posting this lesson, we noticed a couple of more spelling errors in the bad examples.
 
 I decided to leave that alone to prove the point.
 
 When you write long sentences like these, it's easy to miss mistakes that you wouldn't normally miss when you use shorter sentences.
+
+These long examples are painful to read huh?
+
+That's the point.
+
+Practice writing shorter sentences.
