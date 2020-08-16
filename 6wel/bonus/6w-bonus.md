@@ -27,6 +27,14 @@ This also teaches you basic call center mindsets that boosts your confidence.
 
 [Click here to read lesson](https://callcentertrainingtips.com/confident/).
 
+## My Stories are Examples
+
+I made an effort to give you the long version of my personal stories on the lessons.
+
+Here's the reason why I did it.
+
+[Click here to read lesson ](https://callcentertrainingtips.com/se/)
+
 
 ## Different Skill Levels
 

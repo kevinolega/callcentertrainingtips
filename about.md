@@ -9,23 +9,29 @@ Call Center Training Tips is the largest collection of lessons about call center
 
 Originally shared with four friends, this website grew into my personal library of career advice.
 
-The goal is to inspire friends to build professional skills that will allow you to achieve your dream income.
+The goal is to inspire friends build professional skills that will allow you to achieve your dream income.
 
-I decided to write the lessons on the website that I wanted to read. 
+I wrote the lessons that I wanted to read. 
 
-The website that I wish existed when I started looking for work.
+This is the website that I wish existed when I started looking for work.
 
-We also have a [Facebook community](https://facebook.com/callcentertrainingtips/). 
+We have a small [Facebook community](https://facebook.com/callcentertrainingtips/). 
 
-I'm Kevin and I have been helping friends get hired in a call center since 2005 and I began publishing my lessons in 2012.
+My name is Kevin and I've been helping friends get hired in a call center since 2005. 
+
+I began publishing my lessons in 2012.
 
 [My lessons already helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
-Several hundred Filipinos had sent me letters and messages, thanking and informing me of their success, that they are already hired in a call center. 
+A few hundred Filipinos sent me letters and messages, thanking and informing me of their success.
+
+Most messages tell me that they are already hired in a call center. 
+
+Thank you for the tips.
 
 Some readers went as far as sending me gifts and donations to help keep this website running.
 
-Some readers have hired me to assist them to get better results in their job application or promotion interviews.
+Some readers hired me to assist them in their job application or promotion.
 
 I spend several hours every week writing and publishing new lessons.
 
@@ -45,21 +51,31 @@ This website was designed with shy Filipinos in mind.
 
 Most of my friends, including myself are introverts.
 
-A few years ago I accompanied friends to interviews and give them ideas on how to improve until they got hired. 
+A few years ago I accompanied friends to interviews.
 
-It normally takes us 4-6 call centers until they get hired. 
+I gave them ideas on how to improve.
 
-When they get hired, we go for pizza and they buy me a few beers after.
+I assisted them until they got hired. 
+
+It normally takes us four to six call center companies until they get hired. 
+
+When they got hired, we celebrate with pizza.
+
+I also receive free beer.
 
 In 2005, I worked for a call center training school. 
 
-I assisted students with the enrollment process and gave additional coaching upon graduation.
+I assisted students with the enrollment process.
 
-Over the years, the mistakes, experience, studies, and questions led me to accumulate a massive amount of lessons.
+I gave the students job application tips upon graduation.
+
+Over the years, the mistakes, experience and research led me to accumulate a massive amount of lessons.
 
 You'll find lessons on how to improve confidence, speak better English, present well during interviews and job hunting strategies on this website.
 
-I am grateful for the opportunity to contribute my experience with you and I'm excited that you'll pick up something useful.
+I am grateful for the opportunity to contribute my experience with you.
+
+I'm excited that you'll pick up something useful.
 
 I hope you enjoy reading and learning as I much as I enjoyed writing and putting this website together.
 
@@ -87,8 +103,8 @@ Here are some things about me.
 - I'm a minimalist. I live with less than 250 things.
 - I like reading, writing, and talking to people.
 - I often order black brewed coffee at coffee shops and Chamomile tea in the evening.
-- I'm geeky when it comes to Naruto, Fairy Tail, Hannibal, How I Met Your Mother, Starcraft, Diablo 2, Tekken, martial arts, and tech stuff.
-- I enjoy cooking, Crossfit, biking, and outdoor activities like hiking and trekking.
+- I'm geeky when it comes to Naruto, Fairy Tail, How I Met Your Mother, Starcraft, Diablo 2, Tekken, martial arts, and tech stuff.
+- I enjoy cooking, Crossfit, weightlifting, cycling, and outdoor activities like hiking and trekking.
 
 ![IMAGE TEXT]({{ site.url }}/images/My Gamer Mindset.png).
 
@@ -100,7 +116,11 @@ I get a lot of messages from shy Filipinos from all over the Philippines.
 
 I also get messages from Filipinos from around the world.
 
-Many of them want to work in a call center, some want to read up or connect with someone for English lessons. 
+Many of my readers want to work in a call center.
+
+Some readers want to read free lessons.
+
+Some readers want to connect with another person for English lessons. 
 
 **What is the best way to ask for your help?**
 
@@ -111,7 +131,11 @@ Next, read "[How To Ask Mentors For Help](https://callcentertrainingtips.com/men
 
 **Who pays for all this?**
 
-I do. Every now and then someone asks me to assist them with their job application and offers to treat me to coffee and pay me some money. 
+I do. 
+
+Every now and then I receive offers from people who want to pay me to assist them with their job application.
+
+Every now and then, I receive donations on the site.
 
 I use the money to buy tools and pay for this website's maintenance. 
 
@@ -135,29 +159,33 @@ I hope someone this site has helped gets to read this and consider contacting me
 
 ## My Call Center Training Credentials 
 
-I helped grow a call center training school in Quezon City, Makati, and Ortigas.
+I grew up with the reputation of having horrible communication skills.
 
-Eventually, the company opened its own small call center in Ortigas. 
+I'm not an English major. 
 
-Unfortunately, the owner of the company went to the States and the school closed down.
+I'm not a communications graduate. 
 
-I helped build the initial program and did research on how to find work in a call center from back in 2005 when I was asked to apply at well-known call center companies in order to learn the recruitment process and to understand how to qualify for a call center position.
+I only had one year of college.
 
-I then further tried to improve and found a way to put what I learned to good use by teaching and giving tips to friends who are looking for work in a call center.
+Despite these disadvantages, my studies have allowed me to qualify for jobs that require a higher level of communication skills. 
 
-I did this for about two years and I’ve been giving away these tips for over ten years already.
+I have four years of call center work experience.
 
-I am not an English major. 
+I have two years experience assisting in the call center training school. 
 
-I am not a communications graduate. 
+I consider this a blessing because several call centers accept high school graduates and only a handful of strict ones require two years or a degree in college.
 
-I only have four years of call center work experience and two years of assisting in the call center training school. 
+I'm a kinesthetic learner.
 
-I only had one year of college, which is a blessing because several call centers accept high school graduates and only a handful of strict ones require two years or a degree in college.
+That means I learn about things through active research, personal experience, and the help of people better than me.
 
-I'm a kinesthetic learner so I learn about things through active research, personal experience, and the help of people better than me.
+What I offer on this website are about my personal experience.
 
-What I offer on this website is my personal experience on how I helped myself and a few friends get hired in a call center and other high paying jobs by improving their communication skills.
+The lessons are a documentation of strategies and stories of how I helped myself.
+
+Occassionally I share about how I assisted a few friends get hired in a call center and other high paying jobs.
+
+I spent a lot of time studying strategies on improving confidence and communication skills.
 
 I am not an expert in grammar, pronunciation or accents but I've improved mine to a point where nobody complains about it.
 
@@ -165,11 +193,38 @@ I spent the last fifteen years working in jobs that require high-level communica
 
 I teach how I communicate and the story behind my techniques.
 
-My training focuses on building confidence while speaking in English, correcting common grammar and pronunciation mistakes, basics of call center work, and preparing for call center interviews.
+My training focus on:
+
+- Building confidence while speaking in English.
+- Correcting common grammar and pronunciation mistakes.
+- Basics of call center work.
+- Preparing for call center interviews.
+- Designing and building your dream life around call center income.
 
 You can read all the lessons here for free.
 
 This is my primary form of community service.
+
+## How did this interest start?
+
+In 2005, I worked for the pioneer call center training school in Quezon City.
+
+I secretly went through the job application process of well-known call center companies to understand qualifications for call center work.
+
+My research became the base material for how to find work in a call center.
+
+Unfortunately, the owner of the company migrated and the school closed down in 2009.
+
+Outside the call center school, I worked on improving my strategies for personal use.
+
+I had bad communication skills and continued my research to fix my own problems.
+
+Eventually, I taught my friends how to get call center work.
+
+I’ve been giving away these lessons and tips for over fifteen years already.
+
+[Read Full Story: Interest](https://callcentertrainingtips.com/interestcc/).
+
 
 [You can also hire us to help you through personalized English lessons](https://callcentertrainingtips.com/6WEL250/).
 
@@ -214,10 +269,11 @@ This allowed me to jump to better opportunities.
 
 I eventually worked in a call center. I have been working in a call center for three years. In my first year, I almost failed regularization. My new boss told me that my previous boss recommended me for termination. He didn't stop there though. He helped me identify my strengths and overcome my weaknesses and eventually I got regularized. The next month, I was awarded top agent for customer feedback. The following year, I was awarded top agent again for the most number of repair calls converted into sales. Using the same method my boss taught me, I just got really better at what I did. If you're interested I can also teach you. Just send me a message.
 
+[READ: Full Story](https://callcentertrainingtips.com/gerry).
+
 ### Update 2017:
 
 I have left the call center after three years. I was a top agent twice and was classified super agent for the day.I now work from home taking care of foreign clients with their business. I used the call center money to buy the computers I need for a home-based work setup, I bought the tools to build a beautiful kitchen, I bought a few bikes to take care of my transportation and I enrolled at CrossFit to help manage my depression.
-
 
 [My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
@@ -228,6 +284,12 @@ I'm still working remotely (from anywhere). Some days, I work from home, some da
 ### Update 2020:
 
 Last December, we launched a six week English learning program and attracted hundreds of students. I spend half my day sending lessons, helping my students improve their communication skills and giving career advice.
+
+<img src="{{ site.url }}/images/Kevin-CM.jpg" width="300">
+
+Shortly after Mitzi began to help me manage the students and in March, Carla began to help us with answering messages.
+
+I rent a small venue that doubles as my office, studio and personal gym.
 
 I have more free time to write. 
 
