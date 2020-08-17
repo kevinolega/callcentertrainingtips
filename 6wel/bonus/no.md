@@ -2,7 +2,7 @@
 layout: page
 title: You can say no
 date: 2020-08-17 11:31
-permalink: /no/ 
+permalink: /n/ 
 author: Kevin Olega 
 --- 
 You can say no.
