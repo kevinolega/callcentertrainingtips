@@ -9,25 +9,35 @@ Thank you for enrolling in our English lessons.
 
 ## Announcements
 
-[Pronunciation Coaching Video](https://youtu.be/fezqHqAwKqY)
+[Pronunciation Coaching Video](https://callcentertrainingtips.com/pros2)
 
 ## Reminders
 
 Please submit lesson 1-7 to complete week 1 and schedule phone coaching.
 
-## Bonus Lessons
+Week 1 to 3 - Please do your best to expand your answers.
 
-[Read Bonus Lessons](https://callcentertrainingtips.com/6wbonusl/)
+**Note:** 
+
+You should increase the number of sentences.
+
+Do not write longer sentences.
+
+[READ: CLUES](https://callcentertrainingtips.com/6wclues/)
+
+Week 4 to 6 - We will use your previous words to select the best senences for your day to day conversations.
 
 ## Guidelines
 
-[](https://callcentertrainingtips.com/6wlguide/)
+[READ: Guidelines](https://callcentertrainingtips.com/6wlguide/)
 
 ## Frequently Asked Questions
 
-[](https://callcentertrainingtips.com//faq6students/)
+[Read:FAQ](https://callcentertrainingtips.com//faq6students/)
 
 ## Stages
+
+Here's what to expect in the next six weeks.
 
 ### Week 1
 
@@ -45,6 +55,10 @@ Lesson 6 - Fun with Formats
 
 Lesson 7 - Let's Talk About Your Year
 
+Coaching - Kevin will read through your answers and help you with your grammar and answer your questions. 
+
+Please list down your questions.
+
 ### Week 2
 
 Lesson 1 - Daily Journal
@@ -61,6 +75,10 @@ Lesson 6 - Brain Dump
 
 Lesson 7 - What I Learned
 
+Coaching - You will read words from the list and Kevin will help correct your pronunciation.
+
+[Pronunciation Coaching Video](https://callcentertrainingtips.com/pros2)
+
 ### Week 3
 
 Unlocks upon completion of previous week.
@@ -76,3 +94,7 @@ Unclocks upon completion of previous week.
 ### Week 6
 
 Unlocks upon completion of previous week.
+
+## Bonus Lessons
+
+[Read Bonus Lessons](https://callcentertrainingtips.com/6wbonusl/)
