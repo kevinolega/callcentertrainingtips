@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Pronunciation Practive Preview
+title: Pronunciation Practice Preview
 date: 2020-08-17 12:14
 permalink: /pros2/ 
 author: Kevin Olega 
@@ -9,7 +9,7 @@ This is a sample of what happens during session two of our phone coaching.
 
 We provide you with the list of the 100 most used words in the English language.
 
-These words are used most of the time.
+These words are used most of the time for both spoken and written English.
 
 In this session we read through the words and I'll help you correct the errors.
 
