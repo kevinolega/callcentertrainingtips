@@ -11,21 +11,23 @@ Thank you for enrolling in our English lessons.
 
 [Pronunciation Coaching Video](https://callcentertrainingtips.com/pros2)
 
+[Feeling down? Watch this video](https://callcentertrainingtips.com/7emails).
+
 ## Reminders
 
 Please submit lesson 1-7 to complete week 1 and schedule phone coaching.
 
 Week 1 to 3 - Please do your best to expand your answers.
 
-**Note:** 
-
-You should increase the number of sentences.
+Increase the number of sentences.
 
 Do not write longer sentences.
 
+Week 4 to 6 - We will use your previous words to select the best senences for your day to day conversations.
+
 [READ: CLUES](https://callcentertrainingtips.com/6wclues/)
 
-Week 4 to 6 - We will use your previous words to select the best senences for your day to day conversations.
+[READ: HOW TO FIX YOUR ERRORS](https://callcentertrainingtips.com/fixthis/)
 
 ## Guidelines
 
