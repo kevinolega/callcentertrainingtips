@@ -13,6 +13,8 @@ Thank you for enrolling in our English lessons.
 
 [Feeling down? Watch this video](https://callcentertrainingtips.com/7emails).
 
+[Do you want to earn money from writing?](https://callcentertrainingtips.com/wni)
+
 ## Reminders
 
 Please submit lesson 1-7 to complete week 1 and schedule phone coaching.
