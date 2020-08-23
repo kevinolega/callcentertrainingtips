@@ -9,5 +9,5 @@ What do you want to do next?
 
 **[TELL ME WHAT TO DO](https://callcentertrainingtips.com/wbuild/)**
 
-**[I WANT TO INTRODUCE MYSELF AND ASK QUESTIONS](https://callcentertrainingtips.com/contact/)**
+**[I WANT TO INTRODUCE MYSELF AND ASK QUESTIONS](https://forms.gle/zBLh7ED1GXLLGrdv8/)**
 

@@ -59,4 +59,4 @@ But that's for another story.
 
 **[I WANT TO DO THIS GIVE ME SOME TIPS](https://callcentertrainingtips.com/wetips/)**
 
-**[I WANT TO EARN MONEY WRITING](https://callcentertrainingtips.com/contact/)**
+**[I WANT TO EARN MONEY WRITING](https://forms.gle/zBLh7ED1GXLLGrdv8)**

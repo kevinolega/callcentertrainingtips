@@ -38,4 +38,4 @@ I'm posting a link here for your reference.
 
 NEXT STEP:
 
-**[SEE MY FUTURE](https://callcentertrainingtips.com/wph/)**.
+**[TELL ME MORE](https://callcentertrainingtips.com/wph/)**.

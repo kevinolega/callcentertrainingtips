@@ -77,3 +77,5 @@ Activities follow.
 ### Level 7
 
 - Unlocks upon completion of level six.
+
+[REGISTER HERE](https://forms.gle/zBLh7ED1GXLLGrdv8).
