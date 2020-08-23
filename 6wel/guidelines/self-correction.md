@@ -113,4 +113,6 @@ I reside at - I live in.
 
 K - Okay. I got you. I understand.
 
+22 years of age - 22 years old. 
+
 
