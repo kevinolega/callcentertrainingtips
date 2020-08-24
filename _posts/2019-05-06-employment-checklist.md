@@ -25,7 +25,7 @@ Primary requirements are often required immediately (usually the same week or th
 
 Any printout that came from SSS and has their full Name, SSS Number and Birthdate. 
 
-You can [visit the SSS website](https://sss.gov.ph) to obtain this. 
+You can [visit the SSS website](https://www.sss.gov.ph) to obtain this. 
 
 **TIN Document.**
 
