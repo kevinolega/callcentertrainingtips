@@ -197,5 +197,3 @@ And NOT making a contribution...
 I won't be very happy to help you in the future.
 
 I want a relationship where I'll support you, and you'll support me and we'll win together.
-
-[Click here to team up with me](https://callcentertrainingtips.com/promo)!!!

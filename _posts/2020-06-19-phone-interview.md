@@ -30,7 +30,7 @@ Brush your teeth and shower in the morning.
 
 This activates your professional mode.
 
-[READ: Professional Mode](https://callcentertrainingtips.com/professional-mode/)
+[READ: Professional Mode](https://callcentertrainingtips.com/professional/)
 
 ## Practice your English stories.
 

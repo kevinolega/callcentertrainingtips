@@ -6,7 +6,7 @@ Tags: [ lessons, mindset, website ]
 permalink: /skills-reward/ 
 author: Kevin Olega 
 --- 
-[During my first training session, we learned that performers get paid and observers pay](https://callcentertrainingtips.com/performer-observer).
+[During my first training session, we learned that performers get paid and observers pay](https://callcentertrainingtips.com/perform-observe).
 
 My first big excuse is...
 

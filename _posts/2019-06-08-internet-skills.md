@@ -60,7 +60,7 @@ For example, try searching for:
 
 **Google Maps**
 
-If you're looking for a place, just [try checking Google Maps first](https:maps.google.com).
+If you're looking for a place, just [try checking Google Maps first](https://maps.google.com).
 
 
 ## Email and Skype
