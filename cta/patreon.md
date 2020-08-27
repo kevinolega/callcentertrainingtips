@@ -10,4 +10,4 @@ author: Kevin Olega
 
 If you would like to support us on Patreon, here's the link.
 
-[Link to Patreon](https://patreon.com/user?u=4521402)
+[Link to Patreon](https://www.patreon.com/kevinolega)
