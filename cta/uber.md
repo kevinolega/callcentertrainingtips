@@ -5,6 +5,8 @@ date: 2020-07-28 07:42
 permalink: /uber/ 
 author: Kevin Olega 
 --- 
+<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="300">
+
 Unfortunately, Uber is no longer available in the Philippines.
 
 But if you're in a country that has Uber, you may use this link and we both get bonus rides.

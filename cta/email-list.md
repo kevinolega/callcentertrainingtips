@@ -6,6 +6,9 @@ Tags: [ uncategorized, blog ]
 permalink: /el/ 
 author: Kevin Olega 
 --- 
+
+<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="300">
+
 I share the best lessons on my email list.
 
 The sequence of learning the lessons is just as important as the lessons that you are learning.

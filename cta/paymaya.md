@@ -5,6 +5,9 @@ date: 2020-07-22 13:16
 permalink: /paymaya/ 
 author: Kevin Olega 
 --- 
+
+<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="300">
+
 If you would like to create a PayMaya account, we both get ₱50 of bonuses.
 
 Get P50 for FREE when you sign-up to PayMaya using my invite code! 

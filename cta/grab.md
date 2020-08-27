@@ -5,6 +5,9 @@ date: 2020-07-28 07:44
 permalink: /grab/ 
 author: Kevin Olega 
 --- 
+
+<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="300">
+
 I use Grab to avoid being late.
 
 I use Grab when I go on dates.

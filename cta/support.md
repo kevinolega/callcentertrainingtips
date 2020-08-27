@@ -5,6 +5,8 @@ permalink: /support/
 ---
 [My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
+<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="300">
+
 ### How to Give Support
 
 #### 1. Promote us on social media

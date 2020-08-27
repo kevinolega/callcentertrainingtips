@@ -5,6 +5,9 @@ date: 2020-07-28 07:22
 permalink: /hover/ 
 author: Kevin Olega 
 --- 
+
+<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="300">
+
 I recommend Hover for domain registration.
 
 They have real people who answer customer service inquiries.

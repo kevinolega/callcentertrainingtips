@@ -5,6 +5,8 @@ date: 2020-07-28 07:46
 permalink: /store/ 
 author: Kevin Olega 
 --- 
+<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="300">
+
 Here's a link to my online store.
 
 I currently use Carousell.

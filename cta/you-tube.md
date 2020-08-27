@@ -6,6 +6,8 @@ Tags: [ CTA, blog ]
 permalink: /yt/ 
 author: Kevin Olega 
 --- 
+<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="300">
+
 Hi there!
 
 I need your support.

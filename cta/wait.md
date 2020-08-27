@@ -8,6 +8,8 @@ author: Kevin Olega
 --- 
 Thank you for visiting this website.
 
+<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="300">
+
 My name is Kevin and I'm the writer and website admin.
 
 I have been helping friends get hired in a call center since 2005 and stared this website in 2011.
@@ -22,7 +24,7 @@ Feel free to explore.
 
 When you get the chance, please enroll in our coaching to learn new skills and support our website.
 
-It only costs Php 250.
+It only costs ₱300.
 
 ## Fill Out This Enrollment Form
 
