@@ -16,6 +16,14 @@ I started a YouTube channel.
 
 I'm making videos on how to get hired in a call center and build the professional skills to increase your income.
 
+I'm now sharing English lessons and advice on improving your communiction skills.
+
+Here's a sample.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fezqHqAwKqY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Watch on YouTube](https://youtu.be/fezqHqAwKqY).
+
 There are a bunch of posers sharing fake call center tips on YouTube who has a lot of followers.
 
 I want to reach people with real lessons that will help improve their life.
