@@ -29,5 +29,8 @@ Please always check for readability or faded scans before sending or disposing o
 
 If the photo is more readable than the scan, please send us the picture instead.
 
+Here's a video on how to organize your scanned photos.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a2n2JTsirrc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="https://callcentertrainingtips.com/6wlguide/" class="button focus">RETURN TO GUIDELINES</a>
