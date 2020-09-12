@@ -17,19 +17,25 @@ This is the website that I wish existed when I started looking for work.
 
 We have a small [Facebook community](https://facebook.com/callcentertrainingtips/). 
 
-My name is Kevin and I've been helping friends get hired in a call center since 2005. 
+My name is Kevin. 
+
+I've been helping friends get hired in a call center since 2005. 
 
 I began publishing my lessons in 2012.
 
 [My lessons already helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
-A few hundred Filipinos sent me letters and messages, thanking and informing me of their success.
+A few hundred Filipinos sent me letters and messages.
+
+Strangers on the internet are thanking and informing me of their success.
 
 Most messages tell me that they are already hired in a call center. 
 
 Thank you for the tips.
 
-Some readers went as far as sending me gifts and donations to help keep this website running.
+Some readers went as far as sending me gifts.
+
+Some had sent cash donations to help keep this website running.
 
 Some readers hired me to assist them in their job application or promotion.
 
@@ -85,7 +91,9 @@ Website maintenance [by Kevin Olega](https://kevinolega.com).
 
 ## About Kevin Olega
 
-I'm Kevin Olega, the guy behind call center training tips. 
+I'm Kevin Olega.
+
+I'm the guy behind call center training tips. 
 
 I work as a project manager and virtual assistant to various foreign entrepreneurs. 
 
@@ -94,6 +102,8 @@ I enjoy writing, creating websites, learning new things, and meeting new people 
 I'm from Paranaque City and I worked mostly in the Makati and Ortigas area.
 
 [Here's what I'm doing now](https://kevinolega.com/now).
+
+[Here's 100 sentences about me](https://callcentertrainingtips.com/k100).
 
 ### Trivia:
 
