@@ -7,6 +7,16 @@ Tags: [ Call Center People, Get Regularized, Website]
 permalink: /mae-malabon/ 
 author: Kevin Olega 
 --- 
+A few years ago I met Myrtle Anne Crisostomo Ramos from Malabon at West Contact Services. 
+
+She inspired me to do well at Call Center Work. 
+
+This is her story.
+
+She asked me to use a pseudonym when I write about her.
+
+But I want this webpage to show up when people go search her name.
+
 A few years ago I met Mae from Malabon. 
 
 Her English is okay.

@@ -1,50 +1,61 @@
---- 
-layout: post 
-title: Become Comfortable Writing 100 Sentences
-date: 2020-10-04 10:41
-Tags: [ uncategorized, blog ]
-permalink: /com100/ 
-author: Kevin Olega 
---- 
+Ninjas are historical Japanese operatives who use trickery to win.
+People in power use Ninjas to get things done.
+Ninjas are expendible.
+People in power also sacrifice the lives of Ninjas for convenience.
+Ninjas are ofen sent on suicide missions.
+Eventually, ninjas get exterminated by their own employers whenever their services are no longer needed.
+When I was a kid, I wanted to be a ninja.
+I saw this movie called Hunted with Christopher Lambered who's fighting against Ninja clans.
+I played Mortal Kombat and copied the moves and poses of Scorpion and Sub-Zero.
+I played Ryu Hayabusa in the Ninja Gaiden games.
+I eventually became a big Naruto fan.
+I like ninjas in media.
+I loved the movie Ninja Assassin.
+I also learned martial arts probably because of my facination with ninja.
 
+Ninja moves are moves that can get an agent fired.
 
-I have a writing exercise where I ask my students to write 100 sentences about a topic.
+An agent may try to break something in the computer or telephone system to:
 
-The 100 sentences activity is a test that will allow you to become more comfortable in expressing yourself.
+1. Drop a call with the customer.
+2. Illegally bypass normal procedure to shorten a call.
+3. Set the system on active without receiving calls.
+4. Sneak out of work.
+5. Use loopholes in the system to do something wrong but avoid getting fired because of a technicality.
 
-In an actual interview, your first answer is usually 5-10 sentences.
+Most ninja moves feel good short term but have a consequence of getting you fired.
 
-When you say something interesting, you get asked follow-up questions.
+I asked a co-trainee with lots of call center experience what ninja moves were.
 
-Professional interviewers are likely going to ask you about a topic six times.
+She told me: If you're dealing with an upset caller, just press this code into your phone. The call will get dropped and you will not receive a bad survey.
 
-How do you spend your free time becomes tell me the story of your favorite movie.
+I had a bad day and dealt with a bad call.
 
-https://www.youtube.com/watch?v=xbuxPSRhUJc
+I pressed the code because I couldn't take it anymore.
 
-Where do you live becomes, tell me the steps that you had to take to get from Parañaque to Makati.
+Shortly after a teamleader went to my station and asked what happened.
 
-When you copy an interview answer, you might encounter these follow up questions:
+He was listening to my call and everything went silent.
 
-1. What are your strengths?
-2. Tell me a story about a time where your boss asked you to cancel a personal appointment to go to work.
-3. How do you feel about working on weekends and holidays?
-4. How do you stay motivated?
-5. How do you deal with stress?
-6. What would make you quit a job?
+I was on a new call and couldn't answer him.
 
-Most people have a limited English vocabulary.
+He implied he's going to let it go because I'm new but he knows what I did.
 
-It takes forever to think of an answer or compose an English sentence mentally.
+Someone probably taught me the code.
 
-If you think of a sentence during the interview, your deadline is only 30 seconds.
+I saw him during my lunch and warned me.
 
-The 30 second time pressure triggers a mental block that makes you look stupid in front of the interviewer.
+The reason why the people in my batch with years of call center experience was eliminated is because of they used the code.
 
-Little by little, you'll lose confidence and eventually fail the interview.
+A few years ago, that code was untraceable but they figured out how to track dropped calls resulting from how they used the code.
 
-During this exercise, you have as much time as you need. 
+I never used the code again.
 
-Your answer in the 100 sentences activity will help you answer ALL THE INTERVIEW QUESTIONS that you encounter.
+Instead, I did my best to figure out how to be the best at handling the most upset callers and the most difficult situations.
 
-If you can't even reach 100 sentences, how do you feel about working an eight hour shift speaking to 100 Americans a day?
+In 2016, I became a freelance agent.
+I learned that if you use the word ninja on your application, it's shorthand for skillful and disposable.
+Clients will ask you to do the impossible.
+They will pay you low.
+They will fire you when they no longer need your services.
+Working for employers who hire ninja is a sign that you are working for employers that have ZERO loyalty to their employees 
