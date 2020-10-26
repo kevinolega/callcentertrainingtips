@@ -5,7 +5,7 @@ date: 2020-10-22 14:15
 permalink: /6webstudent/ 
 author: Kevin Olega 
 --- 
-###Guidelines
+### Guidelines
 
 Read this first.
 
@@ -56,16 +56,27 @@ These words will be used in over 50% of all the sentences that you will be writi
 ### Rules Of Effective Communication
 
 One Sentence Paragraphs - link
+
 Shorten Sentences - link
+
 Simplifying Words - link
+
 First Person - link
+
 Jargons - link
+
 Remove Pronouns - link
+
 Blanket and Abstract Terms - link
+
 Positive Phrasing - link
+
 Listing Options - link
+
 Rewriting - link
+
 Read Aloud - link
+
 Filipinism - link
 
 ### Pronunciation Guide
