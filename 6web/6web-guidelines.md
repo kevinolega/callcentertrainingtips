@@ -51,7 +51,7 @@ Done correctly, we expect you to complete anywhere from 100 to 200 pages of writ
 
 Please send us a message.
 
-But first, READ: Frequently Asked Questions.
+But first, [READ: Frequently Asked Questions](https://callcentertrainingtips.com//faq6bstudents/).
 
 ### Learn Basic Research
 
@@ -291,4 +291,4 @@ Please be sure to not take any of the activities too seriously and have fun.
 If you would like to do some additional activities and find out more about us, please visit our website:
 https://callcentertrainingtips.com
 
-<a href="https://callcentertrainingtips.com/6webstudent" class="button focus">BUTTON TEXT</a>
+<a href="https://callcentertrainingtips.com/6webstudent" class="button focus">STUDENT PORTAL</a>
