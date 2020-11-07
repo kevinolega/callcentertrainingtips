@@ -59,11 +59,13 @@ These words will be used in over 50% of all the sentences that you will be writi
 
 ### Rules Of Effective Communication
 
+Please click link to download exercise.
+
 One Sentence Paragraph - [link](https://drive.google.com/file/d/1dfNBxg9T17yKpS8CO4RB_4A9LlISxIuZ/view?usp=sharing)
 
 Shorten Sentences - [link](https://drive.google.com/file/d/1Tvi9N2b7-itzY8j0RLU3eqvtyPhlZ9oW/view?usp=sharing)
 
-Simplifying Words - link
+Simplifying Words - [link](https://docs.google.com/document/d/1bOLOtZpwWOpEmtAq8B8fFxihewwB5rqVP0Eu9R7NMv4/edit?usp=sharing)
 
 First Person - link
 
@@ -71,7 +73,7 @@ Jargons - link
 
 Remove Pronouns - [link](https://drive.google.com/file/d/1Tvi9N2b7-itzY8j0RLU3eqvtyPhlZ9oW/view?usp=sharing)
 
-Blanket and Abstract Terms - link
+Blanket and Abstract Terms - [link](https://drive.google.com/file/d/1Ki_TAVvz0DCoSAStBG8nujax7HybfS3w/view?usp=sharing)
 
 Positive Phrasing - link
 
@@ -87,11 +89,11 @@ Filipinism - link
 
 Pronunciation Exercise - [link](https://drive.google.com/file/d/1UE0H2P4qB69wpbJJa57ErCIbxAZHZie4/view?usp=sharing)
 
-Pronunciation Guide - link
+Pronunciation Guide - [link](https://drive.google.com/file/d/150XzfiT9zqdtOFrOs3LibsOZYoOas-4d/view?usp=sharing)
 
-Weekly Lessons
+### Weekly Lessons
 
-Week 1
+#### Week 1
 
 Week 2
 Unlocks upon completion of previous lessons.
