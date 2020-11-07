@@ -9,6 +9,10 @@ author: Kevin Olega
 
 Read this first.
 
+[PLEASE CLICK HERE TO READ THE GUIDELINES](https://callcentertrainingtips.com/6webguide)
+
+### REMINDERS:
+
 1. Type your answers on your phone or computer and email your answers or share using Google Drive.
 
 2. Please answer all the questions and follow the minimum required number of sentences.
