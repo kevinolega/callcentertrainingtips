@@ -59,9 +59,9 @@ These words will be used in over 50% of all the sentences that you will be writi
 
 ### Rules Of Effective Communication
 
-One Sentence Paragraphs - link
+One Sentence Paragraph - [link](https://drive.google.com/file/d/1dfNBxg9T17yKpS8CO4RB_4A9LlISxIuZ/view?usp=sharing)
 
-Shorten Sentences - link
+Shorten Sentences - [link](https://drive.google.com/file/d/1Tvi9N2b7-itzY8j0RLU3eqvtyPhlZ9oW/view?usp=sharing)
 
 Simplifying Words - link
 
@@ -69,7 +69,7 @@ First Person - link
 
 Jargons - link
 
-Remove Pronouns - link
+Remove Pronouns - [link](https://drive.google.com/file/d/1Tvi9N2b7-itzY8j0RLU3eqvtyPhlZ9oW/view?usp=sharing)
 
 Blanket and Abstract Terms - link
 
@@ -85,7 +85,9 @@ Filipinism - link
 
 ### Pronunciation Guide
 
-Download Pronunciation Guide.
+Pronunciation Exercise - [link](https://drive.google.com/file/d/1UE0H2P4qB69wpbJJa57ErCIbxAZHZie4/view?usp=sharing)
+
+Pronunciation Guide - link
 
 Weekly Lessons
 
