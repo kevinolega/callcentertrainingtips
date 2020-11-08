@@ -6,7 +6,7 @@ permalink: /6webw1-hatch/
 author: Kevin Olega 
 --- 
 
-### Instructions:
+### Instructions
 
 Please read all the lessons and instructions carefully.
 
@@ -108,7 +108,7 @@ One Sentence Paragraphs
 
 [DOWNLOAD](https://drive.google.com/file/d/1dfNBxg9T17yKpS8CO4RB_4A9LlISxIuZ/view?usp=sharing)
 
-## Lesson 7:
+## Lesson 7
 
 Shorten Sentences
 
