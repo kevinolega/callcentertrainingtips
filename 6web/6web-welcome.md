@@ -57,23 +57,31 @@ For pronunciation, our focus will be the use of the top 100 most used words in t
 
 These words will be used in over 50% of all the sentences that you will be writing or speaking.
 
+### Help!!!
+
+I'm stuck. 
+
+I can't think of what to say.
+
+[READ: WRITE IN FILIPINO](https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing)
+
 ### Rules Of Effective Communication
 
 Please click link to download exercise.
 
-One Sentence Paragraph - [link](https://drive.google.com/file/d/1dfNBxg9T17yKpS8CO4RB_4A9LlISxIuZ/view?usp=sharing)
+One Sentence Paragraph - [DOWNLOAD](https://drive.google.com/file/d/1dfNBxg9T17yKpS8CO4RB_4A9LlISxIuZ/view?usp=sharing)
 
-Shorten Sentences - [link](https://drive.google.com/file/d/1Tvi9N2b7-itzY8j0RLU3eqvtyPhlZ9oW/view?usp=sharing)
+Shorten Sentences - [DOWNLOAD](https://drive.google.com/file/d/1Tvi9N2b7-itzY8j0RLU3eqvtyPhlZ9oW/view?usp=sharing)
 
-Simplifying Words - [link](https://docs.google.com/document/d/1bOLOtZpwWOpEmtAq8B8fFxihewwB5rqVP0Eu9R7NMv4/edit?usp=sharing)
+Simplifying Words - [DOWNLOAD](https://docs.google.com/document/d/1bOLOtZpwWOpEmtAq8B8fFxihewwB5rqVP0Eu9R7NMv4/edit?usp=sharing)
 
 First Person - link
 
 Jargons - link
 
-Remove Pronouns - [link](https://drive.google.com/file/d/1Tvi9N2b7-itzY8j0RLU3eqvtyPhlZ9oW/view?usp=sharing)
+Remove Pronouns - [DOWNLOAD](https://drive.google.com/file/d/1Tvi9N2b7-itzY8j0RLU3eqvtyPhlZ9oW/view?usp=sharing)
 
-Blanket and Abstract Terms - [link](https://drive.google.com/file/d/1Ki_TAVvz0DCoSAStBG8nujax7HybfS3w/view?usp=sharing)
+Blanket and Abstract Terms - [DOWNLOAD](https://drive.google.com/file/d/1Ki_TAVvz0DCoSAStBG8nujax7HybfS3w/view?usp=sharing)
 
 Positive Phrasing - link
 
@@ -87,22 +95,34 @@ Filipinism - link
 
 ### Pronunciation Guide
 
-Pronunciation Exercise - [link](https://drive.google.com/file/d/1UE0H2P4qB69wpbJJa57ErCIbxAZHZie4/view?usp=sharing)
+Pronunciation Guide - [DOWNLOAD](https://drive.google.com/file/d/150XzfiT9zqdtOFrOs3LibsOZYoOas-4d/view?usp=sharing)
 
-Pronunciation Guide - [link](https://drive.google.com/file/d/150XzfiT9zqdtOFrOs3LibsOZYoOas-4d/view?usp=sharing)
+Pronunciation Exercise - [DOWNLOAD](https://drive.google.com/file/d/1UE0H2P4qB69wpbJJa57ErCIbxAZHZie4/view?usp=sharing)
+
 
 ### Weekly Lessons
 
 #### Week 1
 
-Week 2
+<a href="https://callcentertrainingtips.com/6webw1-hatch/" class="button focus">BEGIN WEEK 1</a>
+
+#### Week 2
+
 Unlocks upon completion of previous lessons.
-Week 3
+
+#### Week 3
+
 Unlocks upon completion of previous lessons.
-Week 4
+
+#### Week 4
+
 Unlocks upon completion of previous lessons.
-Week 5
+
+#### Week 5
+
 Unlocks upon completion of previous lessons.
-Week 6
+
+#### Week 6
+
 Unlocks upon completion of previous lessons.
 
