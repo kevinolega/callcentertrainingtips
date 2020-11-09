@@ -6,7 +6,7 @@ permalink: /6webw1-hatch/
 author: Kevin Olega 
 --- 
 
-### Instructions
+## Instructions
 
 Please read all the lessons and instructions carefully.
 
@@ -16,7 +16,7 @@ Minimum number of sentences for the writing exercises is fifteen sentences.
 
 Send us an email for questions.
 
-### READ THIS FIRST!!!
+## READ THIS FIRST!!!
 
 [Writing Before Speaking](https://callcentertrainingtips.com/writing-6web/)
 
