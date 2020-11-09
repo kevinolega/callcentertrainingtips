@@ -52,9 +52,9 @@ Not being capabable of approaching opportunities is a giant disability.
 
 Asking for what you want will mean that your options are limited.
 
-Do you want low paying jobs with no room for growth or promotion. 
+Do you want low paying jobs with no room for growth or promotion?
 
-So I trained myself to be an extrovert.
+I trained myself to be an extrovert.
 
 I actively looked for opportunities.
 
