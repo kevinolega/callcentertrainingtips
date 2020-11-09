@@ -57,6 +57,8 @@ For pronunciation, our focus will be the use of the top 100 most used words in t
 
 These words will be used in over 50% of all the sentences that you will be writing or speaking.
 
+[READ: Writing Before Speaking](https://callcentertrainingtips.com/writing-6web/).
+
 ### Help!!!
 
 I'm stuck. 
