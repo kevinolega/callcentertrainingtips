@@ -29,11 +29,11 @@ I can't think of what to say.
 [READ: WRITE IN FILIPINO](https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing)
 
 
-### Lesson 1 
+### Lesson 1
 
 15 Sentence Introductions
 
-Answer minimum of 15 sentences.
+Answer with a minimum of 15 sentences.
 
 [DOWNLOAD](https://drive.google.com/file/d/1_K2OUYFgWtJP4Mu7SWKW-PBSqBlJGfFV/view?usp=sharing)
 
