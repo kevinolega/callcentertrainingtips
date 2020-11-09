@@ -16,6 +16,10 @@ Minimum number of sentences for the writing exercises is fifteen sentences.
 
 Send us an email for questions.
 
+### READ THIS FIRST!!!
+
+[Writing Before Speaking](https://callcentertrainingtips.com/writing-6web/)
+
 ### Help!!!
 
 I'm stuck. 
