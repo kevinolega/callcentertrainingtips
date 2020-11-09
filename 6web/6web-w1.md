@@ -5,8 +5,7 @@ date: 2020-10-24 02:08
 permalink: /6webw1-hatch/ 
 author: Kevin Olega 
 --- 
-
-## Instructions
+## INSTRUCTIONS
 
 Please read all the lessons and instructions carefully.
 
@@ -18,7 +17,7 @@ Send us an email for questions.
 
 ## READ THIS FIRST!!!
 
-[Writing Before Speaking](https://callcentertrainingtips.com/writing-6web/)
+[Writing Before Speaking](https://callcentertrainingtips.com/writing-6web/).
 
 ### Help!!!
 
@@ -29,7 +28,7 @@ I can't think of what to say.
 [READ: WRITE IN FILIPINO](https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing)
 
 
-### Lesson 1
+## LESSON 1
 
 15 Sentence Introductions
 
@@ -46,7 +45,7 @@ PREVIEW:
 - I’m good at.
 - I studied at
 
-## Lesson 2 
+## LESSON 2 
 
 15 Intro Questions 
 
@@ -71,15 +70,17 @@ PREVIEW:
 - What’s your family business?
 
 
-### Lesson 3 
+## LESSON 3 
 
-15 Sentence Instruction 
+15 Sentence Instruction. 
 
 [DOWNLOAD](https://drive.google.com/file/d/1hodmJccbOTOTJxV0IOiMOaWk0CR1LoNv/view?usp=sharing)
 
+PREVIEW:
+
 Write a fifteen sentence instruction on how to commute to the office (current, past, or future) or nearest mall.
 
-### Lesson 4 
+## LESSON 4 
 
 15 Sentence Story.
 
@@ -93,7 +94,7 @@ What’s the Story of Your Favorite Song?
 
 What’s the story of your favorite movie/TV show?
 
-## Lesson 5
+## LESSON 5
 
 Common Pronunciation Mistakes 
 
@@ -106,13 +107,13 @@ PREVIEW:
 - Th and D
 - Sample Words
 
-## Lesson 6
+## LESSON 6
 
 One Sentence Paragraphs
 
 [DOWNLOAD](https://drive.google.com/file/d/1dfNBxg9T17yKpS8CO4RB_4A9LlISxIuZ/view?usp=sharing)
 
-## Lesson 7
+## LESSON 7
 
 Shorten Sentences
 
