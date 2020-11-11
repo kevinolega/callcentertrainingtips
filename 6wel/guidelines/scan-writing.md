@@ -33,4 +33,4 @@ Here's a video on how to organize your scanned photos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a2n2JTsirrc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a href="https://callcentertrainingtips.com/6wlguide/" class="button focus">RETURN TO GUIDELINES</a>
+<a href="https://callcentertrainingtips.com/6webguide/" class="button focus">RETURN TO GUIDELINES</a>

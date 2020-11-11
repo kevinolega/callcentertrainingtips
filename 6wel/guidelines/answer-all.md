@@ -59,4 +59,4 @@ After you complete the activities, you will be equipped for work-related convers
 Many of the questions can help you building rapport with your boss and coworkers during negotiations, promotions.
 
 
-<a href="https://callcentertrainingtips.com/6wlguide/" class="button focus">RETURN TO GUIDELINES</a>
+<a href="https://callcentertrainingtips.com/6webguide/" class="button focus">RETURN TO GUIDELINES</a>

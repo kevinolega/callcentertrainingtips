@@ -155,4 +155,4 @@ You can practice resourcefulness.
 [This is what I did to write without a computer](https://callcentertrainingtips.com/nocomputer).
 
 
-<a href="https://callcentertrainingtips.com/6wlguide/" class="button focus">RETURN TO GUIDELINES</a>
+<a href="https://callcentertrainingtips.com/6webguide/" class="button focus">RETURN TO GUIDELINES</a>

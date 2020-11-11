@@ -49,4 +49,4 @@ I later got promoted as a project manager.
 I feel that all my efforts writing has made an enormous contribution to my career progress.
 
 
-<a href="https://callcentertrainingtips.com/6wlguide/" class="button focus">RETURN TO GUIDELINES</a> 
+<a href="https://callcentertrainingtips.com/6webguide/" class="button focus">RETURN TO GUIDELINES</a> 

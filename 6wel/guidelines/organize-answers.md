@@ -117,4 +117,4 @@ If your answers get too tricky to read, we'll ask you to send it again.
 [READ: HOW TO SCAN YOUR PAGES](https://callcentertrainingtips.com/scan)
 
 
-<a href="https://callcentertrainingtips.com/6wlguide/" class="button focus">RETURN TO GUIDELINES</a>
+<a href="https://callcentertrainingtips.com/6webguide/" class="button focus">RETURN TO GUIDELINES</a>

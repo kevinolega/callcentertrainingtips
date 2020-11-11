@@ -89,4 +89,4 @@ If you take shortcuts, you don't deserve success.
 To deserve success, you have to reject shortcuts.
 
 
-<a href="https://callcentertrainingtips.com/6wlguide/" class="button focus">RETURN TO GUIDELINES</a>
+<a href="https://callcentertrainingtips.com/6webguide/" class="button focus">RETURN TO GUIDELINES</a>
