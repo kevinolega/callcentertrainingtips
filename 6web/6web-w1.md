@@ -107,11 +107,27 @@ PREVIEW:
 - Th and D
 - Sample Words
 
+ACTIVITY:
+
+Please write down what you learned in this lesson.
+
+Write a minimum of 15 sentences.
+
+Describe what you learned using your own words.
+
 ## LESSON 6
 
 One Sentence Paragraphs
 
 [DOWNLOAD](https://drive.google.com/file/d/1dfNBxg9T17yKpS8CO4RB_4A9LlISxIuZ/view?usp=sharing)
+
+ACTIVITY:
+
+Please write down what you learned in this lesson.
+
+Write a minimum of 15 sentences.
+
+Describe what you learned using your own words.
 
 ## LESSON 7
 
@@ -132,3 +148,9 @@ If answers are incomplete, we will ask you to complete the answers.
 Thanks.
 
 <a href="https://callcentertrainingtips.com/6webstudent/" class="button focus">STUDENT PORTAL</a>
+
+**Bonus:**
+
+I am willing to do more work to become better.
+
+LINK COMING SOON
