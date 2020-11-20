@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Week 1 Lessons and Exercises
+title: Week 2 Lessons and Exercises
 date: 2020-11-20 02:08
 permalink: /6webw2-larv/ 
 author: Kevin Olega 
