@@ -34,7 +34,7 @@ I can't think of what to say.
 
 Answer with a minimum of 20 sentences.
 
-[DOWNLOAD](https://drive.google.com/file/d/1_K2OUYFgWtJP4Mu7SWKW-PBSqBlJGfFV/view?usp=sharing)
+[DOWNLOAD](https://drive.google.com/file/d/1yG7v48vTzbRJ3lq3Pd7E4gotKDE35t9j/view?usp=sharing)
 
 PREVIEW:
 
@@ -46,7 +46,7 @@ PREVIEW:
 
 20 Connecting Questions 
 
-[DOWNLOAD](https://drive.google.com/file/d/17tM6ajfniAfTMRZ2Z1YjVnc2UuVn-sdJ/view?usp=sharing)
+[DOWNLOAD](https://drive.google.com/file/d/1yG7v48vTzbRJ3lq3Pd7E4gotKDE35t9j/view?usp=sharing)
 
 PREVIEW:
 
@@ -78,7 +78,7 @@ PREVIEW:
 
 20 Sentence Instruction. 
 
-[DOWNLOAD](https://drive.google.com/file/d/1hodmJccbOTOTJxV0IOiMOaWk0CR1LoNv/view?usp=sharing)
+[DOWNLOAD](https://drive.google.com/file/d/1phXBLRNXQwk66uqnJLPhrCW8eVrtKZcf/view?usp=sharing)
 
 PREVIEW:
 
@@ -98,7 +98,7 @@ Write a story about a boring topic. I wrote a story about shoes.
 
 Pronunciation
 
-[DOWNLOAD](https://drive.google.com/file/d/150XzfiT9zqdtOFrOs3LibsOZYoOas-4d/view?usp=sharing)
+[DOWNLOAD](https://drive.google.com/file/d/1UE0H2P4qB69wpbJJa57ErCIbxAZHZie4/view?usp=sharing)
 
 PREVIEW:
 
