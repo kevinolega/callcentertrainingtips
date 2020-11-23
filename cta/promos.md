@@ -24,12 +24,45 @@ We will be correcting your mistakes, and I'll guide you until you get hired.
 
 If you feel you need more sessions, here are our prices.
 
-For existing students = ₱217 per session.
+For existing students = ₱257 per session.
 
 For non-students = ₱357 per session.
 
 [Click here for details](https://callcentertrainingtips.com/pps/).
 
+## Mentoring
+
+If you've found value in my work and want direct feedback, we're opening up some different mentoring and coaching options.
+
+## Six Months Mentoring
+
+₱2,577 for six months.
+
+Monthly mentoring once a month to discuss strategies to improve your life.
+
+Set goals, make corrections, build discipline, and solve problems together.
+
+Getting this program requires that you're employed.
+
+[APPLY FOR MENTORING](https://forms.gle/6YhaN1jqSzWYwzd2A)
+
+## Weekly Coaching 
+
+₱1,257 a month.
+
+1 hour a week.
+
+Weekly call to discuss your goals.
+
+We will discuss strategies to help you move forward.
+
+[APPLY FOR WEEKLY COACHING](https://forms.gle/WjCos8yLCpV9QAiKA)
+
+## Hourly Consultation
+
+₱537 an hour.
+
+[APPLY FOR CONSULTATION](https://forms.gle/tnbBqJcKSyxGMK9K8)
 
 ---
 
