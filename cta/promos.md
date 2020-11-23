@@ -42,6 +42,8 @@ Monthly mentoring once a month to discuss strategies to improve your life.
 
 Set goals, make corrections, build discipline, and solve problems together.
 
+Six sessions total.
+
 Getting this program requires that you're employed.
 
 [APPLY FOR MENTORING](https://forms.gle/6YhaN1jqSzWYwzd2A)
@@ -55,6 +57,8 @@ Getting this program requires that you're employed.
 Weekly call to discuss your goals.
 
 We will discuss strategies to help you move forward.
+
+Four sessions total.
 
 [APPLY FOR WEEKLY COACHING](https://forms.gle/WjCos8yLCpV9QAiKA)
 

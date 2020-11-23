@@ -88,11 +88,11 @@ Write a fifteen sentence instruction on how to get hired at your dream job.
 
 20 Sentence Story.
 
-[DOWNLOAD](https://drive.google.com/file/d/1s2bKyzpV6HNWSZ2LZzOjBDVDxWS4ZJiT/view?usp=sharing)
+[DOWNLOAD LINK NEEDS TO BE UPDATED]()
 
 PREVIEW:
 
-Write a story about a boring topic. I wrote a story about shoes.
+Write a story about a boring topic. I wrote a story about shoes. Minimum of 20 sentences.
 
 ## LESSON 5
 

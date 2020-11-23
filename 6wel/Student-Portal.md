@@ -33,7 +33,7 @@ Week 4 to 6 - We will use your previous words to select the best senences for yo
 
 ## Guidelines
 
-[READ: Guidelines](https://callcentertrainingtips.com/6wlguide/)
+[READ: Guidelines](https://callcentertrainingtips.com/6webguide/)
 
 ## Frequently Asked Questions
 
