@@ -13,7 +13,7 @@ Minimum number of sentences for the writing exercises is forty sentences.
 
 ## READ THIS FIRST!!!
 
-Congratulations for being part of the top 5%.
+Congratulations for being part of the top 4%.
 
 ### Help!!!
 

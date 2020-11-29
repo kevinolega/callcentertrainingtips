@@ -22,13 +22,13 @@ You're at the final stage.
 
 100 Sentences
 
-a. Tell me about yourself.
-b. Tell me about your career history.
-c. Talk about your strengths and skills.
-d. Talk aaboout your personal goals.
-e. Talk about your career goals.
-f. Talk about your challenges.
-g. Talk about your plans.
+1. Tell me about yourself.
+2. Tell me about your career history.
+3. Talk about your strengths and skills.
+4. Talk aaboout your personal goals.
+5. Talk about your career goals.
+6. Talk about your challenges.
+7. Talk about your plans.
 
 
 ## LESSON 2
@@ -60,9 +60,9 @@ Give me advice on the following topics.
 
 100 Sentences
 
-a. Talk about the story of your past. 25 sentences.
-b. Talk about the story of your present situation.25.
-c. Talk about the future that you're trying to build. 50 sentences.
+1. Talk about the story of your past. 25 sentences.
+2. Talk about the story of your present situation.25.
+3. Talk about the future that you're trying to build. 50 sentences.
 
 
 ## LESSON 5

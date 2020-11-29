@@ -13,13 +13,13 @@ Minimum number of sentences for the writing exercises is forty sentences.
 
 ## READ THIS FIRST!!!
 
-Congratulations for being part of the top 5%.
+Congratulations for being part of the top 1%.
 
 ### Help!!!
 
-I need to apply.
+I'm depressed.
 
-[READ THIS: ADD LINK](https://callcentertrainingtips.com/ee)
+Read this.
 
 ## LESSON 1
 
