@@ -23,7 +23,7 @@ Some people can practice in front of a mirror.
 
 Some people can pretend that the audience is naked.
 
-Some people can can use all sorts of tricks to quickly become confident.
+Some people can use all sorts of tricks to become confident quickly.
 
 I can't.
 
@@ -37,9 +37,9 @@ I like this approach to confidence better:
 
 > "Confidence comes from familiarity and practice."
 
-I want to prepare instead of pretend.
+I choose to prepare instead of pretend.
 
-When preparing for an interview...
+I do the following when preparing for an interview:
 
 I wear good clothes.
 
@@ -57,13 +57,13 @@ I prepare my answers before I apply.
 
 I read my prepared answers on my way to the interview.
 
-I have a list of all my awesome skills, stories and accomplishments.
+I have a list of all my awesome skills, stories, and accomplishments.
 
 I practice a good intro.
 
 I prepare good stories to share with the interviewer.
 
-I record a video of my intro and my story and I'm 100% satisfied with my delivery.
+I record a video of my intro and my story, and I'm 100% satisfied with my delivery.
 
 I test my intro and stories on a few friends.
 
@@ -89,9 +89,9 @@ I probably prepare more than most people.
 
 I also know that I have a 95% failure rate.
 
-That means, I fully expect to get rejected at 19 of the 20 companies that I'm visiting.
+That means I fully expect to get rejected at 19 of the 20 companies that I'm visiting.
 
-### Depending on Luck Leads to Disappointment...
+### Depending on Luck Leads to Disappointment
 
 I tell myself that when I'm looking for work.
 
@@ -109,7 +109,7 @@ But I never count on it.
 
 And because I never count on luck, even if luck never comes, I know that I can build and design a good life myself.
 
-### I Use The Exact Strategy of Elite Performers...
+### I Use The Exact Strategy of Elite Performers
 
 When I was younger, I played a game called CounterStrike.
 
@@ -119,9 +119,9 @@ I went to the Navy Seals website.
 
 I asked my uncle to print out all the pages.
 
-I read through their weapons, training, tactics and qualifications.
+I read through their weapons, training, tactics, and qualifications.
 
-I try to do as many push ups as I can. 
+I try to do as many push-ups as I can. 
 
 I try to run for a mile.
 
@@ -143,7 +143,7 @@ Most Navy SEAL missions are short.
 
 A couple of years ago, I listened to a Navy Seal being interviewed.
 
-Being the old fan boy, I sat and listened to the three hour interview.
+Being the old fanboy, I sat and listened to the three-hour interview.
 
 I heard the SEAL share that missions account for only 10-20% of their time "on duty." 
 
@@ -151,9 +151,9 @@ The other 80%-90% are dedicated to training and preparation.
 
 I got good at what I do the same way.
 
-I was always writing on my notebook, my phone and my computer.
+I was always writing in my notebook, my phone, and my computer.
 
-I was reflecting on my ideas, things I read, strategies, techniques, recipes and more.
+I was reflecting on my ideas, things I read, strategies, techniques, recipes, and more.
 
 I was reading my notes a lot.
 

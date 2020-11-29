@@ -15,15 +15,15 @@ I did the same thing on Android.
 
 ### The Technology That Can Improve Your Life Can Also Destroy Your Life
 
-I max leveled my accounts on Infinity Blade, Injustice: gods among us, Plants vs Zombies, Summoner's War, Mask of Ninja, Vikings, BoxHead, Adventure Time, RobotnGun, Predators and dozens of more games.
+I max leveled my accounts on Infinity Blade, Injustice: gods among us, Plants vs. Zombies, Summoner's War, Mask of Ninja, Vikings, BoxHead, Adventure Time, RobotnGun, Predators, and dozens of more games.
 
 I did the same when I got an Android Phone.
 
-I saw How I Met Your Mother, Game of Thrones, Naruto, Fairy Tail, Dexter, Hannibal, Suits and more all on my phone.
+I saw How I Met Your Mother, Game of Thrones, Naruto, Fairy Tail, Dexter, Hannibal, Suits, and more, all on my phone.
 
-### I was a time management disaster...
+### I was a time management disaster.
 
-If you look at the history of my public writing, you'll notice that I wrote consistently for months and there are periods of time when I didn't write for longer than a month.
+If you look at the history of my public writing, you'll notice that I wrote consistently for months, and there are periods of time when I didn't write for longer than a month.
 
 I could be writing more.
 
@@ -49,23 +49,23 @@ You might learn something.
 
 If the ratio is wrong, then you are heading toward disaster.
 
-If you eat a chocolate bar three times a day or a mountain of rice during breakfast, lunch and dinner, your organs will eventually fail.
+If you eat a chocolate bar three times a day or a mountain of rice during breakfast, lunch, and dinner, your organs will eventually fail.
 
 In the same way, if you spend more time with activities that give you entertainment, both your career and finances will fail.
 
-Just like the human body where one system fails, the whole body dies.
+Just like the human body, where one system fails, the whole body dies.
 
-Failing to get a reputable source of income, hurts your relationships, family, mental well being, self-confidence, friendships, spiritual life, health, happiness and more.
+Failing to get a reputable source of income hurts your relationships, family, mental well-being, self-confidence, friendships, spiritual life, health, happiness, and more.
 
-I learned a few interesting things from the shows that I've seen but I regret spending too much time.
+I learned a few interesting things from the shows that I've seen, but I regret spending too much time.
 
 I regret watching the shows over and over again.
 
-Not everyone can earn a living from having an encyclopedic knowledge on Naruto, Star Wars and a bunch of old computer games.
+Not everyone can earn a living from having an encyclopedic knowledge of Naruto, Star Wars, and a bunch of old computer games.
 
 Some can, but not everyone.
 
-### Time Is Money.. That's True
+### Time Is Money - That's True
 
 When I reached the point that I earned dollars per hour, I began to realize that my time had value.
 
@@ -75,7 +75,7 @@ The estimated time I spent watching Naruto is 240 hours.
 
 The estimated time I spent watching How I Met Your Mother is 80 hours.
 
-These hours are based on the total play time of the series.
+These hours are based on the total playtime of the series.
 
 This does not include the times I re-watched episodes.
 
@@ -83,15 +83,15 @@ This does not include the times I re-watched episodes.
 
 It's embarrassing to admit that I re-watched these shows several times.
 
-As a call center agent, I made approximately $3/hour or Php 150 an hour.
+As a call center agent, I made approximately $3/hour or ₱ 150 an hour.
 
 If you multiply the hours by your hourly rate, you'll realize how much it costs to watch a TV show.
 
-Game of Thrones costs Php 9,450 to watch if you're earning a call center salary.
+Game of Thrones costs ₱ 9,450 to watch if you're earning a call center salary.
 
-Naruto costs Php 36,000 pesos to watch if you're earning a call center salary.
+Naruto costs ₱36,000 to watch if you're earning a call center salary.
 
-How I Met Your Mother costs Php 12,000 pesos.
+How I Met Your Mother costs ₱12,000.
 
 ### How Many Hours Do You Spend On Your Phone?
 
@@ -107,23 +107,23 @@ I'll let you compute how much these are on your own.
 
 Let's just keep the hours to a minimum.
 
-I'll go on Facebook for two hours a day, YouTube for an hour a day and perhaps play a couple of games of Dota for two hours a day or six Mobile Legends game for two hours.
+I'll go on Facebook for two hours a day, YouTube for an hour a day, and perhaps play a couple of games of Dota for two hours a day or six Mobile Legends game for two hours.
 
-Five hours a day for a year is Php 273,750.
+Five hours a day for a year is ₱ 273,750.
 
 	Here's the formula:
 
-	HOURS x 365 x Hourly Rate(Php 150)
+	HOURS x 365 x Hourly Rate(₱ 150)
 
 ### I lost a million pesos to social media
 
 When you begin to earn $5 an hour or $10 an hour, it's a different story.
 
-In 2020 rewatching GOT, HIMYM and Naruto costs Php 210,000.
+In 2020 rewatching GOT, HIMYM and Naruto cost ₱210,000.
 
-Rewatching all the MCU films from Ironman to Endgame costs Php 27,500.
+Rewatching all the MCU films from Ironman to Endgame costs ₱ 27,500.
 
-Wasting five hours a day watching YT or scrolling FB, IG and playing a game will cost Php 1,003,750 at the end of the year.
+Wasting five hours a day watching YT or scrolling FB, IG, and playing a game will cost ₱1,003,750 at the end of the year.
 
 #### What could you have done to this amount of money?
 
@@ -139,13 +139,15 @@ I don't want you to make the same mistakes.
 
 I want you to invest your time so you can make your life better.
 
-### Invest Your Time... Here are some ideas...
+### Invest Your Time. 
+
+Here are some ideas:
 
 You can use your spare hours for something better than overtime at work.
 
 Learn a skill that will help you earn more money.
 
-Learn the skill that you are not very good at in your job.
+Learn the skill that you are not very good at your job.
 
 Not good at English? Get someone to teach you.
 
@@ -153,7 +155,7 @@ Not good with computers? Get someone to teach you.
 
 Not good at writing letters? Get someone to teach you.
 
-Not good in sales? Get someone to teach you.
+Not good at sales? Get someone to teach you.
 
 Not good at managing your time? Get someone to teach you.
 
@@ -173,7 +175,7 @@ Learn a skill that will help you save money on expenses.
 
 Ride a bike, exercise at home, cook your own food.
 
-So it's 2020, I'm 34 and now I realize, a bright future requires a big sacrifice.
+So it's 2020, I'm 35, and now I realize a bright future requires a big sacrifice.
 
 I'm now strongly thinking thoughts that the younger me would disagree with.
 
@@ -181,7 +183,7 @@ I'm now strongly thinking thoughts that the younger me would disagree with.
 
 Getting my own Nintendo Switch is the enemy.
 
-Buying a PlayStation or XBox is the enemy.
+Buying a PlayStation or Xbox is the enemy.
 
 Playing games is the enemy.
 
