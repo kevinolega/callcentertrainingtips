@@ -88,20 +88,43 @@ Please send me a recording of you reading the 20 words.
 
 ## LESSON 6
 
+Read aloud.
 
+[DOWNLOAD](https://drive.google.com/file/d/19Qv1J5KBjcX1X2TxeQaBkcsM7KcEtBTU/view?usp=sharing)
 
 ACTIVITY:
 
+Part 1:
+
 Please write down what you learned in this lesson.
 
-Write a minimum of 20 sentences.
+Write a minimum of 50 sentences.
 
 Describe what you learned using your own words.
 
-You are allowed to share examples of sentences you used pronouns that made your message difficult to understands.
+Part 2:
+
+Select your favorite Week 4 writing exercise.
+
+Read it aloud and send me the recording.
+
+Part 3:
+
+Make corrections to that writing exercise.
+
+Send me the corrected version.
+
+Part 4:
+
+Send me the recording of you reading the final version aloud.
+
+Make changes.
 
 ## LESSON 7
 
+[DOWNLOAD](https://drive.google.com/file/d/1VIsl4-XbYrYeJBGWgEx3RM4LF1KTh79n/view?usp=sharing)
+
+Rewriting.
 
 ## Phone Coaching
 

@@ -30,7 +30,7 @@ I need to apply.
 3. Describe your home.
 4. Describe your dream home.
 
-Minimum of 10 sentences needed in each sectin.
+Minimum of 10 sentences needed in each section.
 
 ## LESSON 2
 
@@ -92,19 +92,35 @@ Please send me a recording of you reading the 20 words.
 
 ## LESSON 6
 
+Perspective Pronouns
 
+[DOWNLOAD](https://drive.google.com/file/d/1XR0xioNOvTCuW3iyVOCpCR4bTAXezYRB/view?usp=sharing)
 
 ACTIVITY:
 
 Please write down what you learned in this lesson.
 
-Write a minimum of 20 sentences.
+Write a minimum of 40 sentences.
 
 Describe what you learned using your own words.
 
-You are allowed to share examples of sentences you used pronouns that made your message difficult to understands.
+You are allowed to give examples.
 
 ## LESSON 7
+
+Listing Options
+
+[DOWNLOAD](https://drive.google.com/file/d/1AGB_xqVvqe7BJvNmSwmwQ2iczkjOGSBP/view?usp=sharing)
+
+ACTIVITY:
+
+Please write down what you learned in this lesson.
+
+Write a minimum of 40 sentences.
+
+Describe what you learned using your own words.
+
+You are allowed to give examples by writing lists of your own to meet the sentence count.
 
 
 ## Phone Coaching

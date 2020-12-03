@@ -21,11 +21,9 @@ Congratulations for being part of the top 10%.
 
 ### Help!!!
 
-I'm stuck. 
+I'm afraid people will laugh at my mistakes.
 
-I can't think of what to say.
-
-[READ: WRITE IN FILIPINO](https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing)
+[READ: Write Poorly](https://callcentertrainingtips.com/poorly)
 
 
 ## LESSON 1
