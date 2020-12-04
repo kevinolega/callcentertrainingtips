@@ -29,9 +29,9 @@ I'm bored.
 
 30 Sentence About Personal, Career, and Financial Goals
 
-a. If I'm earning 30k a month...
-b. If I have 1 million pesos in the bank...
-c. Describe your dream job...
+1. If I'm earning 30k a month...
+2. If I have 1 million pesos in the bank...
+3. Describe your dream job...
 
 Minimum of 10 sentences needed in each section of lesson 1.
 
@@ -137,7 +137,7 @@ ACTIVITY:
 
 Please write down what you learned in this lesson.
 
-Write a minimum of 20 sentences.
+Write a minimum of 30 sentences.
 
 Describe what you learned using your own words.
 
@@ -156,6 +156,7 @@ Activity:
 3. Write down what you were previously doing wrong.
 4. Write down how you plan to increase your confidence when speaking? 
 
+You need to reach a total of 50 sentences to complete this activity.
 
 ## Phone Coaching
 
@@ -170,4 +171,3 @@ If answers are incomplete, we will ask you to complete the answers.
 Thanks.
 
 <a href="https://callcentertrainingtips.com/6webstudent/" class="button focus">STUDENT PORTAL</a>
-

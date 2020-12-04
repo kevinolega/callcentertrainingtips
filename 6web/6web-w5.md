@@ -126,6 +126,21 @@ Make changes.
 
 Rewriting.
 
+
+ACTIVITY:
+
+We'll do the same thing as we did in lesson 6.
+
+Select one writing sentence from week 4.
+
+Read it aloud.
+
+Don't send me a recording.
+
+This time, show me a better version of the writing exercise.
+
+Send me a 50 sentence version.
+
 ## Phone Coaching
 
 Please send ALL your answers before scheduling the phone coaching.
