@@ -135,6 +135,71 @@ Shorten Sentences
 
 [DOWNLOAD](https://drive.google.com/file/d/1Tvi9N2b7-itzY8j0RLU3eqvtyPhlZ9oW/view?usp=sharing)
 
+
+ACTIVITY: 
+
+I gave a bad example and a good example on the first page.
+
+I gave a more detailed example on pages two and three.
+
+You need to shorten the long sentence.
+
+It is important that you learn this lesson before moving forward.
+
+It is better to write more simple sentences with one idea.
+
+Short sentences are easy to understand.
+
+You can write many sentences if your sentences are short and simple.
+
+Multiple ideas compressed in one sentence weakens your communication.
+
+Part 1: Convert the remaining bad examples.  
+
+Rewrite the following to match the format of the good examples.
+
+1. Advantages of being an anime fan.
+2. Advantages of martial arts training.
+3. Advantages of having baking skills.
+4. Advantages of having cooking skills.
+5. Natural advantages of cyclists.
+6. Professional advantages of parents.
+7. Advantages of sales skills in non-sales jobs.
+
+Part 2: Write your own example.
+
+The seven examples above are my examples.
+
+What category do you belong to?
+
+Select two or write your own.
+
+Please follow the short sentence format.
+
+Write 20 or more sentences.
+
+Part 3: What are the advantages of hiring you? 
+
+Please write 20 or more sentences. sentences.
+
+Part 4: Go back and read your answers to the previous activities.
+
+Look for long sentences that you need to shorten.
+
+Look for multiple ideas in one sentence.
+
+Fix it.
+
+Break down your longer sentences.
+
+You are allowed to exceed the recommended number of sentences.
+
+The most important thing is that your sentences are easy to understand.
+
+I'd like to point out that is the most important lesson in the the module.
+
+If you can shorten all of your sentences, everything you write and say will be error-free and easy to understand.
+
 ## Phone Coaching
 
 Please send ALL your answers before scheduling the phone coaching.
