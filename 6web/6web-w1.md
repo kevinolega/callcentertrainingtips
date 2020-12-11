@@ -19,6 +19,12 @@ Send us an email for questions.
 
 [Writing Before Speaking](https://callcentertrainingtips.com/writing-6web/).
 
+## Watch This Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JXVe3t5tTo0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[CLICK HERE TO WATCH ON YOUTUBE](https://youtu.be/JXVe3t5tTo0)
+
 ### Help!!!
 
 I'm stuck. 

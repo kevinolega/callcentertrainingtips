@@ -101,6 +101,7 @@ Pronunciation Guide - [DOWNLOAD](https://drive.google.com/file/d/150XzfiT9zqdtOF
 
 Pronunciation Exercise - [DOWNLOAD](https://drive.google.com/file/d/1UE0H2P4qB69wpbJJa57ErCIbxAZHZie4/view?usp=sharing)
 
+Pronunciation Sesion - COMING SOON.
 
 ### Weekly Lessons
 
