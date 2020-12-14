@@ -59,14 +59,6 @@ These words will be used in over 50% of all the sentences that you will be writi
 
 [READ: Writing Before Speaking](https://callcentertrainingtips.com/writing-6web/).
 
-### Help!!!
-
-I'm stuck. 
-
-I can't think of what to say.
-
-[READ: WRITE IN FILIPINO](https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing)
-
 ### Rules Of Effective Communication
 
 Please click link to download exercise.
@@ -77,25 +69,24 @@ One Sentence Paragraph - [DOWNLOAD](https://drive.google.com/file/d/1dfNBxg9T17y
 
 Shorten Sentences - [DOWNLOAD](https://drive.google.com/file/d/1Tvi9N2b7-itzY8j0RLU3eqvtyPhlZ9oW/view?usp=sharing)
 
+ Overused Pronouns- [DOWNLOAD](https://drive.google.com/file/d/1cFWKbH6TpJXOpk52bjg9pl8YPcQ-u1Af/view?usp=sharing)
+
 Simplifying Words - [DOWNLOAD](https://docs.google.com/document/d/1bOLOtZpwWOpEmtAq8B8fFxihewwB5rqVP0Eu9R7NMv4/edit?usp=sharing)
-
-First Person - link
-
-Jargons - link
-
-Remove Pronouns - [DOWNLOAD](https://drive.google.com/file/d/1Tvi9N2b7-itzY8j0RLU3eqvtyPhlZ9oW/view?usp=sharing)
 
 Blanket and Abstract Terms - [DOWNLOAD](https://drive.google.com/file/d/1Ki_TAVvz0DCoSAStBG8nujax7HybfS3w/view?usp=sharing)
 
-Positive Phrasing - link
 
-Listing Options - link
+My secret to confidence - [DOWNLOAD](https://callcentertrainingtips.com/confident/)
 
-Rewriting - link
+First Person - [DOWNLOAD](https://drive.google.com/file/d/1XR0xioNOvTCuW3iyVOCpCR4bTAXezYRB/view?usp=sharing)
 
-Read Aloud - link
+Listing options - [DOWNLOAD](https://drive.google.com/file/d/1AGB_xqVvqe7BJvNmSwmwQ2iczkjOGSBP/view?usp=sharing)
 
-Filipinism - link
+Read Aloud - [DOWNLOAD](https://drive.google.com/file/d/19Qv1J5KBjcX1X2TxeQaBkcsM7KcEtBTU/view?usp=sharing)
+
+Rewriting - [DOWNLOAD](https://drive.google.com/file/d/1VIsl4-XbYrYeJBGWgEx3RM4LF1KTh79n/view?usp=sharing)
+
+MORE COMING SOON!!!
 
 ### Pronunciation Guide
 
@@ -103,7 +94,18 @@ Pronunciation Guide - [DOWNLOAD](https://drive.google.com/file/d/150XzfiT9zqdtOF
 
 Pronunciation Exercise - [DOWNLOAD](https://drive.google.com/file/d/1UE0H2P4qB69wpbJJa57ErCIbxAZHZie4/view?usp=sharing)
 
-Pronunciation Sesion - COMING SOON.
+Pronunciation Sesion
+
+[Watch Recorded Pronunciation Session 01](https://youtu.be/j2r-JNolL5w).
+
+### Help!!!
+
+I'm stuck. 
+
+I can't think of what to say.
+
+[READ: WRITE IN FILIPINO](https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing)
+
 
 ### Weekly Lessons
 
@@ -130,4 +132,5 @@ Unlocks upon completion of previous lessons.
 #### Week 6
 
 Unlocks upon completion of previous lessons.
+
 
