@@ -98,6 +98,8 @@ Pronunciation Sesion
 
 [Watch Recorded Pronunciation Session 01](https://youtu.be/j2r-JNolL5w).
 
+[Watch Recorded Pronunciation Session 02](https://youtu.be/fezqHqAwKqY).
+
 ### Help!!!
 
 I'm stuck. 
