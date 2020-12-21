@@ -11,11 +11,19 @@ Please read all the lessons and instructions carefully.
 
 Please answer all the activities.
 
-Minimum number of sentences for the writing exercises is fifteen sentences.
+Please follow the one sentence paragrph format when you submit your answers. 
+
+The one sentence paragraph format is explained in the lessons Removing Bad Habits and One Sentence Paragraph on Lesson 7.
+
+Minimum number of sentences for most of the writing exercises is fifteen sentences.
 
 Send us an email for questions.
 
-## READ THIS FIRST!!!
+## IMPORTANT!!! READ THIS FIRST!!!
+
+Please download and read this before answering the lessons.
+
+Removing Bad Habits - [DOWNLOAD](https://drive.google.com/file/d/1w8Z_cfbO3U_RHjsYw5Mpu4Y7tMRnW4q2/view?usp=sharing)
 
 [Writing Before Speaking](https://callcentertrainingtips.com/writing-6web/).
 
@@ -120,13 +128,6 @@ Please write down what you learned in this lesson.
 Write a minimum of 15 sentences.
 
 Describe what you learned using your own words.
-
-## IMPORTANT
-
-Please download and read this before proceeding to lesson 6 and 7:
-
-[DOWNLOAD](https://drive.google.com/file/d/1Mu7Ss-4VVfB2fZv2qAo--1KdUVZXvhmT/view?usp=sharing)
-
 
 ## LESSON 6
 
