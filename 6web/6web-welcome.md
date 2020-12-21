@@ -63,18 +63,21 @@ These words will be used in over 50% of all the sentences that you will be writi
 
 Please click link to download exercise.
 
+We will cover two lessons every week.
+
+You are free to do advance reading.
+
 Removing Bad Habits - [DOWNLOAD](https://drive.google.com/file/d/1w8Z_cfbO3U_RHjsYw5Mpu4Y7tMRnW4q2/view?usp=sharing)
 
 One Sentence Paragraph - [DOWNLOAD](https://drive.google.com/file/d/1dfNBxg9T17yKpS8CO4RB_4A9LlISxIuZ/view?usp=sharing)
 
-Shorten Sentences - [DOWNLOAD](https://drive.google.com/file/d/1Mu7Ss-4VVfB2fZv2qAo--1KdUVZXvhmT/view?usp=sharing)
+Shorten Sentences - [DOWNLOAD](https://drive.google.com/file/d/1ACz08BLtYML_BSQ6tiNP0ECr8Gm38820/view?usp=sharing)
 
 Overused Pronouns- [DOWNLOAD](https://drive.google.com/file/d/1cFWKbH6TpJXOpk52bjg9pl8YPcQ-u1Af/view?usp=sharing)
 
 Simplifying Words - [DOWNLOAD](https://docs.google.com/document/d/1bOLOtZpwWOpEmtAq8B8fFxihewwB5rqVP0Eu9R7NMv4/edit?usp=sharing)
 
 Blanket and Abstract Terms - [DOWNLOAD](https://drive.google.com/file/d/1Ki_TAVvz0DCoSAStBG8nujax7HybfS3w/view?usp=sharing)
-
 
 My secret to confidence - [DOWNLOAD](https://callcentertrainingtips.com/confident/)
 

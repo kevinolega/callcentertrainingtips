@@ -146,7 +146,7 @@ Describe what you learned using your own words.
 
 Shorten Sentences
 
-[DOWNLOAD](https://drive.google.com/file/d/1Mu7Ss-4VVfB2fZv2qAo--1KdUVZXvhmT/view?usp=sharing)
+[DOWNLOAD](https://drive.google.com/file/d/1ACz08BLtYML_BSQ6tiNP0ECr8Gm38820/view?usp=sharing)
 
 I'd like to point out that is the most important lesson in the the module.
 
