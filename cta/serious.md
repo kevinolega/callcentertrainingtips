@@ -50,6 +50,10 @@ After writing the comments, please save the screenshots.
 
 Send an email with the 10 screenshots to kevin@callcentertrainingtips.com.
 
+Here's a link that leads to our YouTube Channel.
+
+[LINK](https://callcentertrainingtips.com/yt)
+
 ## Option 2: Go to my website.
 
 Do this option if you don't have unlimited internet.
@@ -66,3 +70,6 @@ After writing the comments, please save the  screenshots.
 
 Send an email with the 10 screenshots to kevin@callcentertrainingtips.com.
 
+Here's a link to our website.
+
+[LINK](https://callcentertrainingtips.com)
