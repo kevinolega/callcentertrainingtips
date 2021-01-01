@@ -11,9 +11,9 @@ Please watch the videos until the end.
 
 Hit like and subscribe.
 
-Please take notes.
+Take notes and you'll remember the important details.
 
-Support us and the other students by sharing your notes in the comment section.
+Please support us and the other students by sharing your notes in the comment section.
 
 My advice for teachers exploring call center work, VA work and online teaching.
 [WATCH VIDEO](https://youtu.be/QJppGlR0G20)
