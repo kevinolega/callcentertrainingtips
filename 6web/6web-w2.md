@@ -153,3 +153,18 @@ Thanks.
 
 <a href="https://callcentertrainingtips.com/6webstudent/" class="button focus">STUDENT PORTAL</a>
 
+**BONUS:**
+
+On your second session, we'll begin to incorporare some pronunciation practice.
+
+Watch the following pronunciation sesions.
+
+[Watch Recorded Pronunciation Session 01](https://youtu.be/j2r-JNolL5w).
+
+[Watch Recorded Pronunciation Session 02](https://youtu.be/fezqHqAwKqY).
+
+These sessions will help you become familliar with the most common words that you need to get correctly.
+
+These sessions will also help you become familiar with the most common mistakes so you know EXACTLY what to avoid.
+
+Watch the two videos before scheduling your phone coaching session.

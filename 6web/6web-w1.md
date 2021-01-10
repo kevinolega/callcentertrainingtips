@@ -167,8 +167,28 @@ Thanks.
 
 <a href="https://callcentertrainingtips.com/6webstudent/" class="button focus">STUDENT PORTAL</a>
 
-**Bonus:**
+**BONUS:**
 
 I am willing to do more work to become better.
 
-LINK COMING SOON
+While waiting for your phone coaching schedule, begin watching our recorded sessions with other students.
+
+We provide a wealth of information during phone coaching.
+
+The more questions you ask, the more answers we can give you.
+
+Unfortunately, we don't always have the time to cover all the questions and sometimes we forget to cover something that you want to know.
+
+We recommend that you list down all your questions so we can answer all those at the end of the question.
+
+The good news is you receive the benefit other students receive because all the sessions are recorded.
+
+Click the link to watch the other sessions and discover the challenges of other people and what solutions we came with together.
+
+The more you understand about how we solve the problems together the better your problem solving skills become.
+
+Your problem sovling skills get better as you understand how we solve different problems.
+
+Higher level communication skills become available as a consequence of heightened problem solving skills.
+
+[ACCESS BONUS VIDEOS](https://callcentertrainingtips.com/videos)
