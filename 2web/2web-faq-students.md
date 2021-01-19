@@ -2,7 +2,7 @@
 layout: page
 title: Frequently Asked Questions - Students
 date: 2020-06-17 00:37
-permalink: /faq6bstudents/ 
+permalink: /faq2bstudents/ 
 author: Kevin Olega 
 --- 
 We attempt to answer the most common questions on this page.
@@ -42,21 +42,21 @@ That's because, we will discuss your answers to the writing exercises and help f
 
 ## I'm Having Difficulty With The Activities. What Do I Do?
 
-[READ: How to Complete Your 42 Writing Exercises](https://callcentertrainingtips.com/42tips/).
-
-[READ: WRITE POORLY](https://callcentertrainingtips.com/poorly/).
+Focus on writing one sentence at a time.
 
 ## How Do I Send The Activities?
 
-[READ: HOW TO ORGANIZE YOUR ANSWERS](https://callcentertrainingtips.com/organize6w).
+Please use Google Docs
 
 ## The Activities Are Too Long.
 
-Yes.
+No.
+
+15 sentences can be done in 15 minutes.
+
+Aim to write 1 sentence per minute.
 
 The intention is to help you become comfortable communicting in English.
-
-[READ: WRITE POORLY](https://callcentertrainingtips.com/poorly/).
 
 ## The Activities Are Too Difficult. Should I Give Up?
 
@@ -74,15 +74,11 @@ And that's a good thing.
 
 Discomfort is a sign that you are learning something new.
 
-[READ: WRITE POORLY](https://callcentertrainingtips.com/poorly/).
-
 ## The Questions Are Too Personal. Can I Skip These Questions?
 
 Our goal is to help you develop your ability to express yourself in English comfortably and confidently.
 
 We begin with opening up topics about yourself and slowly transition to more professional and work-related conversations.
-
-[READ: Improve Your Communication With Writing Exercises](https://callcentertrainingtips.com/writingexercise/)
 
 ## Do I Need to Print The Activities?
 
@@ -98,8 +94,6 @@ Please remember that the written activities are communications practice, and is 
 
 You have to be able to articulate your goals, plans, intentions, preferences, and ideas.
 
-Short Answer: Yes. [READ: Why you should answer all the questions](https://callcentertrainingtips.com/answerall/).
-
 ## Do I Need To Write The Questions?
 
 Yes. 
@@ -107,9 +101,6 @@ Yes.
 This is additional English practice.
 
 This also makes the discussion easier.
-
-[READ: HOW TO ORGANIZE YOUR ANSWERS](https://callcentertrainingtips.com/organize6w).
-
 
 ## The Activities Take Too Much Time. How Do I Fit This Training In My Schedule?
 
@@ -123,17 +114,17 @@ We don't expect you to finish everything in one day.
 
 And that's okay.
 
-[READ: WRITE POORLY](https://callcentertrainingtips.com/poorly/).
+## I'm Worried About The Time Limit. 
 
-## I'm Worried About The Time Limit. Will Failing To Complete The Exercises Kick Me Out of Your Training?
+Will Failing To Complete The Exercises Kick Me Out of Your Training?
 
 No.
 
-We did specify six weeks for the lessons; however, we would prefer to NOT implement a finished or not finished policy.
+We did specify two weeks for the lessons; however, we would prefer to NOT implement a finished or not finished policy.
 
 If you need more time, we will give you more time.
 
-[READ: WRITE POORLY](https://callcentertrainingtips.com/poorly/).
+We extended the training period to 60 days.
 
 ## What's the Meaning of WORD or PHRASE?
 
@@ -153,8 +144,6 @@ Fill those pages with your thoughts so we have something to fix.
 
 We repair your broken English during the phone coaching.
 
-[READ: WRITE POORLY](https://callcentertrainingtips.com/poorly/).
-
 ## I Give Up
 
 It's okay to give up.
@@ -171,4 +160,4 @@ If you want to become happy and successful, work on your communications skills.
 
 We're here to help you.
 
-<a href="https://callcentertrainingtips.com/6webguide/" class="button focus">RETURN TO GUIDELINES</a> 
+<a href="https://callcentertrainingtips.com/2webguide/" class="button focus">RETURN TO GUIDELINES</a> 

@@ -103,6 +103,7 @@ I can't think of what to say.
 
 [READ: WRITE IN FILIPINO](https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing)
 
+
 ### Weekly Lessons
 
 #### Week 1

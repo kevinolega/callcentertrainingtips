@@ -25,7 +25,7 @@ Please download and read this before answering the lessons.
 
 Removing Bad Habits - [DOWNLOAD](https://drive.google.com/file/d/1w8Z_cfbO3U_RHjsYw5Mpu4Y7tMRnW4q2/view?usp=sharing)
 
-[Writing Before Speaking](https://callcentertrainingtips.com/writing-2web/).
+[Writing Before Speaking](https://callcentertrainingtips.com/writing-6web/).
 
 ## Watch This Video
 
