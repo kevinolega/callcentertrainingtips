@@ -6,8 +6,6 @@ Tags: [ uncategorized, blog ]
 permalink: /finances-taglish/ 
 author: Kevin Olega 
 --- 
-
-
 Malaki naman ang kita sa call center.
 
 Bakit wala kang ipon?
