@@ -6,6 +6,9 @@ Tags: [ uncategorized, blog ]
 permalink: /20201-01-book/ 
 author: Kevin Olega 
 --- 
+
+![IMAGE TEXT]({{ site.url }}/images/Small Book Blessings Cover-2.png).
+
 Maraming nagre-request na mag-sulat ako ng libro.
 
 Gumawa ako nung 2011 kaso ang daming grammar error kaya tinangal ko muna sa website.
