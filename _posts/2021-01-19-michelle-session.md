@@ -6,6 +6,10 @@ Tags: [ uncategorized, blog ]
 permalink: /202101-michelle/ 
 author: Kevin Olega 
 --- 
+[Watch the Video on Youtube](https://youtu.be/GQ1LPql40pw)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GQ1LPql40pw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Michelle had a lot of fun with the writing exercises.
 
 What she learned:
