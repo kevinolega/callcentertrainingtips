@@ -113,7 +113,7 @@ Please send me a recording of you reading the 30 words.
 
 Pronunciation 31-60
 
-[DOWNLOAD](https://drive.google.com/file/d/1UE0H2P4qB69wpbJJa57ErCIbxAZHZie4/view?usp=sharing)
+You will be using the same downloaded file used for Lesson 5.
 
 ACTIVITY:
 
@@ -126,7 +126,7 @@ Please send me a recording of you reading the 30 words.
 
 Pronunciation 61-100
 
-[DOWNLOAD](https://drive.google.com/file/d/1UE0H2P4qB69wpbJJa57ErCIbxAZHZie4/view?usp=sharing)
+You will be using the same downloaded file used for Lesson 5.
 
 ACTIVITY:
 
