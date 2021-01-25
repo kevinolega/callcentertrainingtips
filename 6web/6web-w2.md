@@ -80,7 +80,7 @@ PREVIEW:
 
 PREVIEW:
 
-Write a fifteen sentence instruction on how to get hired at your dream job.
+Write a twenty sentence instruction on how to get hired at your dream job.
 
 ## LESSON 4 
 
