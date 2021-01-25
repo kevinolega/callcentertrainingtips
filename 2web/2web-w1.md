@@ -11,7 +11,7 @@ Please read all the lessons and instructions carefully.
 
 Please answer all the activities.
 
-Please follow the one sentence paragrph format when you submit your answers. 
+Please follow the one sentence paragraph format when you submit your answers. 
 
 The one sentence paragraph format is explained in the lessons Removing Bad Habits and One Sentence Paragraph on Lesson 7.
 
