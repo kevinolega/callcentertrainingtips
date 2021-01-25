@@ -70,8 +70,6 @@ PREVIEW:
 - Who are your role models?
 - Do you consider yourself as optimistic or pessimistic?
 
-
-
 ## LESSON 3 
 
 20 Sentence Instruction. 
@@ -86,7 +84,7 @@ Write a fifteen sentence instruction on how to get hired at your dream job.
 
 20 Sentence Story.
 
-[DOWNLOAD LINK NEEDS TO BE UPDATED]()
+[DOWNLOAD](https://drive.google.com/file/d/1PHyzGBEnrux1IydFykBfFoOw0BR8TGGq/view?usp=sharing)
 
 PREVIEW:
 
