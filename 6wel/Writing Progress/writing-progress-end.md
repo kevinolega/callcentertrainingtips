@@ -37,7 +37,7 @@ More importantly, I developed my writing skills.
 
 In 2009, I decided to buy a website and post my writings publicly.
 
-Owning a website gave potentiall employers the impression that I'm a tech genius.
+Owning a website gave potential employers the impression that I'm a tech genius.
 
 No other applicant that I competed owned a website.
 
