@@ -191,4 +191,7 @@ Your problem sovling skills get better as you understand how we solve different 
 
 Higher level communication skills become available as a consequence of heightened problem solving skills.
 
+[ACCESS PRONUNCIATION MODULE](https://callcentertrainingtips.com/pronunciation)
+
 [ACCESS BONUS VIDEOS](https://callcentertrainingtips.com/videos)
+
