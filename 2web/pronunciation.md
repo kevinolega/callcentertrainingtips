@@ -67,8 +67,6 @@ V sound requires that you form the rabbit position with your mouth.
 
 You'll notice a slight vibration with your lips and teeth when you make the V sound.
 
-
-
 ### P and F
 
 P sound requires closed lips.
@@ -91,6 +89,14 @@ You will also feel a slight vibration unlike the D sound.
 Examples are:
 
 The, There, Then, Them, That.
+
+### TH and T
+
+Sometimes we make the T sound instead of the TH sound.
+
+We say tree instead of Three.
+
+Be careful of that potential mistake.
 
 ## Recorded Sessions:
 
