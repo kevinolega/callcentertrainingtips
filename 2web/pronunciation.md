@@ -121,7 +121,7 @@ Be careful of that potential mistake.
 
 ### Request:
 
-When you get the chance, please:
+When you get the chance, please support our page:
 
 1. Hit like on the YouTube Video
 2. Subscribe to our YouTube Channel
