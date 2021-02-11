@@ -64,4 +64,4 @@ As I write this, I recall that for as long as I remember...
 
 I tell everyone I meet that I had zero musical ability.
 
-I realize that the reason for that is I never took guitar lessons.
+I realize that the reason for that is I never took any voice or guitar lessons.
