@@ -120,6 +120,14 @@ To continue the lessons, you only need to send us a message, and we will resume 
 
 We keep a record of your info, so you never have to worry that we'll forget about you.
 
+## EXPIRATION
+
+Change in management led us to put a 90 day limit to our training.
+
+We will wait for the students until December 31, 2020.
+
+[CLICK FOR MORE DETAILS](https://callcentertrainingtips.com/expired)
+
 ## Testimonials
 
 You may have noticed that our price is crazy low.
