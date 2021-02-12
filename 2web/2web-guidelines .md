@@ -89,7 +89,6 @@ If you have:
 
 Please inform us, and we can freeze your account.
 
-
 ## Expiration of Lessons
 
 Our training agreement expires after 60 days.
@@ -98,11 +97,13 @@ Please complete the two weeks of lessons within the time frame.
 
 If you would like to extend, additional fees may apply.
 
+[CLICK FOR MORE DETAILS](https://callcentertrainingtips.com/expired)
+
 ## Extensions and Extra Sessions
 
 We charge a fee of ₱357 per hour for additional sessions.
 
-Please send us a message for information on coaching packages.
+Please send us a message for information on coaching packages and promotions.
 
 ## Testimonials
 
@@ -139,6 +140,9 @@ Our training agreement expires after 60 days.
 Please do your best to complete the exercises within the time period.
 
 From personal experience, we discovered that people who skip writing for three days or longer end up not completing the lessons at all.
+
+[CLICK FOR MORE DETAILS](https://callcentertrainingtips.com/expired)
+
 
 ## On Forming Habits…
 

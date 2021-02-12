@@ -91,9 +91,7 @@ Pronunciation Exercise - [DOWNLOAD](https://drive.google.com/file/d/1UE0H2P4qB69
 
 Pronunciation Sesion
 
-[Watch Recorded Pronunciation Session 01](https://youtu.be/j2r-JNolL5w).
-
-[Watch Recorded Pronunciation Session 02](https://youtu.be/fezqHqAwKqY).
+[CLICK HERE FOR PRONUNCIATION SESSIONS](https://callcentertrainingtips.com/pronunciation).
 
 ### Help!!!
 
@@ -115,4 +113,19 @@ I can't think of what to say.
 Unlocks upon completion of previous lessons.
 
 
+## EXPIRATION
 
+The training agreement of our two week module expires after 60 days.
+
+Please do your best to complete the lessons within the time period.
+
+[CLICK FOR MORE DETAILS](https://callcentertrainingtips.com/expired)
+
+
+#### UPGRADE TO SIX WEEKS:
+
+Our six weeks module is more comprehensive and provides more practice exercises.
+
+The new set costs ₱487.
+
+You'll get a total of 42 lessons and six live coaching sessions.

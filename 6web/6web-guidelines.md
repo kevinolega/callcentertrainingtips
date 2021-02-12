@@ -103,6 +103,8 @@ Please complete the six weeks of lessons within the time frame.
 
 If you would like to extend, additional fees may apply.
 
+[CLICK FOR MORE DETAILS](https://callcentertrainingtips.com/expired)
+
 ## Extensions and Extra Sessions
 
 We charge a fee of ₱357 per hour for additional sessions.
