@@ -98,6 +98,14 @@ We can also provide letters of recommendation and resume building assistance at 
 
 The tuition is non-refundable.
 
+## EXPIRATION
+
+Change in management led us to put a 90 day limit to our training.
+
+We will wait for the students until December 31, 2020.
+
+[CLICK FOR MORE DETAILS](https://callcentertrainingtips.com/expired)
+
 ## Freeze Policy
 
 If, for any reason, you need more time to finish the lessons or reschedule your phone coaching for an indefinite period, please let us know.
@@ -169,6 +177,15 @@ From personal experience, we discovered that people who skip writing for three d
 We will still wait for you.
 
 If you paid for the lessons, we'll always give you the chance to continue the lessons. 
+
+## EXPIRATION
+
+Change in management led us to put a 90 day limit to our training.
+
+We will wait for the students until December 31, 2020.
+
+[CLICK FOR MORE DETAILS](https://callcentertrainingtips.com/expired)
+
 
 ## On Forming Habits...
 
