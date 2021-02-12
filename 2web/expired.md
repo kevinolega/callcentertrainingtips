@@ -2,7 +2,7 @@
 layout: page
 title: EXPIRED TRAINING SESSIONS
 date: 2021-02-12 10:19
-permalink: /expired/ 
+permalink: /expired 
 author: Kevin Olega 
 --- 
 Training agreement expires in 90 days if you enrolled in our six weeks training.
@@ -63,9 +63,13 @@ Please watch those videos.
 
 While waiting for you to show up, we used the resources to build new training materials that you can use when you get back.
 
-[LINK TO LESSON LIBRARY(https://callcentertrainingtips.com)
+[LINK TO LESSON LIBRARY](https://callcentertrainingtips.com)
 
 These videos and the additional lessons posted on the website are created specifically for you.
+
+Download my free book.
+
+[LINK TO BOOK DOWNLOAD](https://callcentertrainingtips.com/sbb-book/ )
 
 Use these resources.
 
