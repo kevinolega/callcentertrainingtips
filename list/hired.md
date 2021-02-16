@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: HIRED - IN PROGRESS	
+title: I'M ALREADY HIRED!!! HOW TO PASS CALL CENTER TRAINING, GET REGULARIZED, BECOME A TOP PERFORMER, AND EARN ₱400,000 A YEAR
 date: 2019-08-31 18:28
 Tags: [ collections, blog ]
 permalink: /hired/ 
@@ -94,6 +94,24 @@ But the question is, are you making sacrifices?⁣ ⁣ Are you willing to be unc
 
 [Click Here to Learn More](https://callcentertrainingtips.com/loser/)
 
+
+## Everything You Need To Know About Call Center Work
+
+[Click Here to Read More](https://callcentertrainingtips.com/clear-work/)
+
+## How to Pass Call Center Training
+
+[Click Here to Read More](https://callcentertrainingtips.com/pass-training/)
+
+## How to Survive Call Center Training
+
+[Click here to Read More](https://callcentertrainingtips.com/survivetrain/)
+
+## TL Gerry Changed My Life - Problem Agent to Top Agent
+
+[Click here to Read More](https://callcentertrainingtips.com/gerry)
+
+
 ## How To Get Rewarded For Your Skills
 
 [Click Here to Learn More](https://callcentertrainingtips.com/skills-reward/)
@@ -109,6 +127,7 @@ But the question is, are you making sacrifices?⁣ ⁣ Are you willing to be unc
 ## How to Improve Your KPI
 
 [Click Here to Learn More](https://callcentertrainingtips.com/write-spiel/)
+
 ## How To Regain Four Hours a Week
 
 [Click Here to Learn More](https://callcentertrainingtips.com/clothing-schedule/)
@@ -186,3 +205,11 @@ NOTE: This the secret to high stats that nobody talks about. 83% of all call cen
 ## How To Exit Call Center Work
 
 [Click Here to Learn More](https://callcentertrainingtips.com/exit-work/)
+
+## Thank you for Reading
+
+If you ended up reading all the lessons that I shared in this page, you're my kind of person.
+
+Please introduce yourself.
+
+[Send me a message](https://callcentertrainingtips.com/contact).

@@ -137,6 +137,23 @@ Write down the words you are guilty of using.
 
 Write down a simpler word that you can use instead.
 
+Please write examples of you using the words in the sentences.
+
+Please write words that you'll use instead.
+
+**For example**:
+
+I discovered in this lesson that overusing "noted" is considered outdated office language.
+
+You want to avoid using office words when talking to customers.
+
+Moving forward, I'll stop using "noted" in my conversations.
+
+I'll say "got you," "okay," and "I understand" instead of "noted."
+
+You may write sentences like these as you explain the words that you'll stop using.
+
+Writing sentences like these will help you remember and eventually replace the overused words with better alternatives.
 
 
 ## Phone Coaching
