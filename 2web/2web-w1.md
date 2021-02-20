@@ -195,3 +195,10 @@ Higher level communication skills become available as a consequence of heightene
 
 [ACCESS BONUS VIDEOS](https://callcentertrainingtips.com/videos)
 
+## I'M DONE WITH THE EXERCISES. I'M WAITING FOR MY COACHING SESSION
+
+Sometimes the coaching schedule gets filled up.
+
+We prepared some additional activities for you.
+
+[Click Here](https://callcentertrainingtips.com/waitingc1/).
