@@ -17,6 +17,39 @@ The one sentence paragraph format is explained in the lessons Removing Bad Habit
 
 Minimum number of sentences for most of the writing exercises is fifteen sentences.
 
+We record a video of your phone coaching session for training purposes.
+
+We publish some of the coaching sessions to our YouTube channel.
+
+During the coaching session, we inspect your answers one sentence at a time.
+
+We would like to avoid publishing our student's private information.
+
+Please do not include personal info like your complete name, and complete address in your answers.
+
+Your first name or nickname is fine for all of our questions.
+
+Do not say: My name is James Kevin Olega. You may call me Kevin for short.
+
+Say: My name is Kevin.
+
+Do not say: I live in 123 Paper Street BF Homes Sucat Parañaque City.
+
+Say: I live in Parañaque City.
+
+The second example sounds more confident.
+
+Please remember to:
+
+1. Follow the One Sentence Paragraph Format
+2. Shorten your sentences. Your sentence needs to have only one idea.
+3. Write complete sentences.
+4. Run your answers through a spelling and grammar check program.
+5. Read your answers aloud before submitting.
+6. Use simple words.
+
+Please read Removing Bad Habits as many times as you need.
+
 Send us an email for questions.
 
 ## IMPORTANT!!! READ THIS FIRST!!!
@@ -94,6 +127,13 @@ PREVIEW:
 
 Write a fifteen sentence instruction on how to commute to the office (current, past, or future) or nearest mall.
 
+Please remember to:
+
+1. Include Street Names.
+2. Include Landmarks.
+
+Your instructions need to be understandable to people who are both commuting or driving.
+
 ## LESSON 4 
 
 15 Sentence Story.
@@ -167,6 +207,14 @@ Thanks.
 
 <a href="https://callcentertrainingtips.com/6webstudent/" class="button focus">STUDENT PORTAL</a>
 
+## I'M DONE WITH THE EXERCISES. I'M WAITING FOR MY COACHING SESSION
+
+Sometimes the coaching schedule gets filled up.
+
+We prepared some additional activities for you.
+
+[Click Here](https://callcentertrainingtips.com/waitingc1/).
+
 **BONUS:**
 
 I am willing to do more work to become better.
@@ -193,10 +241,3 @@ Higher level communication skills become available as a consequence of heightene
 
 [ACCESS BONUS VIDEOS](https://callcentertrainingtips.com/videos)
 
-## I'M DONE WITH THE EXERCISES. I'M WAITING FOR MY COACHING SESSION
-
-Sometimes the coaching schedule gets filled up.
-
-We prepared some additional activities for you.
-
-[Click Here](https://callcentertrainingtips.com/waitingc1/).
