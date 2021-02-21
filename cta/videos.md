@@ -15,49 +15,105 @@ Take notes and you'll remember the important details.
 
 Please support us and the other students by sharing your notes in the comment section.
 
-My advice for teachers exploring call center work, VA work and online teaching.
-[WATCH VIDEO](https://youtu.be/QJppGlR0G20)
+### Pronunciation Phone Coaching 45 Minutes
 
-Activities that improve your English
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j2r-JNolL5w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Pronunication Phone Coaching 30 Minutes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fezqHqAwKqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Pronunication Phone Coaching Solo Practice
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xBFxOATikEI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Ranking English Practice Activities
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aHxkFb43IZg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=aHxkFb43IZg).
+
+
+### Phone Coaching Session with a Teacher
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QJppGlR0G20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Watch on YouTube](https://www.youtube.com/watch?v=QJppGlR0G20).
+
+### My Student Got Hired
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XogMVr4klo8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Customer Service Sentences Test
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j84svm2zxl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### My advice for teachers exploring call center work, VA work and online teaching.
+
+[WATCH VIDEO](https://youtu.be/QJppGlR0G20).
+
+### Activities that improve your English
+
 [WATCH VIDEO](https://youtu.be/aHxkFb43IZg)
 
-Thoughts Why You Need to Shorten Sentences
+### Thoughts Why You Need to Shorten Sentences
+
 [WATCH VIDEO](https://youtu.be/JXVe3t5tTo0)
 
-Giving Grammar Corrections and Harsh Career Advice
+### Giving Grammar Corrections and Harsh Career Advice
+
 [WATCH VIDEO](https://youtu.be/n3M1TCaaAjA)
 
-Answering Questions About Call Center Work
+### Answering Questions About Call Center Work
+
 [WATCH VIDEO](https://youtu.be/-J1IWrfdajI)
 
-What to do When You Run Out of Money
+### What to do When You Run Out of Money
+
 [WATCH VIDEO](https://youtu.be/j5xRGQ6l5u4)
 
-The EXACT Story That Will Convince The Interviewer To Hire You
+### The EXACT Story That Will Convince The Interviewer To Hire You
+
 [WATCH VIDEO](https://youtu.be/L4hT5nJ0vzg)
 
-Pronunciation Practice Activity 45 minutes.
+### Pronunciation Practice Activity 45 minutes.
+
 [WATCH VIDEO](https://youtu.be/j2r-JNolL5w)
 
-Pronunciation Practice Session 30 minutes
+### Pronunciation Practice Session 30 minutes
+
 [WATCH VIDEO](https://youtu.be/fezqHqAwKqY)
 
-Share Specific Goals During Call Center Interviews
+### Share Specific Goals During Call Center Interviews
+
 [WATCH VIDEO](https://youtu.be/oluvrpck8Vc)
 
-What's Your Expected Salary?
+### What's Your Expected Salary?
+
 [WATCH VIDEO](https://youtu.be/r-pL4vVFXkc)
 
-Why It's Difficult To Answer Interview Questions in English
+### Why It's Difficult To Answer Interview Questions in English
+
 [WATCH VIDEO](https://youtu.be/xbuxPSRhUJc)
 
-Giving Detailed Instructions is Valuable
+### Giving Detailed Instructions is Valuable
+
 [WATCH VIDEO](https://youtu.be/c9LTvCjjFsA)
 
-How to Answer Call Center Interview Questions
+### How to Answer Call Center Interview Questions
+
 [WATCH VIDEO](https://youtu.be/eAoX--4P0Go)
 
-Write with me for 30 minutes
+### Write with me for 30 minutes
+
 [WATCH VIDEO](https://youtu.be/FrylHJMUhz4)
+
+### My Advice to New Call Center Agents
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X_JyBMHcPwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Watch on YouTube](https://youtu.be/X_JyBMHcPwo).
 
 [CLICK HERE TO ACCESS OUR YOUTUBE CHANNEL](https://callcentertrainingtips.com/yt)

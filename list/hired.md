@@ -94,6 +94,11 @@ But the question is, are you making sacrifices?⁣ ⁣ Are you willing to be unc
 
 [Click Here to Learn More](https://callcentertrainingtips.com/loser/)
 
+## My Advice to New Call Center Agents
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X_JyBMHcPwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Watch on YouTube](https://youtu.be/X_JyBMHcPwo).
 
 ## Everything You Need To Know About Call Center Work
 
