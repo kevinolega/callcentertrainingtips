@@ -41,8 +41,62 @@ Here's a list of probing questions.
 
 Here's what to do.
 
-1. I want you to record yourself asking these questions.
-2. I want you to write down an example of a practical situation where you use this question.
+### Part 1
+
+I want you to record yourself asking these questions.
+
+
+### Part 2
+
+I want you to write down an example of a practical situation where you use this question.
+
+**EXAMPLE 1**
+
+"Why do you think that is?"
+
+Situation: 
+
+You're having a discussion with a customer and you'd like more details about how he or she came to a conclusion.
+
+"Why do you think that is" is an informal version of:
+
+What do you think the reason is?
+
+Customer: I feel that your product is more expensive than the competition.
+
+Agent: Why do you think that is?
+
+Customer: I feel that you charge higher because you use higher quality materials and offer premium service.
+
+**EXAMPLE 2**
+
+What were you hoping to accomplish?
+
+Situation:
+
+You are having a discussion with the customer. 
+
+You're trying to understand the customer's actions and decisions.
+
+You ask the customer about their goal to see the big picture.
+
+Customer: I've checked different providers. I still haven't found the service that I'm looking for.
+
+Agent: It's sounds like finding the right service provider is important to you. What were you hoping to accomplish?
+
+Customer: That's right! I'm trying to get some work done but I also have limited budget.
+
+I want you to research and use your imagination on how these questions are used in conversations.
+
+The probing questions that I've selected are used in different areas of:
+
+1. Customer service.
+2. Technical support
+3. Problem solving.
+4. Consultation or Counseling.
+5. Interviews.
+
+The main purpose of probing questions is to get more information so you understand enough about the customer to make a proper recommendation.
 
 Questions follow.
 

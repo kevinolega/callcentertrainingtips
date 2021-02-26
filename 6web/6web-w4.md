@@ -36,7 +36,21 @@ Minimum of 10 sentences needed in each section.
 
 Here's a list of problem solving questions. 
 
-[ADD DOWNLOAD LINK]
+### PART 1: 
+
+Please record yourself reading these questions.
+
+### PART 2:
+
+Please write a 40 sentence story about a situation where you solved a problem.
+
+Describe the problem.
+
+Describe the solution.
+
+Use the problem solving questions that I gave in the examples.
+
+[DOWNLOAD LESSON](https://docs.google.com/document/d/1m1jS4NcH0PggRQNgHcdhN4oX9JvD-OgwEeiezriCCbM/edit?usp=sharing)
 
 ## LESSON 3 
 

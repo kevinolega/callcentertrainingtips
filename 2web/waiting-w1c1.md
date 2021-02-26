@@ -15,7 +15,7 @@ We follow a first come first serve policy.
 
 The students who submit their answers first gets to pick the schedule first.
 
-Here are some recommendations while wating.
+Here are some recommendations while waiting.
 
 Please watch the videos.
 
@@ -38,17 +38,35 @@ Make sure that you follow the following guidelines:
 - Does my writing sound good as if I'm explaining to a friend?
 - Please fix lines that have incomplete thoughts.
 
-Please Review Removing Bad Habits.
+Please Review **Removing Bad Habits**.
 
 You are allowed to make the necessary changes to your answers.
+
+Please submit your answers using Google Docs.
+
+I want you to organize your writing exercises in a Google document.
+
+Write all your questions in the Google document and I'll answer your question during the phone coaching session. 
+
+Here's a guide on how to submit your answers.
+
+[Please watch this video about Google Docs](https://www.youtube.com/watch?v=1OSLCxKX11U).
+
+This is a sample of what happens during phone coaching.
+
+We will read through your answers together and I will provide feedback.
+
+[Please watch this video about the phone coaching session](https://youtu.be/nwRH253pCAQs).
 
 ## Write down your questions:
 
 I'd like to answer as many of your personal questions during the session.
 
+Please write your questions on the Google Document with your answers.
+
 ## Watch our Recorded Coaching Videos:
 
-https://callcentertrainingtips.com/videos
+[Link to Video Lessons](https://callcentertrainingtips.com/videos).
 
 Here's a session with a student who already passed a call center job interview. Listen to how she sounds like.
 
