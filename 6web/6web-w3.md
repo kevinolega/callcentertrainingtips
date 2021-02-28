@@ -160,7 +160,7 @@ Answer the following questions.
 
 Minimum of 10 sentences per question.
 
-1. Tell me the story about your colllege course. How did you decide what you're going to stud? What happened?
+1. Tell me the story about your college course. How did you decide what you're going to study? What happened?
 2. Tell me a story about your first job. How did you decide where to work? What happened?
 3. Tell me a story about your next job. How did you decide. Describe your preparation. What happened?
 
