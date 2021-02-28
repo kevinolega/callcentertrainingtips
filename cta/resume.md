@@ -240,7 +240,7 @@ Say:
 
 > I'm sorry I missed your call. May I know who's this?
 
-** Don't answer calls saying "who's this?" or worse, in Tagalog.** 
+**Don't answer calls saying "who's this?" or worse, in Tagalog.** 
 
 Here's how I answer:
 
