@@ -73,7 +73,7 @@ You are now back in the present.
 
 You realize that you can't change your past but you can design the future.
 
-What is your advice to your future sellf?
+What is your advice to your future self?
 
 Write 20 sentences.
 

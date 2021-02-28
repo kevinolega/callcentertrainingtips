@@ -9,17 +9,78 @@ author: Kevin Olega
 
 You know what to do by now.
 
-Minimum number of sentences for the writing exercises is forty sentences.
+Minimum number of sentences for the writing exercises is fifty sentences.
 
 ## READ THIS FIRST!!!
 
 Congratulations for being part of the top 1%.
 
-### Help!!!
+I'm super proud of you.
 
-I'm depressed.
+Most people get hired by week 2 or 3.
 
-Read this.
+You're still here.
+
+I have a few more techniques to teach you.
+
+Thank you for staying with us.
+
+I see a decent amount of success in your future.
+
+Please remember to continue practicing.
+
+Work on making sure that your bad habits do not stay with you.
+
+When you get to week 5, we expect you to have a decent level of composition.
+
+1. One sentence paragraph - CHECK!!!
+2. Short sentences  - CHECK!!!
+3. Specific words  - CHECK!!!
+4. No generic, umbrella terms.  - CHECK!!!
+5. No spelling errors and typos  - CHECK!!!
+6. You read your writing carefully before submitting  - CHECK!!!
+7. You write complete sentences  - CHECK!!!
+8. You use conversational instead of formal words  - CHECK!!!
+9. You removed redundant words  - CHECK!!!
+10. You are more comfortable writing  - CHECK!!!
+
+At this point, our main challenge is time.
+
+To learn a skill, you need to put in practice time.
+
+I've put in the best practice activities that I can think of.
+
+I know that some of these questions may sound repetitive.
+
+Asking yourself a question again and again often yields different answer.
+
+If you asked me to "tell you about myself."
+
+My answer would change depending on my mood, how much sleep I've had or whether I've eaten already.
+
+In the same way asking yourself the same questions again and again can give you ingredients that get you better answers.
+
+I'm in the middle of writing my second book.
+
+I've rewritten some of the stories dozens of times.
+
+I have stories from fifteen years ago.
+
+I have realizations about details that I forgot to include in the story fifteen years later.
+
+There are lessons that become more profound as you become older.
+
+That said, do not hesitate returning to your notes.
+
+Attempt to answer the questions again.
+
+You'll realize that your answers have changed.
+
+You'll also determine that your life has improved since you last attempted to answer the questions.
+
+I've rambled long enough.
+
+Let's go.
 
 ## LESSON 1
 
@@ -44,7 +105,7 @@ Let's talk about the real question.
 
 10. Talk about your detailed plan on how to get your dream income.
 
-Minimum of 30 sentences.
+Minimum of 40 sentences.
 
 
 
@@ -61,13 +122,13 @@ Perfect Attendance
 1. What are the obstacles to perfect attendance? 5 sentences.
 2. What are the things you can do to overcome these obstacles? 10 sentences.
 3. What are the things that you need to avoid? 10 sentences.
-4. What will you do daily, weekly, and monthly to achieve perfect attendance. 30 sentences.
+4. What will you do daily, weekly, and monthly to achieve perfect attendance. 40 sentences.
 
 ## LESSON 4 
 
-1. Tell me a story aboout a skill that you're proud of. 10 sentences.
-2. Tell me a story about a weakness, disaster, obstacle, or problem that you had to overcome. 20 sentences.
-3. Tell me a story about how you changed. 20 sentences.
+1. Tell me a story about a skill that you're proud of. 10 sentences.
+2. Tell me a story about a weakness, disaster, obstacle, or problem that you had to overcome. 30 sentences.
+3. Tell me a story about how you changed. 30 sentences.
 
 ## LESSON 5
 
@@ -98,7 +159,7 @@ Part 1:
 
 Please write down what you learned in this lesson.
 
-Write a minimum of 50 sentences.
+Write a minimum of 20 sentences.
 
 Describe what you learned using your own words.
 
@@ -112,7 +173,7 @@ Part 3:
 
 Make corrections to that writing exercise.
 
-Send me the corrected version.
+Send me the corrected version using Google Docs.
 
 Part 4:
 
@@ -125,7 +186,6 @@ Make changes.
 [DOWNLOAD](https://drive.google.com/file/d/1VIsl4-XbYrYeJBGWgEx3RM4LF1KTh79n/view?usp=sharing)
 
 Rewriting.
-
 
 ACTIVITY:
 
