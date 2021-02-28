@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: Resume Tips
+title: Call Center Resume Tips
 permalink: /resume/ 
 author: Kevin Olega 
 --- 
