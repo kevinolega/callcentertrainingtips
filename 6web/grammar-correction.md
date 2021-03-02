@@ -5,11 +5,15 @@ date: 2021-03-02 18:58
 permalink: /gcor/ 
 author: Kevin Olega 
 --- 
+You've followed several grammar rules successfully up to this point.
+
+Let's discuss what you may be doing wrong.
+
 ## LESSONS FROM GEORGE ORWELL
 
 George Orwell has six rules for writing.
 
-1. Never use a metaphor, simele, or other figure of speech tht you're used to seeing in print.
+1. Never use a metaphor, simile, or other figure of speech tht you're used to seeing in print.
 2. Never use a long word where a short word will do.
 3. If it's possible to cut a word out, cut the word out.
 4. Never use passive voice where you can use active voice.
@@ -70,6 +74,29 @@ I spend my free time improving my English skills.
 
 Please make sure that your sentences are complete.
 
+ORIGINAL SENTENCE:
+
+I like reading, cooking, and going to the gym.
+
+BAD EXAMPLE:
+
+I like.
+
+Reading.
+
+Cooking.
+
+Going to the gym.
+
+
+GOOD EXAMPLE:
+
+I like reading.
+
+I like cooking.
+
+I enjoy going to the gym.
+
 [CLICK HERE TO READ EXPLANATION AND EXAMPLES](https://docs.google.com/document/d/1cFMf_3UvyDQDk0o5Y8oIlFzMxGrm-Tm_nVPRJcljYYM/edit?usp=sharing)
 
 ## REMOVE UNNECESSARY WORDS
@@ -114,7 +141,7 @@ Weasel words make you sound unsure of yourself.
 In some cases, you can use these words but most of the time, these words don't help you present an idea clearly or make an argument.
 
 
-## MINIMIZE ADVERBS
+## AVOID ADVERBS
 
 Do not begin your sentences with the following words:
 
@@ -140,6 +167,10 @@ Read the sentence without the adverbs when you find these words in your sentence
 
 If the meaning of the sentence does not change, remove the adverbs.
 
+Using this words make your message sound like an exaggeration.
+
+Avoid using adverbs.
+
 ## THINGS
 
 Avoid the following words:
@@ -152,7 +183,7 @@ Anything
 
 Everything
 
-Make your verbs stronger wheneer possible.
+Make your verbs stronger whenever possible.
 
 ## AVOID NEGATIVE WORDS
 
@@ -175,3 +206,8 @@ Use positive words in your writing.
 This example has a combination of errors discussed in this guide.
 
 [CLICK HERE TO READ EXPLANATION AND EXAMPLES](https://docs.google.com/document/d/1kru_Zy18eXuK0_tp9Q6jRMIBFUIk4qr4e_YKcvZfY6s/edit?usp=sharing)
+
+Please review all the training materials on this page.
+
+Go back to your answers and correct your answers.
+
