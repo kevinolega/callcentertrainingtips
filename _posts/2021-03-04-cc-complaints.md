@@ -6,10 +6,6 @@ Tags: [ uncategorized, blog ]
 permalink: /call-center-complaints/ 
 author: Kevin Olega 
 --- 
-
-
-
-
 I don't ask strangers on social media what they think of a company.
 
 99% of people quit call center work.
