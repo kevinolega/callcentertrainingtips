@@ -43,3 +43,21 @@ In the end, feeling bad and worrying about getting hired does not count.
 Rejection is the true proof of your effort.
 
 If you're not getting rejected, you're not trying.
+
+Step By Step
+
+1. Go to jobstreet.com and other jobsites.
+2. Create an account (or login to your user account)
+3. Upload your resume.
+4. Fill out missing details of your resume.
+5. Search for call center jobs (customer service jobs, technical support jobs, telemarketing
+jobs, telesales jobs, billing jobs, collection jobs, etc.)
+6. Send out about 200 applications
+7. Repeat
+You'll probably get serveral phone interviews by lunchtime if you start early.
+
+Whenever I receive a call, I ask the interview if I can get a schedule later in the afternoon.
+
+Getting a job is a numbers game.
+
+The more resumes you send out, the better your chances are of getting an interview.

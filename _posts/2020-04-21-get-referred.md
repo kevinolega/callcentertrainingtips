@@ -16,7 +16,7 @@ I ask my old clients.
 
 I just let people know that I'm looking for work.
 
-I just tell them that I am looking for work and to let me know if they have any job opportunities for me.
+I tell my friends that I am looking for work and to let me know if they have any job opportunities for me.
 
 It's always a good idea to keep in touch with people who can potentially help you.
 
@@ -40,4 +40,14 @@ So try and get referred by a friend and go out and apply on your own.
 
 By the way, every time you do get referred, thank the person who helped you out and treat them to lunch.
 
-Buy them a pizza or something.
+Buy your friends a pizza or something.
+
+If I help you find a job, buy me a pizza.
+
+If you can't afford a pizza, here are some of the food that I like:
+
+1. McDonald's Cheeseburger (I'll have a Quarter Pounder if you can afford the upgrade)
+2. Jolibee Spaghetti.
+3. Jolibee yumburger.
+
+If you feel generous, buy us a Chicken and Spaghetti combo from either Jolibee or McDonalds.

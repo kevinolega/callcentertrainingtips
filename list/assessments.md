@@ -39,12 +39,20 @@ I put together two activities that will help you
 
 ## Personality Tests
 
+Here are three of the most popular personality tests that companies use to determine your job fit.
+
 [Click here to take the BIG 5 personality test]((https://callcentertrainingtips.com/big-five/)
 
 
 [Click here to take the BIG 5 personality test](((https://callcentertrainingtips.com/16personality/)
 
-[Click here to take the BIG 5 personality test](((https://callcentertrainingtips.com/disc/)
+[Click here to take the DISC personality test](((https://callcentertrainingtips.com/disc/)
 
 
+## Customer Service Tests
+
+[Customer Service Test Link](https://callcentertrainingtips.com/customer-service-test/).
+
+
+This page is ideantical to the [Call Center Exams post](https://callcentertrainingtips.com/call-center-exams).
 

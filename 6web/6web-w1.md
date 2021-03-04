@@ -211,6 +211,8 @@ I'd like to point out that is the most important lesson in the the module.
 
 If you can shorten all of your sentences, everything you write and say will be error-free and easy to understand.
 
+[READ: Shortened Sentence Simplified Explanation](https://callcentertrainingtips.com/ssse)
+
 ## Phone Coaching
 
 Please send ALL your answers before scheduling the phone coaching.
