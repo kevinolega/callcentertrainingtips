@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ten Small Things That Give Me an Advantage When Looking for Work'
+title: Ten Small Things That Give Me an Advantage When Looking for Work
 date: 2012-10-13 11:31
 author: Kevin Olega
 comments: true
@@ -454,11 +454,11 @@ I hope it helps.
 
 ## Here's what you can do.
 
-**1. Write your version of this essay and send me a link or post it in the comments below.**
+1. Write your version of this essay and send me a link or post it in the comments below.
 
 Email me if you're feeling shy.
 
-**2. Tell me what tip you'll be working on this week.**
+2. Tell me a story about what tip from the list that I shared will you be working on this week.
 
 See you soon.
 

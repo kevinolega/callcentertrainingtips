@@ -56,7 +56,7 @@ I will be forever alone.
 
 I'll never get hired in a call center.
 
-I'll always  run out of money.
+I'll always run out of money.
 
 I'll always fail my interview.
 

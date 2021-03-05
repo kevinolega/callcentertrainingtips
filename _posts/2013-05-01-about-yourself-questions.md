@@ -13,11 +13,11 @@ I found out today that a lot of people when asked about themselves give bullshit
 
 "I'm a patient, hardworking person that is looking for ways to contribute my skills and talents to your company." or something like this:
 
-#### 1)   I am a person with strong interpersonal skills and have the ability to get along well with people. 
+### I am a person with strong interpersonal skills and have the ability to get along well with people. 
 
 I enjoy challenges and looking for creative solutions to problems.
 
-#### 2)   Besides the details given in my resume, I believe in character values, vision and action. 
+### Besides the details given in my resume, I believe in character values, vision and action. 
 
 I am quick in learning from mistakes. 
 
@@ -79,7 +79,6 @@ How many times should you apply before getting hired in a call center?
 
 Here are my answers
 
-
 ## What is your name?
 
 My name is Kevin Olega.
@@ -92,11 +91,15 @@ I also lived in Alabang, QC, Mandaluyong and Makati.
 
 ## What was your past work?
 
-I used to work in sales and business development (a fancy way of saying, sales, marketing, training and whatever else the hell the boss or the client wants me to do).
+I used to work in sales and business development.
+
+Business development is a fancy way of saying, sales, marketing, training and whatever else the hell the boss or the client wants me to do.
 
 ## What did you do in that job?
 
-I offered products and services to clients (mostly companies) and took care of requests.
+I offered products and services to clients.
+
+Our company sold to other companies and took care of different requests.
 
 ## What kind of traits can you take from that job and apply it in a call center job?
 
@@ -168,7 +171,7 @@ I'd love to hear your answers.
 
 Email away.
 
-You can also checkout [this article](https://www.cleverism.com/tell-me-about-yourself//).
+You can also check [this article](https://www.cleverism.com/tell-me-about-yourself/).
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g1sxNVhHyVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

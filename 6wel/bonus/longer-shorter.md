@@ -46,12 +46,20 @@ If you mentioned anything interesting, the interviewer will ask you to give more
 
 And what you want to realize is that different interviewers are interested in different details.
 
-In a lot of cases, you already have that info.
+In a lot of cases, you already have that information.
 
-Unfortunately, that info is either in Filipino or poorly worded.
+Unfortunately, that information is either in Filipino or poorly worded.
 
 As you may already know, translating from Filipino to English during an interview is incredibly stressful and the output when you translate during a stressful situation is usually not very good.
 
-My solution is to do all that thinking and preparation at home and before your interview so you can minimize loss of opportunities because of simple mistakes that could have been prevented if you only set a schedule to sit down and write long versions of your answers.
+My solution is to do all that thinking and preparation at home and before your interview.
+
+Going to the interview prepared can help you  minimize loss of opportunities because of simple mistakes.
+
+90% of mistakes could have been prevented if you only set a schedule to sit down and write long versions of your answers.
 
 Please write the longer version before you attempt to write the shorter version.
+
+Here are a few recommended stories to write for the interview:
+
+[READ: 11 INTERVIEW STORIES](https://callcentertrainingtips.com/11stories)

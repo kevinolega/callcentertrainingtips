@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Lesson Plam
+title: Lesson Plan
 date: 2020-06-21 23:23
 permalink: /lessplan/ 
 author: Kevin Olega 

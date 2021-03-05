@@ -156,7 +156,7 @@ Kevin Olega
 
 **What worries you the most about working in a call center?**
 
-** What's your plan to overcome that challenge?**
+**What's your plan to overcome that challenge?**
 
 **Where do you experience doubt in your skills?**
 

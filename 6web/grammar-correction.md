@@ -48,6 +48,10 @@ Remove the pronoun and return the specific detail.
 
 [CLICK HERE TO READ EXPLANATION AND EXAMPLES](https://docs.google.com/document/d/1E_1W0ZMyDmbzfOhxWZoEH2XDtnBuNe67vRU775EG5SU/edit?usp=sharing).
 
+More examples:
+
+[CLICK HERE TO READ EXPLANATION AND EXAMPLES](https://docs.google.com/document/d/1z9Mu65LeSu2R7sPbBd1y20W7L_zYkGMNA4k0JPe-3No/edit?usp=sharing)
+
 GENERAL CORRECTIONS:
 
 ## INCOMPLETE SENTENCES:
@@ -206,6 +210,8 @@ Use positive words in your writing.
 This example has a combination of errors discussed in this guide.
 
 [CLICK HERE TO READ EXPLANATION AND EXAMPLES](https://docs.google.com/document/d/1kru_Zy18eXuK0_tp9Q6jRMIBFUIk4qr4e_YKcvZfY6s/edit?usp=sharing)
+
+
 
 Please review all the training materials on this page.
 

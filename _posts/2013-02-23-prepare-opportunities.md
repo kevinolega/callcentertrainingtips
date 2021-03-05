@@ -88,7 +88,7 @@ I have friends who speak in English all the time so I spent more time hanging ou
 
 Everything you have in your situation right now is a preparation for the next one. What are you doing to prepare for it?
 
-_Note: I wrote this lesson to inspire my readers who have goals of improving their situation but are not ready to take the leap. The best you should do is to prepare right now. Either way you benefit whether you push through with your application or not._
+Note: I wrote this lesson to inspire my readers who have goals of improving their situation but are not ready to take the leap. The best you should do is to prepare right now. Either way you benefit whether you push through with your application or not._
 
 
 

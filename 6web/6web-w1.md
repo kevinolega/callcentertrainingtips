@@ -239,6 +239,13 @@ We prepared some additional activities for you.
 
 I am willing to do more work to become better.
 
+[READ: How to Check Your Answers to the Writing Exercises](https://callcentertrainingtips.com/fixthis/)
+
+[READ: My stories are examples](https://callcentertrainingtips.com/se)
+
+[READ: Improve Your Communication with Writing Exercises](https://callcentertrainingtips.com/writingexercise/)
+
+
 While waiting for your phone coaching schedule, begin watching our recorded sessions with other students.
 
 We provide a wealth of information during phone coaching.

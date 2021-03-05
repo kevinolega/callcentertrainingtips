@@ -69,7 +69,7 @@ Always answer using complete sentences.
 
 Please use one sentence paragraph.
 
-Read Lesson 6.
+Read the lesson about One Sentence Paragraph.
 
 ### Complex sentence to Simple Sentences:
 
@@ -97,6 +97,66 @@ Simple sentences are also easier speak and understand.
 
 Most importantly, simple sentences are impossible to mess up.
 
+### Complete your sentences
+
+Here's what happens when people shorten their sentences.
+
+ORIGINAL SENTENCE:
+
+I spend my free time writing, cooking, and going to the gym.
+
+BAD ANSWER:
+
+I spend. 
+
+My free time.
+
+Writing.
+
+Cooking.
+
+Going to the gym.
+
+THIS IS WRONG!!!
+
+These are not complete sentences.
+
+GOOD ANSWER:
+
+I spend my free time writing.
+
+I spend my free time cooking.
+
+I spend my free time going to the gym.
+
+This answer is okay.
+
+You separated the ideas into a complete sentence. 
+
+GREAT ANSWER:
+
+I spend my free time writing.
+
+I love cooking.
+
+I enjoy going to the gym.
+
+EXPLANATION:
+
+You're allowed to make variations to the words.
+
+You can make sentences less repetitive if you're creative.
+
+You can search for synonyms of the words if you're not creative.
+
+For example:
+
+I did not repeat spend my free time.
+
+I used the words love and enjoy.
+
+Alternating the words make the sentence sound less repetitive.
+
 ### Opening with the wrong words.
 
 Because - connect the question to the reason. I want to work in a call center because...
@@ -104,6 +164,20 @@ Because - connect the question to the reason. I want to work in a call center be
 Actually - Using this word makes your speech sound like you lie frequently. If you remove this word, the meaning of your sentence won't change.
 
 Honestly - Using this word makes your speech sound like you lie frequently. If you remove this, you will sound more honest.
+
+### Opening sentences with conjunctions
+
+And...
+
+Or...
+
+But...
+
+Then...
+
+Because...
+
+If you remove the words 
 
 ### Avoid/Replace these words:
 

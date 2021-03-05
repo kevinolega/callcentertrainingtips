@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '6 Things I Did Right - That Got Me Hired In A Call Center'
+title: 6 Things I Did Right - That Got Me Hired In A Call Center
 date: 2012-09-25 20:23
 author: Kevin Olega
 comments: true
