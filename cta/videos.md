@@ -7,6 +7,8 @@ author: Kevin Olega
 --- 
 Here are some of our video lessons.
 
+[CLICK HERE TO ACCESS OUR YOUTUBE CHANNEL](https://callcentertrainingtips.com/yt)
+
 Please watch the videos until the end.
 
 Hit like and subscribe.
@@ -27,6 +29,12 @@ Please support us and the other students by sharing your notes in the comment se
 ### Pronunication Phone Coaching Solo Practice
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xBFxOATikEI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Pronunciation Mock Call, Call Simulation, Call Flow.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_D3er4rmPlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Watch Call Simulation Video on YouTube](https://youtu.be/_D3er4rmPlg)
 
 ### Ranking English Practice Activities
 
@@ -49,6 +57,9 @@ Please support us and the other students by sharing your notes in the comment se
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j84svm2zxl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Solving Impossible Problems - Mentoring a Teacher
+
+[WATCH MENTORING VIDEO](https://youtu.be/7XjGrr3KbPk).
 
 ### My advice for teachers exploring call center work, VA work and online teaching.
 

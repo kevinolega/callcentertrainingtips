@@ -5,6 +5,8 @@ date: 2018-07-11 07:43
 permalink: /call-simulation/ 
 author: Kevin Olega 
 --- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_D3er4rmPlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Call simulation is one of the most intimidating parts of the call center screening process.
 
 If you haven't experienced call simulation, you'll be asked to go to a space like a desk, cubicle or phone booth, put on the headset and wait for the phone to ring. 
@@ -309,8 +311,7 @@ Thank you for calling (insert company name).
 
 ## Branding.
 
-Just insert the company name at the opening and closing spiel as needed. 
-
+Insert the company name at the opening and closing spiel as needed. 
 
 Call handling procedure is different from company to company. 
 
@@ -337,3 +338,5 @@ You can customize the spiel by always asking yourself "How can I say it better?"
 Understand each element and practice using them. 
 
 Practice with a friend with good English or someone who knows customer service procedure.
+
+[Watch Call Simulation Video on YouTube](https://youtu.be/_D3er4rmPlg)

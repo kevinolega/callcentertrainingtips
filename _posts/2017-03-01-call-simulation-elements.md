@@ -5,6 +5,9 @@ date: 2017-03-01 19:24
 permalink: /call-flow-complete/ 
 author: Kevin Olega 
 --- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_D3er4rmPlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Many people report that they fail in the call simulation process. 
 
 The call simulation is a way for the recruiter to check how you handle calls. 
@@ -265,3 +268,5 @@ These are the common steps.
 Use your common sense. 
 
 Understand each point and practice using them. 
+
+[Watch Call Simulation Video on YouTube](https://youtu.be/_D3er4rmPlg)

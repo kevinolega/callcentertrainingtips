@@ -212,7 +212,6 @@ This example has a combination of errors discussed in this guide.
 [CLICK HERE TO READ EXPLANATION AND EXAMPLES](https://docs.google.com/document/d/1kru_Zy18eXuK0_tp9Q6jRMIBFUIk4qr4e_YKcvZfY6s/edit?usp=sharing)
 
 
-
 Please review all the training materials on this page.
 
 Go back to your answers and correct your answers.
