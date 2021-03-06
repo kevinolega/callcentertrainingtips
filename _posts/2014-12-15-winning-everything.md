@@ -10,7 +10,10 @@ Training sucks
 
 But winning is everything
 
-I was walking around Ayala one day and I saw a fat guy with a shirt that says *"Training sucks"* in front then a hundred or so thoughts go through my head.
+I was walking around Ayala one day.
+
+I saw a fat guy with a shirt that says *"Training sucks"* in front then a hundred or so thoughts go through my head.
+
 - I remember Martial Arts training
 - I remember sales training.
 - I remember customer service training

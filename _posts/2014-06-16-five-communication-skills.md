@@ -8,7 +8,7 @@ categories: [Lessons]
 ---
 Communication skills are one of the most important life skills we don't practice very often. 
 
-If you are good at communicating, you can land yourself a job, impart your lessons to others and generally get other people to understand what you're trying to say.
+If you are good at communicating, you can land a job, impart your lessons to others and generally get other people to understand what you're trying to say.
 
 Here are some tips that can help you improve your communication skills.
 
@@ -95,5 +95,3 @@ The last one I'd like to share is that **you should practice**.
 It takes time to get good with your communication skills but over time a little practice on a regular basis can help improve your communication skills then. 
 
 Now go back to that piece of paper and write more questions. 
-
-Feel free to ask in the comments below.

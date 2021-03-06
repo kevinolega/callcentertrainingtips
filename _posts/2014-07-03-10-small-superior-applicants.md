@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "10 Small Things That You Can Do To Get Hired Over Other Superior Job Applicants"
+title: 10 Small Things That You Can Do To Get Hired Over Other Superior Job Applicants
 date: 2014-07-03 09:03
 author: Kevin Olega
 comments: true

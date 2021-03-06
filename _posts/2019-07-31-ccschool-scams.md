@@ -22,7 +22,7 @@ Some were paid but not very expensive because a company sponsored it.
 
 And some were very very expensive.
 
-I also experienced buying books.
+I also bought books.
 
 Ever since I was eighteen, I set aside Php 500 per payday as a budget to buy books.
 
@@ -107,7 +107,6 @@ They are looking for people to endorse.
 And they're not offering additional help.
 
 But the other problem is...
-
 
 What I believe is the true problem in these "free training for call center"..;
 

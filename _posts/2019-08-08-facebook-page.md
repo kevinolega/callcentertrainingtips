@@ -60,3 +60,5 @@ Thank you for your continuous support.
 I love you guys!
 
 Kevin
+
+[Visit the Call Center Training Tips Facebook Page](https://facebook.com/callcentertrainingtips).

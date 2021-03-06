@@ -10,9 +10,9 @@ Many applicants tell the interviewer...
 
 I want to work in a call center because I want to enhance my English communication skills.
 
-Not going to happen.
+Your plan is going to happen.
 
-Because the interviewer won't endorse you to the next stage.
+You'll fail because the interviewer won't endorse you to the next stage.
 
 In other words, you won't get hired.
 
@@ -20,19 +20,19 @@ English communication skills is a basic requirement for call center work.
 
 The objective of the company is to make money.
 
-They want to hire you.
+The company wants to hire you.
 
-So you'll talk to American customers eight hours a day.
+The company is hiring you to speak to American customers eight hours a day.
 
-They'll make money.
+The company will make money.
 
-And you'll earn some money.
+You'll earn some money for your effort.
 
-But to qualify for the job, you need to have good English.
+You'll need good English to qualify for a call center job.
 
-Not perfect.
+You don't need perfect English.
 
-But it has to be good.
+You'll need decent conversational English to get hired in a call center.
 
 If you're not confident with your skills, I put together lessons to help improve your English.
 
