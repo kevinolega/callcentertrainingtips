@@ -30,13 +30,20 @@ So I decided to look like an idiot (to myself, honestly others don't care, they 
 
 Here's the most useful question I've discovered that I can ask when I was job hunting in the call center industry.
 
-**It's my first time to apply and I was hoping you can give me some tips on the next part of my application.How did I do in my interview with you? Can you give me a few tips on what to improve?**
+It's my first time to apply and I was hoping you can give me some tips on the next part of my application.
+
+How did I do in my interview with you? 
+
+Can you give me a few tips on what to improve?
 
 Pull out your notebook and prepare to write down what your interviewer says. 
 
 Shut up and wait for an answer.
 
 Follow up questions:
+
 How was my pronunciation?
+
 Are there errors that I'm making that stood out during the interview?
+
 How would you suggest I correct the error?

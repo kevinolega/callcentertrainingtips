@@ -14,7 +14,7 @@ These techniques are useful in interview situations, everyday questions and call
 
 Here are some of the things I learned and apply so far.
 
-**Verify and rephrase the question before you begin to answer questions.**
+## Verify and rephrase the question before you begin to answer questions.
 
 It's easy to misinterpret, mishear or misunderstand questions.
 
@@ -48,19 +48,19 @@ Sometimes I end up brainstorming the answer by asking the interviewer clarifying
 
 > Well the advertisement says the salary is around (amount). Can you tell me more about the packages offered?
 
-**Acknowledge the question by telling them how you feel about the question to avoid sounding like a robot.**
+## Acknowledge the question by telling them how you feel about the question to avoid sounding like a robot.
 
 > That's an interesting/difficult question. Wow it's the first time I've had to think about that.
 
-**Stall when you need to but don't do this often.**
+## Stall when you need to but don't do this often.
 
 > Let me think about that for a moment/minute. Let me organize my thoughts/words for a bit.
 
-**Buy yourself more time by giving an introduction to your answer.**
+## Buy yourself more time by giving an introduction to your answer.
 
 > The answer at the top of my head is... Let me start by... In my opinion... (Rephrased question) is...
 
-**Correct yourself  when you notice an error or think of a better answer.**
+## Correct yourself  when you notice an error or think of a better answer.
 
 > What I meant to say is... Let me try to explain that more clearly...
 
@@ -72,4 +72,3 @@ I hope these techniques will help you with your interviews.
 
 Do you have an effective interview technique that you use? 
 
-Do you have questions? 

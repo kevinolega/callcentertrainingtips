@@ -6,7 +6,9 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
-### Look at your resume and for each section.
+Look at your resume.
+
+Inspect each section of your resume.
 
 **Tell a story about what's awesome about** *(specific work experience)*
 

@@ -4,6 +4,7 @@ title: How To Get Hired In A Call Center If You Have No Money
 date: 2014-05-21 23:00
 author: Kevin Olega
 comments: true
+permalink: /hired-no-money/
 categories: [Lessons]
 ---
 How To Get Hired In A Call Center If You Have No Money

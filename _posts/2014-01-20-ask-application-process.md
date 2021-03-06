@@ -78,7 +78,13 @@ I then sneak in,
 
 “Can you give me some tips?”
 
-Bonus question: At what stage do you feel, I should take extra care in handling? 
+Bonus question: 
+
+At what stage do you feel, I should take extra care in handling? 
+
+What's the most difficult stage in the job application process?
+
+What part do most job applicants get eliminated?
 
 What are the most common mistakes that job applicants do in that area?
 
@@ -89,9 +95,3 @@ If you ask good questions, you’ll get good answers.
 Knowing something intimately gives us confidence. 
 
 Confidence allows us to display our skills.
-
-I hope I was able to contribute to you with this short lesson. 
-
-I look forward to hearing from you in the comments. 
-
-Feel free to send me an email.

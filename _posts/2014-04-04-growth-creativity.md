@@ -8,11 +8,13 @@ categories: [Lessons]
 ---
 Your limitations are opportunities to be creative.
 
-> You can't do what you want when you want all the time. That would be boring.
+You can't do what you want when you want all the time. 
 
-I started looking for work early because my family didn't have enough money to pay for my school tuition fees. 
+An easy life would be boring.
 
-I wanted to work in a call center at an early age because I heard that the good companies pay really well. 
+I started looking for work early because my family didn't have enough money to pay for my tuition fee. 
+
+I wanted to work in a call center at an early age because I heard that the good companies pay well. 
 
 For the longest time my dad told me that he has a college-educated teacher who worked as his maid. 
 
@@ -20,25 +22,43 @@ Working as a security guard required a good number of years in college.
 
 My mom told me that I should get a low paying job at fast food or a department store and eventually pay for my tuition.
 
-I found out about call center opportunities from friends in college who had worked there. 
+I found out about call center opportunities from friends in college who had call center jobs.
 
 My mom recommended that I take a telemarketing and customer service course. 
 
+I went to De La Salle and College of Saint Benilde in Taft because my mom told me that she saw a tarp that offered call center training in the area.
+
+I asked around but couldn't find "Call Center Lessons."
+
 Call center training schools didn't exist back then. 
 
-I couldn't find any. We were afraid I'd fail so throwing money at tuition fee seemed to comfort us against the possibility of being rejected by companies. 
+I couldn't find any. 
+
+My mom was afraid that I'd fail.
+
+My mom felt that throwing money at the problem would help.
+
+Paying tuition fee is comforting becuse you develped a little confidence.
+
+You feel more prepared when you shell out money.
+
+I'm slowly considering that the best way to understand how to get hired is by being rejected by companies. 
+
+I still wasn't sure what to do at that time.
 
 I ended up staying at home.
 
-I wanted to get a job then. 
+I wanted to get a job. 
 
 Sitting on my ass all day at home is fun during the first week. 
 
-Internet use was not mainstream then so I spent the day listening to Linkin Park, Disturbed, Papa Roach, Mudvayne, Slip Knot, Incubus, Rage Against the Machine, Chris Cornell and most of the bands back then. 
+Internet use was not mainstream then. 
+
+I spent the day listening to Linkin Park, Disturbed, Papa Roach, Mudvayne, Slip Knot, Incubus, Rage Against the Machine, Chris Cornell and most of the rock bands back then. 
 
 When I got tired of lying down, I went outside to strike metal with my fists and shin then practice martial arts moves. 
 
-It's fun but after a few weeks, you would want to go outside and meet friends. 
+Staying at home is fun but after a few weeks, you would want to go outside and meet friends. 
 
 Cigarettes and booze cost money so I had limited options. 
 
@@ -52,9 +72,13 @@ Her name was Ice or something like that.
 
 I need to find a job soon. 
 
+Ice told me.
+
 My parents are about to kick me out. 
 
-She told me. 
+Ice continued.
+
+I asked Ice about her story.
 
 She also stopped studying because of financial difficulties.
 
@@ -64,7 +88,9 @@ We were so drunk from the night before, we both woke up late afternoon the next 
 
 I spent the rest of the day crafting my resume that evening.
 
-I had no idea what to put on my resume. My mom told me to use the resume wizard at Microsoft word. 
+I had no idea what to put on my resume. 
+
+My mom told me to use the resume wizard of Microsoft word. 
 
 Bad idea. 
 
@@ -80,13 +106,13 @@ I put bodybuilding and formula one racing under hobbies and interests.
 
 I printed three copies.
 
-I met the girl and her friend at the bus stop. 
+I met the Ice and her friend at the bus stop. 
 
-We started late again. 
+We started late that day. 
 
 We thought that since call center companies operate at night they are closed during the day and we should apply at night. 
 
-As a result we ended up only submitting our resumes. 
+As a result, we ended up only submitting our resumes. 
 
 The Ice girl was smart, she only knew three companies so whenever we entered a building, she asked the guard if there are other call center companies in the building and what floor their hiring office is in because we're submitting applications. 
 
@@ -120,9 +146,11 @@ I felt bad because I kept getting rejected.
 
 I obviously had better pronunciation than Ice but over time she got interviewed longer than me. 
 
-Mostly we were processed as a group, then eventually it's just us and another applicant. 
+Applicants were mostly processed as a group. 
 
-The rest were sent home because they got eliminated. 
+Eventually the applicants remaining are Ice, myself, and another applicant. 
+
+The rest of the applicants were sent home because they got eliminated. 
 
 I went to another company, while Ice went to her scheduled interview. 
 

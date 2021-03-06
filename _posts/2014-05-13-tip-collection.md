@@ -1,27 +1,61 @@
 ---
 layout: post
-title: From The Tip Collection
+title: What's your Expected Salary? How to Answer Call Center Interview Questions
 date: 2014-05-13 08:00
 author: Kevin Olega
 comments: true
+permalink: /tip-collection/
 categories: [Lessons]
 ---
-## The Most Brilliant Answer To The Dreaded Salary Question: 
+From The Tip Collection
 
-#### What is Your Expected Salary?
+This is my best answer to the dreaded salary question.
 
-To be honest I have no idea how to answer the salary question.
+## What is Your Expected Salary?
 
-If I know what I'm worth, say my past salary is so and so I usually add five to ten thousand then I wait for their counter offer.
+I often find myself confused when trying to answer the salary question.
 
->My safest answer is..
-I heard that the pay here (or in this industry) ranges from say 20,000 - 30,000 and I have x number of years of experience in this field, I would like it to be closer to insert desired amount.
+100% of my focus goes to "how I can help the company."
+
+When it comes to the salary question, I feel that I'm trying to take money from the company.
+
+This conflict about who benefits sometimes confuses me.
+
+Let's discuss a few situations.
+
+You should know how much you are worth.
+
+Do you have any work experience?
+
+How much did you earn previously?
+
+How I answer:
+
+I was previously earning ₱15,000 a month.
+
+I'm aiming to get a job that allows me to earn ₱20,000-₱25,000 a month.
+
+I shut up and wait for their counter offer.
+
+Here's an alternate answer.
+
+My safest answer is..
+
+I heard that the pay here (or in this industry) ranges from say 20,000 - 30,000.
+
+I have X number of years of experience in this field.
+
+I would be happy if I found a company that offers insert desired amount.
 
 I've also done salary negotiations when it comes to the hiring process. 
 
-As an interviewer, all I did was hope that the applicant's asking salary matches the budget that my boss gives me and then I try to bring it down by a few thousand pesos if needed.
+As an interviewer, all I did was hope that the applicant's asking salary matches the budget that my boss gives me.
 
-Almost every salary question that I've researched is a bit vague and will lead to the question whether the applicant's asking salary match the company's budget.
+I try to bring the salary down by a few thousand pesos if needed.
+
+Several answers that I found online about the salary question is vague.
+
+Many advice that you need to get the interviewer to disclose the company's budget.
 
 Lifehacker writer Mihir Patkar shared an answer that totally blew me away. 
 
