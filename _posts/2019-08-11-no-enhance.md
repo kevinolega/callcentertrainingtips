@@ -6,11 +6,15 @@ Tags: [ uncategorized, blog ]
 permalink: /no-enhance/ 
 author: Kevin Olega 
 --- 
-Many applicants tell the interviewer...
+Why do you want to work in a call center?
+
+Interviewers frequently ask about your motivation on why you want to work in a call center.
+
+Many applicants tell the interviewer this exact answer:
 
 I want to work in a call center because I want to enhance my English communication skills.
 
-Your plan is going to happen.
+Your plan isn't going to happen.
 
 You'll fail because the interviewer won't endorse you to the next stage.
 
@@ -38,11 +42,11 @@ If you're not confident with your skills, I put together lessons to help improve
 
 [Click Here for Free English Lessons](https://callcentertrainingtips.com/english-tips)
 
-So stop telling your interviewer..
+Stop telling your interviewer that...
 
-I want to get hired in a call center to enhance my communication skills.
+I want to get hired in a call center to enhance my English communication skills.
 
-Because that's the fastest way to end an interview.
+Telling the interviewer that you want to enhance your communcication skills is the fastest way to end an interview.
 
 Just in case it's not clear to you yet.
 
@@ -57,4 +61,4 @@ Whenever you tell the interviewer you want to work in a call center to enhance o
 
 So please stop giving that answer during interviews.
 
-And as a result, they won't be comfortable in trusting you to handle their source of income.
+And as a result, potential employers won't be comfortable in trusting you to handle their source of income.

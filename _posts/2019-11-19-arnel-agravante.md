@@ -20,7 +20,7 @@ Perseverance is the key in BPO, he advised.
 
 ## Enter Arnel Agravante
 
-**What's the story on you got started working at a call center?**
+### What's the story on you got started working at a call center?
 
 I started on Nov 19, 2007, after being referred.
 
@@ -30,13 +30,13 @@ I was praying for a job to sustain my family needs.
 
 This time I am not good with the language.  
 
-**What did you study in college and why did you shift to call center work?**
+### What did you study in college and why did you shift to call center work?
 
 I took up AB Political Science AT UE-Manila. 
 
 My decision to switch to BPO is due to family necessity.
 
-**What's your favorite part about working in a call center?**
+### What's your favorite part about working in a call center?
 
 The moment when I am handling difficult callers. 
 
@@ -48,7 +48,7 @@ It gives me satisfaction.
 
 Second, every payouts.
 
-**What is a typical workday like?**
+### What is a typical workday like?
 
 Usually, I come to work prepared to face challenges brought by customers. 
 
@@ -56,7 +56,7 @@ There are instances I am getting stressful callers, those who wont listen.
 
 I still focus on the issue and resolution.   
 
-**Can you share a story of a challenge that you had to overcome while working in a call center?**
+### Can you share a story of a challenge that you had to overcome while working in a call center?
 
 The greatest challenge I had was when I don't really know how to speak proper English. 
 
@@ -64,7 +64,7 @@ I had hard time in responding to concerns and inquiries due to this limitation.
 
 Every day practice by speaking and listening to movies and video clips of proper pronunciation are the keys to overcome this challenges.
 
-**What's your favorite accomplishment?**
+### What's your favorite accomplishment?
 
 When I became a TL. 
 
@@ -72,13 +72,13 @@ I motivated and guided my team to sell.
 
 Also, when I was a QA, I love to teach people how to move towards excellence.
 
-**What is a popular call center advice or call center saying that you hear a lot but is actually wrong?**
+### What is a popular call center advice or call center saying that you hear a lot but is actually wrong?
 
 "Practice makes perfect" - is wrong.
 
 It should be PRACTICE MAKES PERMANENT.
 
-**What is your advice to someone looking for a job?**
+### What is your advice to someone looking for a job?
 
 Know first what they really like to do. Yes, big money is here but you need to work hard first. 
 
@@ -88,39 +88,39 @@ Do not settle for less, after all you will work 9 hours 5 times a week.
 
 Perseverance is the key in BPO.
 
-**What is your advice to someone who wants to do better at their call center job?**
+### What is your advice to someone who wants to do better at their call center job?
 
 Do something to possess these characteristics: makapal ang mukha. 
 
 Tibay ng sikmura and use the language at all times... pera pera na ang labanan.
 
-**Do you have a referral program in your company?**
+### Do you have a referral program in your company?
 
 Yes, we have. They may apply at any Concentrix site Mon to Fri from 10 am to 5 pm, just mention my name Arnel Agravante.
 
-**What's a recent upgrade that you bought with your call center money that changed your life?**
+### What's a recent upgrade that you bought with your call center money that changed your life?
 
 Incentives from upselling and other matrices.
 
-**What do you do to overcome a stressful day?**
+### What do you do to overcome a stressful day?
 
 I switch my attention to other things like planning the weekend bicycle ride.
 
-**What's the biggest misconception about people working for a BPO company?**
+### What's the biggest misconception about people working for a BPO company?
 
 We are super rich, drug addicts, HIV haven.
 
-**Do you have any food hacks? It can be advice for tipid days, it can be a favorite place to eat near your current/old call center.**
+### Do you have any food hacks? It can be advice for tipid days, it can be a favorite place to eat near your current/old call center.
 
 Soaked 4 slices of tasty bread to scrambled 2 eggs and fry.
 
 Mura na masarap at masustansiya pa.
 
-**What's your dream job or career after call center work?**
+### What's your dream job or career after call center work?
 
 Just to have an animal farm.
 
-**What's the best way to reach you?**
+### What's the best way to reach you?
 
 Best way is via messenger, just add me first if we do not have common friend.
 

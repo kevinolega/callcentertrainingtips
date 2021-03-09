@@ -11,18 +11,27 @@ Number of Phone Coaching Sessions 6
 
 
 Week 1 Lesson 1-7
-	Practice Interview
-	Focus of English Lessons
-	How to Use Your Notebook
-	Pronunciation: Top 100 Words
+	Simple Introduction - Tell Me about Yourself
+	Simple Questions - 
+	Simple Instructions - Commute Directions
+	Simple Stories
+	Pronunciation - 1-60
+
 Phone Coaching 1:
-	Grammar Correction - Interview Assessment
+	Grammar Correction - 1, 3, 4, 7
+	Importance of Instructions
 	Importance of Stories
+	Q and A.
 
 Week 2 Lesson 1-7
+	Talking about yourself
+	Questions
+	Instructions - Advice
+	Stories
+	Pronunciation 21 and up.
 
 Phone Coaching 2
-	Pronunciation - 100 Words
+	Pronunciation - 100 Words or less. Short Readthrough.
 
 Week 3 Lesson 1-7
 Phone Coaching 3
