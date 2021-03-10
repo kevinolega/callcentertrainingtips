@@ -36,9 +36,9 @@ Salt is cheap. I like Himalayan Pink Salt.
 
 ## Here are computations from the time I did this in a call center:
 
-Initial investment: P72
+Initial investment: ₱72
 
-Ending balance: P 180
+Ending balance: ₱180
 
 Profit from selling 1 dozen eggs: 9 x 12 = ₱108
 
