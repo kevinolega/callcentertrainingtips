@@ -113,7 +113,21 @@ Minimum of 40 sentences.
 
 Here's a list of questions used in selling and convincing. 
 
-[ADD DOWNLOAD LINK]
+[DOWNLOAD](https://drive.google.com/file/d/1QUJKUNckFQMkhi8Jkork9T8XIL8yAlJV/view?usp=sharing)
+
+ACTIVITY PART 1:
+
+Read the sales questions and record how you sound.
+
+ACTIVITY PART 2:
+
+Write down what you learned in this sentence.
+
+Explain how questions can help you sell and convince people.
+
+You are allowed to give examples from personal experience.
+
+Share a non-sales application for some of these questions.
 
 ## LESSON 3 
 

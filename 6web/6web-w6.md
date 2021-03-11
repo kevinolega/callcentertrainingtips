@@ -35,7 +35,23 @@ You're at the final stage.
 
 Here's a list of interview questions. 
 
-[ADD DOWNLOAD LINK]
+[DOWNLOAD](https://drive.google.com/file/d/1QCDE4y0V2FciswA7kRrCMKsWyWdUk7T-/view?usp=sharing)
+
+ACTIVITY 1: 
+
+Please record yourself reading the interview questions.
+
+ACTIVITY 2:
+
+Describe what you learned.
+
+Describe the worries that you experience that you experience when you go to interviews.
+
+Give examples of how you can ask questions to give interviewers a better impression of you.
+
+Share a non-interview application for these questions.
+
+The goal is to write 100 sentences.
 
 ## LESSON 3 
 
@@ -84,8 +100,6 @@ Please send me a recording of you reading the 20 words.
 
 ## LESSON 6
 
-
-
 ACTIVITY:
 
 Please write down what you learned in this lesson.
@@ -97,6 +111,79 @@ Describe what you learned using your own words.
 You are allowed to share examples of sentences you used pronouns that made your message difficult to understands.
 
 ## LESSON 7
+
+What's your main goal for the English lessons?
+
+Do you want to improve your English to get hired in a call center?
+
+Do you want to improve your English so you can sell more?
+
+Do you want to improve your English so you can get promoted?
+
+Do you want to improve your English so you can improve your confidence during dates?
+
+ACTIVITY PART 1:
+
+In this lesson, we will combine everything that you learned.
+
+Specify your goals.
+
+Write an action plan on how to achieve your goals.
+
+Please include detailed step-by-step instructions.
+
+Avoid using low resolution words such as:
+
+- Things/Something
+- It/It's
+- This/That
+- They/Them
+
+Please write stories.
+
+Give advice.
+
+Give warnings.
+
+The goal is to reach 100 sentences.
+
+ACTIVITY PART 2:
+
+Write down your what you learned in your six weeks experience.
+
+Write in a way that you are trying to convince a friend or loved one to enroll with our lessons.
+
+Talk about what you were doing wrong.
+
+Talk about how you changed.
+
+Talk about the benefits of doing the writing exercises.
+
+Talk about how you feel during the program.
+
+The goal is to reach 100 sentences.
+
+ACTIVITY PART 3:
+
+What kind of person are you trying to be?
+
+What are your personal goals?
+
+What are your career goals?
+
+What are your biggest obstacles?
+
+What will you sacrifice to achieve your goals?
+
+How does achieving your career goals fit into achieving your personal goals?
+
+What will be the benefit of achieving your personal goals?
+
+What is your action plan?
+
+The goal is to reach 100 sentences.
+
+Activity 7 requires you to write 300 sentences.
 
 
 ## Phone Coaching
