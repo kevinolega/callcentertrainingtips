@@ -14,8 +14,20 @@ Written by Kevin Olega.
 
 This is a free book!!!
 
-![IMAGE TEXT]({{ site.url }}/images/Book-of-Blessings-cover.png).
+![Small Book of Blessings Cover]({{ site.url }}/images/Book-of-Blessings-cover.png).
 
 This book covers strategies on how to become more positive and convince the interviewer that you're a future leader in their company.
 
 [DOWNLOAD PAGE](https://callcentertrainingtips.com/sbb-book/).
+
+## PRACTICAL CALL CENTER JOB HUNTING STRATEGIES
+
+A SHY PERSON'S GUIDE ON HOW TO GER HIRED IN A CALL CENTER.
+
+Written by Kevin Olega.
+
+![Shy Person's Guide Book Cover]({{ site.url }}/images/iShy-Person-book-cover.png).
+
+This book is available for pre-order.
+
+[CLICK HERE FOR MORE INFORMATION](https://callcentertrainingtips.com/shy-book)
