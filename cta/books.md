@@ -26,7 +26,7 @@ A SHY PERSON'S GUIDE ON HOW TO GER HIRED IN A CALL CENTER.
 
 Written by Kevin Olega.
 
-![Shy Person's Guide Book Cover]({{ site.url }}/images/iShy-Person-book-cover.png).
+![Shy Person's Guide Book Cover]({{ site.url }}/images/Shy-Person-book-cover.png).
 
 This book is available for pre-order.
 

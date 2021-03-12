@@ -13,7 +13,7 @@ Do not buy this book if you hate reading.
 
 This book is long and will change your life.
 
-![Shy Person's Guide Book Cover]({{ site.url }}/images/iShy-Person-book-cover.png).
+![Shy Person's Guide Book Cover]({{ site.url }}/images/Shy-Person-book-cover.png).
 
 
 [SIGN UP HER TO PRE-ORDER NOW!](https://forms.gle/rDnCxchcvXcLbpXh8)
