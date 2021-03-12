@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Books
+title: BOOKS
 date: 2021-01-12 22:55
 permalink: books
 author: Kevin Olega 
@@ -8,7 +8,7 @@ author: Kevin Olega
 
 ## SMALL BOOK OF BLESSINGS
 
-How to convince the interviewer that you're the prfect fit for the job.
+HOW TO CONVINCE THE INTERVIEWER THAT YOU'RE THE PERFECT FIT FOR THE JOB.
 
 Written by Kevin Olega.
 
@@ -18,15 +18,35 @@ This is a free book!!!
 
 This book covers strategies on how to become more positive and convince the interviewer that you're a future leader in their company.
 
+Get the tactics used by top performers on how to be unstoppable in the face of obstacles.
+
+Learn the secrets and strategies on how to crush your depressing and negative thoughts.
+
 [DOWNLOAD PAGE](https://callcentertrainingtips.com/sbb-book/).
 
 ## PRACTICAL CALL CENTER JOB HUNTING STRATEGIES
 
-A SHY PERSON'S GUIDE ON HOW TO GER HIRED IN A CALL CENTER.
+A SHY PERSON'S GUIDE ON HOW TO GET HIRED IN A CALL CENTER.
 
 Written by Kevin Olega.
 
 ![Shy Person's Guide Book Cover]({{ site.url }}/images/Shy-Person-book-cover.png).
+
+We put together a comprehensive guide on how to get hired in a call center.
+
+Become an expert on the ins and outs of the call center industry.
+
+Discover easy-to-perform call center skills that has confused thousands of Filipino job applicants.
+
+Master a simple trick that will make the interviewer want to tie you down with a job offer.
+
+Become the newbie that everyone in the office calls boss.
+
+Learn the secret move that will allow you to defeat thousands of other job applicants.
+
+Become the sole survivor of your training batch.
+
+Learn the strategy that allows you to never worry about finding a job for the rest of your life.
 
 This book is available for pre-order.
 
