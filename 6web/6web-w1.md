@@ -110,6 +110,14 @@ PREVIEW:
 - I’m good at.
 - I studied at
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyA9h835MZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Watch the video until the end.
+
+Please let me know that you finished watching the video. 
+
+[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/GyA9h835MZ8).
+
 ## LESSON 2 
 
 15 Intro Questions 
