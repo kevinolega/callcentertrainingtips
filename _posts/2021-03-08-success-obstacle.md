@@ -27,6 +27,8 @@ D. Not getting enough support from your environment etc.
 
 Here's my answer:
 
+HOW TO ACHIEVE FINANCIAL GOALS WHILE FACING OBSTACLES.
+
 You have asked a bunch of different financial goals.
 
 You mentioned owning a business.
@@ -37,9 +39,9 @@ You mentioned buying a house and lot.
 
 The fact that you put etc means you want more.
 
-The first step is to identify what you want.
+The first step is to identify what you want to accomplish.
 
-What's the first order of business for you.
+What's the first order of business for you?
 
 Do you want a business or a house?
 
@@ -93,7 +95,7 @@ You're complaining on an internet group so I presume you have some form of inter
 
 You can't afford to buy a laptop.
 
-The fact that you're male and you're willing to admit this is 30-50k is out of your reach in the forseeable future.
+The fact that you're male and you're willing to admit this tells me that shelling out ₱30-50k is out of your reach in the forseeable future.
 
 I don't know your job.
 
@@ -101,7 +103,7 @@ You also mentioned that you don't have enough time to freelance and you're not g
 
 That's all I have to go with and I empahtize with you.
 
-I'm in the exact situation when I was younger.
+I was in the exact situation when I was younger.
 
 Let's inspect your resources.
 
@@ -111,15 +113,25 @@ Where does all your time go?
 
 How well are you educated?
 
+Does the level of your education match the level of your intelligence?
+
 What skills do you posess?
 
 How do you spend your time to enjoy yourself?
 
 What activities are you doing to improve your life?
 
+Does your job pay you enough for basic expenses?
+
+Does your job provide you with opportunities to earn more or to learn valuable and marketable skills?
+
+Is your job enjoyable or meaningful?
+
 Do you have an intimate relationship?
 
-Do you have close friends who support you?
+Do you have close familial relatioship?
+
+Do you have well-meaning friends who support you?
 
 Same process.
 
@@ -167,7 +179,9 @@ What bills can you cut out of your expenses?
 
 The pandemic is an opportunity to ask for a discount. What big expenses can you negotiate?
 
-The main idea is that you start small.
+I convinced my landlord to give me a 40% discount off my rent.
+
+The main idea for these improvements is that you start small.
 
 Maybe the small money that you can make selling eggs, or saving from making your baon can help you afford a laptop.
 
@@ -182,7 +196,11 @@ I know that my explanation is incomplete.
 
 I had to summarize for brevity.
 
-This process took me about twenty to achieve.
+This process took me about twenty years for me to achieve.
+
+I noticed that I would need to evaluate my strategy everytime I received a ₱5k pay increase.
+
+Sometimes the tipid tips and budget meals can hurt you when you're competing in a higher level.
 
 If there's one advice that I can give you.
 
@@ -198,9 +216,13 @@ Get enough sleep.
 
 Eat well.
 
+Exercise.
+
 Top performers take care of themselves.
 
 Seriously doubt people who are offering fast and easy approaches to building wealth lalo na yung mga under 30 na financial advisor kunwari.
+
+Avoid people flaunting wealth and success or anything that triggers your envy.
 
 Stay away from those people.
 
@@ -212,6 +234,18 @@ Look for peers.
 
 Look for people who are working on the exact same things that you're working on.
 
+Look for friends who just bought a computer or started selling products or services online.
+
 Buy them dinner or Starbucks and ask them questions.
+
+Avoid working under these people or asking for a job.
+
+Chances are new employers are often horrible bosses.
+
+Just try to receive advice.
+
+Carefully consider the advice.
+
+Watch out for red flags like when the conversation goes to "selling you a dream" or "getting rich quick."
 
 Let me know if you have questions.
