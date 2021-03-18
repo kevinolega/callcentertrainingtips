@@ -1,5 +1,5 @@
 --- 
-layout: page
+layout: post
 title: Pronunciation Practice Preview
 date: 2020-08-17 12:14
 permalink: /pros2/ 

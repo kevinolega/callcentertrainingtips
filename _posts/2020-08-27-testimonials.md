@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+date: 2020-08-27
 title: Testimonials
 permalink: /testimonials/
 ---
