@@ -124,6 +124,14 @@ Please let me know that you finished watching the video.
 
 [DOWNLOAD](https://drive.google.com/file/d/17tM6ajfniAfTMRZ2Z1YjVnc2UuVn-sdJ/view?usp=sharing)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s-oMVy-dJlc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Watch the video until the end.
+
+Please let me know that you finished watching the video. 
+
+[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/s-oMVy-dJlc).
+
 PREVIEW:
 
 - What’s your name?
