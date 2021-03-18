@@ -5,6 +5,8 @@ date: 2021-01-01 21:33
 permalink: /videos/ 
 author: Kevin Olega 
 --- 
+<img src="{{ site.url }}/images/watch-free-video-lessons.png" width="400">
+
 Here are some of our video lessons.
 
 [CLICK HERE TO ACCESS OUR YOUTUBE CHANNEL](https://callcentertrainingtips.com/yt)
@@ -15,7 +17,9 @@ Hit like and subscribe.
 
 Take notes and you'll remember the important details.
 
-Please support us and the other students by sharing your notes in the comment section.
+Please support us by leaving a comment.
+
+Support the other students by sharing your notes in the comment section.
 
 ### Pronunciation Phone Coaching 45 Minutes
 
@@ -126,5 +130,13 @@ Please support us and the other students by sharing your notes in the comment se
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X_JyBMHcPwo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Watch on YouTube](https://youtu.be/X_JyBMHcPwo).
+
+## TRAINING MODULE SAMPLES
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyA9h835MZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Please let me know that you finished watching the video. 
+
+[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/GyA9h835MZ8).
 
 [CLICK HERE TO ACCESS OUR YOUTUBE CHANNEL](https://callcentertrainingtips.com/yt)
