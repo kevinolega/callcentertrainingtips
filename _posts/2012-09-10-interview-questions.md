@@ -56,10 +56,3 @@ If its present weakness or fear, what are you doing to overcome it?
 
 10 Favorite tv or movie characters and one quote from each.
 
-Want me to help you personally get hired in a call center for free? 
-
-Send me your answers. 
-
-Must be complete with ten answers each and include 100 questions you might have for me. 
-
-If you send me your resume I'll teach you how to fix it for free.

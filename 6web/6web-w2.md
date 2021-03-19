@@ -98,6 +98,10 @@ Pronunciation
 
 [DOWNLOAD](https://drive.google.com/file/d/1UE0H2P4qB69wpbJJa57ErCIbxAZHZie4/view?usp=sharing)
 
+ADDITIONAL PRONUNCIATION TIPS:
+
+[READ BONUS LESSONS](https://callcentertrainingtips.com/pronunciation-extras/).
+
 PREVIEW:
 
 - Words 1-20.
