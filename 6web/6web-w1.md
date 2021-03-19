@@ -150,6 +150,14 @@ PREVIEW:
 - How many siblings do you have?
 - What’s your family business?
 
+### BEGINNER MISTAKES
+
+Please read this lesson before proceeding to activity 3.
+
+[CLICK HERE TO READ LESSON](https://callcentertrainingtips.com/fixthis).
+
+If you found errors with how you did activity 1, please apply the corrections.
+
 
 ## LESSON 3 
 

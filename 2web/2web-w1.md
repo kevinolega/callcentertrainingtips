@@ -118,7 +118,6 @@ Please let me know that you finished watching the video.
 
 [CLICK HERE TO LEAVE A COMMENT](https://youtu.be/GyA9h835MZ8).
 
-
 ## LESSON 2 
 
 15 Intro Questions 
@@ -151,6 +150,13 @@ PREVIEW:
 - How many siblings do you have?
 - What’s your family business?
 
+### BEGINNER MISTAKES
+
+Please read this lesson before proceeding to activity 3.
+
+[CLICK HERE TO READ LESSON](https://callcentertrainingtips.com/fixthis).
+
+If you found errors with how you did activity 1, please apply the corrections.
 
 ## LESSON 3 
 
@@ -246,7 +252,9 @@ Thanks.
 
 <a href="https://callcentertrainingtips.com/6webstudent/" class="button focus">STUDENT PORTAL</a>
 
-## I'M DONE WITH THE EXERCISES. I'M WAITING FOR MY COACHING SESSION
+---
+
+### I'M DONE WITH THE EXERCISES. I'M WAITING FOR MY COACHING SESSION
 
 Sometimes the coaching schedule gets filled up.
 

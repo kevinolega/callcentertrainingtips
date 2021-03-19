@@ -165,6 +165,16 @@ Actually - Using this word makes your speech sound like you lie frequently. If y
 
 Honestly - Using this word makes your speech sound like you lie frequently. If you remove this, you will sound more honest.
 
+And - You should write a new sentence that doesn't require that you begin the sentence with the word "and."
+
+Or - see "and."
+
+But - see "and."
+
+Then - see "and."
+
+So - see "and."
+
 ### Opening sentences with conjunctions
 
 And...

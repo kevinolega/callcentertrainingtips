@@ -4,6 +4,7 @@ title: How To Always Have A Job Offer
 date: 2015-10-09 05:52
 author: Kevin Olega
 comments: true
+permaling: /prospecting/
 categories: [Lessons]
 ---
 Prospecting is a skill that you learn in sales. 
