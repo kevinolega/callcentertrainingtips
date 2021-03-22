@@ -1,9 +1,9 @@
 --- 
 layout: post 
-title: 2 DAYS A WEEK TRAINING PLAN
+title: 2 DAYS A WEEK 2 ACTIVITIES A DAY TRAINING PLAN 
 date: 2021-03-22 23:34
 Tags: [ uncategorized, blog ]
-permalink: /2daysweekplan/ 
+permalink: /2d2actplan/ 
 author: Kevin Olega 
 --- 
 I got this question from a student.
@@ -18,7 +18,7 @@ I have two rest days.
 
 Can I still take your lessons?
 
-MY ANSWER:
+## MY ANSWER:
 
 Yes you can.
 
@@ -33,6 +33,8 @@ If you're only available during weekends, you may finish two activities a day.
 It may take you an 1-2 hours working on the exercises.
 
 You're free to do more if you're capable of doing so.
+
+You'll finish in fourteen weeks if you follow this plan.
 
 Here's what your schedule will look like.
 
