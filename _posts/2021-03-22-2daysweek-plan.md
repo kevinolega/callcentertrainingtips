@@ -24,7 +24,7 @@ Yes you can.
 
 Here is my proposed schedule if you can only practice during your rest day.
 
-I imagine that you can only spend 1-2 hours a day pracicing.
+I imagine that you can only spend 1-2 hours a day practicing.
 
 Here's my proposed schedule for our six-week module.
 

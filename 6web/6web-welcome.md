@@ -5,7 +5,7 @@ date: 2020-10-22 14:15
 permalink: /6webstudent/ 
 author: Kevin Olega 
 --- 
-### Guidelines
+### GUIDELINES
 
 Read this first.
 
@@ -57,9 +57,9 @@ For pronunciation, our focus will be the use of the top 100 most used words in t
 
 These words will be used in over 50% of all the sentences that you will be writing or speaking.
 
-[READ: Writing Before Speaking](https://callcentertrainingtips.com/writing-6web/).
+[READ: WRITING BEFORE SPEAKING](https://drive.google.com/file/d/1pOn2YAtoBk5xtdly-KDHGnzBrx2f_ZAr/view?usp=sharing).
 
-### Rules Of Effective Communication
+### RULES OF EFFECTIVE COMMUNICATION
 
 Please click link to download exercise.
 
