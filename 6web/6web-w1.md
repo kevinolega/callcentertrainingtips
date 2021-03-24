@@ -258,11 +258,17 @@ Include the following details:
 3. How does this lesson apply to personal conversations?
 
 ACTIVITY 1:
+
 ACTIVITY 2:
+
 ACTIVITY 3:
+
 ACTIVITY 4:
+
 ACTIVITY 5:
+
 ACTIVITY 6:
+
 ACTIVITY 7:
 
 PART 2:
