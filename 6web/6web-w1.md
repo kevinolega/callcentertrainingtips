@@ -92,6 +92,15 @@ I can't think of what to say.
 
 [READ: WRITE IN FILIPINO](https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing)
 
+## PERSONALITY TEST
+
+I'd like to personalize my approach to assisting my students during coaching.
+
+Please take this personality test.
+
+There's a short writing activity at the end of the instructions.
+
+[LINK TO TEST](https://callcentertrainingtips.com/big5/).
 
 ## LESSON 1
 
@@ -157,7 +166,6 @@ Please read this lesson before proceeding to activity 3.
 [CLICK HERE TO READ LESSON](https://callcentertrainingtips.com/fixthis).
 
 If you found errors with how you did activity 1, please apply the corrections.
-
 
 ## LESSON 3 
 
