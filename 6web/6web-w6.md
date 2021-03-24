@@ -185,6 +185,43 @@ The goal is to reach 100 sentences.
 
 Activity 7 requires you to write 300 sentences.
 
+## FINAL ACTIVITY
+
+PART 1
+
+Please write a summary of what you learned from each exercise. Write 3-5 sentences.
+
+Include the following details:
+
+1. What I learned...
+2. How does the lesson apply to getting a job?
+3. How does this lesson apply to personal conversations?
+
+ACTIVITY 1:
+ACTIVITY 2:
+ACTIVITY 3:
+ACTIVITY 4:
+ACTIVITY 5:
+ACTIVITY 6:
+ACTIVITY 7:
+
+PART 2:
+
+What's your feedback on the lessons so far?
+
+How was your experience?
+
+How do you feel the lessons will help you communicate better?
+
+What mistakes did we correct during the exercises?
+
+PART 3:
+
+Write your questions on the final page.
+
+We will discuss your questions during coaching.
+
+Alternatively, we'll produce a video to answer your questions.
 
 ## Phone Coaching
 
