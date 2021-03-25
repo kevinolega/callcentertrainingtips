@@ -21,47 +21,67 @@ Please support us by leaving a comment.
 
 Support the other students by sharing your notes in the comment section.
 
-### Pronunciation Phone Coaching 45 Minutes
+## PHONE COACHING SAMPLES
+
+This is a sample phone coaching session.
+
+We discuss the experience of the student.
+
+We discuss grammar and pronunciation on session one.
+
+I point out errors in the session.
+
+We avoid publishing personal information.
+
+We ask our students to remove complete names and addresses from their answers.
+
+We also give interview and career advice.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7X-XOJ1SCMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[WATCH ON YOUTUBE](https://www.youtube.com/watch?v=7X-XOJ1SCMc).
+
+### PRONUNCIATION PHONE COACHING 45 MINUTES
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j2r-JNolL5w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Pronunication Phone Coaching 30 Minutes
+### PRONUNICATION PHONE COACHING 30 MINUTES
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fezqHqAwKqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Pronunication Phone Coaching Solo Practice
+### PRONUNICATION PHONE COACHING SOLO PRACTICE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xBFxOATikEI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Pronunciation Mock Call, Call Simulation, Call Flow.
+### PRONUNCIATION MOCK CALL, CALL SIMULATION, CALL FLOW.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_D3er4rmPlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Watch Call Simulation Video on YouTube](https://youtu.be/_D3er4rmPlg)
 
-### Ranking English Practice Activities
+### RANKING ENGLISH PRACTICE ACTIVITIES
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aHxkFb43IZg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Watch on YouTube](https://www.youtube.com/watch?v=aHxkFb43IZg).
 
 
-### Phone Coaching Session with a Teacher
+### PHONE COACHING SESSION WITH A TEACHER
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QJppGlR0G20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QJppGlR0G20).
 
-### My Student Got Hired
+### MY STUDENT GOT HIRED
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XogMVr4klo8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Customer Service Sentences Test
+### CUSTOMER SERVICE SENTENCES TEST
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j84svm2zxl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Solving Impossible Problems - Mentoring a Teacher
+### SOLVING IMPOSSIBLE PROBLEMS - MENTORING A TEACHER
 
 [WATCH MENTORING VIDEO](https://youtu.be/7XjGrr3KbPk).
 

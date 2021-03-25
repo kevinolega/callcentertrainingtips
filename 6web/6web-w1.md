@@ -323,9 +323,8 @@ Leave a comment on the video to let us know that you finished watching the sessi
 
 Thanks.
 
-<a href="https://callcentertrainingtips.com/6webstudent/" class="button focus">STUDENT PORTAL</a>
 
-## I'M DONE WITH THE EXERCISES.
+## I'M DONE WITH THE EXERCISES. I'M WAITING FOR MY SESSION
 
 Sometimes the coaching schedule gets filled up.
 
@@ -365,4 +364,6 @@ Your problem sovling skills get better as you understand how we solve different 
 Higher level communication skills become available as a consequence of heightened problem solving skills.
 
 [ACCESS BONUS VIDEOS](https://callcentertrainingtips.com/videos)
+
+<a href="https://callcentertrainingtips.com/6webstudent/" class="button focus">STUDENT PORTAL</a>
 

@@ -325,9 +325,6 @@ Leave a comment on the video to let us know that you finished watching the sessi
 
 Thanks.
 
-
-<a href="https://callcentertrainingtips.com/6webstudent/" class="button focus">STUDENT PORTAL</a>
-
 ---
 
 ### I'M DONE WITH THE EXERCISES. I'M WAITING FOR MY COACHING SESSION
@@ -374,3 +371,5 @@ Higher level communication skills become available as a consequence of heightene
 
 [ACCESS BONUS VIDEOS](https://callcentertrainingtips.com/videos)
 
+
+<a href="https://callcentertrainingtips.com/6webstudent/" class="button focus">STUDENT PORTAL</a>
