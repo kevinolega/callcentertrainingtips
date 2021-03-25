@@ -299,11 +299,33 @@ We will check your answers.
 
 If answers are incomplete, we will ask you to complete the answers.
 
+This is a sample phone coaching session.
+
+We discuss your experience.
+
+We discuss your grammar and pronunciation on session one.
+
+I will point out all your errors in the session.
+
+We record all coaching sessions and share publish some of our sessions.
+
+We would like to avoid publishing personal information.
+
+Please remove complete names from your answers.
+
+Please do not include your complete address in your answers.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7X-XOJ1SCMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Leave a comment on the video to let us know that you finished watching the session.
+
+[WATCH ON YOUTUBE](https://www.youtube.com/watch?v=7X-XOJ1SCMc).
+
 Thanks.
 
 <a href="https://callcentertrainingtips.com/6webstudent/" class="button focus">STUDENT PORTAL</a>
 
-## I'M DONE WITH THE EXERCISES. I'M WAITING FOR MY COACHING SESSION
+## I'M DONE WITH THE EXERCISES.
 
 Sometimes the coaching schedule gets filled up.
 
