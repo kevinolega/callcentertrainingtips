@@ -2,7 +2,7 @@
 layout: post 
 title: REPLACE UNSPECIFIC WORDS - EXAMPLES
 date: 2021-03-30 10:11
-Tags: [ uncategorized, blog ]
+Tags: [ grammar, lesson, blog ]
 permalink: /specific-samples/ 
 author: Kevin Olega 
 --- 

@@ -79,6 +79,8 @@ Simplifying Words - [DOWNLOAD](https://docs.google.com/document/d/1bOLOtZpwWOpEm
 
 Blanket and Abstract Terms - [DOWNLOAD](https://drive.google.com/file/d/1Ki_TAVvz0DCoSAStBG8nujax7HybfS3w/view?usp=sharing)
 
+[READ: UNSPECIFIC WORDS EXAMPLES AND EXPLANATION](https://callcentertrainingtips.com/specific-samples/)
+
 My secret to confidence - [DOWNLOAD](https://callcentertrainingtips.com/confident/)
 
 First Person - [DOWNLOAD](https://drive.google.com/file/d/1XR0xioNOvTCuW3iyVOCpCR4bTAXezYRB/view?usp=sharing)

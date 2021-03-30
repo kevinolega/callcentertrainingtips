@@ -19,6 +19,8 @@ Send us an email for questions.
 
 Congratulations for being part of the top 10%.
 
+ADDITIONAL READING [UNSPECIFIC WORDS EXAMPLES AND EXPLANATION](https://callcentertrainingtips.com/specific-samples/)
+
 ### Help!!!
 
 I'm afraid people will laugh at my mistakes.

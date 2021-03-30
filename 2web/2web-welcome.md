@@ -65,6 +65,8 @@ One Sentence Paragraph - [DOWNLOAD](https://drive.google.com/file/d/1dfNBxg9T17y
 
 Shorten Sentences - [DOWNLOAD](https://drive.google.com/file/d/1ACz08BLtYML_BSQ6tiNP0ECr8Gm38820/view?usp=sharing)
 
+[READ: UNSPECIFIC WORDS EXAMPLES AND EXPLANATION](https://callcentertrainingtips.com/specific-samples/)
+
 Read Aloud - [DOWNLOAD](https://drive.google.com/file/d/19Qv1J5KBjcX1X2TxeQaBkcsM7KcEtBTU/view?usp=sharing)
 
 My secret to confidence - [DOWNLOAD](https://callcentertrainingtips.com/confident/)
@@ -144,6 +146,8 @@ Please do your best to complete the lessons within the time period.
 
 Our six weeks module is more comprehensive and provides more practice exercises.
 
-The new set costs ₱487.
+The new set costs ₱497.
 
 You'll get a total of 42 lessons and six live coaching sessions.
+
+Please send us a message if you'd like to get the six week module.

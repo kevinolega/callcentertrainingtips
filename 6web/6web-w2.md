@@ -119,6 +119,8 @@ Overused Pronouns
 
 [DOWNLOAD](https://drive.google.com/file/d/1cFWKbH6TpJXOpk52bjg9pl8YPcQ-u1Af/view?usp=sharing)
 
+ADDITIONAL READING: [READ: UNSPECIFIC WORDS EXAMPLES AND EXPLANATION](https://callcentertrainingtips.com/specific-samples/)
+
 ACTIVITY:
 
 Please write down what you learned in this lesson.

@@ -60,6 +60,8 @@ Removing Bad Habits - [DOWNLOAD](https://drive.google.com/file/d/1w8Z_cfbO3U_RHj
 
 [WRITING BEFORE SPEAKING](https://drive.google.com/file/d/1pOn2YAtoBk5xtdly-KDHGnzBrx2f_ZAr/view?usp=sharing).
 
+[READ: UNSPECIFIC WORDS EXAMPLES AND EXPLANATION](https://callcentertrainingtips.com/specific-samples/)
+
 ## Watch This Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXVe3t5tTo0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -344,7 +346,6 @@ I am willing to do more work to become better.
 [READ: My stories are examples](https://callcentertrainingtips.com/se)
 
 [READ: Improve Your Communication with Writing Exercises](https://callcentertrainingtips.com/writingexercise/)
-
 
 
 While waiting for your phone coaching schedule, begin watching our recorded sessions with other students.
