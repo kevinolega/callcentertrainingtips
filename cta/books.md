@@ -6,24 +6,6 @@ permalink: books
 author: Kevin Olega 
 --- 
 
-## SMALL BOOK OF BLESSINGS
-
-HOW TO CONVINCE THE INTERVIEWER THAT YOU'RE THE PERFECT FIT FOR THE JOB.
-
-Written by Kevin Olega.
-
-This is a free book!!!
-
-![Small Book of Blessings Cover]({{ site.url }}/images/Book-of-Blessings-cover.png).
-
-This book covers strategies on how to become more positive and convince the interviewer that you're a future leader in their company.
-
-Get the tactics used by top performers on how to be unstoppable in the face of obstacles.
-
-Learn the secrets and strategies on how to crush your depressing and negative thoughts.
-
-[DOWNLOAD PAGE](https://callcentertrainingtips.com/sbb-book/).
-
 ## PRACTICAL CALL CENTER JOB HUNTING STRATEGIES
 
 A SHY PERSON'S GUIDE ON HOW TO GET HIRED IN A CALL CENTER.
@@ -48,6 +30,25 @@ Become the sole survivor of your training batch.
 
 Learn the strategy that allows you to never worry about finding a job for the rest of your life.
 
-This book is available for pre-order.
+This book is now available!
 
-[CLICK HERE FOR MORE INFORMATION](https://callcentertrainingtips.com/shy-book)
+[CLICK HERE TO BUY THE BOOK](https://callcentertrainingtips.com/shy-book).
+
+
+## SMALL BOOK OF BLESSINGS - FREE
+
+HOW TO CONVINCE THE INTERVIEWER THAT YOU'RE THE PERFECT FIT FOR THE JOB.
+
+Written by Kevin Olega.
+
+This is a free book!!!
+
+![Small Book of Blessings Cover]({{ site.url }}/images/Book-of-Blessings-cover.png).
+
+This book covers strategies on how to become more positive and convince the interviewer that you're a future leader in their company.
+
+Get the tactics used by top performers on how to be unstoppable in the face of obstacles.
+
+Learn the secrets and strategies on how to crush your depressing and negative thoughts.
+
+[DOWNLOAD PAGE](https://callcentertrainingtips.com/sbb-book/).
