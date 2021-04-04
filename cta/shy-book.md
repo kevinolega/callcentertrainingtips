@@ -7,11 +7,13 @@ author: Kevin Olega
 --- 
 This is my most comprehensive book about how to get hired in a call center.
 
-## What if your monthly paycheck was more than ₱25,000?
+## WHAT IF YOUR MONTHLY PAYCHECK WAS MORE THAN ₱25,000?
 
 Would you be EXCITED to go to work?
 
-Soon, you can. Kevin Olega breaks down the hidden steps behind finding and landing the job of your dreams.
+Soon, you can. 
+
+Kevin Olega breaks down the hidden steps behind finding and landing the job of your dreams.
 
 How to find the best jobs at the best call center companies. 
 
@@ -19,9 +21,9 @@ How to pass the interview.
 
 How to negotiate for money, benefits, and surprising perks. 
 
-All the lessons all explained carefully, step by step, in **Practical Call Center Job Hunting Strategies**.
+All the lessons all explained carefully, step by step, in **PRACTICAL CALL CENTER JOB HUNTING STRATEGIES**.
 
-Even if you have limited experience, don’t know where to start, or don’t know what your goals are — **Practical Call Center Job Hunting Strategies** can help you.
+Even if you have limited experience, don’t know where to start, or don’t know what your goals are — **PRACTICAL CALL CENTER JOB HUNTING STRATEGIES** can help you.
 
 This program details **EVERYTHING** you need to find and land your dream call center job, step by step. 
 
@@ -37,11 +39,11 @@ Find out what employers wished you knew about BPO work.
 
 Receive copies of real **RESUMES**, that landed high-paying jobs and major promotions.
 
-Six months **SUPPORT** to help you get the most out of Practical Call Center Job Hunting Strategies. 
+Six months **SUPPORT** to help you get the most out of PRACTICAL CALL CENTER JOB HUNTING STRATEGIES. 
 
 Kevin will personally hold your hand in case you need anything.
 
-With Practical Call Center Job Hunting Strategies, you get ALL of this, for ₱667. Nothing else comes close.
+With PRACTICAL CALL CENTER JOB HUNTING STRATEGIES, you get ALL of this, for ₱667. Nothing else comes close.
 
 
 <a href="https://forms.gle/rDnCxchcvXcLbpXh8" class="button focus">SIGN UP</a><br><br>
@@ -52,7 +54,7 @@ Do not buy this book if you hate reading.
 
 This book is long and will change your life.
 
-![Shy Person's Guide Book Cover]({{ site.url }}/images/Shy-Person-book-cover.png).
+![Shy Person's Guide Book Cover]({{ site.url }}/images/Shy-Person-book-cover.png)
 
 
 ## MORE THAN 1,000 SECRETS TO GETTING HIRED
