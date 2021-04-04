@@ -9,8 +9,6 @@ url: "https://callcentertrainingtips.com" # the base hostname & protocol for you
 
 permalink: /:title/
 
-
-
 highlighter: rouge
 markdown: kramdown
 ### exclude the instructions / write-up in the README.md
