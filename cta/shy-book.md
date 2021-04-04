@@ -44,10 +44,8 @@ Kevin will personally hold your hand in case you need anything.
 With Practical Call Center Job Hunting Strategies, you get ALL of this, for ₱667. Nothing else comes close.
 
 
-<a href="https://forms.gle/rDnCxchcvXcLbpXh8" class="button focus">SIGN UP</a><br><br>
+<a href="https://forms.gle/rDnCxchcvXcLbpXh8" class="button focus">SIGN UP</a><br>
 
-<hr>
-<br><br>
 I put all my tips, tricks, strategies, and lifehacks in this book.
 
 Do not buy this book if you hate reading.
