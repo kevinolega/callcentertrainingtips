@@ -46,6 +46,7 @@ With Practical Call Center Job Hunting Strategies, you get ALL of this, for ₱6
 
 <p><a href="https://forms.gle/rDnCxchcvXcLbpXh8" class="button focus">SIGN UP</a></p>
 
+<hr>
 
 I put all my tips, tricks, strategies, and lifehacks in this book.
 
