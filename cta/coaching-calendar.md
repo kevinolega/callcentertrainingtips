@@ -2,7 +2,7 @@
 layout: page
 title: COACHING CALENDAR
 date: 2021-04-06 01:44
-permalink: coaching-calendar 
+permalink: coaching-calendar
 author: Kevin Olega 
 --- 
 Please select a schedule from the calenrar.
