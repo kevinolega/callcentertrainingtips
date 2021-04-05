@@ -250,6 +250,7 @@ After we received all seven activities, we will check and ask the student to ans
 We will ONLY send you the next batch of lessons after we have confirmed that you have completed the activities for the current week.
 
 ## Phone Coaching Rules
+
 We need you to complete the first seven activities before your first phone coaching session.
 
 ### Save Your Questions

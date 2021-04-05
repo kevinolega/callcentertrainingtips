@@ -7,6 +7,18 @@ Tags: [ CTA, blog ]
 permalink: /free/ 
 author: Kevin Olega 
 --- 
+<form method="post" action="https://sendfox.com/form/1dqx00/1jy8je" class="sendfox-form" id="1jy8je" data-async="true" data-recaptcha="true">
+<p><input type="text" placeholder="First Name" name="first_name" required /></p>
+<p><input type="text" placeholder="Last Name" name="last_name" required /></p>
+<p><input type="email" placeholder="Email" name="email" required /></p>
+<!-- no botz please -->
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="a_password" tabindex="-1" value="" autocomplete="off" /></div>
+<p><button type="submit">JOIN</button></p>
+</form>
+<script src="https://sendfox.com/js/form.js"></script>
+			
+
+
 Thank you for visiting this website.
 
 <img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="300">
