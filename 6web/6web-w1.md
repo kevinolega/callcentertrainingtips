@@ -84,6 +84,13 @@ I recorded a short guide:
 
 [Watch on YouTube](https://youtu.be/1OSLCxKX11U).
 
+### TEMPLATE
+
+I wrote a Google Docs template to help you format your answers.
+
+[WEEK 1 GOOGLE DOCS TEMPLATE](https://docs.google.com/document/d/1tBtC3xb13hvuVB7Tu4Qp-hzY3sK1or6sS4N4jJ6z5uE/edit?usp=sharing)
+
+
 ### Help!!!
 
 I'm stuck. 
@@ -183,6 +190,10 @@ Please remember to:
 2. Include Landmarks.
 
 Your instructions need to be understandable to people who are both commuting or driving.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wfnl6uTnMng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[WATCH ON YOUTUBE](https://youtu.be/Wfnl6uTnMng).
 
 ## LESSON 4 
 
@@ -288,6 +299,13 @@ Write your questions on the final page.
 We will discuss your questions during coaching.
 
 Alternatively, we'll produce a video to answer your questions.
+
+## TEMPLATE
+
+I wrote a Google Docs template to help you format your answers.
+
+[WEEK 1 GOOGLE DOCS TEMPLATE](https://docs.google.com/document/d/1tBtC3xb13hvuVB7Tu4Qp-hzY3sK1or6sS4N4jJ6z5uE/edit?usp=sharing)
+
 
 ## Phone Coaching
 

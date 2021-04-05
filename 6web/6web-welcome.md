@@ -91,6 +91,8 @@ Read Aloud - [DOWNLOAD](https://drive.google.com/file/d/19Qv1J5KBjcX1X2TxeQaBkcs
 
 Rewriting - [DOWNLOAD](https://drive.google.com/file/d/1VIsl4-XbYrYeJBGWgEx3RM4LF1KTh79n/view?usp=sharing)
 
+[PRACTICAL CALL CENTER JOB HUNTING STRATEGIES](https://callcentertrainingtips.com/shy-book)
+
 MORE COMING SOON!!!
 
 ### Pronunciation Guide
@@ -158,4 +160,5 @@ Unlocks upon completion of previous lessons.
 
 Unlocks upon completion of previous lessons.
 
+NEW: BUY NOW! [PRACTICAL CALL CENTER JOB HUNTING STRATEGIES](https://callcentertrainingtips.com/shy-book)
 
