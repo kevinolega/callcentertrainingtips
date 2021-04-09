@@ -269,5 +269,3 @@ Need help with your answers?
 Send an email to kevin@callcentertrainingtips.com
 
 Kevin O.
-
-<a href="https://callcentertrainingtips.com/2webstudent/" class="button focus">STUDENT PORTAL</a>

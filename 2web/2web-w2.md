@@ -182,8 +182,7 @@ We will discuss your questions during coaching.
 
 Alternatively, we'll produce a video to answer your questions.
 
-
-## Phone Coaching
+## COACHING
 
 Please send ALL your answers before scheduling the phone coaching.
 
@@ -195,9 +194,7 @@ If answers are incomplete, we will ask you to complete the answers.
 
 Thanks.
 
-<a href="https://callcentertrainingtips.com/6webstudent/" class="button focus">STUDENT PORTAL</a>
-
-**BONUS:**
+## BONUS:
 
 On your second session, we'll begin to incorporare some pronunciation practice.
 
@@ -208,3 +205,5 @@ These sessions will help you become familliar with the most common words that yo
 These sessions will also help you become familiar with the most common mistakes so you know EXACTLY what to avoid.
 
 [ACCESS FULL PRONUNCIATION MODULE](https://callcentertrainingtips.com/pronunciation)
+
+<a href="https://callcentertrainingtips.com/6webstudent/" class="button focus">STUDENT PORTAL</a>
