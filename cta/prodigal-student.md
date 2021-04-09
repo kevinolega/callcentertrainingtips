@@ -5,10 +5,31 @@ date: 2021-04-10 03:10
 permalink: /prodigal/ 
 author: Kevin Olega 
 --- 
+Welcome back!
 
+Good to hear from you.
 
+I designed this free module for you.
 
+Please read the instructions carefully.
 
+## SUBMITTING YOUR ANSWERS
+
+I recommend that you submit your answers using Google Docs.
+
+I'll be able to give better feedback on Google Docs because it has a comments and suggestion feature.
+
+Please share your answers to callcentertrainingtips@gmail.com
+
+If you have a Gmail account, you already have Google Docs. Just head over to [https://drive.google.com](https://drive.google.com) and create a new document.
+
+If you're using a mobile device, Google Docs is available on both [iOS](https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640) and [Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en&gl=US).
+
+I recorded a short guide:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1OSLCxKX11U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Watch on YouTube](https://youtu.be/1OSLCxKX11U).
 
 
 ## WATCH THIS FIRST:
@@ -27,35 +48,69 @@ Write 10 sentences about what you learned in the video and leave a comment.
 
 ## READ THIS FIRST:
 
-LESSON 1: WRITING BEFORE SPEAKING
+## LESSON 1: WRITING BEFORE SPEAKING
 
 [READ LESSON](https://callcentertrainingtips.com/writing-2web/)
 
-LESSON 2: ONE SENTENCE PARAGRAPH
+## LESSON 2: ONE SENTENCE PARAGRAPH
 
 [READ LESSON](https://callcentertrainingtips.com/1sp/)
 
-LESSON 3: SHORTEN SENTENCES
+WATCH THIS VIDEO
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JXVe3t5tTo0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[CLICK HERE TO WATCH ON YOUTUBE](https://youtu.be/JXVe3t5tTo0)
+
+## LESSON 3: SHORTEN SENTENCES
 
 [READ LESSON](https://callcentertrainingtips.com/ss/)
 
 ## ACTIVITIES
 
-Please write 30 sentences for each activity.
+PLEASE WRITE 30 SENTENCES FOR EACH ACTIVITY.
 
-Activity 1: Introduce Yourself.
+### Activity 1: Introduce Yourself.
 
-Activity 2: Give Instructions
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyA9h835MZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Activity 3: Share Stories
+Watch the video until the end.
 
-Activity 4: Explain Lesson 1
+Please let me know that you finished watching the video. 
 
-Activity 5: Explain Lesson 2
+[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/GyA9h835MZ8).
 
-Activity 6: Explain Lesson 3
+Please write a minimum of 30 sentences.
 
-Activity 7: Answer the following questions. 100 sentences total.
+### Activity 2: Give Instructions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wfnl6uTnMng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[WATCH ON YOUTUBE](https://youtu.be/Wfnl6uTnMng).
+
+Please give instructions about how to commute from your home to the mall.
+
+Please write a minimum of 30 sentences.
+
+### Activity 3: Share Stories
+
+Please share a story about how you spend your free time.
+
+### Activity 4: Explain Lesson 1
+
+Please write a minimum of 30 sentences.
+
+### Activity 5: Explain Lesson 2
+
+Please write a minimum of 30 sentences.
+
+### Activity 6: Explain Lesson 3
+
+Please write a minimum of 30 sentences.
+
+### Activity 7: Answer the following questions. 
+
+100 sentences total.
 
 What's your job? 
 
@@ -74,3 +129,23 @@ Are you willing to pay installment?
 Are you willing to become proactive?
 
 Write down your reasons, attempt to convince the team to invest resources into your success.
+
+## COACHING
+
+As explained in the expiration page, we did allocate resources for you. 
+
+However, you were unavailable or unresponsive during the training period.
+
+Your training agreement did reach expiration.
+
+Most of our focus is directed toward our active students.
+
+Please submit your answers.
+
+We will inform you when a slot becomes available.
+
+Please watch our video lessons while waiting for your coaching session.
+
+Like, subscribe, leave a comment, and share.
+
+[WATCH VIDEO LESSONS](https://callcentertrainingtips.com/videos).
