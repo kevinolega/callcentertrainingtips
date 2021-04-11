@@ -41,9 +41,9 @@ We have new modules for 2021.
 - 42 Lessons and Writing Exercises
 - Six Live Coaching Sessions (Grammar, Pronunciation and Career Advice)
 
-You can also pre-order my book.
+You can also buy my book.
 
-LINK UPDATE
+[PRACTICAL CALL CENTER JOB HUNTING STRATEGIES](https://callcentertrainingtips.com/shy-book).
 
 ## I don't have budget to restart my training. What should I do?
 
