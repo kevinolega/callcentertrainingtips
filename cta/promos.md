@@ -24,9 +24,9 @@ We will be correcting your mistakes, and I'll guide you until you get hired.
 
 If you feel you need more sessions, here are our prices.
 
-For existing students = ₱257 per session.
+For existing students = ₱357 per session.
 
-For non-students = ₱357 per session.
+For non-students = ₱457 per session.
 
 [Click here for details](https://callcentertrainingtips.com/pps/).
 
