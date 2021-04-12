@@ -33,6 +33,8 @@ So let's do a quick call, and I'll help you get started.
 
 I'll also answer your questions over the phone or on Skype.
 
+<script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='3544a69c272c9a0f8aebfa25b68ded195fc5c7b5bed67851024278b62231c636';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>
+
 [CLICK HERE TO SIGN UP AND GET FREE EMAIL LESSONS](https://tinyletter.com/cctt)
 
 ![IMAGE TEXT]({{ site.url }}/images/email.jpg).
