@@ -47,5 +47,7 @@ iCloud is usually used for personal email.
 
 Yahoo mail and Hotmail indicates that you're old and that you are not tech-savvy or updated.
 
-If you already have your email you can [subscribe to my newsletter](https://tinyletter.com/cctt
-) and I'll send you tips and opportunities that I don't publish on the website or social media. [Click here to join my mailing list](https://tinyletter.com/cctt).
+If you already have your email you can [subscribe to my newsletter](https://sendfox.com/callcentertrainingtips
+) and I'll send you tips and opportunities that I don't publish on the website or social media. 
+
+[Click here to join my mailing list](https://sendfox.com/callcentertrainingtips).
