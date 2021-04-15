@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: JOIN MY EMAIL LIST TO GET MY BEST LESSONS AND STAY IN TOUCH WITH ME
+title: JOIN MY EMAIL LIST
 date: 2019-08-31 13:55
 Tags: [ uncategorized, blog ]
 permalink: /el/ 
@@ -8,6 +8,8 @@ author: Kevin Olega
 --- 
 
 <img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">
+
+## JOIN MY EMAIL LIST TO GET MY BEST LESSONS AND STAY IN TOUCH WITH ME
 
 I share the best lessons on my email list.
 
