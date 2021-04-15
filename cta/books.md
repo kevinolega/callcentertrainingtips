@@ -56,4 +56,4 @@ Learn the secrets and strategies on how to crush your depressing and negative th
 
 [BACKUP DOWNLOAD LINK](https://sendfox.com/lp/mnoe5q).
 
-<a href="https://https://sendfox.com/lp/mnoe5q" class="button focus">DOWNLOAD</a>
+<a href="https://sendfox.com/lp/mnoe5q" class="button focus">DOWNLOAD</a>
