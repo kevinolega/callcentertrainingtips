@@ -31,9 +31,11 @@ So really the main reason to contact me is to **introduce yourself**, which I ho
 
 If you want the announcements and opportunities that I never post publicly:
 
-[Click here to join my private email list](https://tinyletter.com/cctt).
+[Click here to join my private email list](https://sendfox.com/callcentertrainingtips).
 
 
 ### … or just follow
 
 You can follow me on [Facebook](https://www.facebook.com/callcentertrainingtips), [Twitter](https://twitter.com/cctrainingtips), [Instagram](https://instagram.com/cctrainingtips) and [YouTube](https://www.youtube.com/user/CCTTshow).
+
+<script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='3544a69c272c9a0f8aebfa25b68ded195fc5c7b5bed67851024278b62231c636';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>

@@ -6,7 +6,7 @@ permalink: /paypal/
 author: Kevin Olega 
 --- 
 
-<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="300">
+<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">
 
 If you would like to send funds through Paypal, here's the link to my Paypal account.
 

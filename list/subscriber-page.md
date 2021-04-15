@@ -121,4 +121,4 @@ I will be adding more lessons soon.
 
 Kevin O.
 
-<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="300">
+<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">

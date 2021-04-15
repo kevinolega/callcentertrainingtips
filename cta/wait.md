@@ -8,7 +8,7 @@ author: Kevin Olega
 --- 
 Thank you for visiting this website.
 
-<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="300">
+<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">
 
 My name is Kevin and I'm the writer and website admin.
 

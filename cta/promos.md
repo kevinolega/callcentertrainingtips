@@ -6,7 +6,7 @@ permalink: /promos/
 ---
 My lessons already helped [hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
-<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="300">
+<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">
 
 If you want to support me and you would like more direct and active personal assistance, here are your options.
 
