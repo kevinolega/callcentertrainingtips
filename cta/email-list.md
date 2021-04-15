@@ -9,7 +9,7 @@ author: Kevin Olega
 
 <img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">
 
-## JOIN MY EMAIL LIST TO GET MY BEST LESSONS AND STAY IN TOUCH WITH ME
+## JOIN MY EMAIL LIST TO GET MY BEST LESSONS AND STAY IN TOUCH WITH ME!
 
 I share the best lessons on my email list.
 
@@ -29,7 +29,7 @@ One reason I do all of this is I enjoy meeting new people.
 
 THANK YOU FOR INVESTING IN YOUR FUTURE
 
-<a href="https://sendfox.com/callcentertrainingtips" class="button focus">BUTTON TEXT</a>
+<a href="https://sendfox.com/callcentertrainingtips" class="button focus">SIGN UP!</a>
 
 [BACKUP EMAIL LINK](https://sendfox.com/callcentertrainingtips).
 
