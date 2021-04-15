@@ -1,40 +1,36 @@
 --- 
 layout: page 
-title: Join My Email List To Get My Best Lessons and Stay In Touch With Me
+title: JOIN MY EMAIL LIST TO GET MY BEST LESSONS AND STAY IN TOUCH WITH ME
 date: 2019-08-31 13:55
 Tags: [ uncategorized, blog ]
 permalink: /el/ 
 author: Kevin Olega 
 --- 
 
-<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="300">
+<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">
 
 I share the best lessons on my email list.
 
-The sequence of learning the lessons is just as important as the lessons that you are learning.
+I've written 1,000++ lessons on how to get hired in a call center.
 
-When you sign up, you'll receive the lessons in the exact order that I intended for you to receive.
+I teach EXACTLY how to build professional skills.
 
-I've written over 250 lessons on how to get hired in a call center and build your professional skills to grow your income.
+I've helped hundreds of Filipinos get high-paying jobs.
 
-I'm also going to share opportunities that I don't post publicly on social media.
+I'll also share opportunities that I don't post publicly on social media.
 
-I look forward to staying in touch with you via email.
+The best way to stay in touch with me is via email.
 
 When you receive my email, please send a reply to introduce yourself.
 
 One reason I do all of this is I enjoy meeting new people. 
 
-Thank You For Investing In Your Future
+THANK YOU FOR INVESTING IN YOUR FUTURE
 
-[My lessons have helped hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
+<a href="https://sendfox.com/callcentertrainingtips" class="button focus">BUTTON TEXT</a>
 
-So let's do a quick call, and I'll help you get started.
-
-I'll also answer your questions over the phone or on Skype.
-
-<script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='3544a69c272c9a0f8aebfa25b68ded195fc5c7b5bed67851024278b62231c636';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>
-
-[CLICK HERE TO SIGN UP AND GET FREE EMAIL LESSONS](https://sendfox.com/callcentertrainingtips)
+[BACKUP EMAIL LINK](https://sendfox.com/callcentertrainingtips).
 
 ![IMAGE TEXT]({{ site.url }}/images/email.jpg).
+
+<script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='3544a69c272c9a0f8aebfa25b68ded195fc5c7b5bed67851024278b62231c636';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>
