@@ -32,7 +32,9 @@ Build the confidence needed to succeed.
 Access tools that will help you win interviews.
 
 
-[CLICK HERE TO GET THE BOOK](https://sendfox.com/lp/mnoe5q)
+[Backup link](https://sendfox.com/lp/mnoe5q)
 
 
 Last update: Thursday, April 15, 2021 5:55 PM
+
+<a href="https://sendfox.com/lp/mnoe5q" class="button focus">GET BOOK</a>
