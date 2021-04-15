@@ -51,4 +51,6 @@ Get the tactics used by top performers on how to be unstoppable in the face of o
 
 Learn the secrets and strategies on how to crush your depressing and negative thoughts.
 
-[DOWNLOAD PAGE](https://callcentertrainingtips.com/sbb-book/).
+[BOOK INFORMATION](https://callcentertrainingtips.com/sbb-book/).
+
+[DOWNLOAD PAGE](https://sendfox.com/lp/mnoe5q).

@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Small Book of Blessings
+title: SMALL BOOK OF BLESSINGS
 date: 2021-01-12 23:07
 permalink: /sbb-book/ 
 author: Kevin Olega 
@@ -9,8 +9,30 @@ Here's the free book.
 
 ![IMAGE TEXT]({{ site.url }}/images/Book-of-Blessings-cover.png).
 
+The small book of blessings helps you build confidence.
 
-Last update: Tuesday, January 12, 2021 11:10 PM
+Many Filipinos look for work when the situation is not going so well.
 
-[CLICK HERE TO GET THE BOOK](https://forms.gle/8HyCLCJ6n3hHyAaY7)
+If you're unemployed, it's easy to feel discouraged when you're entering the job market.
 
+We often feel depressed whenever looking for work.
+
+We sometimes take rejection personally.
+
+We miss that sometimes 
+
+The small defeats eat away at our confidence.
+
+The SMALL BOOK OF BLESSINGS is the antidote to weakness during the most important stage of your career.
+
+Use time-tested techniquest to help fight depression and discouragement.
+
+Build the confidence needed to succeed. 
+
+Access tools that will help you win interviews.
+
+
+[CLICK HERE TO GET THE BOOK](https://sendfox.com/lp/mnoe5q)
+
+
+Last update: Thursday, April 15, 2021 5:55 PM
