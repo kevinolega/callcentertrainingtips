@@ -31,8 +31,9 @@ THANK YOU FOR INVESTING IN YOUR FUTURE
 
 <a href="https://sendfox.com/callcentertrainingtips" class="button focus">SIGN UP!</a>
 
-[BACKUP EMAIL LINK](https://sendfox.com/callcentertrainingtips).
 
-![IMAGE TEXT]({{ site.url }}/images/email.jpg).
+![IMAGE TEXT]({{ site.url }}/images/email.jpg)
+
+[BACKUP EMAIL LINK](https://sendfox.com/callcentertrainingtips).
 
 <script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='3544a69c272c9a0f8aebfa25b68ded195fc5c7b5bed67851024278b62231c636';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>
