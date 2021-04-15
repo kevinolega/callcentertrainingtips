@@ -34,7 +34,7 @@ This book is now available!
 
 [CLICK HERE TO BUY THE BOOK](https://callcentertrainingtips.com/shy-book).
 
-<a href="https://callcentertrainingtips.com/shy-book" class="button focus">GET BOOK</a>
+<a href="https://callcentertrainingtips.com/shy-book" class="button focus">BUY BOOK</a>
 
 ## SMALL BOOK OF BLESSINGS - FREE
 
@@ -52,8 +52,8 @@ Get the tactics used by top performers on how to be unstoppable in the face of o
 
 Learn the secrets and strategies on how to crush your depressing and negative thoughts.
 
-[BOOK INFORMATION](https://callcentertrainingtips.com/sbb-book/).
+[FREE BOOK INFORMATION](https://callcentertrainingtips.com/sbb-book/).
 
 [BACKUP DOWNLOAD LINK](https://sendfox.com/lp/mnoe5q).
 
-<a href="https://sendfox.com/lp/mnoe5q" class="button focus">DOWNLOAD</a>
+<a href="https://sendfox.com/lp/mnoe5q" class="button focus">FREE DOWNLOAD</a>
