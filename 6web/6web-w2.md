@@ -25,6 +25,7 @@ I'm afraid people will laugh at my mistakes.
 
 [READ: Write Poorly](https://callcentertrainingtips.com/poorly)
 
+[SUBSCRIBE TO MY YOUTUBE CHANNEL](https://youtube.com/callcentertrainingtips?sub_confirmation=1).
 
 ## LESSON 1
 

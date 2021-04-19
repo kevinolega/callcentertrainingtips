@@ -15,6 +15,8 @@ Minimum number of sentences for the writing exercises is twenty sentences.
 
 Send us an email for questions.
 
+[SUBSCRIBE TO MY YOUTUBE CHANNEL](https://youtube.com/callcentertrainingtips?sub_confirmation=1).
+
 ## READ THIS FIRST!!!
 
 Congratulations for being part of the top 10%.

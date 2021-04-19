@@ -12,7 +12,7 @@ Hi there!
 
 I need your support.
 
-I started a YouTube channel.
+I started a [YouTube channel](https://youtube.com/callcentertrainingtips?sub_confirmation=1).
 
 I'm making videos on how to get hired in a call center and build the professional skills to increase your income.
 
@@ -41,13 +41,13 @@ I'll do my best to answer your questions in the next video.
 ## INSTRUCTIONS:
 
 1. Watch the video until the end.
-2. Hit SUBSCRIBE.
+2. Hit [SUBSCRIBE](https://youtube.com/callcentertrainingtips?sub_confirmation=1).
 3. Click the Bell/Notification Icon.
 4. Like the videos.
 5. Leave a comment.
 6. Share the videos with your friends.
 7. Send me a message or leave a comment with your questions. I'll do my best to answer in detail in my next video.
 
-[Click here to watch our Video Lessons](https://www.youtube.com/user/CCTTshow)
+[Click here to watch our Video Lessons](https://youtube.com/callcentertrainingtips?sub_confirmation=1)
 
 ![IMAGE TEXT]({{ site.url }}/images/cctt.jpeg).

@@ -22,6 +22,8 @@ We will be correcting your mistakes, and I'll guide you until you get hired.
 
 ## Additional Pronunciation Sessions.
 
+<img src="{{ site.url }}/images/2020-07-01-three-hundred.png" width="400">
+
 If you feel you need more sessions, here are our prices.
 
 For existing students = ₱357 per session.

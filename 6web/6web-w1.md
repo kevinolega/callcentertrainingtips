@@ -60,6 +60,8 @@ Removing Bad Habits - [DOWNLOAD](https://drive.google.com/file/d/1w8Z_cfbO3U_RHj
 
 [WRITING BEFORE SPEAKING](https://drive.google.com/file/d/1pOn2YAtoBk5xtdly-KDHGnzBrx2f_ZAr/view?usp=sharing).
 
+[SUBSCRIBE TO MY YOUTUBE CHANNEL](https://youtube.com/callcentertrainingtips?sub_confirmation=1).
+
 ## Watch This Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXVe3t5tTo0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -348,7 +350,9 @@ Sometimes the coaching schedule gets filled up.
 
 We prepared some additional activities for you.
 
-[Click Here](https://callcentertrainingtips.com/waitingc1/).
+[HOW TO CHECK YOUR ANSWERS FOR ERRORS](https://callcentertrainingtips.com/waitingc1/).
+
+[SUBSCRIBE TO MY YOUTUBE CHANNEL](https://youtube.com/callcentertrainingtips?sub_confirmation=1).
 
 **BONUS:**
 

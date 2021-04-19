@@ -355,6 +355,8 @@ We prepared some additional activities for you.
 
 I am willing to do more work to become better.
 
+[SUBSCRIBE TO MY YOUTUBE CHANNEL](https://youtube.com/callcentertrainingtips?sub_confirmation=1).
+
 [READ: How to Check Your Answers to the Writing Exercises](https://callcentertrainingtips.com/fixthis/)
 
 [READ: My stories are examples](https://callcentertrainingtips.com/se)
