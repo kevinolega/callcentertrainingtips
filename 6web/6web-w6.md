@@ -102,13 +102,15 @@ Please send me a recording of you reading the 20 words.
 
 ACTIVITY:
 
+SURGICAL PROBLEM SOLVING
+
 Please write down what you learned in this lesson.
 
 Write a minimum of 20 sentences.
 
 Describe what you learned using your own words.
 
-You are allowed to share examples of sentences you used pronouns that made your message difficult to understands.
+[DOWNLOAD](https://drive.google.com/file/d/1ncWvYpTTE-LGDV24Ha2xgRT3l8nRARmB/view?usp=sharing).
 
 ## LESSON 7
 
