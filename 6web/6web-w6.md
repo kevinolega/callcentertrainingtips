@@ -57,6 +57,19 @@ ACTIVITY 3:
 
 Write down a set of 100 questions that you'll use in personal and professional situations.
 
+Here are some tips:
+
+1. Personal questions.
+2. Work related questions.
+3. Probing questions.
+4. Problem solving questions.
+5. Customer service questions.
+6. Sales Questions.
+7. Negotiation questions.
+8. Questions about learning and understanding skills.
+9. Questions you'll ask your favorite celebrity or mentor.
+10. Questions you'll ask a wise person.
+
 ## LESSON 3 
 
 The goal is to write 100 sentences.
