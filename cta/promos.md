@@ -6,11 +6,11 @@ permalink: /promos/
 ---
 My lessons already helped [hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
-<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">
-
 If you want to support me and you would like more direct and active personal assistance, here are your options.
 
-## 6 Week English Lessons
+## 6 WEEK ENGLISH LESSONS
+
+<img src="{{ site.url }}/images/Affordable-English-Lessons.png" width="400">
 
 We offer six weeks of English lessons to help support job applicants and professionals who want to upgrade their careers.
 
@@ -20,67 +20,19 @@ We will be correcting your mistakes, and I'll guide you until you get hired.
 
 <a href="https://callcentertrainingtips.com/6WEL250/" class="button focus">CLICK HERE TO RECEIVE TRAINING</a>
 
-## Additional Pronunciation Sessions.
+## ADDITIONAL PRONUNCIATION SESSIONS.
 
 <img src="{{ site.url }}/images/2020-07-01-three-hundred.png" width="400">
 
 If you feel you need more sessions, here are our prices.
 
-For existing students = ₱357 per session.
+Buy one session = ₱357 per session.
 
-For non-students = ₱457 per session.
+**PROMO: BUY TWO SESSIONS FOR ₱557.**
 
-[Click here for details](https://callcentertrainingtips.com/pps/).
+[CLICK HERE FOR DETAILS](https://callcentertrainingtips.com/pps/).
 
-## Mentoring
-
-If you've found value in my work and want direct feedback, we're opening up some different mentoring and coaching options.
-
-## Six Months Mentoring
-
-₱2,577 for six months.
-
-Monthly mentoring once a month to discuss strategies to improve your life.
-
-Set goals, make corrections, build discipline, and solve problems together.
-
-Six sessions total.
-
-Getting this program requires that you're employed.
-
-[APPLY FOR MENTORING](https://forms.gle/6YhaN1jqSzWYwzd2A)
-
-## Weekly Coaching 
-
-₱1,257 a month.
-
-1 hour a week.
-
-Weekly call to discuss your goals.
-
-We will discuss strategies to help you move forward.
-
-Four sessions total.
-
-[APPLY FOR WEEKLY COACHING](https://forms.gle/WjCos8yLCpV9QAiKA)
-
-## Hourly Consultation
-
-₱537 an hour.
-
-[APPLY FOR CONSULTATION](https://forms.gle/tnbBqJcKSyxGMK9K8)
-
----
-
-## Old Offers - Removing Soon
-
-## English Tutorial Service
-
-[CLICK HERE TO VISIT OUR AFFILIATE TUTORIAL WEBSITE](https://philippinesprivateenglishtutors.com/)
-
-[Please send an email](mailto:kevin@callcentertrainingtips.com) or a [Facebook message](https://www.facebook.com/callcentertrainingtips/) to inquire.
-
-### Free Email Lessons
+### FREE EMAIL LESSONS
 
 This page is part of my community service.
 
@@ -94,4 +46,108 @@ Please be patient and polite as I get hundreds of messages a week from other peo
 
 Training materials and lessons are available for free on the website.
 
-<a href="https://sendfox.com/callcentertrainingtips" class="button focus">Get Free Email Lessons</a>
+<a href="https://sendfox.com/callcentertrainingtips" class="button focus">GET FREE EMAIL LESSONS</a>
+
+## TOP AGENT PROGRAM
+
+INCLUSIONS:
+
+**FAST-TRACK ENGLISH MODULE:** (TWO WEEKS)
+
+One week grammar refresher
+
+Grammar assessment.
+
+Grammar corrections.
+
+Pronunciation Module.
+
+Pronunciation Assessment.
+
+Customer Service, Technical Support, or Sales Sentences Module.
+
+**KPI DEVELOPMENT PROGRAM:** (TWO WEEKS)
+
+Areas of Focus:
+
+- AHT
+- Call Quality or Q.A. Score
+- CSAT, Customer Satisfaction Survey or Customer Service Feedback.
+- Sales or TSR.
+
+Repairing Bad Habits. Coaching Session.
+
+Developing Good Habits. Coaching Session.
+
+
+**REGULAR PRICE:**
+
+English Module = ₱1,200
+
+KPI Development = ₱3,200
+
+Total Cost = ₱3,400.
+
+
+**PROMO: GET THE ENTIRE PROGRAM FOR ₱1,597.**
+
+![IMAGE TEXT]({{ site.url }}/images/VOC Champion.jpg).
+
+<img src="{{ site.url }}/images/VOC Champion.jpg" width="400">
+<img src="{{ site.url }}/images/Me Sharing my Top Agent Award.png" width="400">
+<img src="{{ site.url }}/images/Top Agent Sales.png" width="400">
+<img src="{{ site.url }}/images/Top Agent Sales Board.png" width="400">
+
+![IMAGE TEXT]({{ site.url }}/images/Me Sharing my Top Agent Award.png).
+
+![IMAGE TEXT]({{ site.url }}/images/Top Agent Sales.png).
+
+![IMAGE TEXT]({{ site.url }}/images/Top Agent Sales Board.png).
+
+
+
+## MENTORING
+
+<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">
+
+If you've found value in my work and want direct feedback, we're opening up some different mentoring and coaching options.
+
+## SIX MONTHS MENTORING
+
+₱2,577 for six months.
+
+Monthly mentoring once a month to discuss strategies to improve your life.
+
+Set goals, make corrections, build discipline, and solve problems together.
+
+Six sessions total.
+
+Getting this program requires that you're employed.
+
+[APPLY FOR MENTORING](https://forms.gle/6YhaN1jqSzWYwzd2A)
+
+## WEEKLY COACHING 
+
+₱1,257 a month.
+
+1 hour a week.
+
+Weekly call to discuss your goals.
+
+We will discuss strategies to help you move forward.
+
+Four sessions total.
+
+[APPLY FOR WEEKLY COACHING](https://forms.gle/WjCos8yLCpV9QAiKA)
+
+## HOURLY CONSULTATION
+
+₱537 an hour.
+
+[APPLY FOR CONSULTATION](https://forms.gle/tnbBqJcKSyxGMK9K8)
+
+## ENGLISH TUTORIAL SERVICE
+
+[CLICK HERE TO VISIT OUR AFFILIATE TUTORIAL WEBSITE](https://philippinesprivateenglishtutors.com/)
+
+[Please send an email](mailto:kevin@callcentertrainingtips.com) or a [Facebook message](https://www.facebook.com/callcentertrainingtips/) to inquire.
