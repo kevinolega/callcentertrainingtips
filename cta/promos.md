@@ -88,23 +88,12 @@ KPI Development = ₱3,200
 
 Total Cost = ₱3,400.
 
-
 **PROMO: GET THE ENTIRE PROGRAM FOR ₱1,597.**
-
-![IMAGE TEXT]({{ site.url }}/images/VOC Champion.jpg).
-
-<img src="{{ site.url }}/images/VOC Champion.jpg" width="400">
-<img src="{{ site.url }}/images/Me Sharing my Top Agent Award.png" width="400">
-<img src="{{ site.url }}/images/Top Agent Sales.png" width="400">
-<img src="{{ site.url }}/images/Top Agent Sales Board.png" width="400">
-
-![IMAGE TEXT]({{ site.url }}/images/Me Sharing my Top Agent Award.png).
-
-![IMAGE TEXT]({{ site.url }}/images/Top Agent Sales.png).
-
-![IMAGE TEXT]({{ site.url }}/images/Top Agent Sales Board.png).
-
-
+<br>
+<img src="{{ site.url }}/images/VOC Champion.jpg" width="400"><br>
+<img src="{{ site.url }}/images/Me Sharing my Top Agent Award.png" width="400"><br>
+<img src="{{ site.url }}/images/Top Agent Sales.png" width="400"><br>
+<img src="{{ site.url }}/images/Top Agent Sales Board.png" width="400"><br>
 
 ## MENTORING
 
