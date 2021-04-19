@@ -70,6 +70,20 @@ Here are some tips:
 9. Questions you'll ask your favorite celebrity or mentor.
 10. Questions you'll ask a wise person.
 
+ACTIVITY 4:
+
+Please write 10 questions to break down the following general questions into more specific questions:
+
+1. Tell me something about you.
+2. What do you like?
+3. What are your goals?
+4. Give me directions going to Mall of Asia.
+5. Try to convince me to quit playing an addictive computer game.
+6. How do I become healthy?
+7. How do I become successful?
+9. How do I become a good writer?
+10. How do I become good with computers.
+
 ## LESSON 3 
 
 The goal is to write 100 sentences.
