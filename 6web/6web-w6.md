@@ -51,7 +51,11 @@ Give examples of how you can ask questions to give interviewers a better impress
 
 Share a non-interview application for these questions.
 
-The goal is to write 100 sentences.
+The goal is to write 20 sentences.
+
+ACTIVITY 3:
+
+Write down a set of 100 questions that you'll use in personal and professional situations.
 
 ## LESSON 3 
 
