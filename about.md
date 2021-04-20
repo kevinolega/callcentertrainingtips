@@ -101,7 +101,7 @@ I enjoy writing, creating websites, learning new things, and meeting new people 
 
 I'm from Paranaque City and I worked mostly in the Makati and Ortigas area.
 
-[Here's what I'm doing now](https://kevinolega.com/now).
+[Here's what I'm doing now](https://olega.org/now).
 
 [Here's 100 sentences about me](https://callcentertrainingtips.com/k100).
 
