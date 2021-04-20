@@ -31,9 +31,9 @@ We also offered a 30 day extension period.
 
 We have new modules for 2021.
 
-**₱357 Two Weeks English Lessons**.
+**₱367 Two Weeks English Lessons**.
 
-- 14 Lessons and Writing Exercises
+- 15 Lessons and Writing Exercises
 - Two Live Coaching Sessions (Grammar and Pronunciation)
 
 **₱597 Six Weeks English Lessons**.
@@ -47,7 +47,13 @@ You can also buy my book.
 
 ## I don't have budget to restart my training. What should I do?
 
-If you're in a situation where you don't have budget please continue using the training materials that we sent you.
+If you're in a situation where you don't have budget please sign up here. 
+
+<br>
+<a href="https://sendfox.com/lp/m82dqr" class="button focus">SIGN UP HERE</a>
+<br>
+
+Continue using the training materials that we sent you.
 
 We already emailed you the training materials.
 
@@ -79,4 +85,8 @@ We will continue mentoring you until you reach a high level of success.
 
 -- Kevin O.
 
-<script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='3544a69c272c9a0f8aebfa25b68ded195fc5c7b5bed67851024278b62231c636';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>
+## REMEDIAL TRAINING
+
+<br>
+<a href="https://sendfox.com/lp/m82dqr" class="button focus">SIGN UP HERE</a>
+<br>
