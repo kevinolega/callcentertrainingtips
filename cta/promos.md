@@ -8,7 +8,7 @@ My lessons already helped [hundreds of Filipinos get hired in a call center](htt
 
 If you want to support me and you would like more direct and active personal assistance, here are your options.
 
-## 6 WEEK ENGLISH LESSONS
+## INEXPENSIVE ENGLISH LESSONS
 
 <img src="{{ site.url }}/images/Affordable-English-Lessons.png" width="400">
 
@@ -19,6 +19,18 @@ We help our students prepare for interviews and call center work.
 We will be correcting your mistakes, and I'll guide you until you get hired. 
 
 <a href="https://callcentertrainingtips.com/6WEL250/" class="button focus">CLICK HERE TO RECEIVE TRAINING</a>
+
+## LESSON SAMPLER
+
+₱257. 
+
+7 Lessons. 
+
+1 live Session. 
+
+30-minute coaching. 
+
+No certificate.
 
 ## ADDITIONAL PRONUNCIATION SESSIONS.
 

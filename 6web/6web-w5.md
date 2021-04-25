@@ -148,7 +148,7 @@ Perfect Attendance
 
 Pronunciation
 
-[DOWNLOAD](https://drive.google.com/file/d/1UE0H2P4qB69wpbJJa57ErCIbxAZHZie4/view?usp=sharing)
+Pronunciation Exercise - [DOWNLOAD](https://drive.google.com/file/d/1AsquodvWoo3UGMuKA1jUiRbHGrYCgQWV/view?usp=sharing)
 
 PREVIEW:
 

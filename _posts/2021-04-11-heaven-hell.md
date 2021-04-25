@@ -6,6 +6,8 @@ Tags: [ uncategorized, blog ]
 permalink: /heaven-hell/ 
 author: Kevin Olega 
 --- 
+Let's discuss your situation.
+
 What is your current situation?
 
 Where are you right now?
@@ -13,7 +15,6 @@ Where are you right now?
 Where would you like to be?
 
 What situation are you trying to avoid?
-
 
 Describe your situation?
 
@@ -25,6 +26,7 @@ Who provides the money?
 
 What is the source of income?
 
+Let's discuss the outcome that you are aiming for.
 
 Describe your goal?
 
