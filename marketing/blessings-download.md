@@ -21,7 +21,7 @@ Please enjoy.
 Kevin Olega
 
 
-<a href="https://drive.google.com/file/d/1lEBzqnaajiuszPodvm2QZ7HZvEPiGbCq/view?usp=sharing" class="button focus">DOWNLOAD BOOK</a>
+<a href="https://drive.google.com/file/d/1U5QNiVZ6XWj63qrHPm5j177-UqJwvuo9/view?usp=sharing">DOWNLOAD BOOK</a>
 
 
-[BACKUP DOWNLOAD LINK](https://drive.google.com/file/d/1lEBzqnaajiuszPodvm2QZ7HZvEPiGbCq/view?usp=sharing).
+[BACKUP DOWNLOAD LINK](https://drive.google.com/file/d/1U5QNiVZ6XWj63qrHPm5j177-UqJwvuo9/view?usp=sharing).
