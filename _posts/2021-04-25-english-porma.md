@@ -18,4 +18,4 @@ Foundation ang communication skills.
 
 Tulungan kita. Message mo lang kami.
 
-![IMAGE TEXT]({{ site.url }}/image/ENGLISH GADGETS.jpeg).
+![IMAGE TEXT]({{ site.url }}/assets/img/ENGLISH GADGETS.jpeg).
