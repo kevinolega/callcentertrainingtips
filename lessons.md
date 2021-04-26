@@ -1,8 +1,22 @@
 ---
 layout: page
-title: Lessons
+title: LESSONS
 permalink: lessons
 ---
+<img src="{{ site.url }}/assets/img/2019-07-Kevin-Gray.jpg" width="150">
+
+We help introverts develop the confidence and the skills to qualify for their dream job.
+
+My name is Kevin Olega.
+
+I'm a project manager for a US-based IT company and HR services firm. 
+
+Before that, I'm a top agent at West Contact Services and a consistent CSAT and TSR awardee at Comcast.
+
+I was also an online English teacher, academic tutor, and sales trainer.
+
+These are my stories on getting a job, building confidence, personal improvement, skills training, and communication skills.
+
 <h3>POPULAR LESSONS:</h3>
   <ul>
     <li><a href="https://callcentertrainingtips.com/basics/">CALL CENTER BASICS</a></li>
