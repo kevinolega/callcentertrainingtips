@@ -1,8 +1,9 @@
 ---
 layout: page
-title: TRAINING OFFERS
+title: OFFERS
 description: These are our current call center training offers. 
 permalink: /promos/
+redirect_from: /brochure
 ---
 My lessons already helped [hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
