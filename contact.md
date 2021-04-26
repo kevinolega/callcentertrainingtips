@@ -2,8 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-redirect_from:
-  - /connect
+redirect_from: /connect
 ---
 Thank you for visiting my website. Here are the best ways to contact me.
 
