@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="{{ site.url }}/images/Call Center Kevin.jpg" width="300">
+<img src="{{ site.url }}/assets/img/Call Center Kevin.jpg" width="300">
 
 Call Center Training Tips is the largest collection of lessons about call center career advice.
 
@@ -116,7 +116,7 @@ Here are some things about me.
 - I'm geeky when it comes to Naruto, Fairy Tail, How I Met Your Mother, Starcraft, Diablo 2, Tekken, martial arts, and tech stuff.
 - I enjoy cooking, Crossfit, weightlifting, cycling, and outdoor activities like hiking and trekking.
 
-![IMAGE TEXT]({{ site.url }}/images/My Gamer Mindset.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/My Gamer Mindset.png).
 
 ## Some Common Questions
 
@@ -240,40 +240,40 @@ I’ve been giving away these lessons and tips for over fifteen years already.
 
 ### Website History:
 
-![IMAGE TEXT]({{ site.url }}/images/I wrote my book and and website on this laptop.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/I wrote my book and and website on this laptop.png).
 
 ### 2010 - 2013
 
-![IMAGE TEXT]({{ site.url }}/images/Found Strength in Loss.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/Found Strength in Loss.png).
 
 ### 2013 - 2016
 
 **Customer Service Award**
 
-![IMAGE TEXT]({{ site.url }}/images/VOC Champion.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/VOC Champion.jpg).
 
 I was able to save up for my dream gadgets with my call center money.
 
-![IMAGE TEXT]({{ site.url }}/images/Dream Gadgets With Call Center Money.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/Dream Gadgets With Call Center Money.png).
 
 **I took this photo of myself on the day I promised myself I'll recover from my depression.**
 
-![IMAGE TEXT]({{ site.url }}/images/2015-03-24 06.35.48.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/2015-03-24 06.35.48.jpg).
 
-![IMAGE TEXT]({{ site.url }}/images/Me Sharing my Top Agent Award.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/Me Sharing my Top Agent Award.png).
 
-![IMAGE TEXT]({{ site.url }}/images/Top Agent Sales.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/Top Agent Sales.png).
 
 **Top Agent Part Two**
 
-![IMAGE TEXT]({{ site.url }}/images/Top Agent Sales Board.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/Top Agent Sales Board.png).
 
 
 
 
 This allowed me to jump to better opportunities.
 
-![IMAGE TEXT]({{ site.url }}/images/Future Impact.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/Future Impact.png).
 
 ### UPDATE 2013:
 
@@ -295,7 +295,7 @@ ORIGINAL VIDEO
 
 TIMESTAMP [6:44-7:40](https://youtu.be/859sFFE8nWs?t=404)
 
-![Screenshot]({{ site.url }}/images/Kevin-TF-Show.png).
+![Screenshot]({{ site.url }}/assets/img/Kevin-TF-Show.png).
 
 [Show Notes on Tim Ferriss Website](https://tim.blog/2016/11/21/tools-of-titans-derek-sivers-distilled/)
 
@@ -314,7 +314,7 @@ I'm still working remotely (from anywhere). Some days, I work from home, some da
 
 Last December, we launched a six week English learning program and attracted hundreds of students. I spend half my day sending lessons, helping my students improve their communication skills and giving career advice.
 
-<img src="{{ site.url }}/images/Kevin-CM.jpg" width="300">
+<img src="{{ site.url }}/assets/img/Kevin-CM.jpg" width="300">
 
 Shortly after Mitzi began to help me manage the students and in March, Carla began to help us with answering messages.
 

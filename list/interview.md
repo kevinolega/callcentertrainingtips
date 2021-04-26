@@ -209,4 +209,4 @@ This is a skill I learned after I failed my interview at Teleperformance at Octa
 
 Note: I need to add the story of how I met Jean. Perfect English but failed. How I learned that comm skills are different from people skills.
 
-![You're hired]({{ site.url }}/images/Thumbs up.jpg)
+![You're hired]({{ site.url }}/assets/img/Thumbs up.jpg)

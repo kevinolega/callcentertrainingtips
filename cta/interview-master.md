@@ -223,20 +223,20 @@ All of this is covered in the program...and a whole lot more.
 
 **Here is just a few of the other things you'll learn:**
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) How to Get Unlimited Job Opportunities
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) How to Get Unlimited Job Opportunities
 
 How to structure your conversations in way that creates                 a "greased slide"… (She gets in at the beginning, and is rushed at a                 giddy pace straight through every story, every word, every physical escalation                 until she arrives at the close, breathless and so excited that she can't wait                 for you to finally lean in and kiss her…)
 
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) A "conversation technique" you MUST use in EVERY conversation that will let you know where you stand in the interview. This "rapport trigger" not only **creates an immediate and unconscious bond between the both of you... but it also gives you 100% effective way of knowing EXACTLY where you stand.. (this is one of those "true" over night game changers)
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) A "conversation technique" you MUST use in EVERY conversation that will let you know where you stand in the interview. This "rapport trigger" not only **creates an immediate and unconscious bond between the both of you... but it also gives you 100% effective way of knowing EXACTLY where you stand.. (this is one of those "true" over night game changers)
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) **Learn to think "spontaneously" and be able to talk about ANYTHING on a moment's notice... once you learn this, you'll find yourself getting job offers in the mall, Starbucks or simply walking down the street...
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) **Learn to think "spontaneously" and be able to talk about ANYTHING on a moment's notice... once you learn this, you'll find yourself getting job offers in the mall, Starbucks or simply walking down the street...
 
 What to do when an interviewer is fishing for a detail that you want to talk about (there is a right way and a wrong way to handles this... do it the wrong way and you've lost)... if you handle this right, your value in the interviwer's eyes will shoot through the roof...
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) The "4 basig agreements" you MUST unconsiously make with an interviwer that will create almost "instantaneous rapport" and let them know you're both on the exact "same page"... they rarely meets an applicant who "gets it"... so when they do, they WANT TO HIRE YOU IMMEDIATELY.
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) The "4 basig agreements" you MUST unconsiously make with an interviwer that will create almost "instantaneous rapport" and let them know you're both on the exact "same page"... they rarely meets an applicant who "gets it"... so when they do, they WANT TO HIRE YOU IMMEDIATELY.
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) A simple "mental" exercise that allows you to **plow through any "awkward" moments of the conversation** with an underlying, unshakeable, inner confidence, that will prevent you from stalling out or getting nervous... allowing you to powerfully attract the job opportunities, that you thought you can only pway for... The higher the interviewer's position, the better this works.
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) A simple "mental" exercise that allows you to **plow through any "awkward" moments of the conversation** with an underlying, unshakeable, inner confidence, that will prevent you from stalling out or getting nervous... allowing you to powerfully attract the job opportunities, that you thought you can only pway for... The higher the interviewer's position, the better this works.
 
 
 

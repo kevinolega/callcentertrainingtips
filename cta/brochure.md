@@ -8,7 +8,7 @@ author: Kevin Olega
 
 This contains our latest offers.
 
-![IMAGE TEXT]({{ site.url }}/images/Brochure Services January 2021.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/Brochure Services January 2021.png).
 
 [GET PROFESSIONAL ENGLISH TRAINING](https://callcentertrainingtips.com/6WEL250/).
 

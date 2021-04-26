@@ -8,7 +8,7 @@ Most people give up on their dream jobs...
 
 Not realizing how CLOSE they are to SUCCESS.
 
-![IMAGE TEXT]({{ site.url }}/images/Salvage.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Salvage.jpg).
 
 Compared to other Asians... 
 

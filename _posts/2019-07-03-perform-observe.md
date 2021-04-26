@@ -80,7 +80,7 @@ Helen Keller was an American author, political activist, and lecturer.
 
 She was the first deaf-blind person to earn a Bachelor of Arts degree.
 
-![IMAGE TEXT]({{ site.url }}/images/performer.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/performer.jpg).
 
 ## Video Version of the Lesson:
 

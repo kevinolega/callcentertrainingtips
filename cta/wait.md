@@ -8,7 +8,7 @@ author: Kevin Olega
 --- 
 Thank you for visiting this website.
 
-<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">
+<img src="{{ site.url }}/assets/img/2019-07-Kevin-Gray.jpg" width="200">
 
 My name is Kevin and I'm the writer and website admin.
 
@@ -30,4 +30,4 @@ It only costs ₱300.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdn6vfz102fu-8EWujKovZfjjrefRFa8xfiSQR8iPAwX5LLFg/viewform?embedded=true" width="640" height="1928" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-![IMAGE TEXT]({{ site.url }}/images/cctt.jpeg).
+![IMAGE TEXT]({{ site.url }}/assets/img/cctt.jpeg).

@@ -25,4 +25,4 @@ Are you doing the tasks assigned by your teachers and parents?
 
 Or ikaw ba batas sa bahay and school niyo?
 
-![IMAGE TEXT]({{ site.url }}/images/Magandang Grades.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Magandang Grades.jpg).

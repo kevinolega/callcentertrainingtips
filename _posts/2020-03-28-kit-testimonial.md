@@ -10,7 +10,7 @@ This post was originally received in 11/11/12 and is considered as my first majo
 
 Hi guys, first of all I want to say thanks to Kevin Olega who started this blog https://callcentertrainingtips.com, it’s been 3 months since I started reading his posts, and it was really a great help.
 
-![Kit Testimonial]({{ site.url }}/images/kit-testi.jpeg).
+![Kit Testimonial]({{ site.url }}/assets/img/kit-testi.jpeg).
 
 ## My Background
 

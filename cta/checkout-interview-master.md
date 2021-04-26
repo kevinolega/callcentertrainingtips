@@ -10,36 +10,36 @@ This Offer Will Be Closing Soon
 
 ## What's Included...
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) Call Center Basics
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) Call Center Basics
 
 value: Php 1,500
 
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) The Complete Guide to Interview Secrets: Introductions
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) The Complete Guide to Interview Secrets: Introductions
 
 value: Php 2,500
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) The Complete Guide to Interview Secrets: Asking Questions
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) The Complete Guide to Interview Secrets: Asking Questions
 
 value: Php 2,500
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) The Complete Guide to Interview Secrets: Step By Step Instructions
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) The Complete Guide to Interview Secrets: Step By Step Instructions
 
 value: Php 2,500
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) The Complete Guide to Interview Secrets: Telling Stories
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) The Complete Guide to Interview Secrets: Telling Stories
 
 value: Php 5,500
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) The Complete Guide to Interview Secrets: 150 Sentences to Get Hired
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) The Complete Guide to Interview Secrets: 150 Sentences to Get Hired
 
 value: Php 7,500
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) The Complete Guide to Interview Secrets: Unlimited Job Opportunities
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) The Complete Guide to Interview Secrets: Unlimited Job Opportunities
 
 value: Php 12,600
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) Four One On One Coaching Sessions With Kevin
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) Four One On One Coaching Sessions With Kevin
 
 value: Php 3,000
 
@@ -54,17 +54,17 @@ Or Get Started Today for Only 6 easy payments of Php 500/session.
 
 ## By Registering, I Understand And Accept The Following:
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) I understand that you've taken many years to learn, perfect and organize this knowledge, and I agree to treat this coaching training with the utmost respect.
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) I understand that you've taken many years to learn, perfect and organize this knowledge, and I agree to treat this coaching training with the utmost respect.
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) I agree and give you my word that I'll complete all the training sessions and give it my best.
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) I agree and give you my word that I'll complete all the training sessions and give it my best.
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) I agree to do all my assignments and homework and implement the lessons I learn in my actions and interviews.
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) I agree to do all my assignments and homework and implement the lessons I learn in my actions and interviews.
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) I agree to participate fully in this program
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) I agree to participate fully in this program
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) I agree that I am investing in this program with my "eyes open" - meaning that I'm not registering out of desparation - and that I can afford it
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) I agree that I am investing in this program with my "eyes open" - meaning that I'm not registering out of desparation - and that I can afford it
 
-![IMAGE TEXT]({{ site.url }}/images/checked.png) I understand that this is going to be FUN, intensive work, and I'm up for the challenge.
+![IMAGE TEXT]({{ site.url }}/assets/img/checked.png) I understand that this is going to be FUN, intensive work, and I'm up for the challenge.
 
 Your 100% 30-Day Zero Risk Guarantee
 

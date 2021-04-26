@@ -40,4 +40,4 @@ Message us for questions.
 
 We're here for you.
 
-![IMAGE TEXT]({{ site.url }}/images/Screen Shot 2021-03-04 at 1.46.48 PM).
+![IMAGE TEXT]({{ site.url }}/assets/img/Screen Shot 2021-03-04 at 1.46.48 PM).

@@ -39,7 +39,7 @@ I give out free reviewers to Filipinos who request them.
 
 In fact, this page is actually part of a free reviewer.
 
-<img src="{{ site.url }}/images/Call Center Kevin.jpg" width="300">
+<img src="{{ site.url }}/assets/img/Call Center Kevin.jpg" width="300">
 
 ## Are You Committed To Upgrading Your Life?
 

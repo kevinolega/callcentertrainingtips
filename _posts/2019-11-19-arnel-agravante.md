@@ -130,4 +130,4 @@ Best way is via messenger, just add me first if we do not have common friend.
 
 [Arnel Agravante's YT](https://www.youtube.com/channel/UC5PAFJ2vYMn1MiWQxQ7acIA)
 
-![Arnel Agravante]({{ site.url }}/images/Arnel Agravante.jpg).
+![Arnel Agravante]({{ site.url }}/assets/img/Arnel Agravante.jpg).

@@ -22,6 +22,6 @@ Did you spend your resources and utilized your blessings wisely?
 
 Grow up , buddy.
 
-![IMAGE TEXT]({{ site.url }}/images/Truth Bomb.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Truth Bomb.jpg).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mni2Z6uzfe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

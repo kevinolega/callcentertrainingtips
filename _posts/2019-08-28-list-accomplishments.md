@@ -18,7 +18,7 @@ I'm thirty four.
 
 Write down thirty four (or your current age) at the top left corner your page and count down.
 
-![IMAGE TEXT]({{ site.url }}/images/34-Countdown.JPG).
+![IMAGE TEXT]({{ site.url }}/assets/img/34-Countdown.JPG).
 
 What did you accomplish at this year?
 

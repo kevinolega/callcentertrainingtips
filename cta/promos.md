@@ -10,7 +10,7 @@ If you want to support me and you would like more direct and active personal ass
 
 ## INEXPENSIVE ENGLISH LESSONS
 
-<img src="{{ site.url }}/images/Affordable-English-Lessons.png" width="400">
+<img src="{{ site.url }}/assets/img/Affordable-English-Lessons.png" width="400">
 
 We offer six weeks of English lessons to help support job applicants and professionals who want to upgrade their careers.
 
@@ -34,7 +34,7 @@ No certificate.
 
 ## ADDITIONAL PRONUNCIATION SESSIONS.
 
-<img src="{{ site.url }}/images/2020-07-01-three-hundred.png" width="400">
+<img src="{{ site.url }}/assets/img/2020-07-01-three-hundred.png" width="400">
 
 If you feel you need more sessions, here are our prices.
 
@@ -102,14 +102,14 @@ Total Cost = ₱3,400.
 
 **PROMO: GET THE ENTIRE PROGRAM FOR ₱1,597.**
 <br>
-<img src="{{ site.url }}/images/VOC Champion.jpg" width="400"><br>
-<img src="{{ site.url }}/images/Me Sharing my Top Agent Award.png" width="400"><br>
-<img src="{{ site.url }}/images/Top Agent Sales.png" width="400"><br>
-<img src="{{ site.url }}/images/Top Agent Sales Board.png" width="400"><br>
+<img src="{{ site.url }}/assets/img/VOC Champion.jpg" width="400"><br>
+<img src="{{ site.url }}/assets/img/Me Sharing my Top Agent Award.png" width="400"><br>
+<img src="{{ site.url }}/assets/img/Top Agent Sales.png" width="400"><br>
+<img src="{{ site.url }}/assets/img/Top Agent Sales Board.png" width="400"><br>
 
 ## MENTORING
 
-<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">
+<img src="{{ site.url }}/assets/img/2019-07-Kevin-Gray.jpg" width="200">
 
 If you've found value in my work and want direct feedback, we're opening up some different mentoring and coaching options.
 

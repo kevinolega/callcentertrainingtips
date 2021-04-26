@@ -54,7 +54,7 @@ Do not buy this book if you hate reading.
 
 This book is long and will change your life.
 
-![Shy Person's Guide Book Cover]({{ site.url }}/images/Shy-Person-book-cover.png)
+![Shy Person's Guide Book Cover]({{ site.url }}/assets/img/Shy-Person-book-cover.png)
 
 
 ## MORE THAN 1,000 SECRETS TO GETTING HIRED

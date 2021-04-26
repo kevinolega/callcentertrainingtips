@@ -56,4 +56,4 @@ And the reason...
 
 For my success.
 
-![Masters have experienced more falures]({{ site.url }}/images/Master.jpg).
+![Masters have experienced more falures]({{ site.url }}/assets/img/Master.jpg).

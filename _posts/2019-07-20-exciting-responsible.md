@@ -36,4 +36,4 @@ Life is also exciting if you are responsible.
 
 Stop acting like a kid.
 
-![IMAGE TEXT]({{ site.url }}/images/Adulting.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Adulting.jpg).

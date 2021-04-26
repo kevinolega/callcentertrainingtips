@@ -58,4 +58,4 @@ Matanda ka na.
 
 I ❤️ you guys!!!
 
-![IMAGE TEXT]({{ site.url }}/images/You Fine.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/You Fine.jpg).

@@ -49,4 +49,4 @@ Don't listen to fake call center job hunting advice.
 
 Work on your skills.
 
-![IMAGE TEXT]({{ site.url }}/images/FAKE interview tips.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/FAKE interview tips.png).

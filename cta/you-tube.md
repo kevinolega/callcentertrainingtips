@@ -6,7 +6,7 @@ Tags: [ CTA, blog ]
 permalink: /yt/ 
 author: Kevin Olega 
 --- 
-<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">
+<img src="{{ site.url }}/assets/img/2019-07-Kevin-Gray.jpg" width="200">
 
 Hi there!
 
@@ -50,4 +50,4 @@ I'll do my best to answer your questions in the next video.
 
 [Click here to watch our Video Lessons](https://youtube.com/callcentertrainingtips?sub_confirmation=1)
 
-![IMAGE TEXT]({{ site.url }}/images/cctt.jpeg).
+![IMAGE TEXT]({{ site.url }}/assets/img/cctt.jpeg).

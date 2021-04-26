@@ -24,4 +24,4 @@ Writing a subject line is an important skill if you're interested in online free
 
 Sending professional emails with no subject on the subject line can result in unopened emails or the receiver developing a low opinion of you.
 
-![IMAGE TEXT]({{ site.url }}/images/EMAIL-SUBJECT.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/EMAIL-SUBJECT.png).

@@ -8,4 +8,4 @@ author: Kevin Olega
 --- 
 Gusto ko lang itanong. Lalaki ka ba?
 
-![IMAGE TEXT]({{ site.url }}/images/Be a man.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Be a man.jpg).

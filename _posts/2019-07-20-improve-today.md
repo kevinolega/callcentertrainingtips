@@ -138,4 +138,4 @@ Stop hanging out with loser friends.
 
 Start doing something to improve your life.
 
-![IMAGE TEXT]({{ site.url }}/images/Improve Today.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Improve Today.jpg).

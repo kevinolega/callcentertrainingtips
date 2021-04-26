@@ -46,4 +46,4 @@ But if you will run away from your fear, it will catch up to you and eat you, an
 
 True story.
 
-![IMAGE TEXT]({{ site.url }}/images/Prepare.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Prepare.jpg).

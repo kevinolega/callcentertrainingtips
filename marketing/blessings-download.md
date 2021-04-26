@@ -6,7 +6,7 @@ permalink: /blessings-dl/
 author: Kevin Olega 
 --- 
 
-![Small Book of Blessings Cover]({{ site.url }}/images/Book-of-Blessings-cover.png).
+![Small Book of Blessings Cover]({{ site.url }}/assets/img/Book-of-Blessings-cover.png).
 
 Thank you.
 

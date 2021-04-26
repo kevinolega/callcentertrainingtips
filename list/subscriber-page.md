@@ -109,7 +109,7 @@ Click the link to get English Lessons
 
 **[GET:English Lessons](https://callcentertrainingtips.com/6WEL250/)**!!!
 
-<img src="{{ site.url }}/images/2020-07-01-three-hundred.JPG" width="400">
+<img src="{{ site.url }}/assets/img/2020-07-01-three-hundred.JPG" width="400">
 
 If you've read all the lessons, you are my kind of person.
 
@@ -121,4 +121,4 @@ I will be adding more lessons soon.
 
 Kevin O.
 
-<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">
+<img src="{{ site.url }}/assets/img/2019-07-Kevin-Gray.jpg" width="200">

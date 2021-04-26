@@ -26,4 +26,4 @@ If you want it, you’ll find a way.
 
 If you don’t want it you’ll give an excuse.
 
-![IMAGE TEXT]({{ site.url }}/images/Stop Hurting Yourself.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Stop Hurting Yourself.jpg).

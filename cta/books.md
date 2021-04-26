@@ -12,7 +12,7 @@ A SHY PERSON'S GUIDE ON HOW TO GET HIRED IN A CALL CENTER.
 
 Written by Kevin Olega.
 
-![Shy Person's Guide Book Cover]({{ site.url }}/images/Shy-Person-book-cover.png).
+![Shy Person's Guide Book Cover]({{ site.url }}/assets/img/Shy-Person-book-cover.png).
 
 We put together a comprehensive guide on how to get hired in a call center.
 
@@ -44,7 +44,7 @@ Written by Kevin Olega.
 
 This is a free book!!!
 
-![Small Book of Blessings Cover]({{ site.url }}/images/Book-of-Blessings-cover.png).
+![Small Book of Blessings Cover]({{ site.url }}/assets/img/Book-of-Blessings-cover.png).
 
 This book covers strategies on how to become more positive and convince the interviewer that you're a future leader in their company.
 

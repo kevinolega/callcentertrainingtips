@@ -7,7 +7,7 @@ author: Kevin Olega
 --- 
 Here's the free book.
 
-![IMAGE TEXT]({{ site.url }}/images/Book-of-Blessings-cover.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/Book-of-Blessings-cover.png).
 
 The small book of blessings helps you build confidence.
 

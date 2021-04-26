@@ -5,7 +5,7 @@ author: Kevin Olega
 permalink: /schedule
 ---
 
-<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">
+<img src="{{ site.url }}/assets/img/2019-07-Kevin-Gray.jpg" width="200">
 
 I've got some free time and I want to help you.
 

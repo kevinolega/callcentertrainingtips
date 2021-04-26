@@ -22,7 +22,7 @@ I built the life that I want because I didn't listen.
 
 If I listened, I'd probably still be in a low paying mall job today
 
-![IMAGE TEXT]({{ site.url }}/images/Growth Stealers.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Growth Stealers.jpg).
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mmOo7mIaQo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

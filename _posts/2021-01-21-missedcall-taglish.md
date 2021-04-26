@@ -88,4 +88,4 @@ When would be a good time for you so I can block off my schedule?
 
 Thanks.
 
-![IMAGE TEXT]({{ site.url }}/images/HINDI NASAGOT.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/HINDI NASAGOT.png).

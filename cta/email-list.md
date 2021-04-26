@@ -7,7 +7,7 @@ permalink: /el/
 author: Kevin Olega 
 --- 
 
-<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">
+<img src="{{ site.url }}/assets/img/2019-07-Kevin-Gray.jpg" width="200">
 
 ## JOIN MY EMAIL LIST TO GET MY BEST LESSONS AND STAY IN TOUCH WITH ME!
 
@@ -32,7 +32,7 @@ THANK YOU FOR INVESTING IN YOUR FUTURE
 <a href="https://sendfox.com/callcentertrainingtips" class="button focus">SIGN UP!</a>
 
 
-![IMAGE TEXT]({{ site.url }}/images/email.jpg)
+![IMAGE TEXT]({{ site.url }}/assets/img/email.jpg)
 
 [BACKUP EMAIL LINK](https://sendfox.com/callcentertrainingtips).
 

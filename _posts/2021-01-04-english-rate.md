@@ -183,4 +183,4 @@ Business Owner
 10 - Can write a book that earns billions. Best Selling Author and Influencer. Can design and implement a business model that earns billions. Top tier entrepreneurs.
 
 
-![Rate Your English]({{ site.url }}/images/rateenglish.png).
+![Rate Your English]({{ site.url }}/assets/img/rateenglish.png).

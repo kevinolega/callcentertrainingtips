@@ -5,7 +5,7 @@ date: 2021-01-01 21:33
 permalink: /videos/ 
 author: Kevin Olega 
 --- 
-<img src="{{ site.url }}/images/watch-free-video-lessons.png" width="400">
+<img src="{{ site.url }}/assets/img/watch-free-video-lessons.png" width="400">
 
 Here are some of our video lessons.
 

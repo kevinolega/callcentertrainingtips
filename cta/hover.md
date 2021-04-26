@@ -6,7 +6,7 @@ permalink: /hover/
 author: Kevin Olega 
 --- 
 
-<img src="{{ site.url }}/images/2019-07-Kevin-Gray.jpg" width="200">
+<img src="{{ site.url }}/assets/img/2019-07-Kevin-Gray.jpg" width="200">
 
 I recommend Hover for domain registration.
 

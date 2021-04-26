@@ -17,7 +17,7 @@ Sign up using this link, so we both get PHP 70 worth of freebies:
 
 Or Scan this QR Code:
 
-![GCash]({{ site.url }}/images/gcash.JPG)
+![GCash]({{ site.url }}/assets/img/gcash.JPG)
 
 If you would like to send us funds through GCash... 
 

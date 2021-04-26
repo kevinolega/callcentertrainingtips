@@ -6,7 +6,7 @@ Tags: [ testimonials, blog ]
 permalink: /jov2/ 
 author: Kevin Olega 
 --- 
-![IMAGE TEXT]({{ site.url }}/images/TWO-STUDENTS.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/TWO-STUDENTS.png).
 
 You can do it!
 

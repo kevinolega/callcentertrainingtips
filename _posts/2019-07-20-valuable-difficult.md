@@ -32,4 +32,4 @@ If you want a good life for yourself and your family, you need to be brave.
 
 If it's too much trouble for you, stick to low paying jobs.
 
-![IMAGE TEXT]({{ site.url }}/images/Valuable-Diffucult.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Valuable-Diffucult.jpg).

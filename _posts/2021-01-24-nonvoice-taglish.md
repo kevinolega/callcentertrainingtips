@@ -36,4 +36,4 @@ Kadalasan mas mababa talaga ang offer ng voice at non-voice dahil sa supply and 
 
 Dun ka ba sa madali na mababa sahod o sa mahirap na mataas ang sahod?
 
-![IMAGE TEXT]({{ site.url }}/images/NON-VOICE.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/NON-VOICE.png).

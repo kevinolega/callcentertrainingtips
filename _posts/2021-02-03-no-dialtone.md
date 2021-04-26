@@ -94,4 +94,4 @@ Your mileage may vary.
 
 Let me know if you have other questions.
 
-![IMAGE TEXT]({{ site.url }}/images/TECH SUPPORT.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/TECH SUPPORT.png).

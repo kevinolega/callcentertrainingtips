@@ -169,4 +169,4 @@ Download mo ito ng libre.
 [CLICK HERE TO DOWNLOAD](https://forms.gle/HotJzsECvJ8jHhGJ9)
 
 
-![IMAGE TEXT]({{ site.url }}/images/Bakasyon Apply.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/Bakasyon Apply.png).

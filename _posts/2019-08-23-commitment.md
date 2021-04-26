@@ -70,4 +70,4 @@ Losers give up.
 
 Winners do whatever it takes.
 
-![IMAGE TEXT]({{ site.url }}/images/Commitment.png).
+![IMAGE TEXT]({{ site.url }}/assets/img/Commitment.png).

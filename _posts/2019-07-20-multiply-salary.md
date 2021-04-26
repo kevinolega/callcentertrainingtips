@@ -48,4 +48,4 @@ Get around the right people.
 
 Stop hanging out with your loser friends and family members.
 
-![IMAGE TEXT]({{ site.url }}/images/Call Center Salary.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Call Center Salary.jpg).

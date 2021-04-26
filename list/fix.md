@@ -150,4 +150,4 @@ More importantly...
 
 Fix your attitude.
 
-![You're Hired]({{ site.url }}/images/handshake.jpg)!
+![You're Hired]({{ site.url }}/assets/img/handshake.jpg)!

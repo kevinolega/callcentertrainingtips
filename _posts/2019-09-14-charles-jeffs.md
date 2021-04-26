@@ -168,4 +168,4 @@ Mobile or email but you can also check my social media accounts.   
 
   [Click here to follow Charles Jeffs' Instagram](https://www.instagram.com/thejeffs/)
 
-![Charles Jeffs Music]({{ site.url }}/images/Charles-Jeffs.jpg).
+![Charles Jeffs Music]({{ site.url }}/assets/img/Charles-Jeffs.jpg).

@@ -40,4 +40,4 @@ Me: Good luck.
 
 Some excuses are perfectly legitimate. Unfortunately, having excuses do not solve the problem or help you get closer to the life that you want.
 
-![IMAGE TEXT]({{ site.url }}/images/Find Make Way.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Find Make Way.jpg).

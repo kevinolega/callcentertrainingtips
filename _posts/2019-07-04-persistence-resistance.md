@@ -40,4 +40,4 @@ My question to you is...
 
 Are you a bad copy or a good copy?
 
-![IMAGE TEXT]({{ site.url }}/images/Persistence.jpg).
+![IMAGE TEXT]({{ site.url }}/assets/img/Persistence.jpg).
