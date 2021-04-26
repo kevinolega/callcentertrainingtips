@@ -3,7 +3,8 @@ layout: page
 title: ENGLISH LESSONS
 date: 2019-08-31 13:00
 Tags: [ CTA, blog ]
-permalink: /6WEL250/ 
+permalink: english-lessons
+redirect_from: /6WEL250/ 
 author: Kevin Olega 
 --- 
 <img src="{{ site.url }}/assets/img/Affordable-English-Lessons.png" width="400">
