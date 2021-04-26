@@ -47,4 +47,4 @@ url: "https://callcentertrainingtips.com" # the base hostname & protocol for you
 plugins:
   - jekyll-sitemap
 
-gems: [jekyll-seo-tag, jekyll-paginate, jekyll-feed ]
+gems: [jekyll-seo-tag, jekyll-paginate, jekyll-feed, jekyll-redirect-from ]
