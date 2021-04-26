@@ -4,6 +4,7 @@ title: Start Here
 description: This is the first reviewer I share with new visitors.
 author: Kevin Olega
 permalink: /start/
+redirect_to: https://callcentertrainingtips.com/promos
 ---
 Let's start with the most important detail.
 
