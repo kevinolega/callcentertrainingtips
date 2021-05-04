@@ -98,7 +98,7 @@ Write a story about a boring topic. I wrote a story about shoes. Minimum of 20 s
 
 Pronunciation
 
-[DOWNLOAD](https://drive.google.com/file/d/1UE0H2P4qB69wpbJJa57ErCIbxAZHZie4/view?usp=sharing)
+Pronunciation Exercise - [DOWNLOAD](https://drive.google.com/file/d/1AsquodvWoo3UGMuKA1jUiRbHGrYCgQWV/view?usp=sharing)
 
 ADDITIONAL PRONUNCIATION TIPS:
 
