@@ -13,9 +13,11 @@ A NEW CALL CENTER AGENT'S GUIDE TO WORKING, SLEEPING, AND THRIVING WITH NIGHT SH
 
 The title says it all.
 
+[FREE BOOK INFORMATION](https://callcentertrainingtips.com/night-shift-book)
+
 Click the button to download a free copy.
 
-<a href="https://sendfox.com/lp/mnoe5q" class="button focus">FREE DOWNLOAD</a>
+<a href="https://sendfox.com/lp/1g6pd2" class="button focus">FREE DOWNLOAD</a>
 
 
 ## PRACTICAL CALL CENTER JOB HUNTING STRATEGIES

@@ -7,7 +7,6 @@ author: Kevin Olega
 --- 
 ![IMAGE TEXT]({{ site.url }}/assets/img/Night Shift Book Cover-Sample.png).
 
-
 Thank you.
 
 Here's your download.

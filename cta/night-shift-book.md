@@ -2,7 +2,7 @@
 layout: page
 title: HOW TO SURVIVE NIGHT SHIFT WORK SCHEDULE
 date: 2021-01-12 23:07
-permalink: night
+permalink: night-shift-book
 author: Kevin Olega 
 --- 
 Here's the free book.
