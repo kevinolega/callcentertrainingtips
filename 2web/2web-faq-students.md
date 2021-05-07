@@ -9,7 +9,7 @@ We attempt to answer the most common questions on this page.
 
 If your question isn't answered here, please send us a message.
 
-## I Can't Find Your Emails. What do I do?
+## I CAN'T FIND YOUR EMAILS. WHAT DO I DO?
 
 In a lot of cases, our email got sent to the Promotions or SPAM Folder.
 
@@ -19,11 +19,11 @@ kevin@callcentertrainingtips.com
 
 If you still do not find the emails, please let us know.
 
-## I Accidentally Deleted a Message. What Do I Do?
+## I ACCIDENTALLY DELETED A MESSAGE. WHAT DO I DO?
 
 Your email can be found on the Trash Folder.
 
-## I Stopped Receiving Lessons. Why Did Your Emails Stop?
+## I STOPPED RECEIVING LESSONS. WHY DID YOUR EMAILS STOP?
 
 We are committed to helping our students have a smooth experience with upgrading their English skills.
 
@@ -33,22 +33,21 @@ We will be sending lessons 1 to 7 first.
 
 Then we will wait for you to finish.
 
-## Why Haven't We Scheduled Phone Coaching?
+## WHY HAVEN'T WE SCHEDULED PHONE COACHING?
 
 The phone coaching session gets scheduled after you complete lesson 1 to lesson 7 of your current week.
 
 That's because, we will discuss your answers to the writing exercises and help fix your grammar and pronunciation.
 
-
-## I'm Having Difficulty With The Activities. What Do I Do?
+## I'M HAVING DIFFICULTY WITH THE ACTIVITIES. WHAT DO I DO?
 
 Focus on writing one sentence at a time.
 
-## How Do I Send The Activities?
+## HOW DO I SEND THE ACTIVITIES?
 
 Please use Google Docs
 
-## The Activities Are Too Long.
+## THE ACTIVITIES ARE TOO LONG.
 
 No.
 
@@ -58,7 +57,7 @@ Aim to write 1 sentence per minute.
 
 The intention is to help you become comfortable communicting in English.
 
-## The Activities Are Too Difficult. Should I Give Up?
+## THE ACTIVITIES ARE TOO DIFFICULT. SHOULD I GIVE UP?
 
 If the activities are too difficult, that's because this is your first time exercising your writing skills.
 
@@ -74,27 +73,27 @@ And that's a good thing.
 
 Discomfort is a sign that you are learning something new.
 
-## The Questions Are Too Personal. Can I Skip These Questions?
+## THE QUESTIONS ARE TOO PERSONAL. CAN I SKIP THESE QUESTIONS?
 
 Our goal is to help you develop your ability to express yourself in English comfortably and confidently.
 
 We begin with opening up topics about yourself and slowly transition to more professional and work-related conversations.
 
-## Do I Need to Print The Activities?
+## DO I NEED TO PRINT THE ACTIVITIES?
 
 You may, but it's not required.
 
-## Do I Answer All The Questions?
+## DO I ANSWER ALL THE QUESTIONS?
 
 Yes. Please do.
 
-## Do I Need To Answer Call Center Questions? I Only Want To Improve My English.
+## DO I NEED TO ANSWER CALL CENTER QUESTIONS? I ONLY WANT TO IMPROVE MY ENGLISH.
 
 Please remember that the written activities are communications practice, and is not limited to "Getting Hired as a Call Center Agent".
 
 You have to be able to articulate your goals, plans, intentions, preferences, and ideas.
 
-## Do I Need To Write The Questions?
+## DO I NEED TO WRITE THE QUESTIONS?
 
 Yes. 
 
@@ -102,7 +101,7 @@ This is additional English practice.
 
 This also makes the discussion easier.
 
-## The Activities Take Too Much Time. How Do I Fit This Training In My Schedule?
+## THE ACTIVITIES TAKE TOO MUCH TIME. HOW DO I FIT THIS TRAINING IN MY SCHEDULE?
 
 Write for 30 minutes to an hour then stop if you're out of time.
 
@@ -114,9 +113,9 @@ We don't expect you to finish everything in one day.
 
 And that's okay.
 
-## I'm Worried About The Time Limit. 
+## I'M WORRIED ABOUT THE TIME LIMIT. 
 
-Will Failing To Complete The Exercises Kick Me Out of Your Training?
+WILL FAILING TO COMPLETE THE EXERCISES KICK ME OUT OF YOUR TRAINING?
 
 No.
 
@@ -126,13 +125,13 @@ If you need more time, we will give you more time.
 
 We extended the training period to 60 days.
 
-## What's the Meaning of WORD or PHRASE?
+## WHAT'S THE MEANING OF WORD OR PHRASE?
 
 For words and phrases that you need help with, a quick search on Google is incredibly useful.
 
 Research is a small but incredibly useful call center skill.
 
-## I Don't Want to Submit My Answers Because I'm Worried About My English.
+## I DON'T WANT TO SUBMIT MY ANSWERS BECAUSE I'M WORRIED ABOUT MY ENGLISH.
 
 That's okay.
 
@@ -144,7 +143,7 @@ Fill those pages with your thoughts so we have something to fix.
 
 We repair your broken English during the phone coaching.
 
-## I Give Up
+## I GIVE UP
 
 It's okay to give up.
 

@@ -1,33 +1,41 @@
 --- 
 layout: page
-title: 6 Week Conversational English Lessons
+title: 6 WEEK CONVERSATIONAL ENGLISH LESSONS
 date: 2020-10-22 14:15
 permalink: /6webstudent/ 
 author: Kevin Olega 
 --- 
-### GUIDELINES
+## GUIDELINES
 
 Read this first.
 
-[PLEASE CLICK HERE TO READ THE GUIDELINES](https://callcentertrainingtips.com/6webguide)
+[CLICK HERE TO READ THE GUIDELINES](https://callcentertrainingtips.com/6webguide)
 
-### REMINDERS:
+## REMINDERS:
 
-1. Type your answers on your phone or computer and email your answers or share using Google Drive.
+1. Use Google Drive to share your answers.
 
-2. Please answer all the questions and follow the minimum required number of sentences.
+2. Answer all the questions. Follow the required minimum number of sentences.
 
-3. Please send us a message if you have questions.
+3. Send us a message if you have questions.
 
-4. When you are done, please let us know and we will check all of your answers.
+4. Inform us when you are done. We will check all of your answers.
 
-5. When you have completed the writing exercises, the admin will schedule your phone coaching session.
+5. The admin will schedule your phone coaching session after you complete the writing exercises.
 
-6. If you need to repeat an activity, we will let you know.
+6. We will let you know if you need to repeat an activity.
 
-### What to Expect
+7. Please complete the activities within the 90-day training period to avoid expiration and additional fees.
 
-The goal is to get you comfortable at expressing yourself in day to day conversations.
+8. Do your best to write every day. We discovered that students who skip writing longer than three days do not graduate from the program.
+
+## WHAT TO EXPECT
+
+The goal is to get you comfortable expressing yourself.
+
+I want you to be confident in professional conversations.
+
+I want you to feel at ease during day-to-day conversations.
 
 I will ask you to introduce yourself.
 
@@ -37,31 +45,37 @@ I will ask you to give instructions.
 
 I will ask you to share stories.
 
-These activities account for over 93% of day to day communication.
+These activities account for over 93% of day-to-day communication.
 
-The first week will be easy and I’ll ask you to write 15 sentences per activity.
+The first week will be easy.
 
-In the second week, I’ll ask you to write 20 sentences per activity.
+I’ll ask you to write 15 sentences per activity.
 
-In the third week, I’ll ask you to write 30 sentences per activity.
+I’ll ask you to write 20 sentences per activity in the second week.
 
-In the fourth week, I’ll ask you to write 40 sentences per activity.
+I’ll ask you to write 30 sentences per activity in the third week.
 
-In the fifth week, I’ll ask you to write 50 sentences per activity.
+I’ll ask you to write 40 sentences per activity in your fourth week.
 
-In the sixth week, I’ll ask you to write 100 sentences per activity.
+I’ll ask you to write 50 sentences per activity in your fifth week.
 
-At the end of the lessons, you’ll write over 1,000 sentences.
+I’ll ask you to write 100 sentences per activity in your sixth week.
 
-For pronunciation, our focus will be the use of the top 100 most used words in the English Language.
+You’ll write over 1,000 sentences at the end of the lesson.
 
-These words will be used in over 50% of all the sentences that you will be writing or speaking.
+I’ll fix your pronunciation.
+
+We will begin with the top 100 most used English words.
+
+These words are used over 50% of the time.
+
+You’ll always use these words to complete your sentences.
 
 [READ: WRITING BEFORE SPEAKING](https://drive.google.com/file/d/1pOn2YAtoBk5xtdly-KDHGnzBrx2f_ZAr/view?usp=sharing).
 
-### RULES OF EFFECTIVE COMMUNICATION
+## RULES OF EFFECTIVE COMMUNICATION
 
-Please click link to download exercise.
+Click link to download the exercise.
 
 We will cover two lessons every week.
 
@@ -95,37 +109,39 @@ Rewriting - [DOWNLOAD](https://drive.google.com/file/d/1VIsl4-XbYrYeJBGWgEx3RM4L
 
 MORE COMING SOON!!!
 
-### Pronunciation Guide
+## PRONUNCIATION GUIDE
 
 Pronunciation Guide - [DOWNLOAD](https://drive.google.com/file/d/150XzfiT9zqdtOFrOs3LibsOZYoOas-4d/view?usp=sharing)
 
 Pronunciation Exercise - [DOWNLOAD](https://drive.google.com/file/d/1AsquodvWoo3UGMuKA1jUiRbHGrYCgQWV/view?usp=sharing)
 
-Pronunciation Sesion
+## PRONUNCIATION SESIONS
 
-[Watch Recorded Pronunciation Session 01](https://youtu.be/j2r-JNolL5w).
-
-[Watch Recorded Pronunciation Session 02](https://youtu.be/fezqHqAwKqY).
+[WATCH PRONUNCIATION SESSIONS](https://callcentertrainingtips.com/pronunciation).
 
 ## SUBMITTING YOUR ANSWERS
 
-I recommend that you submit your answers using Google Docs.
+I recorded a short guide.
 
-I'll be able to give better feedback on Google Docs because it has a comments and suggestion feature.
-
-Please share your answers to callcentertrainingtips@gmail.com
-
-If you have a Gmail account, you already have Google Docs. Just head over to [https://drive.google.com](https://drive.google.com) and create a new document.
-
-If you're using a mobile device, Google Docs is available on both [iOS](https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640) and [Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en&gl=US).
-
-I recorded a short guide:
+Please watch this video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1OSLCxKX11U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Watch on YouTube](https://youtu.be/1OSLCxKX11U).
 
-### Help!!!
+Submit your answers using Google Docs.
+
+I'll give better feedback on Google Docs because I use the comments and suggestion feature.
+
+Please share your answers to callcentertrainingtips@gmail.com
+
+You already have Google Docs if you have a Gmail Account.
+
+Just head over to [https://drive.google.com](https://drive.google.com) and create a new document.
+
+Google Docs is available on both [iOS](https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640) and [Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en&gl=US) if you're using a mobile device.
+
+## HELP!!!
 
 I'm stuck. 
 
@@ -134,31 +150,33 @@ I can't think of what to say.
 [READ: WRITE IN FILIPINO](https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing)
 
 
-### Weekly Lessons
+## WEEKLY LESSONS
 
-#### Week 1
+Please complete your lessons within the 90-day time frame to avoid expiration and additional fees.
+
+### WEEK 1
 
 <a href="https://callcentertrainingtips.com/6webw1-hatch/" class="button focus">BEGIN WEEK 1</a>
 
-#### Week 2
+### WEEK 2
 
-Unlocks upon completion of previous lessons.
+Unlocks upon completion of previous set.
 
-#### Week 3
+### Week 3
 
-Unlocks upon completion of previous lessons.
+Unlocks upon completion of previous set.
 
-#### Week 4
+### Week 4
 
-Unlocks upon completion of previous lessons.
+Unlocks upon completion of previous set.
 
-#### Week 5
+### Week 5
 
-Unlocks upon completion of previous lessons.
+Unlocks upon completion of previous set.
 
-#### Week 6
+### Week 6
 
-Unlocks upon completion of previous lessons.
+Unlocks upon completion of previous set.
 
-NEW: BUY NOW! [PRACTICAL CALL CENTER JOB HUNTING STRATEGIES](https://callcentertrainingtips.com/shy-book)
+**NEW: BUY NOW! [PRACTICAL CALL CENTER JOB HUNTING STRATEGIES](https://callcentertrainingtips.com/shy-book)**
 

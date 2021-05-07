@@ -74,6 +74,8 @@ PREVIEW:
 - Who are your role models?
 - Do you consider yourself as optimistic or pessimistic?
 
+[READ BONUS LESSON](https://callcentertrainingtips.com/act2secret)
+
 ## LESSON 3 
 
 20 Sentence Instruction. 
