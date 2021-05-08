@@ -170,7 +170,7 @@ PREVIEW:
 
 [READ BONUS LESSON](https://callcentertrainingtips.com/act2secret)
 
-### BEGINNER MISTAKES
+### MORE BEGINNER MISTAKES
 
 Please read this lesson before proceeding to activity 3.
 

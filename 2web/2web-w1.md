@@ -165,7 +165,7 @@ PREVIEW:
 - How many siblings do you have?
 - What’s your family business?
 
-### BEGINNER MISTAKES
+### MORE BEGINNER MISTAKES
 
 Please read this lesson before proceeding to activity 3.
 

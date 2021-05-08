@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: How to Check Your Answers
+title: HOW TO CHECK YOUR ANSWERS
 date: 2020-08-23 17:29
 permalink: /fixthis/
 author: Kevin Olega 
@@ -13,7 +13,21 @@ I want you to use this page as reference to check your answers.
 
 You can become a hundred times better at communicating by fixing the mistakes specified on this page.
 
-### My first question:
+We are going to answer the following questions:
+
+- Should I give my full name or nickname during introductions?
+- Why should I avoid vague or unspecific answers?
+- Why should I avoid super-short answers?
+- What are the most common grammar errors?
+- What is a sentence?
+- What mistakes do adults still make when writing sentences?
+- How do I know if my sentence is complete?
+- How can I become a better communicator?
+- Why should I shorten my sentences?
+- What are bad ways to begin my sentences?
+- What are unnecessary words in a sentence?
+
+### MY FIRST QUESTION:
 
 If the interviewer gives his full name, you should introduce yourself with your first name.
 
@@ -23,7 +37,7 @@ BAD ANSWER: My name is Juan Carlo Antonio Miguel Lopez. You can call me Carlo fo
 
 GOOD ANSWER: My name is Carlo.
 
-### Answering with a non-answer.
+### ANSWERING WITH A NON-ANSWER.
 
 When you are asked a question, avoid the following answers:
 
@@ -51,7 +65,7 @@ These are all considered as non-answers.
 
 Be specific with your answers.
 
-### Single word answers.
+### SINGLE WORD ANSWERS.
 
 - Yes
 - No
@@ -65,17 +79,75 @@ Yes. I am previously working in a store.
 
 Always answer using complete sentences.
 
-### Multi sentence praragraphs. 
+### REPETITIVE GRAMMAR ERRORS
 
-Please use one sentence paragraph.
+Many of the errors that we discover during coaching show up again and again.
 
-Read the lesson about One Sentence Paragraph.
+Please shorten and simplify your sentences.
 
-### Complex sentence to Simple Sentences:
+You are allowed to write more sentences as long as you write short sentences.
 
-If the sentence is 2 lines or more on your computer, shorten it.
+Here are the top errors.
 
-If the sentence is 3 lines or more on your notebook, shorten it.
+### WHAT IS A SENTENCE? PART 1
+
+A sentence is a group of words that express a complete thought.
+
+A sentence begins with a capital letter and ends with a punctuation mark.
+
+### CAPITALIZATION
+
+You understand what I mean.
+
+Look at this lesson.
+
+All the sentences start with a capital letter.
+
+### PUNCTUATION
+
+Look at all the sentences in this lesson.
+
+Did you notice that most of the sentences end with a period?
+
+Some sentences ended with a question mark.
+
+Most of the sentences end with a period.
+
+Please do not skip the period.
+
+### WHAT IS A SENTENCE? PART 2
+
+A sentence needs to have a subject, a verb, and an object.
+
+The subject is usually a noun.
+
+The verb is the action word.
+
+The object is the receiver of the action.
+
+### INCOMPLETE SENTENCES
+
+Incomplete sentences are groups of words that do not express a complete thought.
+
+One or more of the parts of the sentence is missing.
+
+There is no subject.
+
+There is no verb or action word.
+
+There is no object or receiver of the action.
+
+### MULTI SENTENCE PRARAGRAPHS. 
+
+Please use the one-sentence paragraph format.
+
+Read the lesson about the one-sentence paragraph format.
+
+### COMPLEX SENTENCE TO SIMPLE SENTENCES:
+
+Shorten your sentence if you see two or more lines on your computer.
+
+Shorten your sentence if you see three or more lines on your notebook.
 
 Short sentences have three to seven words.
 
@@ -83,7 +155,7 @@ Long sentences have eight or more words.
 
 A compound or complex sentence is bad even if the grammar is correct.
 
-My hobbies are watching TV, reading books and going to the gym.
+My hobbies are watching TV, reading books, and going to the gym.
 
 I like watching TV.
 
@@ -97,7 +169,9 @@ Simple sentences are also easier speak and understand.
 
 Most importantly, simple sentences are impossible to mess up.
 
-### Complete your sentences
+### COMPLETE YOUR SENTENCES
+
+Please complete your sentences when you shorten your sentences.
 
 Here's what happens when people shorten their sentences.
 
@@ -157,7 +231,7 @@ I used the words love and enjoy.
 
 Alternating the words make the sentence sound less repetitive.
 
-### Opening with the wrong words.
+### OPENING WITH THE WRONG WORDS.
 
 Because - connect the question to the reason. I want to work in a call center because...
 
@@ -175,7 +249,7 @@ Then - see "and."
 
 So - see "and."
 
-### Opening sentences with conjunctions
+### OPENING SENTENCES WITH CONJUNCTIONS
 
 And...
 
@@ -187,7 +261,27 @@ Then...
 
 Because...
 
-If you remove the words 
+If you remove the words above, the sentence likely has the same meaning.
+
+And I will go to the mall.
+
+I will go to the mall.
+
+Or I will go home.
+
+I will go home.
+
+But I am not happy.
+
+I am not happy.
+
+Then we went to the movies.
+
+We went to the movies.
+
+Because I was writing.
+
+I was writing.
 
 ### Avoid/Replace these words:
 
@@ -198,5 +292,52 @@ I reside at - I live in.
 K - Okay. I got you. I understand.
 
 22 years of age - 22 years old. 
+
+### ACTIVE AND PASSIVE VOICE
+
+We use active voice in a call center 99% of the time.
+
+We use passive voice to soften a potentially offensive statement.
+
+I'll give you the definition and some examples.
+
+### WHAT IS ACTIVE VOICE?
+
+The sentence is in the active voice when the subject is the doer of the action.
+
+I wote my ideas in my notebook.
+
+I did the work.
+
+### WHAT IS PASSIVE VOICE?
+
+The sentence is in the passive voice when the subject is the receiver of the action.
+
+The ideas on the notebook were written by me.
+
+The work was done by me.
+
+### WHEN TO USE ACTIVE VOICE
+
+I recommend using active voice most of the time.
+
+The sentences are more direct and easy to write.
+
+### WHEN TO USE PASSIVE VOICE
+
+This is 1% of the time.
+
+We can't give you a refund. - ACTIVE VOICE
+
+Unfortunately, the company does not process refunds at this time. PASSIVE.
+
+This part is a little tricky.
+
+Please search for more examples on Google.
+
+I'll give you a separate lesson on Positive Phrasing.
+
+
+
 
 
