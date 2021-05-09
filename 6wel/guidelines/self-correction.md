@@ -163,6 +163,28 @@ Long sentences have eight or more words.
 
 A compound or complex sentence is bad even if the grammar is correct.
 
+Compound or complex sentences sometimes work if your English is already perfect.
+
+Consider this problem.
+
+You paid for our lessons because your grammar is terrible.
+
+We are simplifying the rules.
+
+A professional chef can plan menus, command staff, shop for tools and ingredients, entertain guests, and more while preparing a meal.
+
+You are not at a professional level.
+
+I am teaching you how to boil an egg in this module.
+
+You're not allowed to perform demonstrations and exhibitions if you can't boil an egg properly.
+
+I'll give you more challenging work as you progress to higher levels.
+
+Let's stick to simple sentences for now.
+
+COMMON EXAMPLE:
+
 My hobbies are watching TV, reading books, and going to the gym.
 
 I like watching TV.
@@ -176,6 +198,8 @@ Simple sentences are easy to write and read.
 Simple sentences are also easier speak and understand.
 
 Most importantly, simple sentences are impossible to mess up.
+
+Our first goal is that you use simple sentences perfectly.
 
 ### COMPLETE YOUR SENTENCES
 
