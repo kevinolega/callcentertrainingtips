@@ -29,7 +29,7 @@ We are going to answer the following questions:
 
 ### MY FIRST QUESTION:
 
-If the interviewer gives his full name, you should introduce yourself with your first name.
+If the interviewer gives his full name, you should introduce yourself with your full name.
 
 If the interviewer gives his first name, you should use your first name or nickname.
 
@@ -142,6 +142,14 @@ There is no object or receiver of the action.
 Please use the one-sentence paragraph format.
 
 Read the lesson about the one-sentence paragraph format.
+
+Add a blank space between the lines.
+
+Don't just use double-space on your Google Document.
+
+The space allows us to see the errors clearly.
+
+I also put the correction on the space.
 
 ### COMPLEX SENTENCE TO SIMPLE SENTENCES:
 
