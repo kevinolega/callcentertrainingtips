@@ -5,11 +5,12 @@ date: 2020-08-23 17:29
 permalink: /fixthis/
 author: Kevin Olega 
 --- 
+
 You're probably curious if you sent the correct answers.
 
 These are the most common mistakes.
 
-I want you to use this page as reference to check your answers.
+Use this page as a reference to check your answers.
 
 You can become a hundred times better at communicating by fixing the mistakes specified on this page.
 
@@ -24,7 +25,7 @@ We are going to answer the following questions:
 - How do I know if my sentence is complete?
 - How can I become a better communicator?
 - Why should I shorten my sentences?
-- What are bad ways to begin my sentences?
+- What are the wrong ways to begin my sentences?
 - What are unnecessary words in a sentence?
 
 ### MY FIRST QUESTION:
@@ -59,17 +60,17 @@ I want a huge bank account.
 
 I want to buy my dream house.
 
-Vague answers mean you are indecisive, lazy and cannot be trusted.
+Vague answers mean you are indecisive, lazy, and cannot be trusted.
 
-These are all considered as non-answers.
+These are all considered non-answers.
 
 Be specific with your answers.
 
-### SINGLE WORD ANSWERS.
+### SINGLE-WORD ANSWERS.
 
 - Yes
 - No
-- Other single word answers.
+- Other single-word answers.
 
 Instead, expand your answers.
 
@@ -78,6 +79,20 @@ No. I am currently looking for work.
 Yes. I am previously working in a store.
 
 Always answer using complete sentences.
+
+TEACHER: What is your name?
+
+ME:  Kevin
+
+TEACHER: How old are you?
+
+ME: Twelve.
+
+TEACHER: Where do you live?
+
+ME: Parañaque.
+
+TEACHER: Kevin! Please answer using complete sentences!
 
 ### REPETITIVE GRAMMAR ERRORS
 
@@ -137,7 +152,7 @@ There is no verb or action word.
 
 There is no object or receiver of the action.
 
-### MULTI SENTENCE PRARAGRAPHS. 
+### MULTI-SENTENCE PARAGRAPHS. 
 
 Please use the one-sentence paragraph format.
 
@@ -147,7 +162,7 @@ Add a blank space between the lines.
 
 Don't just use double-space on your Google Document.
 
-The space allows us to see the errors clearly.
+The space between lines allows us to see the errors.
 
 I also put the correction on the space.
 
@@ -155,7 +170,7 @@ I also put the correction on the space.
 
 Shorten your sentence if you see two or more lines on your computer.
 
-Shorten your sentence if you see three or more lines on your notebook.
+Shorten your sentence if you see three or more lines in your notebook.
 
 Short sentences have three to seven words.
 
@@ -195,7 +210,7 @@ I enjoy going to the gym.
 
 Simple sentences are easy to write and read.
 
-Simple sentences are also easier speak and understand.
+Simple sentences are also easier to speak and understand.
 
 Most importantly, simple sentences are impossible to mess up.
 
@@ -257,13 +272,13 @@ You can search for synonyms of the words if you're not creative.
 
 For example:
 
-I did not repeat spend my free time.
+I did not repeat "spend my free time."
 
-I used the words love and enjoy.
+I used the words "love" and "enjoy."
 
-Alternating the words make the sentence sound less repetitive.
+Alternating the words makes the sentence sound less repetitive.
 
-### OPENING WITH THE WRONG WORDS.
+### AVOID OPENING WITH THE WRONG WORDS.
 
 Because - connect the question to the reason. I want to work in a call center because...
 
@@ -323,7 +338,47 @@ I reside at - I live in.
 
 K - Okay. I got you. I understand.
 
-22 years of age - 22 years old. 
+Twenty-two years of age - Twenty-two years old. 
+
+### NUMBERS IN A SENTENCE
+
+RULE:
+
+If a number begins a sentence, the number should be spelled out.
+
+EXAMPLE:
+
+Twenty people were waiting in line.
+
+RULE:
+
+It's better to spell out numbers less than 101.
+
+EXAMPLE:
+
+I follow a list of one hundred rules to slowly improve my life.
+
+RULE:
+
+You can use words to spell out simple large numbers.
+
+EXAMPLES:
+
+My page has forty-thousand followers.
+
+A call center agent earns twenty-thousand pesos.
+
+A freelance writer can earn sixty-thousand pesos.
+
+RULE:
+
+It is better to use numbers for complex number patterns.
+
+I have exactly 41,527 likes on my Facebook page.
+
+The contract was worth ₱1,251,030.
+
+[MORE RULES](https://www.grammarly.com/blog/when-to-spell-out-numbers/)
 
 ### ACTIVE AND PASSIVE VOICE
 
@@ -337,7 +392,7 @@ I'll give you the definition and some examples.
 
 The sentence is in the active voice when the subject is the doer of the action.
 
-I wote my ideas in my notebook.
+I wrote my ideas in my notebook.
 
 I did the work.
 
@@ -345,7 +400,7 @@ I did the work.
 
 The sentence is in the passive voice when the subject is the receiver of the action.
 
-The ideas on the notebook were written by me.
+The ideas in the notebook were written by me.
 
 The work was done by me.
 
