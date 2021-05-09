@@ -198,7 +198,7 @@ I'll give you more challenging work as you progress to higher levels.
 
 Let's stick to simple sentences for now.
 
-COMMON EXAMPLE:
+COMMON **EXAMPLE:**
 
 My hobbies are watching TV, reading books, and going to the gym.
 
@@ -270,7 +270,7 @@ You can make sentences less repetitive if you're creative.
 
 You can search for synonyms of the words if you're not creative.
 
-For example:
+For **EXAMPLE:**
 
 I did not repeat "spend my free time."
 
@@ -342,23 +342,27 @@ Twenty-two years of age - Twenty-two years old.
 
 ### NUMBERS IN A SENTENCE
 
-RULE:
+**RULE:**
 
 If a number begins a sentence, the number should be spelled out.
 
-EXAMPLE:
+**EXAMPLE:**
 
 Twenty people were waiting in line.
 
-RULE:
+Five of us were waiting for the news.
+
+**RULE:**
 
 It's better to spell out numbers less than 101.
 
-EXAMPLE:
+**EXAMPLE:**
 
 I follow a list of one hundred rules to slowly improve my life.
 
-RULE:
+The five items in my bag are my phone, wallet, keys, earphones, and water bottle.
+
+**RULE:**
 
 You can use words to spell out simple large numbers.
 
@@ -370,7 +374,7 @@ A call center agent earns twenty-thousand pesos.
 
 A freelance writer can earn sixty-thousand pesos.
 
-RULE:
+**RULE:**
 
 It is better to use numbers for complex number patterns.
 
