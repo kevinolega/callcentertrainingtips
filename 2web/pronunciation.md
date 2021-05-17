@@ -5,7 +5,7 @@ date: 2021-01-28 21:31
 permalink: /pronunciation/ 
 author: Kevin Olega 
 --- 
-I recorded three videos for the pronunciation module.
+I recorded several videos for the pronunciation module.
 
 The first video is me explaining the lesson.
 
@@ -128,3 +128,7 @@ When you get the chance, please support our page:
 3. Please leave a comment with your notes.
 
 That will help our channel a lot.
+
+### PLAYLIST
+
+[Watch all my pronunciation videos](https://youtube.com/playlist?list=PLBU9NmkmmIWnqKufvafKGIpc2mbV5geRy).
