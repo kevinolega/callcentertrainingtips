@@ -177,18 +177,10 @@ PREVIEW:
 - Where are you from?
 - Where do you live?
 - What do you enjoy doing?
-- How do you spend your free time?
-- Where did you go to school?
-- What course did you study?
-- Where do you work?
-- What kind of work do you do?
-- Where do you go to church?
-- What kind of sports do you engage in?
-- How old are you?
-- How many siblings do you have?
-- What’s your family business?
 
 ### MORE BEGINNER MISTAKES
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xUe_mOFkm84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Please read this lesson before proceeding to activity 3.
 
