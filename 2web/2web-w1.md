@@ -7,15 +7,17 @@ author: Kevin Olega
 --- 
 ## INSTRUCTIONS
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WPeyxeywTxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Please read all the lessons and instructions carefully.
 
 Please answer all the activities.
 
-Please follow the one sentence paragraph format when you submit your answers. 
+Please follow the one-sentence paragraph format when you submit your answers. 
 
-The one sentence paragraph format is explained in the lessons Removing Bad Habits and One Sentence Paragraph on Lesson 7.
+The one sentence paragraph format is explained in the lessons Removing Bad Habits and One-Sentence Paragraph on Lesson 6.
 
-Minimum number of sentences for most of the writing exercises is fifteen sentences.
+The minimum number of sentences for most of the writing exercises is fifteen sentences.
 
 We record a video of your phone coaching session for training purposes.
 
@@ -44,11 +46,27 @@ Please remember to:
 1. Follow the One Sentence Paragraph Format
 2. Shorten your sentences. Your sentence needs to have only one idea.
 3. Write complete sentences.
-4. Run your answers through a spelling and grammar check program.
+4. Run your answers through a spelling and grammar check program. We use [Grammarly](https://grammarly.com).
 5. Read your answers aloud before submitting.
 6. Use simple words.
 
-Please read Removing Bad Habits as many times as you need.
+English became more exhibition instead of communication back in junior and senior high school.
+
+Your English needs to focus on communication instead of exhibition to succeed as a professional.
+
+Your goal is to convey simple messages.
+
+**AVOID:**
+
+1. Big paragraphs.
+2. Compound, complex, and long, compound-complex sentences.
+3. Fancy or complicated words.
+
+Our goal is to reinforce your understanding of the basic rules.
+
+You can go back to adding flair to your communication after you've mastered the basics.
+
+Please read **REMOVING BAD HABITS** as many times as you need.
 
 Send us an email for questions.
 
@@ -56,13 +74,16 @@ Send us an email for questions.
 
 Please download and read this before answering the lessons.
 
-Removing Bad Habits - [DOWNLOAD](https://drive.google.com/file/d/1EolrQN644nNWg49d5ifHa4E1LG_EYTzm/view?usp=sharing)
+**REMOVING BAD HABITS - [DOWNLOAD](https://drive.google.com/file/d/1EolrQN644nNWg49d5ifHa4E1LG_EYTzm/view?usp=sharing).**
 
-[WRITING BEFORE SPEAKING](https://drive.google.com/file/d/1pOn2YAtoBk5xtdly-KDHGnzBrx2f_ZAr/view?usp=sharing).
+**READ: WRITING BEFORE SPEAKING - [DOWNLOAD](https://drive.google.com/file/d/1pOn2YAtoBk5xtdly-KDHGnzBrx2f_ZAr/view?usp=sharing).**
 
-[READ: UNSPECIFIC WORDS EXAMPLES AND EXPLANATION](https://callcentertrainingtips.com/specific-samples/)
+**[READ: UNSPECIFIC WORDS EXAMPLES AND EXPLANATION](https://callcentertrainingtips.com/specific-samples/)**
 
-## Watch This Video
+**[SUBSCRIBE TO MY YOUTUBE CHANNEL](https://youtube.com/callcentertrainingtips?sub_confirmation=1).**
+
+
+## WATCH THIS VIDEO
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXVe3t5tTo0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -76,7 +97,9 @@ I'll be able to give better feedback on Google Docs because it has a comments an
 
 Please share your answers to callcentertrainingtips@gmail.com
 
-If you have a Gmail account, you already have Google Docs. Just head over to [https://drive.google.com](https://drive.google.com) and create a new document.
+If you have a Gmail account, you already have Google Docs. 
+
+Just head over to [https://drive.google.com](https://drive.google.com) and create a new document.
 
 If you're using a mobile device, Google Docs is available on both [iOS](https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640) and [Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en&gl=US).
 
@@ -88,15 +111,15 @@ I recorded a short guide:
 
 I wrote a Google Docs template to help you format your answers.
 
-[WEEK 1 GOOGLE DOCS TEMPLATE](https://docs.google.com/document/d/1tBtC3xb13hvuVB7Tu4Qp-hzY3sK1or6sS4N4jJ6z5uE/edit?usp=sharing)
+**[WEEK 1 GOOGLE DOCS TEMPLATE](https://docs.google.com/document/d/1tBtC3xb13hvuVB7Tu4Qp-hzY3sK1or6sS4N4jJ6z5uE/edit?usp=sharing)**
 
-### Help!!!
+### HELP!!!
 
 I'm stuck. 
 
 I can't think of what to say.
 
-[READ: WRITE IN FILIPINO](https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing)
+**[READ: WRITE IN FILIPINO](https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing)**
 
 ## PERSONALITY TEST
 
@@ -106,7 +129,7 @@ Please take this personality test.
 
 There's a short writing activity at the end of the instructions.
 
-[LINK TO TEST](https://callcentertrainingtips.com/big5/).
+**[LINK TO TEST](https://callcentertrainingtips.com/big5/).**
 
 ## LESSON 1
 
@@ -307,7 +330,7 @@ I wrote a Google Docs template to help you format your answers.
 
 [WEEK 1 GOOGLE DOCS TEMPLATE](https://docs.google.com/document/d/1tBtC3xb13hvuVB7Tu4Qp-hzY3sK1or6sS4N4jJ6z5uE/edit?usp=sharing)
 
-## Phone Coaching
+## PHONE COACHING
 
 Please send ALL your answers before scheduling the phone coaching.
 
@@ -325,7 +348,7 @@ We discuss your grammar and pronunciation on session one.
 
 I will point out all your errors in the session.
 
-We record all coaching sessions and share publish some of our sessions.
+We record all coaching sessions and share or publish some of our sessions.
 
 We would like to avoid publishing personal information.
 
@@ -372,7 +395,7 @@ The more questions you ask, the more answers we can give you.
 
 Unfortunately, we don't always have the time to cover all the questions and sometimes we forget to cover something that you want to know.
 
-We recommend that you list down all your questions so we can answer all those at the end of the question.
+We recommend that you list down all your questions so we can answer all those at the end of the session.
 
 The good news is you receive the benefit other students receive because all the sessions are recorded.
 
