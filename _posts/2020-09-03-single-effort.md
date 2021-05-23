@@ -6,7 +6,7 @@ Tags: [ uncategorized, blog ]
 permalink: /single/ 
 author: Kevin Olega 
 --- 
-As a student, I wanted to spend the least amount of time working.
+I wanted to spend the least amount of time working when I was a student.
 
 I also wanted to spend the most amount of time playing games and watching movies.
 
@@ -70,7 +70,7 @@ Many work projects and real life projects follow the same rules as college.
 
 Are you trying to get to a professional level with a high school mindset?
 
-A single effort strategy doesn't work.
+A single-effort strategy doesn't work.
 
 Consistently inspect your work.
 
