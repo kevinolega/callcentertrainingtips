@@ -5,7 +5,7 @@ permalink: lessons
 ---
 <img src="{{ site.url }}/assets/img/2019-07-Kevin-Gray.jpg" width="150">
 
-We help introverts develop the confidence and the skills to qualify for their dream job.
+We help introverts like you develop confidence the skills to qualify for your dream job.
 
 My name is Kevin Olega.
 
@@ -16,6 +16,26 @@ Before that, I'm a top agent at West Contact Services and a consistent CSAT and 
 I was also an online English teacher, academic tutor, and sales trainer.
 
 These are my stories on getting a job, building confidence, personal improvement, skills training, and communication skills.
+
+## WHAT DO YOU WANT?
+
+We created solutions for different problems.
+
+Please select from one of the options.
+<br>
+<br>
+<a href="https://sendfox.com/lp/3z4xqz" class="button focus">I WANT CALL CENTER KNOWLEDGE</a>
+<br>
+<br>
+<a href="https://callcentertrainingtips.com/" class="button focus">I WANT TO IMPROVE MY ENGLISH</a>
+<br>
+<br>
+<a href="https://callcentertrainingtips.com/sbb-book/" class="button focus">I WANT TO BECOME CONFIDENT</a>
+<br>
+<br>
+<a href="https://callcentertrainingtips.com/night-shift-book" class="button focus">I WANT TO BE A TOP AGENT</a>
+<br>
+<br>
 
 <h3>POPULAR LESSONS:</h3>
   <ul>
