@@ -270,6 +270,8 @@ I'd like to point out that is the most important lesson in the the module.
 
 If you can shorten all of your sentences, everything you write and say will be error-free and easy to understand.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eOrdQlOs2bI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [READ: Shortened Sentence Simplified Explanation](https://callcentertrainingtips.com/ssse)
 
 ## FINAL ACTIVITY
