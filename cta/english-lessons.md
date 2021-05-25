@@ -106,3 +106,9 @@ We will send you the next batch of activities after you complete the current set
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe7IevGiIbrLrWX91eT7QqJPJbswDCEJbNFe_g5zmHY3GnGcA/viewform?embedded=true" width="640" height="1928" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 [LINK TO FORM](https://forms.gle/e5mFr9fsjRuo1h2K8).
+
+Here's an alternate if buying English lessons is out of your budget right now.
+
+I developed a free English module that will help you get used to expressing yourself.
+
+<a href="https://sendfox.com/lp/10wpzx" class="button focus">FREE ENGLISH LESSONS</a>
