@@ -27,7 +27,7 @@ Please select from one of the options.
 <a href="https://sendfox.com/lp/3z4xqz" class="button focus">I WANT CALL CENTER KNOWLEDGE</a>
 <br>
 <br>
-<a href="https://callcentertrainingtips.com/english-lessons/" class="button focus">I WANT TO IMPROVE MY ENGLISH</a>
+<a href="https://callcentertrainingtips.com/english-lessons" class="button focus">I WANT TO IMPROVE MY ENGLISH</a>
 <br>
 <br>
 <a href="https://callcentertrainingtips.com/sbb-book/" class="button focus">I WANT TO BECOME CONFIDENT</a>
