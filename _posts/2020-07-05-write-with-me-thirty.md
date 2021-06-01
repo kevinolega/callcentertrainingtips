@@ -8,7 +8,9 @@ author: Kevin Olega
 --- 
 I recorded a video of myself writing for 30 minutes.
 
-If you need a tiny push so you can focus writing for 30 minutes I put together this video.
+I put together this video for the days when you need a tiny push.
+
+Having someone write with me often motivates me. 
 
 ## YouTube Player
 

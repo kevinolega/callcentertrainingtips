@@ -8,9 +8,9 @@ author: Kevin Olega
 --- 
 Hi sir!
 
-Nag-enroll po ako pero wala po akong pinadala na sagod.
+Nag-enroll po ako pero wala po akong pinadala na sagot.
 
-Mahigit three months na yung nakalipas 
+Mahigit three months na yung nakalipas. 
 
 Ano po ang pwede kong gawin?
 
@@ -30,7 +30,7 @@ OPTION 2: You can join our free lessons. Sign up here.
 
 <a href="https://sendfox.com/lp/m82dqr" class="button focus">FREE  LESSONS</a>
 
-## ADDDITIONAL DETAILS ABOUT OPTION 2
+## ADDITIONAL DETAILS ABOUT OPTION 2
 
 Mag-papadala kami ng lessons and activities.
 
