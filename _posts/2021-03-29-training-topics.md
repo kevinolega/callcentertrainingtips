@@ -2,17 +2,19 @@
 layout: post 
 title: Training Topics 2021
 date: 2021-03-29 02:45
-Tags: [ uncategorized, blog ]
+Tags: [ marketing, blog ]
 permalink: /training-2021/ 
 author: Kevin Olega 
 --- 
-We designed our program to help our you become comfortable speaking English during interviews and everyday conversations.
+We designed our program to help you become comfortable speaking English during interviews and everyday conversations.
 
 We use writing exercises to help you practice expressing your thoughts, discover your grammar problems, and reveal your deficiencies.
 
 We conduct a phone coaching session to discuss corrections and give you advice on how to communicate more effectively.
 
-The lessons help applicants prepare for BPO work, sales and supervisory roles.
+The lessons help applicants prepare for BPO work.
+
+We also assist technical, sales, and supervisory roles.
 
 The activities benefit almost any job.
 
@@ -57,9 +59,9 @@ WEEK 2: Pronunciation practice.
 
 WEEK 3: Removing bad habits. 
 
-WEEK 4: Professional communication - Best practices.
+WEEK 4: Refining your communication.
 
-WEEK 5: Refining your communication.
+WEEK 5: Professional communication - Best practices.
 
 WEEK 6: Career application or job hunting tips.
 
