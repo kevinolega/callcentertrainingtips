@@ -2,13 +2,10 @@
 layout: post 
 title: WRITING PAGES ABOUT YOURSELF
 date: 2021-03-19 13:00
-Tags: [ uncategorized, blog ]
+Tags: [ english, interviw, blog ]
 permalink: /about-you/ 
 author: Kevin Olega 
 --- 
-
-
-
 I recommend that you begin writing as many sentences as you can about topics that you'll discuss during interviews.
 
 I want you to have multiple options to choose from.
@@ -39,7 +36,7 @@ I feel that you are speaking the truth.
 
 You just have a problem.
 
-Theres's a good chance that you
+There is a good chance that you are speaking the truth.
 
 You have many stories in your head.
 
@@ -99,9 +96,9 @@ The company won't regret hiring you.
 
 The best way to communicate this message is by writing about yourself first.
 
-The writing exercies that I designed are intended to help youy expand your ideas so you can pick the best answers for your actual interview 
+The writing exercises that I designed are intended to help youy expand your ideas so you can pick the best answers for your actual interview 
 
-I want you to write several pages about yourself and your plans ofr your life.
+I want you to write several pages about yourself and your plans for your life.
 
 I want you to write about stories of your struggles.
 

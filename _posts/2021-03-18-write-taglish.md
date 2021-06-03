@@ -8,13 +8,13 @@ author: Kevin Olega
 --- 
 I wrote 200-300 of the lessons on the website with a full schedule as a call center agent.
 
-Nag-susulat akos a bus and during lunch break.
+Nag-susulat ako sa bus and during lunch break.
 
 Alam ko challenging yung 2020 module.
 
 Yun yung dahilan kung bakit mahaba ang mga deadline na binigay namin.
 
-May students kami na malayo ang naabot sa lesons.
+May students kami na malayo ang naabot sa lessons.
 
 Marami din na nakakuha ng enough improvement para maka-kuha ng trabaho after ng Week 2 or Week 3 coaching.
 
@@ -30,7 +30,7 @@ Lahat tayo may 24 hours a day.
 
 8+9+4=21 ang computation kung mahaba biyahe mo.
 
-Ibig sabihin may 3-5 hours a day ka para mag-allot ng oras sa pagsusulat.
+Ibig sabihin may 3-5 hours a day ka para mag laan ng oras sa pagsusulat.
 
 Kung kaya mo mag-sulat sa commute or lunch break.
 
