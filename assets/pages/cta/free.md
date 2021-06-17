@@ -7,6 +7,55 @@ Tags: [ CTA, blog ]
 permalink: /free/ 
 author: Kevin Olega 
 --- 
+
+
+## FREE EMAIL LESSONS
+
+This page is part of my community service.
+
+So I give lessons on FB, the website (main), YouTube (new), and send activities via email for free.
+
+You'll receive the lessons and training materials for free on your email.
+
+I answer questions on chat and email as you self-study.
+
+Please be patient and polite as I get hundreds of messages a week from other people asking for help.
+
+Training materials and lessons are available for free on the website.
+
+<a href="https://sendfox.com/callcentertrainingtips" class="button focus">GET FREE EMAIL LESSONS</a>
+
+## FREE CALL CENTER BASICS
+
+I created a short email series where I teach Call Center Basics.
+
+You'll get the lessons and training materials sent to your email.
+
+I answer questions via email as you self-study.
+
+Please be patient and polite as I get hundreds of messages a week from other people asking for help.
+
+<a href="https://sendfox.com/lp/3z4xqz" class="button focus">GET FREE CALL CENTER BASICS</a>
+
+## FREE ENGLISH LESSONS
+
+I created a short email series where I teach English tips.
+
+You'll get the lessons and training materials free on your email.
+
+I answer questions via email.
+
+Please be patient and polite as I get hundreds of messages a week from other people asking for help.
+
+<a href="https://sendfox.com/lp/3z4xqz" class="button focus">GET FREE CALL CENTER BASICS</a>
+
+
+
+
+
+
+
+
 <form method="post" action="https://sendfox.com/form/1dqx00/1jy8je" class="sendfox-form" id="1jy8je" data-async="true" data-recaptcha="true">
 <p><input type="text" placeholder="First Name" name="first_name" required /></p>
 <p><input type="text" placeholder="Last Name" name="last_name" required /></p>
