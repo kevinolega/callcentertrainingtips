@@ -26,9 +26,9 @@ We'll call to fix your grammar, pronunciation, and discuss your answers during c
 
 ## COACHING PROMO PRICE:
 
-₱367 two weeks. 14 lessons. 2 live sessions. 
+₱699 two weeks. 14 lessons. 2 live sessions. 
 
-₱597 six weeks. 42 lessons. 6 live sessions.
+₱999 six weeks. 42 lessons. 6 live sessions.
 
 One-time payment - valid until July 31, 2021.
 
