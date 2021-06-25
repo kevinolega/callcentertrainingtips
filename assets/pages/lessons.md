@@ -38,6 +38,9 @@ Please select from one of the options.
 <br>
 
 <h3>POPULAR LESSONS:</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2okEFFLiXPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   <ul>
     <li><a href="https://callcentertrainingtips.com/basics/">CALL CENTER BASICS</a></li>
     <li><a href="https://callcentertrainingtips.com/beginner/">CALL CENTER LESSONS FOR BEGINNERS</a></li>
