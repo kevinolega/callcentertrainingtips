@@ -187,18 +187,17 @@ We will discuss your questions during coaching.
 Alternatively, we'll produce a video to answer your questions.
 
 
-## BONUS: PRONUNCIATION MODULE
+## PRONUNCIATION MODULE
 
-On your second session, we'll begin to incorporare some pronunciation practice.
+The second coaching session focuses on pronunciation.
 
 Please watch all the pronunication videos before scheduling the coaching session.
 
 These sessions will help you become familliar with the most common words that you need to get correctly.
 
-These sessions will also help you become familiar with the most common mistakes so you know EXACTLY what to avoid.
+The sessions will help you become familiar with the most common mistakes so you know EXACTLY what to avoid.
 
 [ACCESS FULL PRONUNCIATION MODULE](https://callcentertrainingtips.com/pronunciation)
-
 
 ## COACHING
 
@@ -211,7 +210,5 @@ We will check your answers.
 If answers are incomplete, we will ask you to complete the answers.
 
 Thanks.
-
-
 
 <a href="https://callcentertrainingtips.com/6webstudent/" class="button focus">STUDENT PORTAL</a>

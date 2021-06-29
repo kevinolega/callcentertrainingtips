@@ -9,6 +9,12 @@ author: Kevin Olega
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WPeyxeywTxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Watch the video until the end.
+
+Please let me know that you finished watching the video. 
+
+[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/WPeyxeywTxA).
+
 Please read all the lessons and instructions carefully.
 
 Please answer all the activities.
@@ -84,34 +90,42 @@ Please download and read this before answering the lessons.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXVe3t5tTo0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[CLICK HERE TO WATCH ON YOUTUBE](https://youtu.be/JXVe3t5tTo0)
+Watch the video until the end.
+
+Let me know that you're done.
+
+[LEAVE A COMMENT](https://youtu.be/JXVe3t5tTo0).
 
 ## SUBMITTING YOUR ANSWERS
 
-I recommend that you submit your answers using Google Docs.
+Submit your answers using Google Docs.
 
-I'll be able to give better feedback on Google Docs because it has a comments and suggestion feature.
+I will give feedback directly on your on the file.
 
-Please share your answers to callcentertrainingtips@gmail.com
+Share the file to callcentertrainingtips@gmail.com
 
-If you have a Gmail account, you already have Google Docs. 
+If you have Gmail, you already have Google Docs. 
 
-Just head over to [https://drive.google.com](https://drive.google.com) and create a new document.
+Visit [https://drive.google.com](https://drive.google.com) and create a new document.
 
 If you're using a mobile device, Google Docs is available on both [iOS](https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640) and [Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en&gl=US).
 
-I recorded a short guide:
+WATCH THIS GUIDE:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1OSLCxKX11U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**[Watch on YouTube](https://youtu.be/1OSLCxKX11U).**
+Watch the video until the end.
 
-### TEMPLATE
+Let me know that you're done.
 
-I wrote a Google Docs template to help you format your answers.
+[LEAVE A COMMENT](https://youtu.be/1OSLCxKX11U).
+
+
+## TEMPLATE
+
+I wrote a template to help you format your answers.
 
 [WEEK 1 GOOGLE DOCS TEMPLATE](https://docs.google.com/document/d/1tBtC3xb13hvuVB7Tu4Qp-hzY3sK1or6sS4N4jJ6z5uE/edit?usp=sharing)
-
 
 ### HELP!!!
 
@@ -123,7 +137,7 @@ I can't think of what to say.
 
 ## PERSONALITY TEST
 
-I'd like to personalize my approach to assisting my students during coaching.
+I personalize my approach to assisting my students during coaching.
 
 Please take this personality test.
 
@@ -144,17 +158,15 @@ PREVIEW:
 - My name is Kevin
 - I used to work as.
 - I used to work for.
-- My dream job is.
-- I’m good at.
-- I studied at
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GyA9h835MZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Watch the video until the end.
 
-Please let me know that you finished watching the video. 
+Let me know that you finished watching the video. 
 
-[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/GyA9h835MZ8).
+[LEAVE A COMMENT](https://youtu.be/GyA9h835MZ8).
+
 
 ## LESSON 2 
 
@@ -166,9 +178,9 @@ Please let me know that you finished watching the video.
 
 Watch the video until the end.
 
-Please let me know that you finished watching the video. 
+Please let me know.
 
-[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/s-oMVy-dJlc).
+[LEAVE A COMMENT](https://youtu.be/s-oMVy-dJlc).
 
 PREVIEW:
 
@@ -183,6 +195,13 @@ PREVIEW:
 ### MORE BEGINNER MISTAKES
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xUe_mOFkm84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Watch the video until the end.
+
+Please let me know that you finished watching the video. 
+
+[LEAVE A COMMENT](https://youtu.be/xUe_mOFkm84).
+
 
 Please read this lesson before proceeding to activity 3.
 
@@ -209,7 +228,9 @@ Your instructions need to be understandable to people who are both commuting or 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wfnl6uTnMng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[WATCH ON YOUTUBE](https://youtu.be/Wfnl6uTnMng).
+Let me know that you're done.
+
+[COMMENT](https://youtu.be/Wfnl6uTnMng).
 
 ## LESSON 4 
 
@@ -272,6 +293,12 @@ If you can shorten all of your sentences, everything you write and say will be e
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOrdQlOs2bI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Let me know that you're done.
+
+[COMMENT](https://youtu.be/eOrdQlOs2bI).
+
+ADDITIONAL READING:
+
 [READ: Shortened Sentence Simplified Explanation](https://callcentertrainingtips.com/ssse)
 
 ## FINAL ACTIVITY
@@ -324,6 +351,21 @@ I wrote a Google Docs template to help you format your answers.
 
 [WEEK 1 GOOGLE DOCS TEMPLATE](https://docs.google.com/document/d/1tBtC3xb13hvuVB7Tu4Qp-hzY3sK1or6sS4N4jJ6z5uE/edit?usp=sharing)
 
+## REVIEW:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xUe_mOFkm84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Watch the video again and let me know it's your second time.
+
+[COMMENT](https://youtu.be/xUe_mOFkm84).
+
+[REVIEW](https://callcentertrainingtips.com/fixthis).
+
+Read all of your answers aloud.
+
+Start from lesson one until the final activity.
+
+Apply corrections to any errors that you find.
 
 ## PHONE COACHING
 
@@ -355,7 +397,7 @@ Please do not include your complete address in your answers.
 
 Leave a comment on the video to let us know that you finished watching the session.
 
-[WATCH ON YOUTUBE](https://www.youtube.com/watch?v=7X-XOJ1SCMc).
+[COMMENT](https://www.youtube.com/watch?v=7X-XOJ1SCMc).
 
 Thanks.
 
@@ -400,6 +442,9 @@ The more you understand about how we solve the problems together the better your
 Your problem sovling skills get better as you understand how we solve different problems.
 
 Higher level communication skills become available as a consequence of heightened problem solving skills.
+
+[ACCESS PRONUNCIATION MODULE](https://callcentertrainingtips.com/pronunciation)
+
 
 [ACCESS BONUS VIDEOS](https://callcentertrainingtips.com/videos)
 
