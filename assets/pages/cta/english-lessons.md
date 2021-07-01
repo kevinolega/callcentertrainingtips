@@ -32,6 +32,12 @@ We'll call to fix your grammar, pronunciation, and discuss your answers during c
 
 One-time payment - valid until July 31, 2021.
 
+Starting August 30, 2021:
+
+₱999 two weeks.
+
+₱1,499 six weeks.
+
 Regular price: ₱1,200-₱3,700.
 
 Please indicate which one you want.

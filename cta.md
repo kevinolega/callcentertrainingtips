@@ -14,7 +14,6 @@ author: Kevin Olega
 
 <a href="https://callcentertrainingtips.com/" class="button focus">RECEIVE FREE ENGLISH LESSONS</a>
 
-
 <a href="https://sendfox.com/lp/m7x2ol" class="button focus">DOWNLOAD MY FREE BOOK ON CONFIDENCE</a>
 
 <a href="https://sendfox.com/lp/1g6pd2" class="button focus">DOWNLOAD MY FREE BOOK ON HOW TO SURVIVE NIGHT SHIFT</a>
