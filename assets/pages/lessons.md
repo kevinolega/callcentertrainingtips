@@ -17,7 +17,7 @@ I was also an online English teacher, academic tutor, and sales trainer.
 
 These are my stories on getting a job, building confidence, personal improvement, skills training, and communication skills.
 
-## WHAT DO YOU WANT?
+{% include magnet.html %}
 
 
 
