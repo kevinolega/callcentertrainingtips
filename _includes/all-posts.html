@@ -1,0 +1,7 @@
+<!-- all my posts code -->
+<h3>LATEST LESSONS:</h3>
+<p>Our mission is to help low-income Filipinos learn skills to qualify for higher-paying jobs.</p> 
+<p>We've written over a thousand free lessons.</p> 
+{% for post in site.posts %}
+<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
+{% endfor %}
