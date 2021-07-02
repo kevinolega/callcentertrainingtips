@@ -5,24 +5,13 @@ layout: default
 <div class="meta"><span>{{page.date | date: '%B %d, %Y'}}</span> {% if page.author %}
         • written by <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}</div>
-{% include advertisements.html %}
+
 {{content}}
-{% include advertisements.html %}
-<p>I am praying for your success. God bless!</p>
-<p>If you made it this far, <strong><a href="https://callcentertrainingtips.com/contact/">you should introduce yourself</a></strong>.</p>
-<script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='3544a69c272c9a0f8aebfa25b68ded195fc5c7b5bed67851024278b62231c636';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>
-<h3>FOR MORE LESSONS:</h3> 
-<p><a href="https://callcentertrainingtips.com/books/">BUY MY BOOK</a>!</p>
-<p><a href="https://forms.gle/HotJzsECvJ8jHhGJ9">DOWNLOAD MY FREE BOOK</a>!</p>
-<p><a href="https://youtube.com/callcentertrainingtips?sub_confirmation=1">Watch FREE Video Lessons</a>.</p>
-<p><a href="https://callcentertrainingtips.com/promos/">BUY LIVE COACHING</a>!</p>
-<p><strong><a href="https://sendfox.com/callcentertrainingtips">GET FREE EMAIL LESSONS!</a></strong></p>
-<h3>SUPPORT OUR PAGE:</h3> 
-<p><a href="https://callcentertrainingtips.com/donate">DONATE and support my work</a>.</p>
-<p><a href="https://callcentertrainingtips.com/volunteer/">Volunter your time..</a>.</p>
-<p><a href="https://callcentertrainingtips.com/support/">Here are other ways to support our work</a>.</p>
-<p><img src="{{ site.url }}/assets/img/cctt.jpeg"></a></p>
-{% include advertisements.html %}
+
+
+
+
+
 <div class="PageNavigation">
   {% if page.previous.url %}
     <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
@@ -39,19 +28,6 @@ layout: default
         {% include disqus.html %}
     {% endif %}
 {% endif %}
-<footer>
-
-    <div class="links">
-        <a href="https://callcentertrainingtips.com">Home</a>
-        <a href="{{site.baseurl}}/lessons">Lessons</a>
-        <a href="{{site.baseurl}}/videos/">Videos</a>
-        <a href="{{site.baseurl}}/about/">About</a>
-        <a href="{{site.baseurl}}/contact/">Contact</a>
-        <a href="{{site.baseurl}}/support/">Support</a>
-        <a href="{{site.baseurl}}/promos/">Promos</a>
-        <a href="{{site.baseurl}}/books">Books</a>
-        <a href="{{site.baseurl}}/testimonials/">Testimonials</a>
-        <a href="{{site.baseurl}}/directory/">DIRECTORY</a>
-    </div>
+{% include footer.html %}
     <div class="theme" onclick="theme()" style="    background-image: url({{site.baseurl}}/assets/img/theme.svg)"></div>
 </footer>
