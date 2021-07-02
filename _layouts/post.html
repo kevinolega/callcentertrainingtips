@@ -17,10 +17,5 @@ layout: default
 {% include footer-image.html %}
 
 
-<!-- Comments only for posts -->
-{% if page.path contains '_posts' %}
-    {% if site.disqus-shortname %}
-        {% include disqus.html %}
-    {% endif %}
-{% endif %}
+
 {% include footer.html %}
