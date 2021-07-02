@@ -7,7 +7,14 @@ layout: default
       {% endif %}</div>
 
 {{content}}
-
+{% include advertisements.html %}
+{% include end-message.html %}
+{% include page-navigation.html %}
+{% include sumo.html %}
+{% include more-lessons.html %}
+{% include support-us.html %}
+{% include footer-image.html %}
+{% include search.html %}
 
 <!-- Comments only for posts -->
 {% if page.path contains '_posts' %}
