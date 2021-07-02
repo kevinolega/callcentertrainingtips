@@ -5,9 +5,9 @@ layout: default
 <div class="meta"><span>{{page.date | date: '%B %d, %Y'}}</span> {% if page.author %}
         • written by <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}</div>
-{% include advertisements.html %}
+
 {{content}}
-{% include advertisements.html %}
+
 
 {% include end-message.html %}
 
@@ -16,10 +16,6 @@ layout: default
 {% include more-lessons.html %}
 
 {% include support-us.html %}
-
-
-
-
 
 {% include post-navigation.html %}
 
