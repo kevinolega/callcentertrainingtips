@@ -1,4 +1,4 @@
----
+ ---
 layout: default
 ---
 <h1 class="post-headline">{{page.title}}</h1>
@@ -35,5 +35,7 @@ layout: default
         {% include disqus.html %}
     {% endif %}
 {% endif %}
+
+{% include categories.html %}
 
 {% include footer.html %}

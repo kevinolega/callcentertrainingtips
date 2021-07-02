@@ -1,0 +1,19 @@
+<!-- Blog Widgets Column -->
+<div>
+{% for category_name in page.categories limit:5 %}
+<h4>{{ category_name | capitalize }}</h4>
+
+<div class= "row">
+	<ul class="list-unstyled">
+		{% for posts in site.categories[category_name]limit:5 %}
+		<li><a href="{{ post.url }}">Category Name</a>{{ post.title }}</li>
+		{% endfor %}	
+	</ul>
+</div>
+</div>
+{% endfor %}	 
+
+
+
+
+ 
