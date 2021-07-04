@@ -5,19 +5,7 @@ date: 2021-01-12 22:55
 permalink: books
 author: Kevin Olega 
 --- 
-## HOW TO SURVIVE NIGHT SHIFT WORK SCHEDULE
 
-A NEW CALL CENTER AGENT'S GUIDE TO WORKING, SLEEPING, AND THRIVING WITH NIGHT SHIFT WORK HOURS
-
-![IMAGE TEXT]({{ site.url }}/assets/img/Night Shift Book Cover-Sample.png).
-
-The title says it all.
-
-[FREE BOOK INFORMATION](https://callcentertrainingtips.com/night-shift-book)
-
-Click the button to download a free copy.
-
-<a href="https://sendfox.com/lp/1g6pd2" class="button focus">FREE DOWNLOAD</a>
 
 
 ## PRACTICAL CALL CENTER JOB HUNTING STRATEGIES
@@ -49,6 +37,8 @@ This book is now available!
 [CLICK HERE TO BUY THE BOOK](https://callcentertrainingtips.com/shy-book).
 
 <a href="https://callcentertrainingtips.com/shy-book" class="button focus">BUY BOOK</a>
+
+{% include night-shift-book.html %}
 
 ## SMALL BOOK OF BLESSINGS - FREE
 
