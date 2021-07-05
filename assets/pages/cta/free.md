@@ -8,6 +8,7 @@ permalink: /free/
 author: Kevin Olega 
 --- 
 {% include community-service.html %}
+{% include featured-testimonial-02.html %}
 {% include no-pressure.html %}
 {% include main-email-list.html %}
 {% include basics-email.html %}
