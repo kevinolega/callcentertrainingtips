@@ -8,7 +8,7 @@ author: Kevin Olega
 {% include student-announcements.html %}
 {% include el-guidelines.html %}
 {% include english-lessons-reminders.html %}
-{% include english-lessons-expectations-6w.html %}
+{% include 6w-english-lessons-expectations.html %}
 {% include 6wlibrary-link.html %}
 
 ## WEEKLY LESSONS
