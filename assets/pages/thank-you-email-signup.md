@@ -18,7 +18,7 @@ author: Kevin Olega
 {% include night-shift-book.html %}
 {% include blessings-book.html %}
 {% include featured-videos.html %}
-
+{% include upwork-email.html %}
 {% include about.html %}
 {% include history.html %}
 
