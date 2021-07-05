@@ -76,7 +76,7 @@ I choose to work for a call center to save money, practice my skills, buy my com
 <p><img src="{{ site.url }}/assets/img/Top Agent Sales Board.png"></p>
 <p><img src="{{ site.url }}/assets/img/Kevin Upwork Profile.png"></p>
 <p><img src="{{ site.url }}/assets/img/Kevin Top Rated Upwork.png"></p>
-<p><img src="{{ site.url }}/assets/img/TFuture Impact.png"></p>
+<p><img src="{{ site.url }}/assets/img/Future Impact.png"></p>
 
 <h2>JOIN MY PRIVATE SESSIONS ABOUT FREELANCING</h2>
 
