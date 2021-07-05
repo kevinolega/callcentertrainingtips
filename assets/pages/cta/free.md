@@ -10,7 +10,15 @@ author: Kevin Olega
 {% include community-service.html %}
 {% include no-pressure.html %}
 {% include main-email-list.html %}
+{% include basics-email.html %}
+{% include free-english-email.html %}
+{% include zoom-free.html %}
+{% include night-shift-book.html %}
+{% include blessings-book.html %}
+{% include featured-videos.html %}
 
+{% include about.html %}
+{% include history.html %}
 
 [CLICK HERE IF YOU WANT ADVICE ON HOW TO GET HIRED IN A CALL CENTER](https://callcentertrainingtips.com/4hired)
 
