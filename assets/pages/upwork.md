@@ -59,9 +59,11 @@ You'll need to up your writing skills to 9/10.
 
 I choose to work for a call center to save money, practice my skills, buy my computer and eventually get started.
 
-## Who is Kevin?
+
+{% include about.html %}
 
 - Three year top agent: Customer Service, Tech Support, and Sales.
+- Professional Freelance writer.
 - Upwork Top Freelancer
 - Upwork since 2011.
 - Location independend since 2016.
@@ -75,15 +77,9 @@ I choose to work for a call center to save money, practice my skills, buy my com
 <p><img src="{{ site.url }}/assets/img/Kevin Upwork Profile.png"></p>
 <p><img src="{{ site.url }}Kevin Top Rated Upwork.png"></p>
 <p><img src="{{ site.url }}/assets/img/TFuture Impact.png" width="400"></p>
-<p></p>
-<br>
-<br>
-<br>
-<br>
 
+<h2>JOIN MY PRIVATE SESSIONS ABOUT FREELANCING</h2>
 
-
-
-
+I'll email you some free lessons.
 
 <p><a href="https://sendfox.com/lp/3lw8ql" class="button focus">GET MY FREELANCE LESSONS</a></p>
