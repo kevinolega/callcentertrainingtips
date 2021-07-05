@@ -8,6 +8,7 @@ redirect_from: /6WEL250/
 author: Kevin Olega 
 --- 
 {% include el-samples.html %}
+{% include featured-testimonial-04.html %}
 {% include el-summary.html %}
 {% include el-promo-price.html %}
 {% include el-writing-exercise.html %}

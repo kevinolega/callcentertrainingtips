@@ -8,6 +8,7 @@ author: Kevin Olega
 {% include confirm-email.html %}
 <h2>WE HAVE MORE FOR YOU</h2>
 <p>You may access all of our free training materials from this page.</p>
+<p>Scroll down to find more goodies!</p>
 {% include community-service.html %}
 {% include no-pressure.html %}
 {% include main-email-list.html %}
