@@ -4,6 +4,7 @@ title: TRAINING OFFERS
 description: These are our current call center training offers. 
 permalink: /promos/
 ---
+## WHAT ARE PEOPLE SAYING ABOUT OUR TRAINING
 {% include featured-testimonial-01.html %}
 {% include featured-testimonial-02.html %}
 {% include featured-testimonial-03.html %}
