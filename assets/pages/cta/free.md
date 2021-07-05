@@ -16,6 +16,7 @@ author: Kevin Olega
 {% include night-shift-book.html %}
 {% include blessings-book.html %}
 {% include featured-videos.html %}
+
 Thank you for visiting this website.
 
 {% include about.html %}
