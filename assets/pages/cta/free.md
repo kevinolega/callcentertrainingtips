@@ -17,8 +17,6 @@ author: Kevin Olega
 {% include blessings-book.html %}
 {% include featured-videos.html %}
 
-Thank you for visiting this website.
-
 {% include about.html %}
 {% include history.html %}
 
