@@ -98,27 +98,23 @@ Let me know that you're done.
 
 ## SUBMITTING YOUR ANSWERS
 
-Submit your answers using Google Docs.
 
-I will give feedback directly on your on the file.
 
-Share the file to callcentertrainingtips@gmail.com
 
-If you have Gmail, you already have Google Docs. 
 
-Visit [https://drive.google.com](https://drive.google.com) and create a new document.
 
-If you're using a mobile device, Google Docs is available on both [iOS](https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640) and [Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en&gl=US).
+
+ [iOS]() and [Google Play Store]().
 
 WATCH THIS GUIDE:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1OSLCxKX11U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Watch the video until the end.
 
-Let me know that you're done.
 
-[LEAVE A COMMENT](https://youtu.be/1OSLCxKX11U).
+{% include submit-answers.html %}
+
+
+[LEAVE A COMMENT]().
 
 
 ## TEMPLATE
