@@ -4,6 +4,10 @@ title: TRAINING OFFERS
 description: These are our current call center training offers. 
 permalink: /promos/
 ---
+{% include featured-testimonial-01.html %}
+{% include featured-testimonial-02.html %}
+{% include featured-testimonial-03.html %}
+{% include featured-testimonial-04.html %}
 My lessons already helped [hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
 If you want to support me and you would like more direct and active personal assistance, here are your options.
