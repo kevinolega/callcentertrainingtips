@@ -5,11 +5,12 @@ date: 2020-10-22 14:15
 permalink: /6webstudent/ 
 author: Kevin Olega 
 --- 
+{% include student-announcements.html %}
 {% include el-guidelines.html %}
 {% include english-lessons-reminders.html %}
 {% include english-lessons-expectations-6w.html %}
 {% include 6wlibrary-link.html %}
-{% include student-pronunciation-guide.html %}
+
 ## WEEKLY LESSONS
 
 Please complete your lessons within the 90-day time frame to avoid expiration and additional fees.
