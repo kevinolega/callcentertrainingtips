@@ -6,3 +6,4 @@ permalink: 6weblibrary
 author: Kevin Olega 
 --- 
 {% include 6w-library-section.html %}
+{% include student-pronunciation-guide.html %}
