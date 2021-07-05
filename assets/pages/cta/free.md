@@ -11,7 +11,9 @@ author: Kevin Olega
 {% include no-pressure.html %}
 {% include basics-email.html %}
 {% include free-english-email.html %}
-
+{% include night-shift-book.html %}
+{% include blessings-book.html %}
+{% include featured-videos.html %}
 Thank you for visiting this website.
 
 {% include about.html %}
