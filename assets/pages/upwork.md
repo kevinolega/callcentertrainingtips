@@ -9,7 +9,7 @@ author: Kevin Olega
 
 ## HOW I INTRODUCE MYSELF TO CLIENTS
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F2b1jA4FoN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AzK7M1Y_O9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## HOW I LOOK FOR WORK
 
@@ -77,6 +77,10 @@ I choose to work for a call center to save money, practice my skills, buy my com
 <p><img src="{{ site.url }}/assets/img/Kevin Upwork Profile.png"></p>
 <p><img src="{{ site.url }}/assets/img/Kevin Top Rated Upwork.png"></p>
 <p><img src="{{ site.url }}/assets/img/Future Impact.png"></p>
+<p><img src="{{ site.url }}/assets/img/Upwork Testimonials.png"></p>
+<p><img src="{{ site.url }}/assets/img/Upwork Top Earner.png"></p>
+
+
 
 <h2>JOIN MY PRIVATE SESSIONS ABOUT FREELANCING</h2>
 

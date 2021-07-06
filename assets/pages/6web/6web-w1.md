@@ -98,23 +98,7 @@ Let me know that you're done.
 
 ## SUBMITTING YOUR ANSWERS
 
-
-
-
-
-
-
- [iOS]() and [Google Play Store]().
-
-WATCH THIS GUIDE:
-
-
-
-
 {% include submit-answers.html %}
-
-
-[LEAVE A COMMENT]().
 
 
 ## TEMPLATE
