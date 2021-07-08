@@ -7,6 +7,16 @@ author: Kevin Olega
 --- 
 ![Online Freelancing]({{ site.url }}/assets/img/online-freelancing.png).
 
+I put together this guide to help my friends get freelance clients.
+
+Some of the tips are written and some are in video format.
+
+Sign up to our mailing lists to receive updates on new lessons.
+
+Please let me know if you have any questions.
+
+Kevin
+
 ## HOW I INTRODUCE MYSELF TO CLIENTS
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AzK7M1Y_O9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
