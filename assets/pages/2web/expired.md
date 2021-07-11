@@ -31,15 +31,7 @@ We also offered a 30 day extension period.
 
 We have new modules for 2021.
 
-**₱367 Two Weeks English Lessons**.
-
-- 15 Lessons and Writing Exercises
-- Two Live Coaching Sessions (Grammar and Pronunciation)
-
-**₱597 Six Weeks English Lessons**.
-
-- 42 Lessons and Writing Exercises
-- Six Live Coaching Sessions (Grammar, Pronunciation and Career Advice)
+{% include el-promo-price.html %}
 
 You can also buy my book.
 
