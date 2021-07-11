@@ -61,7 +61,7 @@ Please watch those videos.
 
 While waiting for you to show up, we used the resources to build new training materials that you can use when you get back.
 
-[LINK TO LESSON LIBRARY](https://callcentertrainingtips.com)
+[LINK TO LESSON LIBRARY](https://callcentertrainingtips.com/lessons)
 
 These videos and the additional lessons posted on the website are created specifically for you.
 
