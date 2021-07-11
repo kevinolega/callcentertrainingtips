@@ -17,6 +17,14 @@ Please let me know if you have any questions.
 
 Kevin
 
+<h2>RECEIVE PRACTICAL LESSONS ABOUT FREELANCING</h2>
+
+I'll email you some free lessons.
+
+<p><a href="https://sendfox.com/lp/3lw8ql" class="button focus">GET MY FREELANCE LESSONS</a></p>
+
+Here are some sample lessons.
+
 ## HOW I INTRODUCE MYSELF TO CLIENTS
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AzK7M1Y_O9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -31,7 +39,7 @@ Kevin
 
 ## ADVICE ON FREELANCING
 
-Don't go into Freelancing blindly.
+Don't go into freelancing blindly.
 
 You'll need money to get started.
 

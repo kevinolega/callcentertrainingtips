@@ -23,9 +23,7 @@ We still had to pay the staff whether you did the activities or not.
 
 We did our best to extend the time.
 
-We pushed the lessons till the end of December 2020 and went overtime during the holidays to make sure that the old students weren't left behind.
-
-We also offered a 30 day extension period.
+We also offered a seven day extension period.
 
 ## Here's what you can do.
 
