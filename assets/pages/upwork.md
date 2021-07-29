@@ -5,7 +5,8 @@ date: 2021-07-06 00:35
 permalink: upwork 
 author: Kevin Olega 
 --- 
-![Online Freelancing]({{ site.url }}/assets/img/online-freelancing.png).
+
+![Online Freelancing]({{ site.url }}/assets/img/earn-dollars.png).
 
 I put together this guide to help my friends get freelance clients.
 
@@ -22,6 +23,8 @@ Kevin
 I'll email you some free lessons.
 
 <p><a href="https://sendfox.com/lp/3lw8ql" class="button focus">GET MY FREELANCE LESSONS</a></p>
+
+![Online Freelancing]({{ site.url }}/assets/img/online-freelancing.png).
 
 Here are some sample lessons.
 
