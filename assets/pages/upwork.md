@@ -5,8 +5,7 @@ date: 2021-07-06 00:35
 permalink: upwork 
 author: Kevin Olega 
 --- 
-
-![Online Freelancing]({{ site.url }}/assets/img/earn-dollars.png).
+![Online Freelancing]({{ site.url }}/assets/img/online-freelancing.png).
 
 I put together this guide to help my friends get freelance clients.
 
@@ -24,7 +23,6 @@ I'll email you some free lessons.
 
 <p><a href="https://sendfox.com/lp/3lw8ql" class="button focus">GET MY FREELANCE LESSONS</a></p>
 
-![Online Freelancing]({{ site.url }}/assets/img/online-freelancing.png).
 
 Here are some sample lessons.
 
@@ -46,11 +44,13 @@ Don't go into freelancing blindly.
 
 You'll need money to get started.
 
-I recommend that you save up ₱200,000 to 300,000 before jumping in full time.
+I recommend that you save up ₱200,000 to ₱300,000 before jumping in full-time.
 
 You'll need to buy a nice computer.
 
 A good computer may cost anywhere from ₱50,000-100,000.
+
+I recommend buying a M1 Mac Mini or higher.
 
 You'll need to pay for fast internet.
 
@@ -60,9 +60,11 @@ You'll need backup internet for emergencies.
 
 Some jobs require an iPhone or flagship smartphone.
 
-You'll need to buy a second laptop in the event of an accident or emergency.
+You'll need to buy a second computer in the event of an accident or emergency.
 
 You'll need money for six months of client acquisition activities.
+
+Some online services and memberships help finding work easier.
 
 You'll need to have an emergency fund for deals that don't push through.
 
@@ -78,7 +80,7 @@ You'll need to buy some software for your field of specialization.
 
 You'll need to up your writing skills to 9/10.
 
-I choose to work for a call center to save money, practice my skills, buy my computer and eventually get started.
+I chose to work for a call center to save money, practice my skills, buy my computer and eventually get started.
 
 
 {% include about.html %}
@@ -108,3 +110,5 @@ I choose to work for a call center to save money, practice my skills, buy my com
 I'll email you some free lessons.
 
 <p><a href="https://sendfox.com/lp/3lw8ql" class="button focus">GET MY FREELANCE LESSONS</a></p>
+
+![Online Freelancing]({{ site.url }}/assets/img/earn-dollars.png).
