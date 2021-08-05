@@ -3,7 +3,7 @@ layout: post
 title: HOW TO MANAGE CALL CENTER METRICS
 date: 2021-08-05 12:30
 Tags: [ hired, blog ]
-permalink: focus-metrics
+permalink: mmetrics
 author: Kevin Olega 
 --- 
 When you get to the interview or training, ask the person in charge what the most important metrics are.
