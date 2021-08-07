@@ -6,8 +6,7 @@ permalink: top-agent
 author: Kevin Olega 
 --- 
 
-
-I will mentor you for one year so you can become top agent.
+I will mentor you for one year so you can become top agent, earn more money, get promoted faster, be more confident and proud of yourself.
 
 ### PAYMENT OPTIONS
 
@@ -35,13 +34,19 @@ Improving your overall performance.
 Building your dream using call center income.
 Opportunities to earn more money while working in a call center.
 
-What you'll get:
+## WHAT YOU'LL GET:
 
-Weekly Sessions to coach you on your performance.
+Weekly sessions to coach you on your performance.
 
-Lessons and modules to.
+Lessons and modules to:
 
 Practice activities to help you study in your down time.
+
+Improve your English skills.
+
+Improve your overall performance.
+
+Improve your lifestyle.
 
 100% Satisfaction Guaranteed or your money back.
 
