@@ -31,21 +31,17 @@ INCLUSIONS:
 
 **FAST-TRACK ENGLISH MODULE:** (TWO WEEKS)
 
-One week grammar refresher
-
-Grammar assessment.
-
-Grammar corrections.
-
-Pronunciation Module.
-
-Pronunciation Assessment.
-
-Customer Service, Technical Support, or Sales Sentences Module.
+- One week grammar refresher
+- Grammar assessment.
+- Grammar corrections.
+- Pronunciation Module.
+- Pronunciation Assessment.
 
 **KPI DEVELOPMENT PROGRAM:** (TWO WEEKS)
 
-Areas of Focus:
+Customer Service, Technical Support, or Sales Sentences Module.
+
+AREAS OF FOCUS:
 
 - AHT
 - Call Quality or Q.A. Score
@@ -56,14 +52,11 @@ Repairing Bad Habits. Coaching Session.
 
 Developing Good Habits. Coaching Session.
 
-
 **REGULAR PRICE:**
 
 English Module = ₱1,200
-
 KPI Development = ₱3,200
-
-Total Cost = ₱3,400.
+**Total Investment = ₱3,400.**
 
 **PROMO: GET THE ENTIRE PROGRAM FOR ₱1,597.**
 <br>
