@@ -17,7 +17,6 @@ My lessons already helped [hundreds of Filipinos get hired in a call center](htt
 {% include magnet2.html %}
 {% include community-service.html %}
 {% include no-pressure.html %}
-{% include main-email-list.html %}
 {% include basics-email.html %}
 {% include free-english-email.html %}
 {% include zoom-free.html %}
