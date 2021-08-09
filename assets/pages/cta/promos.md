@@ -55,7 +55,9 @@ Developing Good Habits. Coaching Session.
 **REGULAR PRICE:**
 
 English Module = ₱1,200
+
 KPI Development = ₱3,200
+
 **Total Investment = ₱3,400.**
 
 **PROMO: GET THE ENTIRE PROGRAM FOR ₱1,597.**
