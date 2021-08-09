@@ -5,18 +5,16 @@ date: 2021-08-09 23:53
 permalink: courses 
 author: Kevin Olega 
 --- 
+<h2>WE HAVE MORE FOR YOU</h2>
+<p>You may access all of our free training materials from this page.</p>
+<p>Scroll down to find more goodies!</p>
+
 ## WHAT ARE PEOPLE SAYING ABOUT OUR TRAINING
-{% include featured-testimonial-01.html %}
-{% include featured-testimonial-02.html %}
 {% include featured-testimonial-03.html %}
 {% include featured-testimonial-04.html %}
 My lessons already helped [hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
 
 {% include magnet2.html %}
-
-<h2>WE HAVE MORE FOR YOU</h2>
-<p>You may access all of our free training materials from this page.</p>
-<p>Scroll down to find more goodies!</p>
 {% include community-service.html %}
 {% include no-pressure.html %}
 {% include main-email-list.html %}
