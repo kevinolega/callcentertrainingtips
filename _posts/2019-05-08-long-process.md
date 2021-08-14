@@ -1,36 +1,41 @@
 --- 
 layout: post 
-title: How long is the job application process?
+title: HOW LONG IS THE JOB APPLICATION PROCESS?
 date: 2019-05-06 16:11
 permalink: /long-process/ 
 author: Kevin Olega 
 --- 
-Many call center companies follow a one day process when it comes to processing their applicants. 
+Many call center companies follow a one-day process.
 
-This means you can already find out if you pass or fail within the same day. 
+You can know the same day if you pass or fail.
 
-That"s a good thing because you would know when it"s time to move on to the next one.
+Knowing the results quickly is a good thing.
 
-If you fail the best thing to do is to move on to the next one. 
+You would know when it’s time to move on to the next company.
 
-Don't forget to write down the lessons on your notebook though. 
+The best thing to do is to move on to the next company when you fail.
 
-That's what you need to to keep going.
+Don’t forget to write the lessons learned from your failure in your notebook.
 
-Failure is part of the process. 
+The written lessons will become what you’ll need to to keep going.
 
-You want success you need to collect lessons from failure.
+Failure is part of the process.
 
-A one day process can mean anything. 
+You need to collect lessons from failure if you want success.
 
-If you start in the morning the longest you can stay in the process is maybe in the evening already. 
+A one-day process can mean anything.
 
-Maybe if you start in the afternoon then you will end up in late at night or the next day already.
+You may start in the morning.
 
-The longer they let you stay the better. 
+You may end in the afternoon or evening.
 
-That means you are moving forward with the process. 
+You may start in the afternoon.
 
-Don't forget to ask your interviewer or proctor for tips for the next step.
+You’ll finish late at night or the next day already.
+The longer the company lets you stay, the better.
+
+Staying means you are moving forward with the process.
+
+Don’t forget to ask your interviewer or proctor for tips on the next step.
 
 I hope you do well.

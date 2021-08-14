@@ -20,7 +20,7 @@ You'll fail because the interviewer won't endorse you to the next stage.
 
 In other words, you won't get hired.
 
-English communication skills is a basic requirement for call center work.
+English communication skills are an essential requirement for call center work.
 
 The objective of the company is to make money.
 
@@ -40,25 +40,23 @@ You'll need decent conversational English to get hired in a call center.
 
 If you're not confident with your skills, I put together lessons to help improve your English.
 
-[Click Here for Free English Lessons](https://callcentertrainingtips.com/english-tips)
-
 Stop telling your interviewer that...
 
 I want to get hired in a call center to enhance my English communication skills.
 
-Telling the interviewer that you want to enhance your communcication skills is the fastest way to end an interview.
+Telling the interviewer that you want to enhance your communication skills is the fastest way to end an interview.
 
 Just in case it's not clear to you yet.
 
-Whenever you tell the interviewer you want to work in a call center to enhance or improve your English communication skills...
+Whenever you tell the interviewer, you want to work in a call center to enhance or improve your English communication skills...
 
 1. You are not professional.
 2. You are using their company as practice for English. 
 3. You are not confident in your abilities.
-4. You have zero knowledge in a job that you want to apply in.
+4. You have zero knowledge of a job that you want to apply in.
 5. You don't care enough to use the internet to research what kind of work opportunities that they're offering.
 6. You are wasting their time.
 
 So please stop giving that answer during interviews.
 
-And as a result, potential employers won't be comfortable in trusting you to handle their source of income.
+And as a result, potential employers won't be comfortable trusting you to handle their source of income.

@@ -1,143 +1,150 @@
 --- 
 layout: post 
-title: Pre Employment Checklist
+title: PRE-EMPLOYMENT CHECKLIST
 date: 2019-05-06 16:14
 permalink: /employment-checklist/ 
 author: Kevin Olega 
 --- 
-When you look for work, aside from passing interview and exams you'll need to submit some pre emp
+When you look for work, aside from passing interviews and exams, you’ll need to submit some pre-employment requirements.
 
-Pre-employment requirements are a common chore that needs to be done to finalize your job hunting process.
+Pre-employment requirements are a common chore that needs to be done to finalize your job-hunting process.
 
-Items in a pre-employment checklist are often standard for most call centers and most jobs I've applied in.
+Items in a pre-employment checklist are often standard for many call centers and most jobs I’ve accepted.
 
-In case it's your first time to apply, or it's your first time to apply in a long time here are some of the documents that you'd like to prepare in advance. 
-
+In case it’s your first time applying, or it’s your first time applying in a long time, here are some of the documents that you’d like to prepare in advance.
+ 
 I took this list from a couple of my past employers.
 
-I found some lists as I was cleaning up.
+I found some lists as I was sorting my paper documents.
 
-Primary requirements are often required immediately (usually the same week or the week) after hire date.
+Primary requirements are often required immediately (usually the same week or the week) after the hire date.
 
-## These are the Call Center Pre Employment Requirements in the Philippines
+## THESE ARE CALL CENTER PRE-EMPLOYMENT REQUIREMENTS IN THE PHILIPPINES.
 
-**SSS Document E-1 / E-4 /E-6 dully received by SSS.** 
+**SSS Document E-1 / E-4 /E-6 dully received by SSS.**
 
-Any printout that came from SSS and has their full Name, SSS Number and Birthdate. 
+Any printout that came from SSS and has their full name, SSS number and birthdate.
 
-You can [visit the SSS website](https://www.sss.gov.ph) to obtain this. 
+You can visit the SSS website to obtain this.
 
 **TIN Document.**
 
-Previous ITR/BIR 2316 or Stamped/Received BIR 1905/BIT 1902/ BIR2305. 
+Previous ITR/BIR 2316 or Stamped/Received BIR 1905/BIT 1902/ BIR2305.
 
-You may [visit BIR for more information](https://www.bir.gov.ph/). 
+You may visit BIR for more information.
 
-**NBI Clearance** (original copy) . 
+**NBI Clearance (original copy).**
 
-In some situations, you can get this same day and in other situations, they require you to return after three days or so. 
+In many situations, you can get this same day and in other situations, the office will require you to return after three days or so.
 
-I recommend paying the extra 100 pesos to have it delivered. It will often cost you more than Php 200 if you'll go back to just pick it up. 
+I recommend paying the extra 100 pesos or so to have your NBI clearance delivered. 
 
-**Police Clearance** (original copy). 
+It will often cost you more than ₱200 if you go back to just pick it up.
 
-You just need to visit a nearby police station to obtain this. 
+**Police Clearance (original copy).**
 
-**Medical Exam**. 
+Visit a nearby police station to obtain this. I got my police clearance at Parañaque City Hall.
 
-This is often provided for free when you apply at reputable call centers. 
+I also got a police clearance ID for an extra hundred pesos or so.
 
-Just ask the HR for details. 
+**Medical Exam.**
 
-Pick up your stool and urine container and enjoy the experience. 
+Medical exams are often provided for free when you apply at reputable call centers and pass the screening process.
 
-**Photocopy of ID's**. 
+Just ask the HR for details.
 
-Whenever you're submitting photocopy be sure to include both front and back of the ID. 
+Pick up your stool and urine container and enjoy the experience.
 
-_Samples of Primary ID's include:_ 
+**Photocopy of ID’s.**
 
-- **Unified or Digitized SSSID** 
-- **Drivers license.**Should be current. By current, they mean not expired. 
-- **Passport.**Should be current. By current, they mean not expired. 
-- **PRC ID.**Should be current. By current, they mean not expired. Secondary ID's include: 
-- **Postal ID**. I got mine at a post office. Paid about Php 200. 
-- **Voter's ID.**I don't have one. 
-- **TIN ID.**I don't have one. 
-- **Philhealth ID with Photo.** My previous employer provides this. 
-- **Updated NBI Clearance.** Turns out you can use your NBI clearance as additional ID Secondary pre-employment requirements often required before hitting the end of your training or before you start production work. 
+Include both front and back of your ID’s when you submit photocopies of your ID.
 
-_Samples of secondary Pre Employment requirements include._
+## Samples of Primary ID’s include:
 
-- **Philhealth.** Just give a photocopy to your HR. 
-- **Marriage contract.** I don't have one so just submit yours to HR. 
-- **Transcript of Records or Diploma.** Photocopy and give to HR. 
-- **Loan Information from SSS, Pagibig, or others).** 
+	•	Unified or Digitized SSSID
+	•	Drivers license.Should be current. By current, they mean not expired.
+	•	Passport.Should be current. By current, they mean not expired.
+	•	PRC ID.Should be current. By current, they mean not expired. Secondary ID’s include:
+	•	Postal ID. I got mine at a post office. Paid about Php 200.
+	•	Voter’s ID.I don’t have one.
+	•	TIN ID.I don’t have one.
+	•	Philhealth ID with photo. Provided by my previous employer.
+	•	Updated NBI Clearance. 
 
-Submit your information if you have any. 
+Turns out you can use your NBI clearance as additional ID Secondary pre-employment requirements often required before hitting the end of your training or before you start production work.
 
-**Birth Certificate.** 
+Samples of secondary Pre Employment requirements include.
 
-I ordered mine online for 300 pesos I think. 
+**Philhealth.** Just give a photocopy to your HR.
+**Marriage contract.** I don’t have one so just submit yours to HR.
+**Transcript of Records or Diploma.** Photocopy and give to HR.
+Loan Information (from SSS, Pagibig, or others).
 
-Please visit the [NSO website to order.](https://nsohelpline.com/) 
+Submit your information if you have any.
 
-**Dependent's Birth Certificate**
+**Birth Certificate.**
 
-If you have the records on hand just submit. 
+I ordered mine online for 300 pesos I think.
 
-If you don't have any just [order from NSO](https://nsohelpline.com/ "NSO"). 
+Please visit the NSO website to order.
 
-**Certificate of Employment.** 
+**Dependent’s Birth Certificate**
 
-You can obtain this from the HR of your previous employer. 
+If you have the records on hand just submit.
 
-**Tax Withheld Form/ITR.** 
+Order from NSO if you need copies.
 
-For more information [visit the BIR website](https://www.bir.gov.ph/). 
+**Certificate of Employment.**
 
-**1x1 or 2x2 photos.** 
+You can obtain this from the HR of your previous employer.
 
-I get mine from Tronix all the time. 
+Tax Withheld Form/ITR.
 
-It's less than Php 80 pesos and you can find it at almost any SM or mall. 
+For more information visit the BIR website.
 
-**Some Technical Terms  BIR 1902 form**
+**1x1 and 2x2 photos.**
 
-For TIN application. 
+I get my ID photos from Tronix all the time.
 
-You'll need to speak to the HR if you still don't have a TIN number so you can register online.
+Photos costs less than ₱80 pesos and you can find Tronix at almost any SM or mall.
 
-BIR 1905 form. to transfer your records from your previous RDO to the current employer's RDO. BIR 2305 form. 
+**BIR 1902 form** for TIN application.
 
-To update your employer information and tax status. 
+You’ll need to speak to the HR if you still don’t have a TIN number so you can register online.
 
-## Some notes: 
+**BIR 1905 form** to transfer your records from your previous RDO to the current employer’s RDO. 
 
-When you look for work here are some requirements that you need to obtain and submit. 
+**BIR 2305 form** is needed to update your employer information and tax status.
 
-I would encourage you to review the list so you can review the cost or the amount you need to prepare for your job application. 
+## Some Notes:
 
-I recommend getting a job offer before worrying about this. 
+When you look for work here are some requirements that you need to obtain and submit.
 
-I often save about Php 3,000 extra on top of my job-hunting expenses to pay for requirements so I don't get pressed for money whenever I need to switch. 
+I would encourage you to review the list so you can review the cost or the amount you need to prepare for your job application.
 
-If you're looking for required skills in getting hired in a call center please visit this link.
+I recommend getting a job offer before worrying about requirements.
 
-Often you'll be asked to undergo pre-employment medical examinations and the good call center companies will cover the expenses.
+I often save about Php 3,000 extra on top of my job-hunting expenses to pay for requirements so I don’t get pressed for money whenever I need to switch jobs.
+
+If you’re looking for required skills in getting hired in a call center please visit this link.
+
+You’ll often be asked to undergo pre-employment medical examinations and the good call center companies will cover the expenses.
 
 You will also need to secure your Philhealth MDR as well.
 
-Requirements vary from company to company however these are the common minimum requirements. 
+Requirements vary from company to company however these are the common minimum requirements.
 
-Please inquire with your local HR for
+Please inquire with your HR for more information.
 
-## Failure often leads to:
+## Failure Often Leads To:
 
-- No job offer or withdrawal of job offer.
-- Salary delays often resulting from lack of requirements needed for ATM creation.
-- Termination if found negligent in complying with the requirements.
+Companies can cancel or withdraw the job offer.
 
-Don't sweat it just google "how to get (insert requirement)" and you'll find a site that has instructions. If you've ever taken a job with a company before, chances are you have undergone this process already.
+Salary delays often resulting from a lack of requirements needed for ATM creation.
+
+Termination if found negligent in complying with the requirements.
+If you have questions just Google “how to get (insert requirement),” and you’ll find a site that has instructions. 
+
+If you’ve ever taken a job with a company before, chances are you are already familiar with this process.
 
 I wish you the best in your job hunt.

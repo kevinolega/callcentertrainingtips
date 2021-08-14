@@ -90,4 +90,6 @@ You’ll receive a script to follow when you start work.
 
 I also have hundreds of free lessons posted on my website. https://callcentertrainingtips.com 
 
-Send me an email for advice about Call Center Metrics.
+You can also send me an email if you have questions.
+
+Tell me that you’re asking for advice about the Call Center Metrics chapter in my lesson.

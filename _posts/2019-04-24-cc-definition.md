@@ -5,52 +5,94 @@ date: 2019-04-24 10:22
 permalink: /call-center-definition/ 
 author: Kevin Olega 
 --- 
-> Wikipedia says: A call center or call center is a centralized office used for the purpose of receiving and transmitting a large volume of requests by [telephone](https://en.wikipedia.org/wiki/Telephone). A call center is operated by a [company](https://en.wikipedia.org/wiki/Company) to administer incoming product support or information inquiries from consumers. Outgoing calls for [telemarketing](https://en.wikipedia.org/wiki/Telemarketing), clientele, product services, and debt collection are also made.
+> Wikipedia says: A call center or call center is a centralized office used for the purpose of receiving and transmitting a large volume of requests by telephone. A call center is operated by a company to administer incoming product support or information inquiries from consumers. Outgoing calls for telemarketing, clientele, product services, and debt collection are also made.
 
-That’s true. 
+That’s accurate.
 
-The real question is...
+The real question is…
 
-## What is a call center for me?
+## What Is A Call Center For Me?
 
-For different people there are different answers.
+Different people will have different answers.
 
-For business owners it’s a place to outsource business-related tasks we’d rather not handle on our own.
+Business owners think call centers are places to outsource business-related tasks they'd rather not handle on their own.
 
-For some entrepreneurs, it’s a business opportunity.
+Investors think that call centers are business opportunities.
 
-**But that’s not who I wrote this website for.**
+I didn't write this book for them.
 
-You just retired from your work voluntarily or involuntarily and you’re bored with staying at home and looking for a source of income a call center may be for you.
+## Let's talk about you.
 
-You’re a fresh graduate, looking to earn some money for yourself or to start a business later on. 
+You just retired from your work voluntarily or involuntarily.
 
-Maybe you feel it's a bad way to invest your time to take a job that pays below minimum wage.
+You're bored staying at home.
 
-You’re a new graduate and you can’t find a job in the field of study you took up in college.
+You'd like to earn some cash.
 
-You’re a single mom looking for a way to make ends meet.
+You're a fresh graduate.
 
-You have someone you can’t support, who needs a job.
+You need to earn money.
 
-You want to learn business practices and how some foreign companies operate.
+You want to help your parents, who sacrificed everything to give you an education.
 
-**The call center is in no way the perfect solution. I myself am not currently employed in one. The pay is pretty okay and the shifts vary and you may like it or not like it depending on your lifestyle. I present it as a stepping stone to other opportunities like:**
+You want money for yourself.
 
-- Funding you're going back to school budget.
-- Funding your own business.
-- Funding your migrate to abroad plan “I hope not!”
-- Paying for expenses and a source of income while you figure things out.
-- etc.
+You also want to save a little money to eventually start a business.
 
-Whatever it is it’s not limited to that. 
+You graduated from your course, and you couldn't find a job.
 
-Use your imagination friend. 
+You're browsing the job listings and can't believe how low the pay is for people who graduate from your course.
 
-That will be all for now.
+You feel that taking jobs that pay below minimum wage is a horrible way to invest your time.
 
-Please come back tomorrow for the next lesson.
+You figured that it's better to switch jobs than to continue the path you studied.
 
-### What is a call center for you? 
+You concluded that investing more resources in a poor decision won't magically transform your results.
 
-**Trivia: One of the most common messages that we receive is "Hi I want to be a call center, can you give me some tips"**
+You're a single mom looking for a way to make ends meet.
+
+Your office job is just enough to pay for the bills but not enough to raise kids on.
+
+You have a family member who didn't do too well in school.
+
+That family member needs a job.
+
+You decide to push that family member to work in a call center.
+
+You're ambitious.
+
+You want to learn the business practices of successful companies.
+
+You'd like to learn how foreign companies operate.
+
+Call center work is not the perfect solution.
+
+The pay in call center companies is awesome compared to many local job offers.
+
+You may or may not like call center work, depending on your lifestyle.
+
+I present call center work as a stepping stone for the opportunities that you are preparing for.
+
+The first reason why I wanted to work in a call center is I wanted to save money to eventually pay for my tuition fee.
+
+I eventually wanted to use call center money to fund my own business.
+
+Other people use the money to pay for expenses while they figure things out.
+
+Other people may want to use call center income to fund going abroad.
+
+I've seen many people succeed in doing this. 
+
+₱20,000 a month is ₱1,300,000 after five years.
+
+₱25,000 a month is ₱1,625,000 after five years.
+
+₱30,000 a month is ₱1,950,000 after five years.
+
+How did I compute this?
+
+Monthly income x 13 months x 5 years.
+
+Using resourcefulness and imagination can help you fund your goal, whatever your goal is.
+
+What is a call center for you?
