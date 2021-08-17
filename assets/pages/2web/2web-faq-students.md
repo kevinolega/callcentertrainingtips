@@ -11,13 +11,14 @@ If your question isn't answered here, please send us a message.
 
 ## I CAN'T FIND YOUR EMAILS. WHAT DO I DO?
 
+  
 In a lot of cases, our email got sent to the Promotions or SPAM Folder.
 
 Please search for our email address.
 
 kevin@callcentertrainingtips.com
 
-If you still do not find the emails, please let us know.
+If you still do not find the emails, please let us know.[/expand]
 
 ## I ACCIDENTALLY DELETED A MESSAGE. WHAT DO I DO?
 
@@ -25,6 +26,7 @@ Your email can be found on the Trash Folder.
 
 ## I STOPPED RECEIVING LESSONS. WHY DID YOUR EMAILS STOP?
 
+[expand]
 We are committed to helping our students have a smooth experience with upgrading their English skills.
 
 We have found it beneficial to avoid giving the student information overload or overwhelming the student with many activities.
@@ -32,6 +34,7 @@ We have found it beneficial to avoid giving the student information overload or 
 We will be sending lessons 1 to 7 first.
 
 Then we will wait for you to finish.
+[/expand]
 
 ## WHY HAVEN'T WE SCHEDULED PHONE COACHING?
 

@@ -16,7 +16,7 @@ Please complete your lessons within the week before the coachiing session to max
 
 ### WEEK 1
 
-<a href="https://callcentertrainingtips.com/6webw1-hatch/" class="button focus">BEGIN WEEK 1</a>
+<a href="https://callcentertrainingtips.com/4webw1-hatch/" class="button focus">BEGIN WEEK 1</a>
 
 ### WEEK 2
 
