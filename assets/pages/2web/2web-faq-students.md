@@ -11,8 +11,7 @@ If your question isn't answered here, please send us a message.
 
 ## I CAN'T FIND YOUR EMAILS. WHAT DO I DO?
 
-  
-In a lot of cases, our email got sent to the Promotions or SPAM Folder.
+Our email [expand] may get sent to the Promotions or SPAM Folder.
 
 Please search for our email address.
 
@@ -26,15 +25,13 @@ Your email can be found on the Trash Folder.
 
 ## I STOPPED RECEIVING LESSONS. WHY DID YOUR EMAILS STOP?
 
-[expand]
-We are committed to helping our students have a smooth experience with upgrading their English skills.
+We are committed to helping our students [expand]have a smooth experience with upgrading their English skills.
 
 We have found it beneficial to avoid giving the student information overload or overwhelming the student with many activities.
 
 We will be sending lessons 1 to 7 first.
 
-Then we will wait for you to finish.
-[/expand]
+Then we will wait for you to finish.[/expand]
 
 ## WHY HAVEN'T WE SCHEDULED PHONE COACHING?
 
