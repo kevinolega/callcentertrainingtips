@@ -62,7 +62,6 @@ The intention is to help you become comfortable communicting in English.
 
 <details>
 	<summary>What you're experiencing is normal. I encounter this issue often.</summary>
-	<pre>
 If the activities are too difficult, that's because this is your first time exercising your writing skills.
 
 Anything you are doing for the first time, is uncomfortable.
@@ -76,8 +75,6 @@ Sometimes you'll feel stupid.
 And that's a good thing.
 
 Discomfort is a sign that you are learning something new.
-
-	</pre>
 
 </details>
 
