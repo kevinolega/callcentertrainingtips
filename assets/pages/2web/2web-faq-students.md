@@ -62,19 +62,19 @@ The intention is to help you become comfortable communicting in English.
 
 <details>
 	<summary>What you're experiencing is normal. I encounter this issue often.</summary>
-If the activities are too difficult, that's because this is your first time exercising your writing skills.
+<p>If the activities are too difficult, that's because this is your first time exercising your writing skills.</p>
 
-Anything you are doing for the first time, is uncomfortable.
+<p>Anything you are doing for the first time, is uncomfortable.</p>
 
-It's exactly like going to the gym for the first time.
+<p>It's exactly like going to the gym for the first time.</p>
 
-It is going to be uncomfortable and painful.
+<p>It is going to be uncomfortable and painful.</p>
 
-Sometimes you'll feel stupid.
+<p>Sometimes you'll feel stupid.</p>
 
-And that's a good thing.
+<p>And that's a good thing.</p>
 
-Discomfort is a sign that you are learning something new.
+<p>Discomfort is a sign that you are learning something new.</p>
 
 </details>
 
