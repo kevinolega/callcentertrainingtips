@@ -163,3 +163,5 @@ If you want to become happy and successful, work on your communications skills.
 We're here to help you.
 
 <a href="https://callcentertrainingtips.com/2webguide/" class="button focus">RETURN TO GUIDELINES</a> 
+
+{% include text-expand.html %}
