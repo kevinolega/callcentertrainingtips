@@ -63,8 +63,7 @@ The intention is to help you become comfortable communicting in English.
 <details>
 	<summary>What you're experiencing is normal. I encounter this issue often.</summary>
 	<pre>
-		
-	If the activities are too difficult, that's because this is your first time exercising your writing skills.
+If the activities are too difficult, that's because this is your first time exercising your writing skills.
 
 Anything you are doing for the first time, is uncomfortable.
 
