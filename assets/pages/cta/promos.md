@@ -29,35 +29,34 @@ We offer affordable English lessons to help support job applicants and professio
 
 ## TOP AGENT PROGRAM
 
+<details>
+	<summary>Read more.</summary>
+	
 INCLUSIONS:
 
-**FAST-TRACK ENGLISH MODULE:** (TWO WEEKS)
+<p><strong>FAST-TRACK ENGLISH MODULE:</strong> (TWO WEEKS)</p>
+<ul>
+	<li>Grammar refresher</li>
+	<li>Grammar assessment.</li>
+	<li>Grammar corrections.</li>
+	<li>Pronunciation Module.</li>
+	<li>Pronunciation Assessment.</li>
+</ul>
 
-- One week grammar refresher
-- Grammar assessment.
-- Grammar corrections.
-- Pronunciation Module.
-- Pronunciation Assessment.
+<p><strong>KPI DEVELOPMENT PROGRAM:</strong> (TWO WEEKS)</p>
+<p>Customer Service, Technical Support, or Sales Sentences Module.</p>
+<p>AREAS OF FOCUS:</p>
+<ul>
+	<li>AHT</li>
+	<li>Call Quality or Q.A. Score</li>
+	<li>CSAT, Customer Satisfaction Survey or Customer Service Feedback.</li>
+	<li>Sales or TSR.</li>
+</ul>
 
-**KPI DEVELOPMENT PROGRAM:** (TWO WEEKS)
+<p>Repairing Bad Habits. Coaching Session.</p>
+<p>Developing Good Habits. Coaching Session.</p>
 
-Customer Service, Technical Support, or Sales Sentences Module.
-
-AREAS OF FOCUS:
-
-- AHT
-- Call Quality or Q.A. Score
-- CSAT, Customer Satisfaction Survey or Customer Service Feedback.
-- Sales or TSR.
-
-Repairing Bad Habits. Coaching Session.
-
-Developing Good Habits. Coaching Session.
-
-<details>
-	<summary>Click here to read more.</summary>
-	<p><br>
-<img src="{{ site.url }}/assets/img/VOC Champion.jpg" width="400"><br></p>
+<br><p><img src="{{ site.url }}/assets/img/VOC Champion.jpg" width="400"><br></p>
 	<p><img src="{{ site.url }}/assets/img/Me Sharing my Top Agent Award.png" width="400"><br><img src="{{ site.url }}/assets/img/Top Agent Sales.png" width="400"><br></p>
 	<p><img src="{{ site.url }}/assets/img/Top Agent Sales Board.png" width="400"><br></p>
 	<p></p>
