@@ -17,13 +17,15 @@ If you want to support me and you would like more direct and active personal ass
 
 <img src="{{ site.url }}/assets/img/Affordable-English-Lessons.png" width="400">
 
-We offer six weeks of English lessons to help support job applicants and professionals who want to upgrade their careers.
+We offer affordable English lessons to help support job applicants and professionals who want to upgrade their careers.
 
-We help our students prepare for interviews and call center work.
-
-We will be correcting your mistakes, and I'll guide you until you get hired. 
-
-<a href="https://callcentertrainingtips.com/6WEL250/" class="button focus">CLICK HERE TO RECEIVE TRAINING</a>
+<details>
+	<summary>Click here to read more.</summary>
+	<p>We help our students prepare for interviews and call center work.</p>
+	<p>We will be correcting your mistakes, and I'll guide you until you get hired.</p>
+	<p><a href="https://callcentertrainingtips.com/6WEL250/" class="button focus">CLICK HERE TO RECEIVE TRAINING</a></p>
+</details>
+<br>
 
 ## TOP AGENT PROGRAM
 
@@ -52,20 +54,15 @@ Repairing Bad Habits. Coaching Session.
 
 Developing Good Habits. Coaching Session.
 
-**REGULAR PRICE:**
-
-English Module = ₱1,200
-
-KPI Development = ₱3,200
-
-**Total Investment = ₱3,400.**
-
-**PROMO: GET THE ENTIRE PROGRAM FOR ₱1,597.**
+<details>
+	<summary>Click here to read more.</summary>
+	<p><br>
+<img src="{{ site.url }}/assets/img/VOC Champion.jpg" width="400"><br></p>
+	<p><img src="{{ site.url }}/assets/img/Me Sharing my Top Agent Award.png" width="400"><br><img src="{{ site.url }}/assets/img/Top Agent Sales.png" width="400"><br></p>
+	<p><img src="{{ site.url }}/assets/img/Top Agent Sales Board.png" width="400"><br></p>
+	<p></p>
+</details>
 <br>
-<img src="{{ site.url }}/assets/img/VOC Champion.jpg" width="400"><br>
-<img src="{{ site.url }}/assets/img/Me Sharing my Top Agent Award.png" width="400"><br>
-<img src="{{ site.url }}/assets/img/Top Agent Sales.png" width="400"><br>
-<img src="{{ site.url }}/assets/img/Top Agent Sales Board.png" width="400"><br>
 
 ## HOURLY CONSULTATION
 
