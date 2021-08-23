@@ -32,7 +32,6 @@ Grammar problems are easier to spot on paper.
 	<p>You'll sound a lot better when you begin speaking.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
 
 ### CAPITALIZATION AND PUNCTUATION
 
@@ -68,8 +67,6 @@ You're allowed to use tools if you don't know how to answer.
 	<p>Using tools is not cheating.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
-
 
 ### WRITING METHOD
 
@@ -87,8 +84,6 @@ I use both paper and computer to improve my communication skills.
 	<p>I repeat the process until I'm happy with my message.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
-
 
 ### TAGLISH AND ENGLISH
 
@@ -105,8 +100,6 @@ I get stuck too. I'll share my technique.
 	<p>Always write your ideas even if it's in Filipino, you can always translate if you need to.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
-
 
 ### ONE SENTENCE PARAGRAPH
 
