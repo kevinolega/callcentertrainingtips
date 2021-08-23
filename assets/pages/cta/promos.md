@@ -20,7 +20,7 @@ If you want to support me and you would like more direct and active personal ass
 We offer affordable English lessons to help support job applicants and professionals who want to upgrade their careers.
 
 <details>
-	<summary>Click here to read more.</summary>
+	<summary>Click to read more.</summary>
 	<p>We help our students prepare for interviews and call center work.</p>
 	<p>We will be correcting your mistakes, and I'll guide you until you get hired.</p>
 	<p><a href="https://callcentertrainingtips.com/6WEL250/" class="button focus">CLICK HERE TO RECEIVE TRAINING</a></p>
@@ -65,7 +65,7 @@ INCLUSIONS:
 
 ## HOURLY CONSULTATION
 
-₱637 an hour.
+₱975.50 per hour.
 
 [APPLY FOR CONSULTATION](https://forms.gle/tnbBqJcKSyxGMK9K8)
 
