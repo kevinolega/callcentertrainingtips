@@ -10,10 +10,10 @@ author: Kevin Olega
 {% include el-samples.html %}
 {% include featured-testimonial-04.html %}
 {% include el-summary.html %}
-{% include el-promo-price.html %}
 {% include el-writing-exercise.html %}
 {% include el-phone-coaching.html %}
 {% include el-student-participation.html %}
+{% include el-promo-price.html %}
 {% include el-payment-info.html %}
 {% include el-enrollment-info.html %}
 {% include el-signup.html %}
