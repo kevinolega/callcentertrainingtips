@@ -1,5 +1,3 @@
-FREE ENGLISH LESSONS LEVEL 1
-
 --- 
 layout: page
 title: Free English Lessons L1
