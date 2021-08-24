@@ -91,8 +91,6 @@ Let me know that you're done.
 [LEAVE A COMMENT](https://youtu.be/JXVe3t5tTo0).
 </details>
 
-## SUBMITTING YOUR ANSWERS
-
 {% include submit-answers.html %}
 
 
