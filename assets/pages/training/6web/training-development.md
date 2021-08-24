@@ -67,24 +67,18 @@ Access to additional lessons will be available soon.
 <p>Send us an email for questions.</p>
 </details>
 
-
-
-
-
-
-
-
-## Most important lessons:
+## MOST IMPORTANT LESSONS:
 
 IMPORTANT!!! READ THIS FIRST!!!
 
-Please download and read this before answering the lessons.
+<details>
+    <summary>Read more</summary>
 
-**Removing Bad Habits - [DOWNLOAD](https://drive.google.com/file/d/1EolrQN644nNWg49d5ifHa4E1LG_EYTzm/view?usp=sharing).**
-
-**READ: WRITING BEFORE SPEAKING - [DOWNLOAD](https://drive.google.com/file/d/1pOn2YAtoBk5xtdly-KDHGnzBrx2f_ZAr/view?usp=sharing).**
-
-**[SUBSCRIBE TO MY YOUTUBE CHANNEL](https://youtube.com/callcentertrainingtips?sub_confirmation=1).**
+<p>Please download and read this before answering the lessons.</p>
+<p>**Removing Bad Habits - [DOWNLOAD](https://drive.google.com/file/d/1EolrQN644nNWg49d5ifHa4E1LG_EYTzm/view?usp=sharing).**</p>
+<p>**READ: WRITING BEFORE SPEAKING - [DOWNLOAD](https://drive.google.com/file/d/1pOn2YAtoBk5xtdly-KDHGnzBrx2f_ZAr/view?usp=sharing).**</p>
+<p>**[SUBSCRIBE TO MY YOUTUBE CHANNEL](https://youtube.com/callcentertrainingtips?sub_confirmation=1).**</p>
+<p></p>
 
 ## WATCH THIS VIDEO
 
@@ -95,6 +89,7 @@ Watch the video until the end.
 Let me know that you're done.
 
 [LEAVE A COMMENT](https://youtu.be/JXVe3t5tTo0).
+</details>
 
 ## SUBMITTING YOUR ANSWERS
 
@@ -107,15 +102,6 @@ I wrote a template to help you format your answers.
 
 [WEEK 1 GOOGLE DOCS TEMPLATE](https://docs.google.com/document/d/1tBtC3xb13hvuVB7Tu4Qp-hzY3sK1or6sS4N4jJ6z5uE/edit?usp=sharing)
 
-
-
-### HELP!!!
-
-I'm stuck. 
-
-I can't think of what to say.
-
-**[READ: WRITE IN FILIPINO](https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing)**
 
 ## PERSONALITY TEST
 
@@ -149,6 +135,13 @@ Let me know that you finished watching the video.
 
 [LEAVE A COMMENT](https://youtu.be/GyA9h835MZ8).
 
+### HELP!!!
+
+I'm stuck. 
+
+I can't think of what to say.
+
+**[READ: WRITE IN FILIPINO](https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing)**
 
 ## LESSON 2 
 
