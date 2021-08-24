@@ -22,74 +22,9 @@ Access to additional lessons will be available soon.
 <p>[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/WPeyxeywTxA).</p>
 </details>
 
-## REMINDERS
+{% include el-reminders.html %}
 
-<details>
-    <summary>Read more</summary>
-
-<p>Please read all the lessons and instructions carefully.</p>
-<p>Please answer all the activities.</p>
-<p>Please follow the one-sentence paragraph format when you submit your answers. </p>
-<p>The one-sentence paragraph format is explained in the lessons Removing Bad Habits and One-Sentence Paragraph on Lesson 6.</p>
-<p>The minimum number of sentences for most of the writing exercises is fifteen sentences.</p>
-<p>We record a video of your phone coaching session for training purposes.</p>
-<p>We publish some of the coaching sessions to our YouTube channel.</p>
-<p>We inspect your answers one sentence at a time during the coaching session.</p>
-<p>We would like to avoid publishing our student's private information.</p>
-<p>Please do not include personal info like your complete name, and complete address in your answers.</p>
-<p>Your first name or nickname is fine for all of our questions.</p>
-<p>Do not say: My name is James Kevin Olega. You may call me Kevin for short.</p>
-<p>Say: My name is Kevin.</p>
-<p>Do not say: I live in 123 Paper Street BF Homes Sucat Parañaque City.</p>
-<p>Say: I live in Parañaque City.</p>
-<p>The second example sounds more confident.</p>
-<p>Please remember to:</p>
-
-1. Follow the One Sentence Paragraph Format
-2. Shorten your sentences. Your sentence needs to have only one idea.
-3. Write complete sentences.
-4. Run your answers through a spelling and grammar check program. We use [Grammarly](https://grammarly.com).
-5. Read your answers aloud before submitting.
-6. Use simple words.
-
-<p><strong>English became more exhibition instead of communication back in junior and senior high school.</strong></p>
-<p>Your English needs to focus on communication instead of exhibition to succeed as a professional.</p>
-<p>Your goal is to convey simple messages.</p>
-<p><strong>AVOID:</strong></p>
-
-1. Big paragraphs.
-2. Compound, complex, and long, compound-complex sentences.
-3. Fancy or complicated words.
-
-<p>Our goal is to reinforce your understanding of the basic rules.</p>
-<p>You can go back to adding flair to your communication after you've mastered the basics.</p>
-<p>Please read **REMOVING BAD HABITS** as many times as you need.</p>
-<p>Send us an email for questions.</p>
-</details>
-
-## MOST IMPORTANT LESSONS:
-
-IMPORTANT!!! READ THIS FIRST!!!
-
-<details>
-    <summary>Read more</summary>
-
-<p>Please download and read this before answering the lessons.</p>
-<p>**Removing Bad Habits - [DOWNLOAD](https://drive.google.com/file/d/1EolrQN644nNWg49d5ifHa4E1LG_EYTzm/view?usp=sharing).**</p>
-<p>**READ: WRITING BEFORE SPEAKING - [DOWNLOAD](https://drive.google.com/file/d/1pOn2YAtoBk5xtdly-KDHGnzBrx2f_ZAr/view?usp=sharing).**</p>
-<p>**[SUBSCRIBE TO MY YOUTUBE CHANNEL](https://youtube.com/callcentertrainingtips?sub_confirmation=1).**</p>
-<p></p>
-
-## WATCH THIS VIDEO
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JXVe3t5tTo0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Watch the video until the end.
-
-Let me know that you're done.
-
-[LEAVE A COMMENT](https://youtu.be/JXVe3t5tTo0).
-</details>
+{% include el-most-important.html %}
 
 {% include submit-answers.html %}
 
