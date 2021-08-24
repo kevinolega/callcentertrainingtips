@@ -13,13 +13,14 @@ Access to additional lessons will be available soon.
 
 ## INSTRUCTIONS
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WPeyxeywTxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<details>
+    <summary>Read more</summary>
 
-Watch the video until the end.
-
-Please let me know that you finished watching the video. 
-
-[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/WPeyxeywTxA).
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/WPeyxeywTxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Watch the video until the end.</p>
+<p>Please let me know that you finished watching the video. </p>
+<p>[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/WPeyxeywTxA).</p>
+</details>
 
 ## REMINDERS
 
@@ -54,23 +55,24 @@ Please let me know that you finished watching the video.
 <p><strong>English became more exhibition instead of communication back in junior and senior high school.</strong></p>
 <p>Your English needs to focus on communication instead of exhibition to succeed as a professional.</p>
 <p>Your goal is to convey simple messages.</p>
-</details>
-
-
-
-**AVOID:**
+<p><strong>AVOID:</strong></p>
 
 1. Big paragraphs.
 2. Compound, complex, and long, compound-complex sentences.
 3. Fancy or complicated words.
 
-Our goal is to reinforce your understanding of the basic rules.
+<p>Our goal is to reinforce your understanding of the basic rules.</p>
+<p>You can go back to adding flair to your communication after you've mastered the basics.</p>
+<p>Please read **REMOVING BAD HABITS** as many times as you need.</p>
+<p>Send us an email for questions.</p>
+</details>
 
-You can go back to adding flair to your communication after you've mastered the basics.
 
-Please read **REMOVING BAD HABITS** as many times as you need.
 
-Send us an email for questions.
+
+
+
+
 
 ## Most important lessons:
 
