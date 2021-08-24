@@ -40,9 +40,23 @@ I talked about it in detail on this lesson.
 
 ### How do I improve my English?
 
-Don't watch English movies.
+Don't watch English movies. Here are better ways to use your time.
+<details>
+	<summary>Read more.</summary>
+	<br>
+	<br>
+	<p>Speak regularly to</p>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p><a href="https://callcentertrainingtips.com/interview-notes/">READ:Write everyday</a>.</p>
+	<p><a href=""></a></p>
+	<p><a href=""></a></p>
+</details>
+<br>
 
-Read "[Write everyday](https://callcentertrainingtips.com/interview-notes/)".
+
+
 
 Read "[Talk to someone who speaks English well](https://callcentertrainingtips.com/speak-english/)".
 
@@ -198,3 +212,21 @@ Then share your writing with friends and mentors.
 Keep making improvements.
 
 Keep trying to find what's wrong and make corrections.
+
+
+
+
+
+<details>
+	<summary>Read more.</summary>
+	<br>
+	<br>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p><a href=""></a></p>
+	<p><a href=""></a></p>
+	<p><a href=""></a></p>
+</details>
+<br>
