@@ -110,9 +110,9 @@ I get stuck too. I'll share my technique.
 	<br>
 	<br>
 	<p>Don't waste your effort composing paragraphs with five or more sentences.</p>
-	<p></p>
-	<p></p>
-	<p></p>
+	<p>Treat each sentence like a paragraph.</p>
+	<p>Include a space above and below your sentence.</p>
+	<p>Give each sentence it's own line.</p>
 	<p></p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
@@ -127,11 +127,11 @@ I get stuck too. I'll share my technique.
 	<summary>Read more.</summary>
 	<br>
 	<br>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
+	<p>Don't put all your ideas in one sencences.</p>
+	<p>Keep your sentences short and simple.</p>
+	<p>Avoid exceeding seven to eleven words when writing sentences.</p>
+	<p>Each sentence should only have one idea.</p>
+	<p>Ideas will flow smoother after you learn this lesson.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 <br>
@@ -145,11 +145,17 @@ I get stuck too. I'll share my technique.
 	<summary>Read more.</summary>
 	<br>
 	<br>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
+	<p>Write longer then shorter.</p>
+	<p>I write 100 sentences about myself.</p>
+	<p>I select the best fifty sentences that I can use in interviews.</p>
+	<p>I then select the best twenty sentences that will impress the interviewer.</p>
+	<p>I finally select five sentences to introduce myself to the interviewer.</p>
+	<p>I use the remaining sentences to answer follow-up questions.</p>
+	<p>My name is Kevin.</p>
+	<p>I live in Parañaque.</p>
+	<p>My previous job was sales.</p>
+	<p>I enjoy writing, exercising, and reading books.</p>
+	<p>I want to work in a call center to earn ₱30,000 a month.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 <br>
@@ -163,11 +169,12 @@ I get stuck too. I'll share my technique.
 	<summary>Read more.</summary>
 	<br>
 	<br>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
+	<p>A sentence begins with a capital letter and ends with a punctuation mark.</p>
+	<p>A sentence needs to have a subject.</p>
+	<p>A sentence needs to have a verb.</p>
+	<p>A sentence needs to have an object or receiver of the action.</p>
+	<p>Write complete sentences.</p>
+	<p>Avoid speaking in phrases.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 <br>
@@ -323,7 +330,24 @@ Practice your pronunciation.
 </details>
 <br>
 
-## Talk about 
+## Talk about your personal goals
+
+<details>
+	<summary>Read more.</summary>
+	<br>
+	<br>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
+</details>
+<br>
+
+
+
+## Talk about your career goals
 
 <details>
 	<summary>Read more.</summary>
