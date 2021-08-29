@@ -103,7 +103,7 @@ I get stuck too. I'll share my technique.
 
 ### ONE SENTENCE PARAGRAPH
 
-
+This technique fixes 90% of your grammar problems.
 
 <details>
 	<summary>Read more.</summary>
@@ -113,15 +113,14 @@ I get stuck too. I'll share my technique.
 	<p>Treat each sentence like a paragraph.</p>
 	<p>Include a space above and below your sentence.</p>
 	<p>Give each sentence it's own line.</p>
-	<p></p>
+	<p>You'll easily spot grammar problems when you write in this format.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 <br>
 
-
 ### SHORTEN SENTENCES
 
-
+Long sentences make you sound stupid. I'll share a better way to communicate.
 
 <details>
 	<summary>Read more.</summary>
@@ -139,7 +138,7 @@ I get stuck too. I'll share my technique.
 
 ### LONGER SHORTER RULES
 
-
+People claim that they're good at writing but bad at speaking. Your speaking skills actually mirror the quality of words that you can write.
 
 <details>
 	<summary>Read more.</summary>
@@ -163,7 +162,7 @@ I get stuck too. I'll share my technique.
 
 ### COMPLETE YOUR SENTENCES
 
-
+My name is Kevin. I live in Parañaque. I write complete sentences.
 
 <details>
 	<summary>Read more.</summary>
@@ -182,13 +181,13 @@ I get stuck too. I'll share my technique.
 
 ### BE SPECIFIC
 
-
+Avoid pronouns and words that don't communicate what you want to communicate. 
 
 <details>
 	<summary>Read more.</summary>
 	<br>
 	<br>
-	<p></p>
+	<p>It's always a good idea to avoid pronouns. </p>
 	<p></p>
 	<p></p>
 	<p></p>
