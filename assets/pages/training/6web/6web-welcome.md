@@ -15,21 +15,47 @@ author: Kevin Olega
 
 Please complete your lessons within the 90-day time frame to avoid expiration and additional fees.
 
+
+
+
 ### WEEK 1
 
 <a href="https://callcentertrainingtips.com/6webw1-hatch/" class="button focus">BEGIN WEEK 1</a>
 
-### WEEK 2
 
-Unlocks upon completion of previous set.
 
-### Week 3
+<details>
+	<summary><h3>WEEK 2.</h3></summary>
+	<br>
+	<br>
+	<p>Unlocks upon completion of previous set.</p>
+</details>
+<br>
 
-Unlocks upon completion of previous set.
 
-### Week 4
+<details>
+	<summary><h3>WEEK 3.</h3></summary>
+	<br>
+	<br>
+	<p>Unlocks upon completion of previous set.</p>
+</details>
+<br>
 
-Unlocks upon completion of previous set.
+<details>
+	<summary><h3>WEEK 4.</h3></summary>
+	<br>
+	<br>
+	<p>Unlocks upon completion of previous set.</p>
+</details>
+<br>
+
+<details>
+	<summary><h3>WEEK 5.</h3></summary>
+	<br>
+	<br>
+	<p>Unlocks upon completion of previous set.</p>
+</details>
+<br>
 
 ### Week 5
 

@@ -170,7 +170,7 @@ PREVIEW:
 - Where do you live?
 - What do you enjoy doing?
 
-[READ BONUS LESSON](https://callcentertrainingtips.com/act2secret)
+[READ BONUS LESSON](https://drive.google.com/file/d/1STewo-9ytr7aRehXPB7CDAfO_BcxnssU/view?usp=sharing)
 
 ### MORE BEGINNER MISTAKES
 
