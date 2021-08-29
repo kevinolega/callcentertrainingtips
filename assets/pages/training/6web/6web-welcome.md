@@ -15,54 +15,47 @@ author: Kevin Olega
 
 Please complete your lessons within the 90-day time frame to avoid expiration and additional fees.
 
-
-
-
-### WEEK 1
-
-<a href="https://callcentertrainingtips.com/6webw1-hatch/" class="button focus">BEGIN WEEK 1</a>
-
-
-
 <details>
-	<summary><h3>WEEK 2.</h3></summary>
+	<summary><strong>WEEK 1</strong></summary>
 	<br>
-	<br>
-	<p>Unlocks upon completion of previous set.</p>
+	<p><a href="https://callcentertrainingtips.com/6webw1-hatch/" class="button focus">BEGIN WEEK 1</a></p>
 </details>
 <br>
 
-
 <details>
-	<summary><h3>WEEK 3.</h3></summary>
-	<br>
+	<summary><strong>WEEK 2</strong></summary>
 	<br>
 	<p>Unlocks upon completion of previous set.</p>
 </details>
 <br>
 
 <details>
-	<summary><h3>WEEK 4.</h3></summary>
-	<br>
+	<summary><strong>WEEK 3</strong></summary>
 	<br>
 	<p>Unlocks upon completion of previous set.</p>
 </details>
 <br>
 
 <details>
-	<summary><h3>WEEK 5.</h3></summary>
-	<br>
+	<summary><strong>WEEK 4</strong></summary>
 	<br>
 	<p>Unlocks upon completion of previous set.</p>
 </details>
 <br>
 
-### Week 5
+<details>
+	<summary><strong>WEEK 5</strong></summary>
+	<br>
+	<p>Unlocks upon completion of previous set.</p>
+</details>
+<br>
 
-Unlocks upon completion of previous set.
+<details>
+	<summary><strong>WEEK 6</strong></summary>
+	<br>
+	<p>Unlocks upon completion of previous set.</p>
+</details>
+<br>
 
-### Week 6
-
-Unlocks upon completion of previous set.
 
 {% include shy-book.html %}
