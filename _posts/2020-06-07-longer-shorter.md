@@ -1,8 +1,9 @@
 --- 
-layout: page 
+layout: post 
 title: Write Longer Then Shorter
-date: 2020-06-07 09:39
-permalink: /longer2shorter/ 
+date: 2020-06-07 13:03
+Tags: [ skills, basics, English, stories, strategies, blog ]
+permalink: longer2shorter 
 author: Kevin Olega 
 --- 
 If you're a beginner, you want to make your answers as long as possible.

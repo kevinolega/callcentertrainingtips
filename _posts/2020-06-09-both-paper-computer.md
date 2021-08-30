@@ -1,10 +1,12 @@
 --- 
-layout: page 
+layout: post 
 title: Advantages of Writing on Paper and Computer
-date: 2020-06-09 13:20
-permalink: /both/ 
+date: 2020-06-09 12:53
+Tags: [ tech, tools, skills English, stories, strategies, blog ]
+permalink: both
 author: Kevin Olega 
 --- 
+
 My students and readers often ask me:
 
 > "Should I do my writing activities on paper, or should I type them on my computer?"
@@ -153,6 +155,3 @@ Scanning your writing creates a quick backup to your notes.
 You can practice resourcefulness.
 
 [This is what I did to write without a computer](https://callcentertrainingtips.com/nocomputer).
-
-
-<a href="https://callcentertrainingtips.com/6webguide/" class="button focus">RETURN TO GUIDELINES</a>

@@ -19,9 +19,11 @@ Join our affordable English lessons if you want more dedicated help.
 
 ## DEV NOTES - FUTURE UPDATES:
 
-- Add Link to Lessons
-- Update lessons page. Reformat to posts.
-- Add Signup Links
+- Add Link to Lessons DONE
+- Update lessons page. Reformat to posts. DONE
+- Add Signup Links IN PROGRESS
+- Video instructions. NEXT VERSION
+- Video Examples. NEXT VERSION
 
 ## LESSONS
 
@@ -80,7 +82,7 @@ I use both paper and computer to improve my communication skills.
 	<p>I record what I said using my phone.</p>
 	<p>I listen to how I sound and write ideas on how to improve my communciation.</p>
 	<p>I repeat the process until I'm happy with my message.</p>
-	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
+	<p><a href="https://callcentertrainingtips.com/both">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 
 ### TAGLISH AND ENGLISH
@@ -94,7 +96,7 @@ I get stuck too. I'll share my technique.
 	<p>Rewrite your ideas until you are happy with the communication.</p>
 	<p>Ideas are easier to process on paper than in your head.</p>
 	<p>Always write your ideas even if it's in Filipino, you can always translate if you need to.</p>
-	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
+	<p><a href="https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 
 ### ONE SENTENCE PARAGRAPH
@@ -108,7 +110,7 @@ This technique fixes 90% of your grammar problems.
 	<p>Include a space above and below your sentence.</p>
 	<p>Give each sentence it's own line.</p>
 	<p>You'll easily spot grammar problems when you write in this format.</p>
-	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
+	<p><a href="https://callcentertrainingtips.com/1sp/">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 
 ### SHORTEN SENTENCES
@@ -122,7 +124,8 @@ Long sentences make you sound stupid. I'll share a better way to communicate.
 	<p>Avoid exceeding seven to eleven words when writing sentences.</p>
 	<p>Each sentence should only have one idea.</p>
 	<p>Ideas will flow smoother after you learn this lesson.</p>
-	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
+	<p><a href="https://callcentertrainingtips.com/ss/">FURTHER READING: LINK TO LESSON</a></p>
+	<p><a href="https://callcentertrainingtips.com/ssse/">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 
 
@@ -143,7 +146,7 @@ People claim that they're good at writing but bad at speaking. Your speaking ski
 	<p>My previous job was sales.</p>
 	<p>I enjoy writing, exercising, and reading books.</p>
 	<p>I want to work in a call center to earn ₱30,000 a month.</p>
-	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
+	<p><a href="https://callcentertrainingtips.com/longer2shorter">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 
 ### COMPLETE YOUR SENTENCES
@@ -158,7 +161,7 @@ My name is Kevin. I live in Parañaque. I write complete sentences.
 	<p>A sentence needs to have an object or receiver of the action.</p>
 	<p>Write complete sentences.</p>
 	<p>Avoid speaking in phrases.</p>
-	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
+	<p><a href="https://callcentertrainingtips.com/complete-sentence">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 
 ### BE SPECIFIC
@@ -173,7 +176,7 @@ Avoid pronouns and words that don't communicate what you want to communicate.
 	<p>Who did what? What did he do? Where did he go?</p>
 	<p>Kevin ate at the restaurant after going to the gym.</p>
 	<p>Avoid using pronouns to avoid confusion.</p>
-	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
+	<p><a href="https://callcentertrainingtips.com/be-specific">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 <br>
 
@@ -189,7 +192,7 @@ This is a low-tech way to effectively check if you are ready.
 	<p>Listen to how your writing sounds.</p>
 	<p>Are you happy with how the message is delivered?</p>
 	<p>Read your writing aloud.</p>
-	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
+	<p><a href="https://callcentertrainingtips.com/read-test/">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 
 ## GOALS
