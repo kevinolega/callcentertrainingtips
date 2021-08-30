@@ -24,7 +24,6 @@ Grammar problems are easier to spot on paper.
 <details>
 	<summary>Read more.</summary>
 	<br>
-	<br>
 	<p>Write as if you are speaking to another person.</p>
 	<p>Practice writing everything that you want to say.</p>
 	<p>Include all the details.</p>
