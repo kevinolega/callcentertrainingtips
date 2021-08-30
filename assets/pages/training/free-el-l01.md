@@ -36,7 +36,7 @@ Grammar problems are easier to spot on paper.
 	<p>Include all the details.</p>
 	<p>Fix the grammar on paper.</p>
 	<p>You'll sound a lot better when you begin speaking.</p>
-	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
+	<p><a href="https://drive.google.com/file/d/1pOn2YAtoBk5xtdly-KDHGnzBrx2f_ZAr/view?usp=sharing">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 
 ### CAPITALIZATION AND PUNCTUATION
@@ -50,7 +50,7 @@ A sentence begins with a capital letter and ends with a period.
 	<p>Kevin, Parañaque City, Philippines, West Contact Services, and other proper nouns are written as capital letters.</p>
 	<p>Sentences need to end with a punctuation marke like a period, question mark, or exclamation point.</p>
 	<p>Failing to do so will give interviewers a bad impression of your communication skills.</p>
-	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
+	<p><a href="https://callcentertrainingtips.com/capitalization-punctuation">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 
 ### USE TECHNOLOGY AND TOOLS
@@ -65,7 +65,7 @@ You're allowed to use tools if you don't know how to answer.
 	<p>Use Google Translate to get ideas on how to communicate your message.</p>
 	<p>Tools help spot 90% of your errors.</p>
 	<p>Using tools is not cheating.</p>
-	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
+	<p><a href="https://callcentertrainingtips.com/grammar-tools">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 
 ### WRITING METHOD
