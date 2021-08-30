@@ -18,6 +18,7 @@ Join our affordable English lessons if you want more dedicated help.
 ## DEV NOTES - FUTURE UPDATES:
 
 - Add Link to Lessons
+- Update lessons page. Reformat to posts.
 - Add Signup Links
 
 ## LESSONS
