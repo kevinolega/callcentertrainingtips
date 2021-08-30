@@ -189,9 +189,6 @@ This is a low-tech way to effectively check if you are ready.
 	<p>Read your writing aloud.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
-
-
 
 ## GOALS
 
@@ -220,7 +217,6 @@ Read the instructions carefully.
 Text and video training materials are provided for the free version.
 
 Zoom and online meetups will be announced via email.
-
 
 ## ASSESSMENT
 
