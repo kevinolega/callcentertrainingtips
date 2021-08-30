@@ -11,7 +11,9 @@ Welcome to our Free English Lessons.
 
 Here is level one!
 
-Please read the lessons and
+Please read the lessons and answer the questions.
+
+The best way to learn anything is by doing.
 
 Join our affordable English lessons if you want more dedicated help.
 
