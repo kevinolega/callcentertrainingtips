@@ -37,8 +37,6 @@ A sentence begins with a capital letter and ends with a period.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>A sentence always begins with a capital letter.</p>
 	<p>Proper nouns such as names, places, things, and events begin with a capital letter.</p>
 	<p>Kevin, Parañaque City, Philippines, West Contact Services, and other proper nouns are written as capital letters.</p>
@@ -53,8 +51,6 @@ You're allowed to use tools if you don't know how to answer.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>Use the built-in spelling and grammar checker on Google Docs.</p>
 	<p>Use the free Grammarly.com service.</p>
 	<p>Google words that you don't know.</p>
@@ -70,8 +66,6 @@ I use both paper and computer to improve my communication skills.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>I write my ideas on scratch paper.</p>
 	<p>I rewrite important ideas in my notebook.</p>
 	<p>I format and encode my writing on my computer.</p>
@@ -87,8 +81,6 @@ I get stuck too. I'll share my technique.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>Write your ideas in Taglish.</p>
 	<p>Convert your sentences into English.</p>
 	<p>Rewrite your ideas until you are happy with the communication.</p>
@@ -103,8 +95,6 @@ This technique fixes 90% of your grammar problems.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>Don't waste your effort composing paragraphs with five or more sentences.</p>
 	<p>Treat each sentence like a paragraph.</p>
 	<p>Include a space above and below your sentence.</p>
@@ -119,8 +109,6 @@ Long sentences make you sound stupid. I'll share a better way to communicate.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>Don't put all your ideas in one sencences.</p>
 	<p>Keep your sentences short and simple.</p>
 	<p>Avoid exceeding seven to eleven words when writing sentences.</p>
@@ -136,8 +124,6 @@ People claim that they're good at writing but bad at speaking. Your speaking ski
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>Write longer then shorter.</p>
 	<p>I write 100 sentences about myself.</p>
 	<p>I select the best fifty sentences that I can use in interviews.</p>
@@ -158,8 +144,6 @@ My name is Kevin. I live in Parañaque. I write complete sentences.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>A sentence begins with a capital letter and ends with a punctuation mark.</p>
 	<p>A sentence needs to have a subject.</p>
 	<p>A sentence needs to have a verb.</p>
@@ -175,8 +159,6 @@ Avoid pronouns and words that don't communicate what you want to communicate.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>It's always a good idea to avoid pronouns. </p>
 	<p>Overused pronouns create problems because you can get confused.</p>
 	<p>He did it after going there.</p>
@@ -194,8 +176,6 @@ This is a low-tech way to effectively check if you are ready.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>We sometimes don't have access to a spelling and grammar check software.</p>
 	<p>Read what you've written aloud.</p>
 	<p>Listen to how your writing sounds.</p>
@@ -254,8 +234,6 @@ I'm going to leave some examples.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>My name is Kevin.</p>
 	<p>I live in Parañaque.</p>
 	<p>I worked in sales.</p>
@@ -276,8 +254,6 @@ I'm going to leave some examples.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>I studied at iAcademy Makati.</p>
 	<p>I studied business management.</p>
 	<p>I had some programming courses.</p>
@@ -300,8 +276,6 @@ I'm going to leave some examples.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>I was a part-time store clerk for a family business in 2005.</p>
 	<p>I got my first job as a mall promodizer the same year.</p>
 	<p>I worked selling real estate.</p>
@@ -333,8 +307,6 @@ I'm going to leave some examples.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>I read a lot of books.</p>
 	<p>I've been writing about my ideas and experience since 2005.</p>
 	<p>I write every day.</p>
@@ -358,8 +330,6 @@ I'm going to leave some examples.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>I'm proud of my cooking skills.</p>
 	<p>I got into an accident when I was younger.</p>
 	<p>My family kept me out of the kitchen and as a result I didn't have any cooking skills.</p>
@@ -388,13 +358,33 @@ I'm going to leave some examples.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
+	<p>Our family didn't have enough money.</p>
+	<p>I got kicked out of college because of poor communication skills.</p>
+	<p>I got a job at a promodizer.</p>
+	<p>I was only earning six thousand pesos a month.</p>
+	<p>My boss recommended I continue studying.</p>
+	<p>I spent money buying books.</p>
+	<p>I spent my bonus to pay for training and seminars.</p>
+	<p>I got better jobs when I got better skills.</p>
+	<p>I started getting better quality jobs as my communication got better.</p>
+	<p>I've received support and advice that got me to where I am today.</p>
+	<p>It wasn't always easy.</p>
+	<p>Speaking to people is hard.</p>
+	<p>I was a naturally shy person.</p>
+	<p>I tended to say the wrong words.</p>
+	<p>I was always rejected by people.</p>
+	<p>I spent a long time feeling depressed.</p>
+	<p>I kept going anyway.</p>
+	<p>I spent all my available resources to learn skills and get better.</p>
+	<p>I was writing and taking notes every day.</p>
+	<p>I was studying on the bus, during lunch breaks, and before going to sleep.</p>
+	<p>I said no to a lot of invitations.</p>
+	<p>I eventually won.</p>
+	<p>However, it wasn't easy.</p>
+	<p>Learning skills seems to be the best solution to solving personal and financial problems.</p>
+	<p>How about you?</p>
+	<p>Share a story about how you solved a problem.</p>
+
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 
@@ -402,8 +392,6 @@ I'm going to leave some examples.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>It's unfortunate that I'm writing this in 2021.</p>
 	<p>I already achieved most of my career goals.</p>
 	<p>I've hit all the milestones that I thought I could only wish or pray for when I was younger.</p>
@@ -432,9 +420,8 @@ I'm going to leave some examples.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
 	<p>I'm really happy where I am right now.</p>
+	<p>I've already bought everything that I've wanted to buy.</p>
 	<p>I have a few more items on my list.</p>
 	<p>I'd love to increase my income to $2,500 a month.</p>
 	<p>I'd love to learn how to program.</p>
