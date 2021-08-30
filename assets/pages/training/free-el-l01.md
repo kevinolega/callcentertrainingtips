@@ -48,8 +48,6 @@ A sentence begins with a capital letter and ends with a period.
 	<p>Failing to do so will give interviewers a bad impression of your communication skills.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
-
 
 ### USE TECHNOLOGY AND TOOLS
 
@@ -116,7 +114,6 @@ This technique fixes 90% of your grammar problems.
 	<p>You'll easily spot grammar problems when you write in this format.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
 
 ### SHORTEN SENTENCES
 
@@ -133,7 +130,6 @@ Long sentences make you sound stupid. I'll share a better way to communicate.
 	<p>Ideas will flow smoother after you learn this lesson.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
 
 
 ### LONGER SHORTER RULES
@@ -157,8 +153,6 @@ People claim that they're good at writing but bad at speaking. Your speaking ski
 	<p>I want to work in a call center to earn ₱30,000 a month.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
-
 
 ### COMPLETE YOUR SENTENCES
 
@@ -176,8 +170,6 @@ My name is Kevin. I live in Parañaque. I write complete sentences.
 	<p>Avoid speaking in phrases.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
-
 
 ### BE SPECIFIC
 
@@ -262,7 +254,6 @@ I'm going to leave some examples.
 
 ### Tell me something about yourself.
 
-
 <details>
 	<summary>Read more.</summary>
 	<br>
@@ -281,11 +272,9 @@ I'm going to leave some examples.
 	<p>Tell me something about yourself.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
 
 
 ### Talk about your educational background.
-
 
 <details>
 	<summary>Read more.</summary>
@@ -308,11 +297,8 @@ I'm going to leave some examples.
 	<p>What topics do you want to study?</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
-
 
 ### Talk about your work history.
-
 
 <details>
 	<summary>Read more.</summary>
@@ -343,8 +329,6 @@ I'm going to leave some examples.
 	<p>Tell me about your work history.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
-
 
 ### Describe the steps that you've taken to improve your communication skills.
 
@@ -370,8 +354,6 @@ I'm going to leave some examples.
 	<p>What steps have you taken to improve your communication skills?</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
-
 
 ### Talk about a skill that you're proud of.
 
@@ -403,8 +385,6 @@ I'm going to leave some examples.
 	<p>Tell me about a skill that you're proud of.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
-
 
 ###  Talk about a problem that you solved.
 
@@ -419,7 +399,6 @@ I'm going to leave some examples.
 	<p></p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
 
 ## Talk about your career goals
 
@@ -450,12 +429,8 @@ I'm going to leave some examples.
 	<p>What are your career goals?</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
-<br>
 
-
-
-
-## Talk about your personal goals
+### Talk about your personal goals
 
 <details>
 	<summary>Read more.</summary>
@@ -475,5 +450,15 @@ I'm going to leave some examples.
 </details>
 <br>
 
+## WHAT'S NEXT?
 
+Submit your answers to our email address.
+
+We have more free lessons.
+
+Consider purchasing our training and our books to help support our website.
+
+You can also donate money or volunter your services.
+
+Send us an email for more details.
 
