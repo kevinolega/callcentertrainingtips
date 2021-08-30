@@ -2,7 +2,7 @@
 layout: page
 title: Free English Lessons L1
 date: 2021-08-23 15:53
-permalink: fel-01 
+permalink: fel-01-white 
 author: Kevin Olega 
 --- 
 Hi there!
@@ -188,10 +188,11 @@ Avoid pronouns and words that don't communicate what you want to communicate.
 	<br>
 	<br>
 	<p>It's always a good idea to avoid pronouns. </p>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
+	<p>Overused pronouns create problems because you can get confused.</p>
+	<p>He did it after going there.</p>
+	<p>Who did what? What did he do? Where did he go?</p>
+	<p>Kevin ate at the restaurant after going to the gym.</p>
+	<p>Avoid using pronouns to avoid confusion.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 <br>
@@ -199,17 +200,17 @@ Avoid pronouns and words that don't communicate what you want to communicate.
 
 ### READ ALOUD
 
-
+This is a low-tech way to effectively check if you are ready.
 
 <details>
 	<summary>Read more.</summary>
 	<br>
 	<br>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
+	<p>We sometimes don't have access to a spelling and grammar check software.</p>
+	<p>Read what you've written aloud.</p>
+	<p>Listen to how your writing sounds.</p>
+	<p>Are you happy with how the message is delivered?</p>
+	<p>Read your writing aloud.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 <br>
@@ -224,10 +225,40 @@ Spot major grammar erros.
 
 Practice your pronunciation.
 
+Please send me a message if you have questions.
+
+I may not be able to reply instantly.
+
+I receive hundreds of messages a day.
+
+I’ll do my best to reply when I’m available.
+
+Please note that this is my community service.
+
+I have a full-time freelance job.
+
+Do your best to review the training materials thoroughly.
+
+Read the instructions carefully.
+
+Text and video training materials are provided for the free version.
+
+Zoom and online meetups will be announced via email.
 
 
 ## ASSESSMENT
 
+Aim to write more than seven sentences.
+
+Follow the single-sentence paragraph format.
+
+Shorten your sentences.
+
+Be as detailed and specific as you can.
+
+Follow the lessons I taught you earlier.
+
+I'm going to leave some examples.
 
 ### Tell me something about yourself.
 
@@ -236,11 +267,18 @@ Practice your pronunciation.
 	<summary>Read more.</summary>
 	<br>
 	<br>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
+	<p>My name is Kevin.</p>
+	<p>I live in Parañaque.</p>
+	<p>I worked in sales.</p>
+	<p>I enjoy writing and studying.</p>
+	<p>I love going to the gym.</p>
+	<p>I like investing in computers.</p>
+	<p>I'm grateful that I get to work from home.</p>
+	<p>I spend my free time taking care of my dogs.</p>
+	<p>I can deadlift 365 lbs.</p>
+	<p>I plan to go camping after the pandemic.</p>
+	<p>Now it's your turn.</p>
+	<p>Tell me something about yourself.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 <br>
@@ -253,11 +291,21 @@ Practice your pronunciation.
 	<summary>Read more.</summary>
 	<br>
 	<br>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
+	<p>I studied at iAcademy Makati.</p>
+	<p>I studied business management.</p>
+	<p>I had some programming courses.</p>
+	<p>I learned how to cook in 2016.</p>
+	<p>I got interested in sports science so I began studying strength training principles.</p>
+	<p>I bought a course in marketing and business writing.</p>
+	<p>I learned how to drive in 2018</p>
+	<p>I studied negotiations and project management back in 2019.</p>
+	<p>I studied CSS in 2020.</p>
+	<p>I studied Jekyll in 2021.</p>
+	<p>I try to learn a new skill every year.</p>
+	<p>I'm studying Javascript and databases this year.</p>
+	<p>How about you?</p>
+	<p>What topics have you studied</p>
+	<p>What topics do you want to study?</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 <br>
@@ -270,11 +318,29 @@ Practice your pronunciation.
 	<summary>Read more.</summary>
 	<br>
 	<br>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
+	<p>I was a part-time store clerk for a family business in 2005.</p>
+	<p>I got my first job as a mall promodizer the same year.</p>
+	<p>I worked selling real estate.</p>
+	<p>I made ₱300,000 selling real estate.</p>
+	<p>I transfered to an insurance company because I thought the work would be easier.</p>
+	<p>I didn't get a lot of sales working for an insurance company but I did learn a lot.</p>
+	<p>I worked for a Korean language center, and taught English to kids.</p>
+	<p>I began working for a call center school in 2007.</p>
+	<p>We helped thousands of students get hired in a call center.</p>
+	<p>Our call center school opened another company and I became a supervisor.</p>
+	<p>Unfortunately the company closed down and found myself unemployed.</p>
+	<p>I worked as a freelance salesperson and trainer for a health and beauty company.</p>
+	<p>I survived by accepting tutorial jobs near me.</p>
+	<p>I later worked for a recruitment company.</p>
+	<p>I worked in IT sales and made ₱50k a month.</p>
+	<p>I went on a mini-retirement for a year and travel using my savings.</p>
+	<p>I worked for West Contact Services in 2013 and became top agent until I left in 2016.</p>
+	<p>I started working as a professional writer in 2016.</p>
+	<p>I became a VA and got promoted to project manager.</p>
+	<p>I've been spending my free time studying different skills like programming and video editing.</p>
+	<p>My goal is to earn around $2,500 a month.</p>
+	<p>How about you?</p>
+	<p>Tell me about your work history.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 <br>
@@ -287,11 +353,21 @@ Practice your pronunciation.
 	<summary>Read more.</summary>
 	<br>
 	<br>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
+	<p>I read a lot of books.</p>
+	<p>I've been writing about my ideas and experience since 2005.</p>
+	<p>I write every day.</p>
+	<p>I listen to podcasts, audiobooks, interviews, and write notes.</p>
+	<p>I have ten boxes full of notes.</p>
+	<p>I have about 50,000 notes on my computer.</p>
+	<p>I also make an effort to teach others what I know.</p>
+	<p>I talk to people whenever possible.</p>
+	<p>I share my ideas.</p>
+	<p>I try to teach or sell something.</p>
+	<p>I fail a lot but I feel that I get better with every failure.</p>
+	<p>I used to watch a lot of movies but I don't feel that I make progress.</p>
+	<p>I've only made progress when I'm opening my mouth or moving my hands.</p>
+	<p>How about you?</p>
+	<p>What steps have you taken to improve your communication skills?</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 <br>
@@ -304,17 +380,33 @@ Practice your pronunciation.
 	<summary>Read more.</summary>
 	<br>
 	<br>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
+	<p>I'm proud of my cooking skills.</p>
+	<p>I got into an accident when I was younger.</p>
+	<p>My family kept me out of the kitchen and as a result I didn't have any cooking skills.</p>
+	<p>I only learned how to cook when I turned twenty six.</p>
+	<p>I bought a beginners cook book.</p>
+	<p>I bought a giant french cook book.</p>
+	<p>I studies videos of Jamie Oliver, Gordon Ramsay, and Heston Blumenthal.</p>
+	<p>I watched the videos again and again.</p>
+	<p>I bought tools and ingredients then tested the recipes at home.</p>
+	<p>I invited friends to eat at my home during my rest days.</p>
+	<p>I volunteered to help at the kitchen or cook during gatherings.</p>
+	<p>I made friends with chefs and people in the food business.</p>
+	<p>I asked for tips and feedback on my cooking.</p>
+	<p>I made a friend at my call center job and we began selling food at the office.</p>
+	<p>I made a lot of money selling food at the call center.</p>
+	<p>I only cook beef and eggs these days.</p>
+	<p>I ocassionally make cheesecake and give a box to my friends as gifts.</p>
+	<p>I learned a lot of things that I was missing when I learned how to cook.</p>
+	<p>I remember that I got my call center job by talking about my cooking skills.</p>
+	<p>How about you?</p>
+	<p>Tell me about a skill that you're proud of.</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 <br>
 
 
-#
+###  Talk about a problem that you solved.
 
 <details>
 	<summary>Read more.</summary>
@@ -328,23 +420,6 @@ Practice your pronunciation.
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 <br>
-
-## Talk about your personal goals
-
-<details>
-	<summary>Read more.</summary>
-	<br>
-	<br>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
-</details>
-<br>
-
-
 
 ## Talk about your career goals
 
@@ -352,12 +427,53 @@ Practice your pronunciation.
 	<summary>Read more.</summary>
 	<br>
 	<br>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
-	<p></p>
+	<p>It's unfortunate that I'm writing this in 2021.</p>
+	<p>I already achieved most of my career goals.</p>
+	<p>I've hit all the milestones that I thought I could only wish or pray for when I was younger.</p>
+	<p>I've sold enough product to get a six-figure income.</p>
+	<p>I've helped hundreds of people get hired at their dream jobs.</p>
+	<p>I've worked in IT.</p>
+	<p>I've worked in recruitment.</p>
+	<p>I've worked in sales.</p>
+	<p>I've become a trainer.</p>
+	<p>I've become a top agent.</p>
+	<p>I've been promoted to a manager position.</p>
+	<p>I've gone on a mini-retirement.</p>
+	<p>I can now work from anywhere with an internet connection.</p>
+	<p>I'm already at my target.</p>
+	<p>There are a few things that I'm aiming for.</p>
+	<p>I'm looking to increase my income to $2,500 a month through my job.</p>
+	<p>I'd like to get better at making videos.</p>
+	<p>I'd like to complete my programming lessons.</p>
+	<p>That's it.</p>
+	<p>How about you?</p>
+	<p>What are your career goals?</p>
 	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
 </details>
 <br>
+
+
+
+
+## Talk about your personal goals
+
+<details>
+	<summary>Read more.</summary>
+	<br>
+	<br>
+	<p>I'm really happy where I am right now.</p>
+	<p>I have a few more items on my list.</p>
+	<p>I'd love to increase my income to $2,500 a month.</p>
+	<p>I'd love to learn how to program.</p>
+	<p>I'd love to spend time practicing boxing and jiujitsu.</p>
+	<p>I'd love to go on hiking and camping trips.</p>
+	<p>I'd love to hire a second assistant to take over some of my jobs so I can spend more time watching anime.</p>
+	<p>That's it.</p>
+	<p>How about you?</p>
+	<p>What are your personal goals?</p>
+	<p><a href="">FURTHER READING: LINK TO LESSON</a></p>
+</details>
+<br>
+
+
 
