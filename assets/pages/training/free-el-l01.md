@@ -15,6 +15,11 @@ Please read the lessons and
 
 Join our affordable English lessons if you want more dedicated help.
 
+## DEV NOTES - FUTURE UPDATES:
+
+- Add Link to Lessons
+- Add Signup Links
+
 ## LESSONS
 
 ### WRITING BEFORE SPEAKING
