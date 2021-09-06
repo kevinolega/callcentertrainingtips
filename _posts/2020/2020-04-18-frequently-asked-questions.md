@@ -43,8 +43,7 @@ I talked about it in detail on this lesson.
 Don't watch English movies. Here are better ways to use your time.
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
+
 	<p>Speak regularly to</p>
 	<p></p>
 	<p></p>
@@ -219,8 +218,7 @@ Keep trying to find what's wrong and make corrections.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
+
 	<p></p>
 	<p></p>
 	<p></p>

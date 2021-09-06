@@ -37,8 +37,7 @@ Our basic module covers grammar, pronuncition, listening, and confidence.
 
 <details>
 	<summary>Read more.</summary>
-	<br>
-	<br>
+
 	<p>We teach you how to confortable with introducing yourself.</p>
 	<p>We will give you lessons on how to be confident asking and answering questions.</p>
 	<p>We will teach you how to give detailed, step-by-step instructions required in many high-paying jobs.</p>
