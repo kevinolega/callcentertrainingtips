@@ -43,14 +43,14 @@ WHAT IS BPO?
 
 WHAT IS A CALL CENTER ACCOUNT?
 [Read lesson](https://callcentertrainingtips.com/call-center-account/).
-/call-center-account/ 
+
 
 WHAT DOES INBOUND AND OUTBOUND MEAN?
 [Read lesson](https://callcentertrainingtips.com/inbound-outbound/).
 
 
 WHAT DOES B2B AND B2C MEAN?
-[Read lesson](https://callcentertrainingtips.com//B2B-B2C/).
+[Read lesson](https://callcentertrainingtips.com/B2B-B2C/).
 
 COMMON CALL CENTER JOBS
 [Read lesson](https://callcentertrainingtips.com//common-jobs/).
@@ -77,7 +77,7 @@ EMAIL AND SKYPE [Read lesson](https://callcentertrainingtips.com/email-skype).
 
 GOOGLE DOCUMENTS [Read lesson](https://callcentertrainingtips.com/drive-documents).
 
-SEND PDF'S [Read lesson](https://callcentertrainingtips.com/send-pdf's).
+SEND PDF'S [Read lesson](https://callcentertrainingtips.com/send-pdf).
 
 HOW LONG IS THE JOB APPLICATION PROCESS?
 [Read lesson](https://callcentertrainingtips.com/long-process/).
