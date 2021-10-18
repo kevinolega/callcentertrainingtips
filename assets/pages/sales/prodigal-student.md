@@ -84,9 +84,9 @@ Please write a minimum of 30 sentences.
 
 ### Activity 2: Give Instructions
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wfnl6uTnMng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t2w17QfMIXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[WATCH ON YOUTUBE](https://youtu.be/Wfnl6uTnMng).
+[WATCH ON YOUTUBE](https://youtu.be/t2w17QfMIXI).
 
 Please give instructions about how to commute from your home to the mall.
 
