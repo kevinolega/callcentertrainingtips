@@ -337,13 +337,11 @@ We will look for a slot that matches your availability.
 
 Current open schedule for phone coaching are:
 
-Monday (11am-9pm)
+Friday (4 pm - 7 pm)
 
-Friday (11am-9pm)
+Saturday (5 pm - 9 pm)
 
-Saturday (11am-9pm)
-
-Sunday (4pm-9pm)
+Sunday (4 pm - 9 pm)
 
 Please let us know if you require a schedule outside of the available options.
 

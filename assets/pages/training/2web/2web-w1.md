@@ -7,13 +7,13 @@ author: Kevin Olega
 --- 
 ## INSTRUCTIONS
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WPeyxeywTxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rOvYh6UMQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Watch the video until the end.
 
 Please let me know that you finished watching the video. 
 
-[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/WPeyxeywTxA).
+[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/1rOvYh6UMQM).
 
 
 Please read all the lessons and instructions carefully.
@@ -162,13 +162,13 @@ PREVIEW:
 - I used to work as.
 - I used to work for.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyA9h835MZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ju9H7ZEbn5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Watch the video until the end.
 
 Please let me know that you finished watching the video. 
 
-[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/GyA9h835MZ8).
+[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/Ju9H7ZEbn5g).
 
 ## LESSON 2 
 
@@ -291,11 +291,11 @@ I'd like to point out that is the most important lesson in the the module.
 
 If you can shorten all of your sentences, everything you write and say will be error-free and easy to understand.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eOrdQlOs2bI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/73guG1Usr_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Let me know that you're done.
 
-[COMMENT](https://youtu.be/eOrdQlOs2bI).
+[COMMENT](https://youtu.be/73guG1Usr_c).
 
 ADDITIONAL READING:
 

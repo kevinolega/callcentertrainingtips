@@ -153,11 +153,11 @@ We also give interview and career advice.
 
 ## TRAINING MODULE SAMPLES
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyA9h835MZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ju9H7ZEbn5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Please let me know that you finished watching the video. 
 
-[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/GyA9h835MZ8).
+[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/Ju9H7ZEbn5g).
 
 [CLICK HERE TO ACCESS OUR YOUTUBE CHANNEL](https://youtube.com/callcentertrainingtips?sub_confirmation=1)
 

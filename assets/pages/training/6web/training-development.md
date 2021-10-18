@@ -16,10 +16,10 @@ Access to additional lessons will be available soon.
 <details>
     <summary>Read more</summary>
 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/WPeyxeywTxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1rOvYh6UMQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <p>Watch the video until the end.</p>
 <p>Please let me know that you finished watching the video. </p>
-<p>[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/WPeyxeywTxA).</p>
+<p>[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/1rOvYh6UMQM).</p>
 </details>
 
 {% include el-reminders.html %}
@@ -60,13 +60,13 @@ PREVIEW:
 - I used to work as.
 - I used to work for.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyA9h835MZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ju9H7ZEbn5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Watch the video until the end.
 
 Let me know that you finished watching the video. 
 
-[LEAVE A COMMENT](https://youtu.be/GyA9h835MZ8).
+[LEAVE A COMMENT](https://youtu.be/Ju9H7ZEbn5g).
 
 ### HELP!!!
 

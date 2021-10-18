@@ -309,7 +309,7 @@ Please send a text to 09178952637 for Globe or 09190078440 for Smart.
 
 If you miss phone coaching, please send us a message with three options of your next available time, and we will check our schedule if we can accommodate you. If we are not available, the session continues on your following schedule.
 
-> "Hi, this is Mitzi Cruz, I'd like to reschedule my phone coaching session. I'm available at 6pm on Friday, Saturday and Monday. Thanks"
+> "Hi, this is Mitzi Cruz, I'd like to reschedule my phone coaching session. I'm available at 6pm on Saturday and Monday. Thanks"
 
 ## Have Fun
 

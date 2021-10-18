@@ -72,13 +72,13 @@ PLEASE WRITE 30 SENTENCES FOR EACH ACTIVITY.
 
 ### Activity 1: Introduce Yourself.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyA9h835MZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ju9H7ZEbn5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Watch the video until the end.
 
 Please let me know that you finished watching the video. 
 
-[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/GyA9h835MZ8).
+[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/Ju9H7ZEbn5g).
 
 Please write a minimum of 30 sentences.
 
