@@ -29,7 +29,6 @@ Please be sure that you submitted the following information.
 
 Current open schedule for phone coaching are:
 
-- Monday (10am-9pm)
 - Friday (10am-10pm)
 - Saturday (10am-10pm)
 - Sunday (5pm-9pm)

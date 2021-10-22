@@ -34,6 +34,10 @@ Here are some sample lessons.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rZWm8hfsXog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## HOW I ANSWER INTERVIEW QUESTIONS
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q0b1LcvqMFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## HOW I HANDLE INTERVIEWS
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RZpVoztDe84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
