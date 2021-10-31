@@ -26,6 +26,10 @@ I'll email you some free lessons.
 
 Here are some sample lessons.
 
+## HOW TO BECOME A SUCCESSFUL FREELANCER IN ONE MINUTE
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmUspFl7Mqw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## HOW I INTRODUCE MYSELF TO CLIENTS
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AzK7M1Y_O9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
