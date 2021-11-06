@@ -57,3 +57,14 @@ This process might take 10 or 20 years. Expect to spend about ₱5,000 a month.
 These are my core side hustle recommendations for basic business and freelancing skills.
 
 Send me a message if you have any questions.
+
+
+### Expand your products and services
+
+The above examples are base versions of what you can do.
+
+I you successfully made ₱1,000 selling online, repeat the process.
+
+If you made ₱10,000 selling online put in more effort.
+
+Earning money from a business involves repeating a process that works.
