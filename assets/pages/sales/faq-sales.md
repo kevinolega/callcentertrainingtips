@@ -5,6 +5,29 @@ date: 2020-06-17 01:08
 permalink: /faq6sales/ 
 author: Kevin Olega 
 --- 
+## Tell me more about your program
+
+We designed our program to help our students become comfortable speaking English during interviews and everyday conversations.
+
+We use writing exercises to help you practice expressing your thoughts, discover your grammar problems, and reveal your deficiencies.
+
+We conduct a phone coaching session to discuss corrections and give you advice on how to communicate more effectively.
+
+The lessons help applicants prepare for BPO work, sales and supervisory roles.
+
+The activities benefit almost any job.
+
+You can confidently perform the following tasks after completing the exercises:
+
+1. Introduce yourself.
+2. Ask questions.
+3. Give instructions.
+4. Share stories.
+
+We will always have an opportunity for Q&A during the phone coaching and email activities.
+
+If you need me to help you with a weakness that's bothering you, let me know, and I will help you with that.
+
 ## Is The Fee Per Day?
 
 Our program starts at ₱557 for one week with ten lessons and one coaching session.
@@ -61,6 +84,28 @@ Our basic module covers grammar, pronuncition, listening, and confidence.
 
 ## Are You Legit?
 
+Please don't trust us blindly. 
+
+We only provide English lessons. 
+
+We have students who succeed and we also have students who fail. 
+
+We only provide lessons and guidance. 
+
+We send writing exercises to our students and we check their answers.
+
+We teach our students what to fix and we give advice on how to sound better. 
+
+We give you access to a library, an exercise area, and an instructor.
+
+That's it. 
+
+There's nothing magical about our lessons.
+
+If your expectation is when you enroll, you'll magically qualify for a high paying job, then you have the WRONG IDEA.
+
+Success requires work.
+
 ## What is The Schedule of Phone Coaching?
 
 ## What is The Schedule of Writing Exercises?
@@ -87,6 +132,12 @@ We teach communication skills in preparation for professional situations.
 That option is available. 
 
 ## Do You Offer Certificate?
+
+Helping our student sharpen their communication skills is our main focus.
+
+We do award a certificate of completion that says you participated in our six week English lessons.
+
+However, we sincerely believe that upgrading your communication skills is more valuable than any certificate.
 
 ## Do You Give Certificate Upon Enrollment?
 
@@ -119,3 +170,13 @@ Pero if low priority lang talaga, get the lower plan kasi sayang if you get six 
 ## Can I Use BDO?
 ## Can I Use BPI?
 ## Can I Use Palawan?
+## What is your history?
+
+We began sharing interview advice on our website in 2009.
+
+In 2014, we started to share tips to assist BPO workers.
+
+We were also accepting coffeeshop tutorial sessions for Php 600 a session.
+
+In December 2019, we began to offer English lessons.
+
