@@ -13,6 +13,7 @@ author: Kevin Olega
 {% include el-writing-exercise.html %}
 {% include el-phone-coaching.html %}
 {% include el-student-participation.html %}
+{% include el-module-focus.html %}
 {% include el-promo-price.html %}
 {% include el-payment-info.html %}
 {% include el-enrollment-info.html %}
