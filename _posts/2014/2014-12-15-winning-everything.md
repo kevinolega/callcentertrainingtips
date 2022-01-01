@@ -1,374 +1,252 @@
 ---
 layout: post
-title: TRAINING SUCKS BUT WINNING IS EVERYTHING
+title: Training Sucks But Winning is Everything
 date: 2014-12-15 03:44
 author: Kevin Olega
 comments: true
 categories: [Lessons]
 ---
+Training sucks
+
+But winning is everything
+
 I was walking around Ayala one day.
 
-I saw a fat guy that had the words at the front that reads “**Training sucks**.” 
+I saw a fat guy with a shirt that says *"Training sucks"* in front then a hundred or so thoughts go through my head.
 
-A hundred or so thoughts then go through my head.
-
-I remember martial arts training.
-
-I remember sales training.
-
-I remember customer service training.
-
-I remember entrepreneurship training.
-
-I remember culinary training.
-
-I remember the value each of the training I attended had on me.
-
-I remember how each of the skills I had sucked.
-
-I only became decent after training.
+- I remember Martial Arts training
+- I remember sales training.
+- I remember customer service training
+- I remember entrepreneurship training.
+- I remember culinary training.
+- I remember the value each of the trainings had on me.
+- I remember how each of the skills I had sucked until after the training.
 
 I suddenly hated the fat guy. 
 
 I found the message on his shirt offensive. 
 
-I passed judgment on the fat guy.
+As I passed judgment on him, thinking the guy is a loser I asked myself, is that the only thing there is to his message? 
 
-I thought the guy is a loser.
+"Training sucks?" WTF right? 
 
-I found myself asking, “is that the only thing there is to his message?”
+I looked at his back and surprisingly, I saw the continuation. 
 
-Training sucks?
+A punchline of sorts. 
 
-WTF right? 
+It said. 
 
-I looked back at the fat guy as we passed each other.
+## "But winning is everything." 
 
-I wanted to give him another dirty look.
+I suddenly felt that I could relate with the fat guy. 
 
-I saw that the back of his shirt had more words.
+In a lot of situations, training sucks. 
 
-I was surprised when I saw the continuation of the message.
+It's not always enjoyable. 
 
-The continuation was a punchline of sorts. 
+Your weaknesses will be revealed. 
 
-The back of his shirt read, “**but winning is everything**.” 
+*Bad habits* will be **broken.** 
 
-I suddenly felt that I could relate to the fat guy. 
+*New habits* will be **learned.** 
 
-Training sucks in a lot of situations. 
+Many things that you're not familiar with will be introduced and it will be awkward. 
 
-Training is not always enjoyable. 
+You will make mistakes and maybe some people will laugh at you.
 
-Training will reveal your weakness.
+### Here are some trade-offs.
 
-Training will break your bad habits.
-
-Training will give you new habits.
-
-Training fights ignorance.
-
-Training will introduce many new ideas.
-
-Your training experience will almost always be awkward. 
-
-You will make mistakes.
-
-Maybe some people will laugh at you.
-
-Here are some trade-offs to persisting in training.
-
-You will learn a valuable skill that nobody can take away from you.
-
-The process of learning a skill is the same for everybody.
-
-All beginners will have to go through the exact same process.
-
-All beginners will need to overcome painful hardships.
-
-That painful experience you’re going through is experienced by all students of the skill you’re learning. 
+- You will learn a useful skill that nobody can take away from you.
+- If anyone else wants to learn the skill you are working on now, they will have to go through exactly the same (possibly painful) process and hardships that you are going through.
 
 Training sucks, but winning is everything. 
 
-Winning is not everything for me.
+Winning is not everything for me.*
 
-I’m not willing to do unethical things to win. 
+I'm not willing to do unethical things to win. 
 
 Except maybe kick someone in the balls in a fight. 
 
 I try not to do so. 
 
-But in my excitement, my foot finds its way in all sorts of places.
+But in my excitement my foot finds its way there.
 
-In this lesson, I don’t want to highlight winning is everything. 
+In this lesson  I don't want to highlight winning is everything. 
 
-I want to highlight the value of training.
+What I want to highlight is the value of training.
 
-Training teaches you the objectives and tasks.
+**Training teaches you:**
 
-Training also teaches you the skills and steps.
+- The objectives and tasks
+- The skills and steps.
 
-Training enables you to win.
-
-Training teaches you what to do.
-
-Training teaches you what to ignore.
-
-Training teaches you what to do well.
+Training enables you to win because it teaches you what to do and what to do well.
 
 Let me try to explain more clearly.
 
-You get your dream when you achieve your goals.
+Each dream has goals. 
 
-Goals require the completion of some tasks.
+Goals requires some tasks to be completed. 
 
-Tasks are accomplished through a combination of skills.
+Tasks require skills or a combination of skills.
 
-Skills are a combination of techniques.
+**If your goal is to get hired in a call center,** *here's a breakdown of what is needed:*
 
-Techniques are a combination of moves.
+## Three Job Offers
 
-Moves are a combination of steps.
+To get hired in a call center where you're really happy with the job I recommend having three job offers. 
 
-Here’s a breakdown of what is needed if your goal is to get hired in a call center:
+You can have more than 3-5 but you generally need three to choose one where you'll be satisfied with the offer.
 
-### Three Job Offers
+## Ten good interviews
 
-Three job offers are needed to find a great job offer.
+Ten good interviews doesn't mean you need a job offer at the end. 
 
-A great offer is a job that pays well and has perks that make you happy.
+These are interviews where you felt you've given your best. 
 
-You can aim to have more than 3-5 job offers.
+You came prepared and you delivered your best introduction, you arrived on time, you gave them a clean resume. 
 
-You generally need three to have a point of comparison on what’s great and what’s a bad deal.
+You felt you explained clearly what makes you a good fit for the job and win or lose you've given it your best so you feel it is a good interview.
 
-### Ten good interviews
+## Five bad interviews.
 
-Ten good interviews don’t mean you automatically get a job offer in the end. 
+None of us are professional job applicants. 
 
-You begin to perform your best after you’ve gone to close to ten interviews.
+This might be the first time in a long time where you're applying for a job. 
 
-Close to ten interviews, you manage came prepared,
+You're a bit rusty with your introductions. 
 
-You delivered your best introduction.
+You don't know the area and you arrive late or worse, looking like a mess. 
 
-You arrived on time.
- 
-You gave them a clean resume. 
+There's an interview answer that you feel would be a good answer that's actually a bad answer. 
 
-You explained yourself clearly.
+You're not confident with your delivery and hesitating with your answer makes the interviewer think you're giving them bullshit. 
 
-You discussed what makes you a good fit for the job.
+You haven't read about how to prepare for an interview and you forgot something important. 
 
-You lose some interviews.
+I experience this all the time. 
 
-Win or lose, you feel great.
+I've switched jobs many times and I'm sure I've messed up at least three interviews every time I switch jobs. 
 
-You know in your heart that you’ve given your best.
+You know those examples I'm giving out? 
 
-### Five bad interviews.
+I've had these problems. 
 
-We are not professional job applicants. 
+I know them well because I've encountered these problems personally. 
 
-This might be the first time you’re being interviewed for a job.
+The good news is nobody gives a shit about you enough to keep a record of who you are and your past mistakes. 
 
-This might be the first time in a long time that you’re attending a job interview.
+So the next interview is always an opportunity to do better. 
 
-You may be a bit rusty with your introductions. 
+If you're playing a game and you die, you can try again. 
 
-You may be a bit careless with some of your descriptions.
+Same thing happens with interviews. 
 
-You don’t know the area of the interview.
+You might use time and money to play but you get experience and you get to play better.
 
-You arrive late or worse.
+## A list of fifteen companies you're going to
 
-You arrive at your interview looking like a mess. 
+It's hard to remember objectives when things get emotional. 
 
-There’s an interview answer that you’re convinced would be a good answer that’s actually a bad answer. 
+As I've said, you might make a few mistakes and it will cause you to want to quit. 
 
-You’re not confident with the delivery of your interview answer.
+It's embarrassing to make mistakes. 
 
-Hesitating with your answer made the interviewer think you’re giving them bullshit. 
+The three hardest words in the English language are "I don't know" we have a hard time admitting we are wrong. 
 
-You haven’t read about how to prepare for an interview.
+I guess the second hardest is "I messed up". 
 
-You forgot something important. 
+Whenever the emotions are high we end up doing dumber things until we reach our lowest point. 
 
-I experience these errors all the time. 
-
-I’ve switched jobs enough times to know for sure I’ve messed up.
-
-I’ve messed up at least three interviews every time I switch jobs. 
-
-You know those examples I’m giving out? 
-
-I’ve had these exact problems. 
-
-Every time I make fun of a stupid job applicant, I was actually talking about myself.
-
-I’m a stupid job applicant.
-
-I only realize my stupidity when I’m writing my story.
-
-I also realize the valuable lesson within the story.
-
-I know how to pass interviews well because I’ve encountered many problems personally. 
-
-The good news is nobody gives a shit about you.
-
-Nobody cares enough to keep a record of who you are and what your past mistakes are. 
-
-The next interview is always an opportunity to do better. 
-
-If you’re playing a video game and you die, you can try again. 
-
-The same thing happens with interviews. 
-
-You might use time and money to play, but you gain experience, and you learn to play better.
-
-### List of twenty companies you’re visiting.
-
-It’s hard to remember objectives when you get emotional. 
-
-As I’ve said, you’ll make enough mistakes to cause you to want to quit. 
-
-You’ll make lots of embarrassing mistakes. 
-
-The three hardest words to say in the English language are the words “I don’t know.” 
-
-We have an extremely difficult time admitting we are wrong. 
-
-I guess the second hardest group of words to say is “I messed up.” 
-
-We end up doing dumber things until we reach our lowest point. 
-
-Whenever the emotions are high, we end up piling mistakes over mistakes.
-
-It takes practice, a few skills, and lots of reminders to pick yourself up from a fall. 
+It takes practice and a few skills and lots of reminders to pick yourself up from a fall. 
 
 I smoked a lot when I felt bad. 
 
-I spend a lot of money when I felt depressed. 
+I spend a lot of money when I'm depressed. 
 
-We both know those two activities are harmful.
+We both know those things are harmful but when you're there and the emotion is felt, it's extremely hard to resist. 
 
-However, when you’re in those situations and you’re overwhelmed with emotions, it’s extremely hard to resist the temptation of harmful activities. 
+A list tells you that you haven't done everything you can yet. 
 
-A list of companies tells you that you haven’t done everything yet. 
+If you feel like quitting and you haven't crossed off every company yet, then you have work to do, you'll tell yourself. 
 
-There are still more things that you can do.
+Make a list and visit each company. 
 
-If you feel like quitting, and you haven’t crossed off every company yet, tell yourself, “you have more work to do.”
+Walk in if you have to. Just cross out every company on the list.
 
-Make a list and visit each company in your list. 
+## Fifty Online Applications
 
-Walk-in and submit your resume in person if you have to. 
+If you're looking for a call center job, you'll just need to send out applications. 
 
-Work on crossing out every company on the list.
+This is both the easiest step and the reason why most people fail. It's also easy not to do. 
 
-### Two Hundred Online Job Applications
+All you need to do here is put up your resume on Jobstreet and JobsDB and submit an application to fifty companies. 
 
-If you’re looking for a high-paying job, you’ll just need to send out online applications. 
+It'll take you maybe two hours and you'll just need to send the applications.
 
-Sending online applications is both the easiest step and the reason why most people fail. 
+## A simple resume
 
-Sending online applications is easy to do.
+A resume is simply a piece of paper with your contact information, work history and skills. 
 
-Sending online applications is also easy not to do. 
-
-All you need to do here is upload your resume on a job search website.
-
-Do a job search on your target jobs.
-
-Submit your job application to 200 companies.
-
-It will take you maybe two hours to set up your account.
-
-It might take you twenty minutes to review a job opening and submit your resume.
-
-Twenty minutes per job opening is three job applications an hour.
-
-You can send 24 job applications a day on your first day.
-
-You can send 32 job applications a day when you are used to sending your application.
-
-It takes nine days to send 200 job applications if you’re slow.
-
-It takes seven days to send 200 job applications if you’re fast.
-
-### A simple resume.
-
-A resume is simply a piece of paper with your contact information, work history, and skills. 
-
-Make sure that your resume tells your potential employer what tasks you were responsible for and what results were you were in charge of. 
+Make sure it tells them what you were responsible for and in charge of. 
 
 Highlight skills and experiences that you might find useful. 
 
-Do not include your personal info like height and weight.
+Do not include your personal info like height and weight, you're applying for call center work and not as a promo girl.
 
-You’re applying for a high-paying job and not as a promo girl.
+## Money to get started.
 
-### Money to get started.
+If you're going to quit your job, or something don't do so until you can support yourself. 
 
-If you’re going to quit your job to get a higher-paying job, don’t do so until you can support yourself. 
+If you have bills to pay or responsibilities due to people you are supporting, don't do so until you have enough money. 
 
-If you have bills to pay or responsibilities due to people you are supporting, don’t quit until you have a job offer.
+Here's my computation and these are based on my situation. 
 
-Do not attempt to change careers until you have enough money. 
+I live in Paranaque and I applied for Jobs in Makati and Ortigas. 
 
-Here’s my computation, and these are based on my situation. 
+Some days I spend Php 100 - Php 150 on transportation and Php 50- Php 100 on food. It's always cool to have extra money for other expenses. 
 
-I live in Paranaque, and I applied for Jobs in Makati and Ortigas. 
+I strongly recommend that you make a computation based on your situation but if you want a quick estimate or a format.
 
-Some days I spend ₱100 - ₱150 on transportation and ₱50-₱100 on food. 
+One month of expenses.
 
-It’s always cool to have extra money for other expenses. 
+150 for transportation per day.
 
-I strongly recommend that you make a computation based on your situation.
+100 for food per day.
 
-I prepared a computation if you want a quick estimate.
+Multiply it by twenty days for job application and fifteen days for going to work until your first paycheck. 
 
-One month of expenses means ₱150 for transportation per day plus ₱100 for food per day.
+That's a total of thirty-five days for your job application process and time until your first paycheck.
 
-Multiply your expenses by twenty days for a job application and fifteen days for going to work until your first paycheck. 
+**Other expenses include:**
 
-(DAILY EXPENSE X 20) + (DAILY EXPENSES X 15) = TOTAL COST
-
-That’s a total of thirty-five days for your job application process and time until your first paycheck.
-
-Other expenses include:
-
-- ₱150 to print your resume
-- ₱60 for three hours of computer shop time.
-- ₱300 for NBI clearance or so.
-- ₱70 for ID pictures (I get mine from Tronix)
+- Php 150 to print your resume
+- Php 60 for three hours of computer shop time.
+- Php 300 for NBI clearance or so.
+- Php 70 for ID pictures (I get mine from tronix)
 
 Some people ask me to train them for free because they have zero money. 
 
-That’s a bad idea. 
+That's a bad idea. 
 
-I don’t train them at all. 
+I don't train them at all. 
 
-I give links to my website.
+If you have zero money, you won't get hired because you need money to go to work.
 
-My website has all the information.
+At one point my money went to zero. 
 
-You just need to spend time reading.
+To compensate I looked for a job that paid me Php 200 pesos a day for a few hours of work until I have enough money to look for work in Makati and Ortigas. 
 
-If you have zero money, you likely won’t get hired because you need money to go to work.
+That's the largest drop in pay I've experienced but I did what I needed to do. 
 
-At one point, my money went to zero. 
+Two years after I was able to negotiate almost twice my highest salary.
 
-To compensate, I looked for a nearby job that paid me ₱200 pesos a day for a few hours of work until I had enough money to look for work in the big city.
-
-₱200 a day the largest drop in pay I’ve experienced, but I did what I needed to do. 
-
-Two years later, I was able to negotiate for almost twice my highest salary.
-
-Getting hired in high-paying jobs looks complicated at first.
-
-I want to point out that the impossible project of increasing your income is simply a combination of many tiny tasks that are easy to do.
+Getting hired in a call center looks complicated at first but I want to point out that it is only a combination of small tasks that are put together.
 
 If you train yourself to do the tasks, you can achieve your goals.
 
-> Training sucks, but winning is everything.
+#### What are your thoughts? 
+
+#### Do you have the same experience as I did? 
+
+Please leave a comment on the website.
