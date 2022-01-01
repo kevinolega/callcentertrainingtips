@@ -14,3 +14,14 @@ author: Kevin Olega
 <p>We'll sharpen your communication skills, fix your grammar and pronunciation.</p>
 
 {% include featured-testimonial-04.html %}
+{% include el-writing-exercise.html %}
+{% include el-samples.html %}
+{% include el-phone-coaching.html %}
+{% include el-student-participation.html %}
+{% include el-module-focus.html %}
+{% include el-regular-price.html %}
+{% include el-promo-price.html %}
+{% include el-payment-info.html %}
+{% include el-enrollment-info.html %}
+{% include el-signup.html %}
+{% include el-nobudget.html %}
