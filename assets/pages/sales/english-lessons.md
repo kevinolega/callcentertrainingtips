@@ -7,7 +7,7 @@ permalink: english-lessons
 redirect_from: /6WEL250/ 
 author: Kevin Olega 
 --- 
-{% include el-promo-email.html %}
+{% include el-promo-image.html %}
 {% include el-summary.html %}
 {% include featured-testimonial-04.html %}
 {% include el-writing-exercise.html %}
