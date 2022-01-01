@@ -10,7 +10,7 @@ author: Kevin Olega
 {% include el-promo-image.html %}
 
 <h2>ENGLISH LESSONS SUMMARY:</h2>
-<p>Receive training materials, writing exercises, video guides, and live phone coaching.</p>
+<p>Receive training materials, writing exercises, video guides, and live coaching.</p>
 <p>We'll sharpen your communication skills, fix your grammar and pronunciation.</p>
 
 {% include featured-testimonial-04.html %}
