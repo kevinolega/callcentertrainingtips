@@ -4,15 +4,17 @@ title: Four Lessons That Allowed Me To Land Any Job
 date: 2014-05-27 09:35
 author: Kevin Olega
 comments: true
-categories: [Lessons]
+categories: [Lessons, Practical Strategies]
 ---
 A change of attitude is all you need to get your dream job. 
 
-I don’t mean just a call center job, I mean any job that you want.
+I don’t mean just a call center job.
+
+I mean any job that you want.
 
 > For things to change, I need to change. - Jim Rohn
 
-Once you have changed your attitude, getting the skills needed to achieve your goals becomes many times easier. 
+Getting the skills needed to achieve your goals becomes more effortless after I changed my attitude.
 
 Your attitude is influenced by what you believe about yourself. 
 
@@ -20,47 +22,93 @@ What you believe about yourself is influenced by the words you use.
 
 There is no easy way to change your attitude. 
 
-Most of my attitude change is a result of me being exposed to other people’s beliefs and attitudes. 
+Most of my attitude change is a result of my exposure to other people’s beliefs and attitudes. 
 
-If I admire or like a person and they have the results that I want, I copy what I find useful. 
+I copy what I find helpful from people who I admire and have the exact results that I want for myself. 
 
-I study how they respond to situations and as I understand why the attitude works and eventually I adapt some into my own beliefs. 
+I study how successful people respond to different situations.
 
-## LESSON 1: It’s not the situation, it’s my response that affects the end result.
+I make an effort to understand why the attitude works.
 
-Some people are born with gifts and have bad results. 
+I also aspire to adopt some helpful beliefs into my daily practice eventually. 
+
+## LESSON 1: 
+
+My situation does not determine my final outcome.
+
+The final outcome is a result of how well I handle my situation.
+
+Some people are born with gifts and have poor results. 
 
 Some people start from nothing and gain the life they want. 
 
-The reality is, no matter how bad or good a situation becomes, how you play what you are given determines the outcome. 
+How you behave, and the strategies that you follow will determine the end results.
 
-It’s what you choose to do with the time given to you. 
+The chef determines the end product.
 
-## LESSON 2. I am a problem solver.
+There's always something that I can do to improve a bad situation.
+
+There's also something I can do to make a good situation worse.
+
+How I play the elements that I'm given is an important factor that determines the outcome.
+
+Your situation or circumstances is not for your to decide.
+
+What you can decide is what you choose to do with the situation that's given to you.  
+
+## LESSON 2. 
+
+I am a problem solver.
 
 Companies pay me to solve their problems. 
 
-That’s a fact. 
+I get paid by providing extra hands, eyes, and brains. 
 
-If there are no problems they wouldn’t need to hire me for anything. 
+The company wouldn't need to hire me for anything if there were no problems.
+
+My usefulness is determined by my ability to solve problems.
 
 I see difficulty as an opportunity that I can take advantage of to help myself and others. 
 
-## LESSON 3. My confidence and skill level determines the size of challenges that I can overcome.
+## LESSON 3. 
 
-If I work on my skills hard enough, it will reach a level where I can make money and be happy at the same time. 
+My confidence and skill level determine the size of challenges that I can overcome.
+
+I can be happy.
+
+I can make money.
+
+I can reach higher levels.
+
+Success requires skills.
+
+I will be successful if I work on my skills hard enough.
 
 Top performers are never sad about their jobs. 
 
 My confidence influences my skill level. 
 
-If I believe I can I can try. 
+If I believe I can, I can.
+
+The only way to find out is by trying.
 
 Even if I fail, I can learn to do better. 
 
-If I have no faith in myself, I cannot move forward. I believe I am God’s masterpiece, I should act like one. 
+If I have no faith in myself, I cannot move forward. 
 
-## LESSON 4. Large challenges can be overcome if you take on problems part by part.
+I believe I am God’s masterpiece. 
+
+I should act like one. 
+
+## LESSON 4. 
+
+Break down big problems into tiny parts.
+
+Complex problems feel impossible.
+
+Little problems are easy.
+
+Organize complex problems and large challenges into tiny easy-to-do tasks.
 
 There’s no other way. 
 
@@ -68,11 +116,13 @@ If I want a job, I need to learn the skills involved.
 
 To learn the skills involved, I start with one of the skills. 
 
-To learn a skill, I need to study, imitate and practice the steps until I can do it right. 
+To learn a skill, I need to study, imitate, and practice the steps until I can do it right. 
 
 After I learn to do it right, I keep practicing until it’s so automatic I can’t do it wrong. 
 
-This process works for martial arts, this process works for cooking. 
+This process works for martial arts. 
+
+This process works for cooking. 
 
 This process works for learning a language. 
 
@@ -80,21 +130,23 @@ This process works for any game I’ve played.
 
 This process works for finding a job. 
 
-I know this because at one point I was once just like you. 
+I know this because, at one point, I was once just like you. 
 
 I had no idea what I was doing. 
 
-I just knew I had to do it so I did what I had to do. 
+I just knew I had to do it, so I did what I had to do. 
 
 I learned from wherever I can. 
 
 I practiced on a bus. 
 
-I practiced on strangers. 
+I practiced with strangers. 
 
 I practiced on the interviewer. 
 
-I felt so embarrassed but I felt that if I didn't make something out of myself I’ll stay hopeless, leaving my fate to chance. 
+I felt so embarrassed.
+
+I also felt that if I didn’t make something out of myself, I’d stay hopeless by leaving my fate to chance. 
 
 As I learned steps, I learned skills. 
 
@@ -102,9 +154,15 @@ As I learned skills, my confidence increased naturally.
 
 As my confidence increased, I performed well at anything that I did. 
 
-As I performed better, my pay got better, my life got better, my everything else got better. 
+As I performed better, my pay got better. 
 
-I can’t be your girlfriend, but I can write about my experience to show you what I did so you can do the same.
+My life got better.
+
+Everything else got better. 
+
+I write about my experience to show you what I did.
+
+I know that you can do the same.,
 
 > If I can’t slay the beast of despair with my massive sword of confidence, I’ll paper cut it to death one positive affirmation at a time. --Sekou Andrews
 
