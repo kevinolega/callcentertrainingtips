@@ -15,6 +15,7 @@ author: Kevin Olega
 {% include el-phone-coaching.html %}
 {% include el-student-participation.html %}
 {% include el-module-focus.html %}
+{% include el-regular-price.html %}
 {% include el-promo-price.html %}
 {% include el-payment-info.html %}
 {% include el-enrollment-info.html %}
