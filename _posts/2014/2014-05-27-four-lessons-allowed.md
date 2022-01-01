@@ -12,7 +12,6 @@ I don’t mean just a call center job.
 
 I mean any job that you want.
 
-
 > For things to change, I need to change. - Jim Rohn
 
 Getting the skills needed to achieve your goals becomes more effortless after I changed my attitude.
@@ -33,9 +32,7 @@ I make an effort to understand why the attitude works.
 
 I also aspire to adopt some helpful beliefs into my daily practice eventually. 
 
-
 ## LESSON 1: 
-
 
 My situation does not determine my final outcome.
 
@@ -73,7 +70,6 @@ My usefulness is determined by my ability to solve problems.
 
 I see difficulty as an opportunity that I can take advantage of to help myself and others. 
 
-
 ## LESSON 3. 
 
 My confidence and skill level determine the size of challenges that I can overcome.
@@ -103,7 +99,6 @@ If I have no faith in myself, I cannot move forward.
 I believe I am God’s masterpiece. 
 
 I should act like one. 
-
 
 ## LESSON 4. 
 
