@@ -153,3 +153,205 @@ PREVIEW:
 What’s the Story of Your Favorite Song?
 
 What’s the story of your favorite movie/TV show?
+
+
+## LESSON 5
+
+Common Pronunciation Mistakes
+
+[DOWNLOAD](https://drive.google.com/file/d/150XzfiT9zqdtOFrOs3LibsOZYoOas-4d/view?usp=sharing)
+
+PREVIEW:
+
+- B and V
+- P and F
+- Th and D
+- Sample Words
+
+ACTIVITY:
+
+Please write down what you learned in this lesson.
+
+Write a minimum of 15 sentences.
+
+Describe what you learned using your own words.
+
+What sounds do you have a difficult time pronouncing?
+
+What sounds in the lesson do you find easy to speak?
+
+What words do you have a problem with?
+
+## LESSON 6
+
+One Sentence Paragraphs
+
+[DOWNLOAD](https://drive.google.com/file/d/1dfNBxg9T17yKpS8CO4RB_4A9LlISxIuZ/view?usp=sharing)
+
+ACTIVITY:
+
+Please write down what you learned in this lesson.
+
+Write a minimum of 15 sentences.
+
+Describe what you learned using your own words.
+
+Why do you need to use one sentence paragraphs?
+
+What negative consequence happens when you compress all the sentences together?
+
+## LESSON 7
+
+Shorten Sentences
+
+[DOWNLOAD](https://drive.google.com/file/d/1ACz08BLtYML_BSQ6tiNP0ECr8Gm38820/view?usp=sharing)
+
+I’d like to point out that this is the most important lesson in the module.
+
+If you can shorten all of your sentences, everything you write and say will be error-free and easy to understand.
+
+Let me know that you’re done.
+
+[VIDEO](https://youtu.be/73guG1Usr_c).
+
+ADDITIONAL READING:
+
+[READ: Shortened Sentence Simplified Explanation](https://callcentertrainingtips.com/ssse)
+
+
+## FINAL ACTIVITY
+
+PART 1
+
+Please write a summary of what you learned from each exercise. Write 3-5 sentences.
+
+Include the following details:
+
+What I learned…
+
+How does the lesson apply to getting a job?
+
+How does this lesson apply to personal conversations?
+
+ACTIVITY 1:
+
+ACTIVITY 2:
+
+ACTIVITY 3:
+
+ACTIVITY 4:
+
+ACTIVITY 5:
+
+ACTIVITY 6:
+
+ACTIVITY 7:
+
+PART 2:
+
+What’s your feedback on the lessons so far?
+
+How was your experience?
+
+How do you feel the lessons will help you communicate better?
+
+What mistakes did we correct during the exercises?
+
+PART 3:
+
+Write your questions on the final page.
+
+We will discuss your questions during coaching.
+
+Alternatively, we’ll produce a video to answer your questions.
+
+## TEMPLATE
+
+I wrote a Google Docs template to help you format your answers.
+
+[WEEK 1 GOOGLE DOCS TEMPLATE](https://docs.google.com/document/d/1tBtC3xb13hvuVB7Tu4Qp-hzY3sK1or6sS4N4jJ6z5uE/edit?usp=sharing)
+
+## REVIEW:
+
+Watch the video again and let me know it’s your second time.
+[COMMENT](https://youtu.be/xUe_mOFkm84)
+
+REVIEW.
+
+Read all of your answers aloud.
+
+Start from lesson one until the final activity.
+
+Apply corrections to any errors that you find.
+
+## PHONE COACHING
+
+Please send ALL your answers before scheduling the phone coaching.
+
+Please send us an email to let us know that you’re done with lessons 1-7.
+
+We will check your answers.
+
+If answers are incomplete, we will ask you to complete the answers.
+
+This is a sample phone coaching session.
+
+We discuss your experience.
+
+We discuss your grammar and pronunciation during session one.
+
+I will point out all your errors in the session.
+
+We record all coaching sessions and share or publish some of our sessions.
+
+We would like to avoid publishing personal information.
+
+Please remove complete names from your answers.
+
+Please do not include your complete address in your answers.
+
+Leave a comment on the video to let us know that you finished watching the session.
+
+COMMENT.
+
+Thanks.
+
+### I’M DONE WITH THE EXERCISES. I’M WAITING FOR MY SESSION
+
+Sometimes the coaching schedule gets filled up.
+
+We prepared some additional activities for you.
+
+[HOW TO CHECK YOUR ANSWERS FOR ERRORS](https://callcentertrainingtips.com/waitingc1/).
+
+[SUBSCRIBE TO MY YOUTUBE CHANNEL](https://youtube.com/callcentertrainingtips?sub_confirmation=1).
+
+**BONUS:**
+
+I am willing to do more work to become better.
+
+[READ: How to Check Your Answers to the Writing Exercises](https://youtube.com/callcentertrainingtips?sub_confirmation=1)
+
+[READ: My stories are examples](https://callcentertrainingtips.com/se)
+
+[READ: Improve Your Communication with Writing Exercises](https://callcentertrainingtips.com/writingexercise/)
+
+While waiting for your phone coaching schedule, begin watching our recorded sessions with other students.
+
+We provide a wealth of information during phone coaching.
+
+The more questions you ask, the more answers we can give you.
+
+Unfortunately, we don’t always have the time to cover all the questions and sometimes we forget to cover something that you want to know.
+
+We recommend that you list down all your questions so we can answer all those at the end of the session.
+
+The good news is you receive the benefit other students receive because all the sessions are recorded.
+
+Click the link to watch the other sessions and discover the challenges of other people and what solutions we came with together.
+
+The more you understand about how we solve the problems together the better your problem solving skills become.
+
+Your problem solving skills get better as you understand how we solve different problems.
+
+Higher level communication skills become available as a consequence of heightened problem solving skills.
