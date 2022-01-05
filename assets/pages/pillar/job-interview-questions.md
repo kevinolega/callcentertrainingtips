@@ -11,11 +11,11 @@ author: Kevin Olega
 1. Parts of a call center interview
 2. Objectives of a call center interview
 3. Types of interview questions
-3. Your goals in a call center interview
-4. Call center interview questions
-5. Problems in a call center interview
-6. Simple solutions to call center problems
-7. Review and next steps
+4. Your goals in a call center interview
+5. Call center interview questions
+6. Problems in a call center interview
+7. Simple solutions to call center problems
+8. Review and next steps
 
 ## Parts of a call center interview
 
@@ -217,7 +217,7 @@ I'm responsible for reaching out to different companies, offering products and s
 
 ### Why did you leave your previous job?
 
-I'm excited to work in a call center because of the high pay, benefits, and fixed schedule.
+I'm excited to work in a call center because of the high pay, benefits, and predictable schedule.
 
 My friends tell me that reputable companies pay well and pay on time all the time.
 
@@ -305,8 +305,71 @@ Have these stories ready to answer the questions easily.
 
 ### Where do you see yourself three to five years from now?
 
+It's my first time to work in a call center so I'm not set on a career path yet.
+
+I know that I can become a team leader and eventually part of management.
+
+My friends tell me that I could become a support staff like a QA or instructor.
+
+My current goal is to master the job so I'm qualified to grab opportunities that present themselves within the company. 
 
 ## Problems in a call center interview
 
-## Simple solutions to call center problems
+Call center applicants make the following mistakes.
+
+1. try to beg for a job.
+2. talk about positive traits.
+3. don't have the English version of their story ready.
+4. talk about personal problems that don't have solutions.
+
+
+## Simple solutions to call center interview problems
+
+1. Know yourself including what you do well.
+2. Prepare stories.
+3. Prepare stories.
+4. Focus on answering the questions:
+	- Are you a good person to hire?
+	- Are you a good person?
+	- What is the proof?
+
+Write your stories in your journal.
+
+Keep a journal about your past work.
+
+Try writing stories about what happened in a job.
+
+Consider the following questions:
+
+- What stories can you share that will make an interviewer like you?
+- What are your stories where you solved a problem?
+- What are your stories where you faced a difficult challenge?
+
+Work on your stories.
+
 ## Review and next steps
+
+We talked about a lot of topics.
+
+1. Parts of a call center interview
+2. Objectives of a call center interview
+3. Types of interview questions
+4. Your goals in a call center interview
+5. Call center interview questions
+6. Problems in a call center interview
+7. Simple solutions to call center problems
+8. Review and next steps
+
+Make sure that you review the next step.
+
+Improve your communication skills.
+
+I am praying for your success.
+
+God bless!
+
+Kevin O
+
+[Signup to receive free lessons that will help you land your dream job](https://callcentertrainingtips.com/free).
+
+[Click here if you need help improving your English skills](https://callcentertrainingtips.com/english-lessons).

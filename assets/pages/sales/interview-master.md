@@ -1,6 +1,7 @@
 --- 
 layout: page 
 title: Interview Master
+search: exclude
 permalink: /offer00/ 
 author: Kevin Olega 
 --- 

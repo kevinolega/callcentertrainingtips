@@ -2,6 +2,7 @@
 layout: page
 title: TRAINING COURSES
 date: 2021-08-09 23:53
+search: exclude
 permalink: courses 
 author: Kevin Olega 
 --- 

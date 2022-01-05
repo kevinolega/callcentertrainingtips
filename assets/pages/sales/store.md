@@ -2,6 +2,7 @@
 layout: page
 title: Online Store
 date: 2020-07-28 07:46
+search: exclude
 permalink: /store/ 
 author: Kevin Olega 
 --- 

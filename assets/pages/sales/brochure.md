@@ -2,6 +2,7 @@
 layout: page
 title: Brochure
 date: 2021-01-12 22:55
+search: exclude
 permalink: /brochure/
 redirect_to: https://callcentertrainingtips.com/promos 
 author: Kevin Olega 

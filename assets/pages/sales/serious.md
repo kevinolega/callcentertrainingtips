@@ -2,6 +2,7 @@
 layout: page
 title: How Do I Know You Are Serious?
 date: 2020-12-26 01:05
+search: exclude
 permalink: /serious/ 
 author: Kevin Olega 
 --- 

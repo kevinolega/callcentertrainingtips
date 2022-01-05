@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Free Call Center Training Session By Kevin Olega
+search: exclude
 author: Kevin Olega
 permalink: /schedule
 ---

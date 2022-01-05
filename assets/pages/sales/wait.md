@@ -3,6 +3,7 @@ layout: page
 title: Wait List
 date: 2019-08-31 13:00
 Tags: [ CTA, blog ]
+search: exclude
 permalink: /wait/ 
 author: Kevin Olega 
 --- 

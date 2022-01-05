@@ -2,6 +2,7 @@
 layout: page
 title: CALL TO ACTION TEMPLATE
 date: 2021-06-17 00:44
+search: exclude
 permalink: cta
 author: Kevin Olega 
 --- 

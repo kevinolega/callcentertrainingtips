@@ -2,6 +2,7 @@
 layout: page
 title: NIGHT SHIFT BOOK DOWNLOAD CONFIRMATION
 date: 2021-05-04 23:34
+search: exclude
 permalink: confirm-nights
 author: Kevin Olega 
 --- 

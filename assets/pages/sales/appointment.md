@@ -2,6 +2,7 @@
 layout: page
 title: Talk To Kevin
 author: Kevin Olega
+search: exclude
 permalink: /appointment
 ---
 Thank You For Investing In Your Future

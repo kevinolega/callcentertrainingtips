@@ -2,6 +2,7 @@
 layout: page
 title: BLESSINGS BOOK DOWNLOAD PAGE
 date: 2021-04-12 16:13
+search: exclude
 permalink: /blessings-dl/ 
 author: Kevin Olega 
 --- 

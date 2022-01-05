@@ -2,6 +2,7 @@
 layout: page
 title: How Did Kevin Become Interested In Call Center Work
 date: 2020-08-17 01:30
+search: exclude
 permalink: /interestcc/ 
 author: Kevin Olega 
 --- 
