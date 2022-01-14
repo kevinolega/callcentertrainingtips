@@ -7,6 +7,7 @@ Tags: [ CTA, blog ]
 permalink: /free/ 
 author: Kevin Olega 
 --- 
+{% include main-email-list.html %}
 {% include community-service.html %}
 {% include no-pressure.html %}
 {% include main-email-list.html %}
