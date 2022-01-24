@@ -67,7 +67,7 @@ We will cover two lessons every week.
 
 You are free to do advance reading.
 
-Removing Bad Habits - [DOWNLOAD](https://drive.google.com/file/d/1EolrQN644nNWg49d5ifHa4E1LG_EYTzm/view?usp=sharing)
+Removing Bad Habits - [DOWNLOAD](https://drive.google.com/file/d/10Z3KhcQFQZzeCLy6HgGZV6sG91pUAM64/view?usp=sharing)
 
 One Sentence Paragraph - [DOWNLOAD](https://drive.google.com/file/d/1dfNBxg9T17yKpS8CO4RB_4A9LlISxIuZ/view?usp=sharing)
 

@@ -81,7 +81,7 @@ Send us an email for questions.
 
 Please download and read this before answering the lessons.
 
-**REMOVING BAD HABITS - [DOWNLOAD](https://drive.google.com/file/d/1EolrQN644nNWg49d5ifHa4E1LG_EYTzm/view?usp=sharing).**
+**REMOVING BAD HABITS - [DOWNLOAD](https://drive.google.com/file/d/10Z3KhcQFQZzeCLy6HgGZV6sG91pUAM64/view?usp=sharing).**
 
 **READ: WRITING BEFORE SPEAKING - [DOWNLOAD](https://drive.google.com/file/d/1pOn2YAtoBk5xtdly-KDHGnzBrx2f_ZAr/view?usp=sharing).**
 
