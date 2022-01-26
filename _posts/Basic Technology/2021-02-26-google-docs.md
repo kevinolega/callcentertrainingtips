@@ -12,7 +12,7 @@ I'll be able to give better feedback on Google Docs because it has a comments an
 
 I can write corrections directly on the file.
 
-Please share your answers to callcentertrainingtips@gmail.com
+Please share your answers with callcentertrainingtips@gmail.com
 
 If you have a Gmail account, you already have Google Docs. 
 

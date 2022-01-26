@@ -251,7 +251,7 @@ Pick one and play with it.
 
 If you’d like to contribute your story to others, send me an email. 
 
-My email is call center training tips at Gmail dot com
+My email is kevin at call center training tips dot com
 
 ## Why shouldn’t we hire you?
 

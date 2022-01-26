@@ -13,7 +13,7 @@ permalink: /support/
 
 Let us know how this site had helped you. We enjoy reading your stories.
 
-- Send an email to [call center training tips at gmail dot com](mailto:kevin@callcentertrainingtips.com).
+- Send an email to [kevin at call center training tips dot com](mailto:kevin@callcentertrainingtips.com).
 - [Promote us on Facebook][2] like our page and posts.
 - [Watch our videos, like and subscribe](https://www.youtube.com/user/CCTTshow).
 - [Follow on Instagram](https://www.instagram.com/cctrainingtips/)

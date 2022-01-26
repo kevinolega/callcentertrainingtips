@@ -179,11 +179,11 @@ Don't use sexyangelbutterfly@yahoo.com or ilovechocolate@hotmail.com.
 
 Use an email address that has your name in it. 
 
-My email address is kevinolega@gmail.com, and I recommend that you open a similar email address if you haven't done so.
+My personal email address is kevin@olega.org my Gmail is kevinolega@gmail.com, and I recommend that you open a similar email address if you haven't done so.
 
 If you have a website, you can use:
 
-hello@kevinolega.com
+hello@kevinolega.com Not a real email.
 
 or
 
