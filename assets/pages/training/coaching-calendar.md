@@ -21,7 +21,7 @@ Same day schedules are not guaranteed.
 
 I'll send you an email if we need to reschedule.
 
-<script src="https://tidycal.com/js/embed.js"></script>
+<script src="https://asset-tidycal.b-cdn.net//js/embed.js"></script>
 <div id="tidycal-embed" data-path="callcentertrainingtips/60-minute-coaching"></div>
 
 Please click the link below if you don't see a calendar.
