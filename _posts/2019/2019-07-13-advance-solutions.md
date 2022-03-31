@@ -2,7 +2,7 @@
 layout: post 
 title: Questions That Made Me a Top Performer
 date: 2019-07-13 14:02
-Tags: [ uncategorized, blog ]
+Tags: [ top-agent, blog ]
 permalink: /advance-solutions/ 
 author: Kevin Olega 
 --- 

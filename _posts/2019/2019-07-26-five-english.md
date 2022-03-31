@@ -2,7 +2,7 @@
 layout: post 
 title: Five activities that improves your English
 date: 2019-07-26 21:04
-Tags: [ uncategorized, blog ]
+Tags: [ English-tips, blog ]
 permalink: /activities-english/ 
 author: Kevin Olega 
 --- 

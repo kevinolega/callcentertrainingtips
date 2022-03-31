@@ -76,7 +76,7 @@ Unlocking research skills will make you appear more knowledgeable and profession
 
 At the minimum, you should be able to be able to earn an additional five thousand to your salary, ten thousand if you're really good and twenty thousand if you're really good. 
 
-## Research skills 
+## Research skills
 
 The internet contains the information written by the smartest people in the world.
 
@@ -88,7 +88,7 @@ Unlocking research skills will help you become more knowledgable in almost anyth
 
 At the minimum, you should be able to be able to earn an additional five thousand to your salary, ten thousand if you're really good and twenty thousand if you're really good.
 
-## Sales Skills 
+## Sales Skills
 
 Sales is simply understanding the intentions of the customers and offering a good solution.
 
@@ -98,7 +98,7 @@ Unlocking sales skills combined with English skills can give you a giant income 
 
 At the minimum, you should be able to be able to earn an additional ten thousand to your salary, twenty thousand if you're really good and forty thousand if you're really, really good. 
 
-## Customer service skills 
+## Customer service skills
 
 Unlocking customer service skills will make you a more desirable employee and is extremely useful if you already have your own business.
 

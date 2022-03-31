@@ -2,7 +2,7 @@
 layout: post 
 title: Activate Celebrity Mode for Smooth Confident English
 date: 2019-07-26 20:59
-Tags: [ English, blog ]
+Tags: [ English-tips, blog ]
 permalink: /celebrity/ 
 author: Kevin Olega 
 --- 

@@ -70,7 +70,7 @@ Take the hit.
 
 That's your job.
 
-## Little control over your extra income. 
+## Little control over your extra income.
 
 Many call centers offer incentives and/or performance bonus to make their compensation packages more attractive.
 

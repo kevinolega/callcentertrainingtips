@@ -2,7 +2,7 @@
 layout: post 
 title: Watch Cooking Shows to Learn How To Give Instructions Well 
 date: 2019-07-20 11:09
-Tags: [ lessons, blog ]
+Tags: [ give-instructions,lessons, blog ]
 permalink: /cooking-shows/ 
 author: Kevin Olega 
 --- 

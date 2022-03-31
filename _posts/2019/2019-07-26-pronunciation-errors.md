@@ -2,7 +2,7 @@
 layout: post 
 title: Common English Pronunciation Errors
 date: 2019-07-26 20:53
-Tags: [ english, blog ]
+Tags: [ english-tips, blog ]
 permalink: /pronunciation-errors/ 
 author: Kevin Olega 
 --- 

@@ -2,7 +2,7 @@
 layout: post 
 title: Facebook Mistakes That Kill Job Applications
 date: 2019-07-27 16:28
-Tags: [ uncategorized, blog ]
+Tags: [ become-professional, blog ]
 permalink: /fb-profile/ 
 author: Kevin Olega 
 --- 
@@ -80,7 +80,7 @@ Is the information here truthful?
 
 Red Flag to Avoid: BAD CHARACTER
 
-## This is all standard procedure. 
+## This is all standard procedure.
 
 We all have a bias.
 

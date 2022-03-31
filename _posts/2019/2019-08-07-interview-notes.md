@@ -87,7 +87,7 @@ And I went here because I already said yes to you on the phone and I stay with c
 
 And I want to make sure I'm making a good long term decision.
 
-## My notes gives the interviewer a SOLID LAST IMPRESSION 
+## My notes gives the interviewer a SOLID LAST IMPRESSION
 
 The notebook adds a lot of power to my questions in the last part of the interview.
 
@@ -165,7 +165,7 @@ Because there are thousands of BPO opportunities.
 
 New ones can be accessed through a Google search.
 
-## What happens if I do this well? 
+## What happens if I do this well?
 
 The interviewer retracts the wait time and they try to close me on their offer if they know they could afford my asking pay.
 

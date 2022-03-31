@@ -7,11 +7,11 @@ author: Kevin Olega
 --- 
 My suggestion, print out four copies of this guide and post one on the wall next to your bed, one next to your computer, take one with you all the time and the other is a backup copy.
 
-## Here are the mini-challenges 
+## Here are the mini-challenges
 *(you do not have to do all of these, just pick one per week):*
 
 
-### 1. Adding healthy things:
+### 1. Adding healthy habits:
 
 - Order food in English.
 - Study one website post.
@@ -33,7 +33,7 @@ My suggestion, print out four copies of this guide and post one on the wall next
 
 ### 2. Changing your approach:
 
-- Speak in English whenever you're ordering food.
+- Speak English whenever you're ordering food.
 - Read the lessons on my website instead of scrolling Facebook and Instagram Feed.
 - Identify friends who speak in English and ask for help.
 - Write in English every day.

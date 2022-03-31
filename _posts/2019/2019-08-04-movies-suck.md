@@ -48,7 +48,7 @@ First of, let's discuss the kind of English that you need for call center work.
 
 You'll introduce yourself to the interviewer several times. You'll introduce yourself in training. You'll introduce yourself to the customer all the time when you get hired. You'll also introduce the company and some procedures to customers on a regular basis.
 
-## Ask questions. 
+## Ask questions.
 
 Call center work is 90% asking questions. Your interviewer is judging you how well you use questions to deal with situations you don't know how to handle and questions that you know the answer to.
 
@@ -257,7 +257,7 @@ In sales, they teach us you don't learn everything from a book, you have to face
 
 In the same way, to learn a language, you must SPEAK it.
 
-## What works for improving English Skills for Call Center Work? 
+## What works for improving English Skills for Call Center Work?
 
 Talking to people who are better at speaking in English have better results because of the kinesthetic element.
 

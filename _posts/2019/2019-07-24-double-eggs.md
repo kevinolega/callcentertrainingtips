@@ -8,15 +8,15 @@ author: Kevin Olega
 --- 
 Here's how to double your extra money while working in a call center.
 
-## Step 1: Buy dozen eggs. 
+## Step 1: Buy dozen eggs.
 
 Go to the grocery and buy a dozen eggs.
 
-## Step 2: Look for a recipe on how to boil the egg. 
+## Step 2: Look for a recipe on how to boil the egg.
 
 My favorite chefs are Gordon Ramsay, Heston Blumenthal and Jamie Oliver.
 
-## Step 3: Boil the eggs. 
+## Step 3: Boil the eggs.
 
 Follow the instructions from the website or the video on how to boil the egg.
 
@@ -30,7 +30,7 @@ I sold each egg for ₱15.
 
 My profit for each egg sold is ₱9.
 
-## Step 5: Add salt to your baon. 
+## Step 5: Add salt to your baon.
 
 Salt is cheap. I like Himalayan Pink Salt.
 

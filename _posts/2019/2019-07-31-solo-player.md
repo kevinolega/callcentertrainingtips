@@ -2,7 +2,7 @@
 layout: post 
 title: Are You a Team Player?
 date: 2019-07-31 20:58
-Tags: [ uncategorized, blog ]
+Tags: [ letter, blog ]
 permalink: /team/ 
 author: Kevin Olega 
 --- 

@@ -32,7 +32,7 @@ A business process is simply a series of steps necessary to the survival of the 
 - Document processing.
 - and so on.
 
-## Outsourcing is asking someone else to do work for you and paying them for the work. 
+## Outsourcing is asking someone else to do work for you and paying them for the work.
 
 ## You Outsource Work Because:
 

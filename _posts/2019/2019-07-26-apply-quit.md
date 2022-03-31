@@ -2,7 +2,7 @@
 layout: post 
 title: What will make you take/quit a job?
 date: 2019-07-26 22:31
-Tags: [ uncategorized, blog ]
+Tags: [ interview-questions, blog ]
 permalink: /apply-quit/ 
 author: Kevin Olega 
 --- 

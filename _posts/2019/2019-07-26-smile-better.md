@@ -2,7 +2,7 @@
 layout: post 
 title: Smiling Makes Your English Sound Better
 date: 2019-07-26 20:56
-Tags: [ english, blog ]
+Tags: [ english-tips, blog ]
 permalink: /smile-better/ 
 author: Kevin Olega 
 --- 
