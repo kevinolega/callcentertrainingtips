@@ -7,17 +7,9 @@ author: Kevin Olega
 --- 
 Please select a schedule from the calendar.
 
-Write your questions on Google Docs. 
+Write your questions on [Google Docs](https://callcentertrainingtips.com/drive-documents). 
 
 Transfer your answers to Google Docs if you submitted your answers using PDF of MS Word.
-
-Include how many sessions we've had and remind me of your goals for the session.
-
-NOTE: I check the schedule the night before or first thing in the morning. 
-
-Please avoid scheduling the same day.
-
-Same day schedules are not guaranteed.
 
 I'll send you an email if we need to reschedule.
 
@@ -26,4 +18,4 @@ I'll send you an email if we need to reschedule.
 
 Please click the link below if you don't see a calendar.
 
-[LINK TO CALENDAR](https://tidycal.com/callcentertrainingtips/60-minute-meeting)
+[LINK TO CALENDAR](https://tidycal.com/callcentertrainingtips/60-minute-coaching)
