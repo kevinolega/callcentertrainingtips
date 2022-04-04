@@ -68,15 +68,7 @@ Let me know that you finished watching the video.
 
 [LEAVE A COMMENT](https://youtu.be/Ju9H7ZEbn5g).
 
-### HELP!!!
-
-I'm stuck. 
-
-I can't think of what to say.
-
-**[READ: WRITE IN FILIPINO](https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing)**
-
-## LESSON 2 
+## LESSON 2
 
 15 Intro Questions 
 
@@ -117,7 +109,7 @@ Please read this lesson before proceeding to activity 3.
 
 If you found errors with how you did activity 1, please apply the corrections.
 
-## LESSON 3 
+## LESSON 3
 
 15 Sentence Instruction. 
 
@@ -140,7 +132,7 @@ Let me know that you're done.
 
 [COMMENT](https://youtu.be/t2w17QfMIXI).
 
-## LESSON 4 
+## LESSON 4
 
 15 Sentence Story.
 
