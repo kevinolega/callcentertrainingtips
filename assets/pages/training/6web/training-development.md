@@ -28,9 +28,23 @@ Access to additional lessons will be available soon.
 
 {% include submit-answers.html %}
 
-{% student-writing-template.html %}
 
-{% personality-test.html %}
+## TEMPLATE
+
+I wrote a template to help you format your answers.
+
+[WEEK 1 GOOGLE DOCS TEMPLATE](https://docs.google.com/document/d/1tBtC3xb13hvuVB7Tu4Qp-hzY3sK1or6sS4N4jJ6z5uE/edit?usp=sharing)
+
+
+## PERSONALITY TEST
+
+I personalize my approach to assisting my students during coaching.
+
+Please take this personality test.
+
+There's a short writing activity at the end of the instructions.
+
+**[LINK TO TEST](https://callcentertrainingtips.com/big5/).**
 
 ## LESSON 1
 
@@ -78,7 +92,20 @@ PREVIEW:
 
 [READ BONUS LESSON](https://drive.google.com/file/d/1STewo-9ytr7aRehXPB7CDAfO_BcxnssU/view?usp=sharing)
 
+### MORE BEGINNER MISTAKES
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xUe_mOFkm84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Watch the video until the end.
+
+Please let me know that you finished watching the video. 
+
+[LEAVE A COMMENT](https://youtu.be/xUe_mOFkm84).
+
+
+Please read this lesson before proceeding to activity 3.
+
+[CLICK HERE TO READ LESSON](https://callcentertrainingtips.com/fixthis).
 
 If you found errors with how you did activity 1, please apply the corrections.
 
