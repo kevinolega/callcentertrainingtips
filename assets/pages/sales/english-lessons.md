@@ -14,8 +14,9 @@ author: Kevin Olega
 <p>Receive training materials, writing exercises, video guides, and live coaching.</p>
 <p>We'll sharpen your communication skills, fix your grammar and pronunciation.</p>
 {% include featured-testimonial-04.html %}
-{% include el-writing-exercise.html %}
+{% include el-training-summary.html %}
 {% include el-samples.html %}
+{% include el-active-learning.html %}
 {% include el-phone-coaching.html %}
 {% include el-student-participation.html %}
 {% include el-module-focus.html %}
