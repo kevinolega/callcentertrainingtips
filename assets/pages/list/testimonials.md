@@ -7,10 +7,6 @@ My lessons have helped several Filipinos get hired in a call center.
 
 Here are a few messages that I received.
 
-{% include featured-testimonial-01.html %}
-{% include featured-testimonial-02.html %}
-{% include featured-testimonial-03.html %}
-{% include featured-testimonial-04.html %}
 
 I am grateful at the massive amount of testimonials that I receive from my readers.
 
