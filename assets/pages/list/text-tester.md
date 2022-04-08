@@ -19,3 +19,15 @@ I put this page together to test displays.
 ##### H5 I don't know how big I should be
 
 ##### H6 I don't know how big I should be
+
+
+- This is a bullet
+- This is a bullet
+
+1. This is a number
+2. This is the second number.
+
+> "This is a block quote"
+>- Kevin
+
+
