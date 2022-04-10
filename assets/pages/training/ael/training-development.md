@@ -26,6 +26,8 @@ Access to additional lessons will be available soon.
 
 {% include el-most-important.html %}
 
+{% include el-shortening.html %}
+
 {% include submit-answers.html %}
 
 
