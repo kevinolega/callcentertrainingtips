@@ -170,3 +170,28 @@ author: Kevin Olega
     <p><a href="https://callcentertrainingtips.com/fixthis">CLICK HERE TO READ LESSON</a>.</p>
     <p>Please work on your grammar by reviewing your past answers. Look for errors and rewrite until you have corrected all the sentences. Our goal is to find and fix all the errors.</p>
 </details>
+
+<h2>LESSON 3</h2>
+<p>15 Sentence Instruction. </p>
+<details>
+    <summary>Read more.</summary>
+    <br>
+    <br>
+    <p><a href="https://drive.google.com/file/d/1hodmJccbOTOTJxV0IOiMOaWk0CR1LoNv/view?usp=sharing">DOWNLOAD</a>.</p>
+    <p>Write a fifteen sentence instruction on how to commute to the office (current, past, or future) or nearest mall.</p>
+    <p>Please remember to:</p>
+    <ol>
+        <li>Include Street Names.</li>
+        <li>Include Landmarks.</li>
+        <li>Include the vehicles they are riding.</li>
+        <li>Include what you'll tell the driver.</li>
+        <li>Include where to get a ride and where to get off.</li>
+    </ol>
+    <p>Your instructions need to be understandable to people who are both commuting or driving.</p>
+    <p>I want you to imagine that this activity has a prize. Your family will receive ₱500,000 a year if the person understands your instructions.</p>
+    <p>Then I want you to imagine the money being received by the person you hate the most if the reader doesn't understand your instructions.</p>
+    <p>How much detail would you put into the instructions?</p>
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/t2w17QfMIXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    <p>Let me know that you're done.</p>
+    <p><a href="https://youtu.be/t2w17QfMIXI"></a>COMMENT</p>
+</details>
