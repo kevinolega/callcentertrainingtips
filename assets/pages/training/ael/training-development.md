@@ -142,3 +142,31 @@ author: Kevin Olega
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/Ju9H7ZEbn5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <p><a href="https://youtu.be/Ju9H7ZEbn5g">LEAVE A COMMENT</a>.</p>
 </details>
+<h2>LESSON 2</h2>
+<p>15 Intro Questions</p>
+<details>
+    <summary>Read more.</summary>
+
+    <p><a href="https://drive.google.com/file/d/17tM6ajfniAfTMRZ2Z1YjVnc2UuVn-sdJ/view?usp=sharing">DOWNLOAD ACTIVITY</a></p>
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/s-oMVy-dJlc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    <p>Watch the video until the end.</p>
+    <p>Please let me know.</p>
+    <p><a href="https://youtu.be/s-oMVy-dJlc">LEAVE A COMMENT</a>.</p>
+    <br>
+    <p><a href="https://drive.google.com/file/d/1STewo-9ytr7aRehXPB7CDAfO_BcxnssU/view?usp=sharing">READ BONUS LESSON</a>.</p>
+</details>
+
+<h3>MORE BEGINNER MISTAKES</h3>
+
+<details>
+    <summary>READ MORE.</summary>
+
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/xUe_mOFkm84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    <p>Watch the video until the end.</p>
+    <p>Please let me know that you finished watching the video. </p>
+    <p><a href="https://youtu.be/xUe_mOFkm84"></a>LEAVE A COMMENT</p>
+    <br>
+    <p>Please read this lesson again before proceeding to activity 3.</p>
+    <p><a href="https://callcentertrainingtips.com/fixthis">CLICK HERE TO READ LESSON</a>.</p>
+    <p>Please work on your grammar by reviewing your past answers. Look for errors and rewrite until you have corrected all the sentences. Our goal is to find and fix all the errors.</p>
+</details>
