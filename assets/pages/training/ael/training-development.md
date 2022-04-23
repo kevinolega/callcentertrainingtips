@@ -5,13 +5,12 @@ date: 2021-08-24 16:29
 permalink: el-dev
 author: Kevin Olega 
 --- 
-## Welcome to our training page!
+<h2>Welcome to our training page!</h2>
 
-Our system is being upgraded at the moment.
+<p>Our system is being upgraded at the moment.</p>
+<p>Access to additional lessons will be available soon.</p>
 
-Access to additional lessons will be available soon.
-
-## INSTRUCTIONS
+<h2>INSTRUCTIONS</h2>
 
 <details>
     <summary>Read more</summary>
@@ -22,312 +21,124 @@ Access to additional lessons will be available soon.
 <p>[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/1rOvYh6UMQM).</p>
 </details>
 
-{% include el-reminders.html %}
-
-{% include el-most-important.html %}
-
-{% include el-shortening.html %}
-
-{% include submit-answers.html %}
-
-
-## TEMPLATE
-
-I wrote a template to help you format your answers.
-
-[WEEK 1 GOOGLE DOCS TEMPLATE](https://docs.google.com/document/d/1tBtC3xb13hvuVB7Tu4Qp-hzY3sK1or6sS4N4jJ6z5uE/edit?usp=sharing)
-
-
-## PERSONALITY TEST
-
-I personalize my approach to assisting my students during coaching.
-
-Please take this personality test.
-
-There's a short writing activity at the end of the instructions.
-
-**[LINK TO TEST](https://callcentertrainingtips.com/big5/).**
-
-
-{% include w01l01.html %}
-
-
-## LESSON 2
-
-15 Intro Questions 
-
-[DOWNLOAD](https://drive.google.com/file/d/17tM6ajfniAfTMRZ2Z1YjVnc2UuVn-sdJ/view?usp=sharing)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s-oMVy-dJlc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Watch the video until the end.
-
-Please let me know.
-
-[LEAVE A COMMENT](https://youtu.be/s-oMVy-dJlc).
-
-PREVIEW:
-
-- What’s your name?
-- What’s your nickname?
-- Where are you from?
-- Where do you live?
-- What do you enjoy doing?
-
-[READ BONUS LESSON](https://drive.google.com/file/d/1STewo-9ytr7aRehXPB7CDAfO_BcxnssU/view?usp=sharing)
-
-### MORE BEGINNER MISTAKES
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xUe_mOFkm84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Watch the video until the end.
-
-Please let me know that you finished watching the video. 
-
-[LEAVE A COMMENT](https://youtu.be/xUe_mOFkm84).
-
-
-Please read this lesson before proceeding to activity 3.
-
-[CLICK HERE TO READ LESSON](https://callcentertrainingtips.com/fixthis).
-
-If you found errors with how you did activity 1, please apply the corrections.
-
-## LESSON 3
-
-15 Sentence Instruction. 
-
-[DOWNLOAD](https://drive.google.com/file/d/1hodmJccbOTOTJxV0IOiMOaWk0CR1LoNv/view?usp=sharing)
-
-PREVIEW:
-
-Write a fifteen sentence instruction on how to commute to the office (current, past, or future) or nearest mall.
-
-Please remember to:
-
-1. Include Street Names.
-2. Include Landmarks.
-
-Your instructions need to be understandable to people who are both commuting or driving.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t2w17QfMIXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Let me know that you're done.
-
-[COMMENT](https://youtu.be/t2w17QfMIXI).
-
-## LESSON 4
-
-15 Sentence Story.
-
-Opening Up To Build A Connection in 15 sentences 
-
-[DOWNLOAD](https://drive.google.com/file/d/1s2bKyzpV6HNWSZ2LZzOjBDVDxWS4ZJiT/view?usp=sharing)
-
-PREVIEW:
-
-What’s the Story of Your Favorite Song?
-
-What’s the story of your favorite movie/TV show?
-
-
-## LESSON 5
-
-Common Pronunciation Mistakes
-
-[DOWNLOAD](https://drive.google.com/file/d/150XzfiT9zqdtOFrOs3LibsOZYoOas-4d/view?usp=sharing)
-
-PREVIEW:
-
-- B and V
-- P and F
-- Th and D
-- Sample Words
-
-ACTIVITY:
-
-Please write down what you learned in this lesson.
-
-Write a minimum of 15 sentences.
-
-Describe what you learned using your own words.
-
-What sounds do you have a difficult time pronouncing?
-
-What sounds in the lesson do you find easy to speak?
-
-What words do you have a problem with?
-
-## LESSON 6
-
-One Sentence Paragraphs
-
-[DOWNLOAD](https://drive.google.com/file/d/1dfNBxg9T17yKpS8CO4RB_4A9LlISxIuZ/view?usp=sharing)
-
-ACTIVITY:
-
-Please write down what you learned in this lesson.
-
-Write a minimum of 15 sentences.
-
-Describe what you learned using your own words.
-
-Why do you need to use one sentence paragraphs?
-
-What negative consequence happens when you compress all the sentences together?
-
-## LESSON 7
-
-Shorten Sentences
-
-[DOWNLOAD](https://drive.google.com/file/d/1ACz08BLtYML_BSQ6tiNP0ECr8Gm38820/view?usp=sharing)
-
-I’d like to point out that this is the most important lesson in the module.
-
-If you can shorten all of your sentences, everything you write and say will be error-free and easy to understand.
-
-Let me know that you’re done.
-
-[VIDEO](https://youtu.be/73guG1Usr_c).
-
-ADDITIONAL READING:
-
-[READ: Shortened Sentence Simplified Explanation](https://callcentertrainingtips.com/ssse)
-
-
-## FINAL ACTIVITY
-
-PART 1
-
-Please write a summary of what you learned from each exercise. Write 3-5 sentences.
-
-Include the following details:
-
-What I learned…
-
-How does the lesson apply to getting a job?
-
-How does this lesson apply to personal conversations?
-
-ACTIVITY 1:
-
-ACTIVITY 2:
-
-ACTIVITY 3:
-
-ACTIVITY 4:
-
-ACTIVITY 5:
-
-ACTIVITY 6:
-
-ACTIVITY 7:
-
-PART 2:
-
-What’s your feedback on the lessons so far?
-
-How was your experience?
-
-How do you feel the lessons will help you communicate better?
-
-What mistakes did we correct during the exercises?
-
-PART 3:
-
-Write your questions on the final page.
-
-We will discuss your questions during coaching.
-
-Alternatively, we’ll produce a video to answer your questions.
-
-## TEMPLATE
-
-I wrote a Google Docs template to help you format your answers.
-
-[WEEK 1 GOOGLE DOCS TEMPLATE](https://docs.google.com/document/d/1tBtC3xb13hvuVB7Tu4Qp-hzY3sK1or6sS4N4jJ6z5uE/edit?usp=sharing)
-
-## REVIEW:
-
-Watch the video again and let me know it’s your second time.
-[COMMENT](https://youtu.be/xUe_mOFkm84)
-
-REVIEW.
-
-Read all of your answers aloud.
-
-Start from lesson one until the final activity.
-
-Apply corrections to any errors that you find.
-
-## PHONE COACHING
-
-Please send ALL your answers before scheduling the phone coaching.
-
-Please send us an email to let us know that you’re done with lessons 1-7.
-
-We will check your answers.
-
-If answers are incomplete, we will ask you to complete the answers.
-
-This is a sample phone coaching session.
-
-We discuss your experience.
-
-We discuss your grammar and pronunciation during session one.
-
-I will point out all your errors in the session.
-
-We record all coaching sessions and share or publish some of our sessions.
-
-We would like to avoid publishing personal information.
-
-Please remove complete names from your answers.
-
-Please do not include your complete address in your answers.
-
-Leave a comment on the video to let us know that you finished watching the session.
-
-COMMENT.
-
-Thanks.
-
-### I’M DONE WITH THE EXERCISES. I’M WAITING FOR MY SESSION
-
-Sometimes the coaching schedule gets filled up.
-
-We prepared some additional activities for you.
-
-[HOW TO CHECK YOUR ANSWERS FOR ERRORS](https://callcentertrainingtips.com/waitingc1/).
-
-[SUBSCRIBE TO MY YOUTUBE CHANNEL](https://youtube.com/callcentertrainingtips?sub_confirmation=1).
-
-**BONUS:**
-
-I am willing to do more work to become better.
-
-[READ: How to Check Your Answers to the Writing Exercises](https://youtube.com/callcentertrainingtips?sub_confirmation=1)
-
-[READ: My stories are examples](https://callcentertrainingtips.com/se)
-
-[READ: Improve Your Communication with Writing Exercises](https://callcentertrainingtips.com/writingexercise/)
-
-While waiting for your phone coaching schedule, begin watching our recorded sessions with other students.
-
-We provide a wealth of information during phone coaching.
-
-The more questions you ask, the more answers we can give you.
-
-Unfortunately, we don’t always have the time to cover all the questions and sometimes we forget to cover something that you want to know.
-
-We recommend that you list down all your questions so we can answer all those at the end of the session.
-
-The good news is you receive the benefit other students receive because all the sessions are recorded.
-
-Click the link to watch the other sessions and discover the challenges of other people and what solutions we came with together.
-
-The more you understand about how we solve the problems together the better your problem solving skills become.
-
-Your problem solving skills get better as you understand how we solve different problems.
-
-Higher level communication skills become available as a consequence of heightened problem solving skills.
+<h2>REMINDERS</h2>
+<details>
+    <summary>Read more</summary>
+
+<p>Please read all the lessons and instructions carefully.</p>
+<p>Please answer all activities.</p>
+<p>Please follow the one-sentence paragraph format when you submit your answers. </p>
+<p>The one-sentence paragraph format is explained in the lessons Removing Bad Habits and Lesson 6 One-Sentence Paragraph.</p>
+<p>The minimum number of sentences for most of the writing exercises is fifteen sentences.</p>
+<p>We record a video of your phone coaching session for training purposes.</p>
+<p>We publish some of the coaching sessions to our YouTube channel.</p>
+<p>We'll inspect your answers one sentence at a time during the coaching session.</p>
+<p>We would like to avoid publishing our student's private information.</p>
+<p>Please do not include personal info like your complete name, and complete address in your answers.</p>
+<p>Your first name or nickname is fine for all of our questions.</p>
+<p>Do not say: My name is James Kevin Olega. You may call me Kevin for short.</p>
+<p>Instead say: My name is Kevin.</p>
+<p>Do not say: I live in 123 Paper Street BF Homes Sucat Parañaque City.</p>
+<p>Say: I live in Parañaque City.</p>
+<p>The second example sounds more confident.</p>
+<p>Please remember to:</p>
+<ol>
+    <li>Follow the One Sentence Paragraph Format</li>
+    <li>Shorten your sentences. Your sentence needs to have only one idea.</li>
+    <li>Write complete sentences.</li>
+    <li>Run your answers through a spelling and grammar check program. We use <a href="https://grammarly.com">Grammarly</a>.</li>
+    <li>Read your answers aloud before submitting.</li>
+    <li>Use simple words.</li>
+    <li>Always ask yourself the questions: Does this sentence express exactly what I want to say? How can I say this sentence better?</li>
+    <li>Translate your sentences whenever you are stuck. Write your thoughts in Filipino, then English, so you could compare the two versions to see if you have a clear message. </li>
+</ol>
+<p><strong>English became more exhibition instead of communication back in junior and senior high school.</strong></p>
+<p>Your English needs to focus on communication instead of exhibition to succeed as a professional.</p>
+<p>Your goal is to convey simple messages that are easy to understand.</p>
+<p><strong>AVOID:</strong></p>
+<ol>
+    <li>Big paragraphs.</li>
+    <li>Compound, complex, and long, compound-complex sentences.</li>
+    <li>Fancy or complicated words.</li>
+</ol>
+<p>Our goal is to reinforce your understanding of the basic rules.</p>
+<p>You can go back to adding flair to your communication after you've mastered the basics.</p>
+<p>Please read REMOVING BAD HABITS as many times as you need.</p>
+<p>Send us an email for questions.</p>
+</details>
+
+<h2>MOST IMPORTANT LESSONS:</h2>
+<p>IMPORTANT!!! READ FIRST!!!</p>
+<details>
+    <summary>Read more</summary>
+
+<p>Please download and read these before answering the activities.</p>
+<p><strong>Removing Bad Habits - <a href="https://drive.google.com/file/d/10Z3KhcQFQZzeCLy6HgGZV6sG91pUAM64/view?usp=sharing">DOWNLOAD</a></strong></p>
+<p><strong>READ: WRITING BEFORE SPEAKING - <a href="https://drive.google.com/file/d/1pOn2YAtoBk5xtdly-KDHGnzBrx2f_ZAr/view?usp=sharing">DOWNLOAD</a>
+</strong></p>
+<p>Research the Feynman Technique. <a href="https://minimalchanges.com/feynman">Read my explanation on the Feynman Technique</a>.</p>
+<p><strong>Write in Filipino when you're stuck - <a href="https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing"></strong></p>
+</details>
+
+<h2>Most Common Beginner Grammar Mistakes</h2>
+<p>Watch this video until the end.</p>
+<details>
+    <summary>Read more</summary>
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/xUe_mOFkm84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Please let me know that you finished watching the video by <a href="https://youtu.be/xUe_mOFkm84">leaving a comment about what you learned</a>.</p>
+<p><a href="https://callcentertrainingtips.com/fixthis">Read about how to fix the most common beginner grammar mistakes.</a></p>
+<p><strong><a href="https://youtube.com/callcentertrainingtips?sub_confirmation=1">SUBSCRIBE TO MY YOUTUBE CHANNEL</a></strong></p>
+</details>
+
+<h3>WATCH THIS VIDEO ABOUT SHORTENING SENTENCES</h3>
+<details>
+    <summary>Read more</summary>
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/JXVe3t5tTo0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Watch the video until the end and let me know that you're done by <a href="https://youtu.be/JXVe3t5tTo0">leaving a comment explaining what you learned</a>.</p>
+</details>
+
+<h2>TEMPLATE</h2>
+
+<details>
+    <summary>READ MORE</summary>
+    <p>I wrote a template to help you format your answers.</p>
+    <p><a href="https://docs.google.com/document/d/1tBtC3xb13hvuVB7Tu4Qp-hzY3sK1or6sS4N4jJ6z5uE/copy">WEEK 1 Writing Exercise Template</a></p>
+</details>
+
+<!-- notes -->
+<h2>SUBMITTING YOUR ANSWERS</h2>
+<details>
+    <summary>Read more</summary>
+
+<p>Submit your answers using Google Docs.</p>
+<p>I will give feedback directly on your on the file.</p>
+<p>Share the file to callcentertrainingtips@gmail.com</p>
+<p>If you have Gmail, you already have Google Docs. </p>
+<p>Visit <a href="https://drive.google.com">https://drive.google.com</a> and create a new document.</p>
+<p>If you're using a mobile device, Google Docs is available on both <a href="https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640">iOS</a> and <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en&gl=US">Android</a>.</p>
+<p><strong>WATCH THIS GUIDE:</strong></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1OSLCxKX11U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Watch the video until the end.</p>
+<p>Let me know that you're done.</p>
+<p><a href="https://youtu.be/1OSLCxKX11U">LEAVE A COMMENT</a>.</p>
+</details>
+
+<h2>LESSON 1</h2>
+<details>
+    <summary>Read more</summary>
+
+<p>15 Sentence Introductions</p>
+<p>Answer with a minimum of 15 sentences.</p>
+<p><a href="https://drive.google.com/file/d/1_K2OUYFgWtJP4Mu7SWKW-PBSqBlJGfFV/view?usp=sharing">DOWNLOAD</a></p>
+<p>PREVIEW:</p>
+<ul><li>My name is Kevin</li>
+    <li>I used to work as.</li>
+    <li>I used to work for.</li>
+</ul>
+<p>Watch the video until the end.</p>
+<p>Let me know that you finished watching the video.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/Ju9H7ZEbn5g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><a href="https://youtu.be/Ju9H7ZEbn5g">LEAVE A COMMENT</a>.</p>
+</details>
