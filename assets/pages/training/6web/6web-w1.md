@@ -98,7 +98,7 @@ Let me know that you're done.
 
 ## SUBMITTING YOUR ANSWERS
 
-{% include submit-answers.html %}
+
 
 
 ## TEMPLATE
