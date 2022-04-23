@@ -77,7 +77,7 @@ author: Kevin Olega
 <p><strong>READ: WRITING BEFORE SPEAKING - <a href="https://drive.google.com/file/d/1pOn2YAtoBk5xtdly-KDHGnzBrx2f_ZAr/view?usp=sharing">DOWNLOAD</a>
 </strong></p>
 <p>Research the Feynman Technique. <a href="https://minimalchanges.com/feynman">Read my explanation on the Feynman Technique</a>.</p>
-<p><strong>Write in Filipino when you're stuck - <a href="https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing"></strong></p>
+<p><strong>Write in Filipino when you're stuck - <a href="https://drive.google.com/file/d/117PCpIl0PBJVGHSkKuraTfDrV9vwFQSS/view?usp=sharing">Read my explanation.</a></strong></p>
 </details>
 
 <h2>Most Common Beginner Grammar Mistakes</h2>
