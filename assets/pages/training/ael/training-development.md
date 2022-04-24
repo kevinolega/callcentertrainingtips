@@ -255,7 +255,7 @@ author: Kevin Olega
 <details>
     <summary>Read more.</summary>
     <p>PART 1</p>
-    <p>Please write a summary of what you learned from each exercise. Write 3-5 sentences.</p>
+    <p>Please write a summary of what you learned from each exercise. Write two or more sentences.</p>
     <p>Include the following details:</p>
     <ul>
         <li>What I learned…</li>
@@ -270,7 +270,6 @@ author: Kevin Olega
         <li>How do you feel the lessons will help you communicate better?</li>
         <li>What mistakes did we correct during the exercises?</li>
     </ul>
-    <p></p>
     <p><a href="https://docs.google.com/document/d/1N_1dmbqNg8rZpEiap1YoVfxJrWeBZsCmdjtnJVLwZTE/copy">ANSWER ACTIVITY</a></p>
 </details>
 
