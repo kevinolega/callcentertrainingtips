@@ -195,3 +195,15 @@ author: Kevin Olega
     <p>Let me know that you're done.</p>
     <p><a href="https://youtu.be/t2w17QfMIXI"></a>COMMENT</p>
 </details>
+
+<h2>LESSON 4</h2>
+<p>15 Sentence Story.</p>
+<details>
+    <summary>READ MORE.</summary>
+    <p><a href="https://drive.google.com/file/d/1s2bKyzpV6HNWSZ2LZzOjBDVDxWS4ZJiT/view?usp=sharing">DOWNLOAD</a></p>
+    <p>PREVIEW:</p>
+    <ol>
+        <li>What’s the story of your favorite song?</li>
+        <li>What’s the story of your favorite movie or TV show?</li>
+    </ol>
+</details>
