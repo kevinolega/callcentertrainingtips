@@ -152,7 +152,6 @@ author: Kevin Olega
     <p>Watch the video until the end.</p>
     <p>Please let me know.</p>
     <p><a href="https://youtu.be/s-oMVy-dJlc">LEAVE A COMMENT</a>.</p>
-    <br>
     <p><a href="https://drive.google.com/file/d/1STewo-9ytr7aRehXPB7CDAfO_BcxnssU/view?usp=sharing">READ BONUS LESSON</a>.</p>
 </details>
 
@@ -160,12 +159,10 @@ author: Kevin Olega
 
 <details>
     <summary>READ MORE.</summary>
-
     <p><iframe width="560" height="315" src="https://www.youtube.com/embed/xUe_mOFkm84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     <p>Watch the video until the end.</p>
     <p>Please let me know that you finished watching the video. </p>
-    <p><a href="https://youtu.be/xUe_mOFkm84"></a>LEAVE A COMMENT</p>
-    <br>
+    <p><a href="https://youtu.be/xUe_mOFkm84">LEAVE A COMMENT</a></p>
     <p>Please read this lesson again before proceeding to activity 3.</p>
     <p><a href="https://callcentertrainingtips.com/fixthis">CLICK HERE TO READ LESSON</a>.</p>
     <p>Please work on your grammar by reviewing your past answers. Look for errors and rewrite until you have corrected all the sentences. Our goal is to find and fix all the errors.</p>
@@ -175,8 +172,6 @@ author: Kevin Olega
 <p>15 Sentence Instruction. </p>
 <details>
     <summary>Read more.</summary>
-    <br>
-    <br>
     <p><a href="https://drive.google.com/file/d/1hodmJccbOTOTJxV0IOiMOaWk0CR1LoNv/view?usp=sharing">DOWNLOAD</a>.</p>
     <p>Write a fifteen sentence instruction on how to commute to the office (current, past, or future) or nearest mall.</p>
     <p>Please remember to:</p>
@@ -193,7 +188,7 @@ author: Kevin Olega
     <p>How much detail would you put into the instructions?</p>
     <p><iframe width="560" height="315" src="https://www.youtube.com/embed/t2w17QfMIXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     <p>Let me know that you're done.</p>
-    <p><a href="https://youtu.be/t2w17QfMIXI"></a>COMMENT</p>
+    <p><a href="https://youtu.be/t2w17QfMIXI">COMMENT</a></p>
 </details>
 
 <h2>LESSON 4</h2>
@@ -246,24 +241,19 @@ author: Kevin Olega
 <p>Shorten Sentences</p>
 <details>
     <summary>Read more.</summary>
-    <br>
-    <br>
     <p><a href="https://drive.google.com/file/d/1ACz08BLtYML_BSQ6tiNP0ECr8Gm38820/view?usp=sharing">DOWNLOAD</a></p>
     <p>I’d like to point out that this is the most important lesson in the module.</p>
     <p>If you can shorten all of your sentences, everything you write and say will be error-free and easy to understand.</p>
     <p><iframe width="560" height="315" src="https://www.youtube.com/embed/73guG1Usr_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     <p>Let me know that you’re done.</p>
     <p><a href="https://youtu.be/73guG1Usr_c">VIDEO</a></p>
-    <p>ADDITIONAL READING:</p>
-    <p><a href="https://callcentertrainingtips.com/ssse">READ: Shortened Sentence Simplified Explanation</a></p>
+    <p><a href="https://callcentertrainingtips.com/ssse">ADDITIONAL READING: Shortened Sentence Simplified Explanation</a></p>
 </details>
 
 <h2>FINAL ACTIVITY</h2>
 <p>Summary of everything you learned.</p>
 <details>
     <summary>Read more.</summary>
-    <br>
-    <br>
     <p>PART 1</p>
     <p>Please write a summary of what you learned from each exercise. Write 3-5 sentences.</p>
     <p>Include the following details:</p>
@@ -283,12 +273,10 @@ author: Kevin Olega
     <p></p>
     <p><a href="https://docs.google.com/document/d/1N_1dmbqNg8rZpEiap1YoVfxJrWeBZsCmdjtnJVLwZTE/copy">ANSWER ACTIVITY</a></p>
 </details>
-<br>
+
 <h2>REVIEW</h2>
 <details>
     <summary>Read more.</summary>
-    <br>
-    <br>
     <p>Read all of your answers aloud.</p>
     <p>Start from lesson one until the final activity.</p>
     <p>Apply corrections to any errors that you find.</p>
@@ -299,13 +287,10 @@ author: Kevin Olega
 <p>I encourage you to collect and submit your questions.</p>
 <details>
     <summary>Read more.</summary>
-    <br>
-    <br>
     <p>Write your questions on the final page of all writing exercises.</p>
     <p>We will discuss your questions during coaching.</p>
     <p>Alternatively, we’ll produce a video to answer your questions.</p>
-</details>
-<br>
+</details> 
 
 <h2>PHONE COACHING</h2>
 <p>This is where we fix your errors.</p>
@@ -329,15 +314,13 @@ author: Kevin Olega
     <p><iframe width="560" height="315" src="https://www.youtube.com/embed/7X-XOJ1SCMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     <p><a href="https://www.youtube.com/watch?v=7X-XOJ1SCMc">COMMENT</a>.</p>
     <p>Thanks!</p>
-    <p><a href="https://callcentertrainingtips.com/coaching-calendar" class="button focus">SCHEDULE COACHING</a>a></p>
+    <p><a href="https://callcentertrainingtips.com/coaching-calendar" class="button focus">SCHEDULE COACHING</a></p>
 </details>
 
 <h3>I’M DONE WITH THE EXERCISES. I’M WAITING FOR MY SESSION</h3>
 <p>What to do while waiting.</p>
 <details>
     <summary>Read more.</summary>
-    <br>
-    <br>
     <p>Sometimes the coaching schedule gets filled up.</p>
     <p>We prepared some additional activities for you.</p>
     <p>While waiting for your phone coaching schedule, begin watching our recorded sessions with other students.</p>
