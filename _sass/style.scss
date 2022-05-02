@@ -24,6 +24,16 @@ body {
         padding: 1em;
     }
 
+summary {
+    padding: 2em;
+    background: none;
+    margin-bottom: 1em;
+    cursor: pointer;
+    outline: none;
+    border-left: .3em;
+    font-weight: bold;
+}
+
     }
 
     h1,h2,h3,h4,h5,h6 {
