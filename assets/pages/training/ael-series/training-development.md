@@ -10,15 +10,14 @@ author: Kevin Olega
 <p>Our system is being upgraded at the moment.</p>
 <p>Access to additional lessons will be available soon.</p>
 
-<h2>INSTRUCTIONS</h2>
-
 <details>
-    <summary>Read more</summary>
-
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/1rOvYh6UMQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-<p>Watch the video until the end.</p>
-<p>Please let me know that you finished watching the video. </p>
-<p>[CLICK HERE TO LEAVE A COMMENT](https://youtu.be/1rOvYh6UMQM).</p>
+    <summary>INSTRUCTIONS</summary>
+    <div class="content">
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/1rOvYh6UMQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    <p>Watch the video until the end.</p>
+    <p>Please let me know that you finished watching the video. </p>
+    <p></p><a href="https://youtu.be/1rOvYh6UMQM">CLICK HERE TO LEAVE A COMMENT</a>.</p>
+    </div>
 </details>
 
 <h2>REMINDERS</h2>
