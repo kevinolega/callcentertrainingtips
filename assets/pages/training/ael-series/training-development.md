@@ -316,10 +316,11 @@ author: Kevin Olega
     <p><a href="https://callcentertrainingtips.com/coaching-calendar" class="button focus">SCHEDULE COACHING</a></p>
 </details>
 
-<h3>I’M DONE WITH THE EXERCISES. I’M WAITING FOR MY SESSION</h3>
-<p>What to do while waiting.</p>
+
 <details>
-    <summary>Read more.</summary>
+    <summary>I’M DONE WITH THE EXERCISES. I’M WAITING FOR MY SESSION</summary>
+    <div class="content">
+    <p>What to do while waiting.</p>   
     <p>Sometimes the coaching schedule gets filled up.</p>
     <p>We prepared some additional activities for you.</p>
     <p>While waiting for your phone coaching schedule, begin watching our recorded sessions with other students.</p>
@@ -338,4 +339,5 @@ author: Kevin Olega
     <p><a href="https://youtube.com/callcentertrainingtips?sub_confirmation=1">SUBSCRIBE TO MY YOUTUBE CHANNEL</a></p>
     <p><a href="https://callcentertrainingtips.com/writingexercise/">READ: Improve Your Communication with Writing Exercises</a></p>
     <p><a href="https://callcentertrainingtips.com/videos">ACCESS BONUS VIDEOS</a></p>
+    </div>
 </details>
