@@ -21,7 +21,7 @@ I put together two activities that will help you
 
 [Click here to take a business English assessment](https://callcentertrainingtips.com/bizeng-test/).
 
-[Click here to take another business English assessment]((https://callcentertrainingtips.com/bizeng-quiz/)
+[Click here to take another business English assessment](https://callcentertrainingtips.com/bizeng-quiz/)
 
 ## Listening Test
 
@@ -35,18 +35,18 @@ I put together two activities that will help you
 
 ## IQ Test
 
-[Click here to take the basic IQ test]((https://callcentertrainingtips.com/iq-test/)
+[Click here to take the basic IQ test](https://callcentertrainingtips.com/iq-test/)
 
 ## Personality Tests
 
 Here are three of the most popular personality tests that companies use to determine your job fit.
 
-[Click here to take the BIG 5 personality test]((https://callcentertrainingtips.com/big-five/)
+[Click here to take the BIG 5 personality test](https://callcentertrainingtips.com/big-five/)
 
 
-[Click here to take the BIG 5 personality test](((https://callcentertrainingtips.com/16personality/)
+[Click here to take the BIG 5 personality test](https://callcentertrainingtips.com/16personality/)
 
-[Click here to take the DISC personality test](((https://callcentertrainingtips.com/disc/)
+[Click here to take the DISC personality test](https://callcentertrainingtips.com/disc/)
 
 
 ## Customer Service Tests
