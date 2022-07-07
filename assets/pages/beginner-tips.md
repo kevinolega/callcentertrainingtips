@@ -5,9 +5,13 @@ date: 2018-06-29 19:49
 permalink: /beginner/ 
 author: Kevin Olega 
 --- 
-Call center interviews are extremely intimidating for beginner applicants and call center newbies.
+Call center interviews are intimidating to beginner applicants and call center newbies.
 
-You need to get the interviewer's approval by communicating confidently and speaking in English well in order to advance in the screening process.
+I'll teach you the basics so you don't have to be afraid.
+
+Here's what you need to know about call center.
+
+You need to get the interviewer's approval by communicating confidently and speaking English well so you'll pass the screening process.
 
 I've been working in the BPO for over ten years and it's important for you to know that you will not be asked any technical questions.
 
@@ -17,9 +21,13 @@ You don't need to research about specific companies, instead take the opportunit
 
 However, with knowledge about yourself, I recommend that you come prepared.
 
-The most important details are:
+The most important details follow:
 
-## 1. Your introduction
+### 1. Focus on your introduction
+
+Beginner call center applicants fail to introduce themselves because they copy answers from the internet.
+
+Here's what to do instead.
 
 Who are you? 
 
@@ -42,7 +50,9 @@ Use a complete sentence.
 Have your answers checked by somebody who's great at speaking in English?
 
 
-## 2. Asking questions
+### 2. Get used to asking questions
+
+Beginner job applicants never ask questions in an interview because they're afraid of sounding foolish.
 
 Questions tell the interviewer that you are an intelligent person. 
 
@@ -78,7 +88,7 @@ If you've ever listened to a call center spiel here are examples.
 - Is there anything else that I can assist you with?
 
 
-And so on. 
+There are more questions that new call center agents don't ask.
 
 Mastering this part and sounding great in English pretty much guarantees getting hired in a call center.
 
@@ -87,9 +97,9 @@ Unless you have a rotten attitude.
 This is often the main reason why an interviewer will decline someone with great English.
 
 
+### 3. Practice giving instructions
 
-
-## 3. Giving instructions
+Lots of newbies fail at giving clear step-by-step instructions.
 
 It's important to remember the following when giving instructions.
 
@@ -99,7 +109,9 @@ It's important to remember the following when giving instructions.
 - Pause a little between steps.
 - Speak loud and clear.
 
-## 4. Telling stories
+### 4. Telling stories
+
+Green call center applicants avoid sharing stories in favor of short answers. 
 
 It is important to follow the same rules with instructions as in stories.
 
@@ -135,7 +147,7 @@ Listen to each question and ask questions if you don't understand.
 
 Ask for more time to think about the question or ask clarifying questions about the questions. What do you mean by "What's my plan for the future?" do you mean short term or long term? and so on.
 
-### What is a great call center agent?
+#### What is a great call center agent?
 
 A good majority of call center companies serve American customers.
 
@@ -183,13 +195,13 @@ If you say something that offended a customer always ask yourself how you can sa
 
 Here are common questions that Interviewers usually ask new applicants.
 
-### 1.) Tell me about yourself.
+#### 1.) Tell me about yourself.
 
 My name is Kevin. I live in Parañaque. I used to work in Makati as a sales representative and I want to work in a call center because my friends tell me that the pay is exciting and there are opportunities to advance in my career if I do well.
 
 I recommend you review your introduction answers and come up with your own answers.
 
-### 2.) Why are you applying in the call center industry?
+#### 2.) Why are you applying in the call center industry?
 
 I usually try to answer this answer with my introduction but if you were asked this separately here's an example of how I'd answer using a story..
 
@@ -201,7 +213,7 @@ If you want to work in a call center because of the good money, it's also okay t
 
 It's important to communicate that you want to work with the company long term.
 
-### 3.) How would you describe the color “blue” to a blind person?
+#### 3.) How would you describe the color “blue” to a blind person?
 
 This is one of the many "random questions" that you may get asked.
 
@@ -237,7 +249,7 @@ Then I'd ask the interviewer if they are satisfied with my answer.
 
 > "Was I able to explain my answer clearly?"
 
-### 4.) How do you see your self 5 or 10 years from now?
+#### 4.) How do you see your self 5 or 10 years from now?
 
 The numbers here change. Here's the thing.
 
@@ -247,7 +259,7 @@ The numbers here change. Here's the thing.
 
 **5-10 years:** It's difficult for me to determine how far exactly I'll be able to advance given my lack of knowledge in the call center hierarchy but I imagine that the first two years will be spent mastering my tasks in the agent level and if an opportunity opens, I'll go for the first promotion that I can go for and take it from there.
 
-### 5.) Do you have any questions for me?
+#### 5.) Do you have any questions for me?
 
 Scroll back up to my answering questions section.
 
