@@ -7,6 +7,7 @@ Tags: [ interview, skills, basics, English, freelancing, strategies ]
 permalink: how-to-handle-stress-interview
 author: Kevin Olega 
 --- 
+
 The interviewers want to know if you can cope with stress. Stress is an important part of life and the workplace, but there are some ways to better manage it. Keep reading for tips on how to answer this question with confidence.
 
 **Contents:**
