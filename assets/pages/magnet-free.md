@@ -2,7 +2,7 @@
 layout: page 
 title: Free Lessons
 date: 2019-08-31 13:00
-description: This page contains a short guide to our free lessons. Call Center Training Tips contains over 500 lessons for job applicants, BPO workers and home based freelancers.
+description: This page contains a short guide to how to access our free revieerw and lessons. Call Center Training Tips contains over 1,500 lessons for job applicants, BPO workers and home based freelancers.
 Tags: [ CTA, blog ]
 permalink: /free/ 
 author: Kevin Olega 
