@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: How to Answer Call Center Interview Question&#58; How Do You Handle Stress?
-date: 2022-08-29 06:55
+date: 2022-08-28 06:55
 description: How do you handle stressful situations? What are your techniques for staying calm in the workplace? These are common questions that many call center interviewers ask to determine if you're a good fit for their company.
 Tags: [ interview, skills, basics, English, freelancing, strategies ]
 permalink: how-to-handle-stress-interview

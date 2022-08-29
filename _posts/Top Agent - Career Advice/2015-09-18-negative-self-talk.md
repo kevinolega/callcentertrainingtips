@@ -20,7 +20,7 @@ We are bad judges of people, character, situations and our own selves.
 
 If we listen to our negative judgment we are likely to avoid opportunities and do stupid things with our resources.
 
-## First a story. 
+## First a story.
 
 I wrote the previous post on a Saturday as I was on the commute home. 
 
@@ -82,7 +82,7 @@ I’ve been playing the scenario in my head for days then I realized that the si
 
 I would have been dead or I would have been sent to jail for murdering the fuckers. 
 
-My friend sent me a message about how whenever I lose an item to a thief or to my unexpected stupidity I am being called by God to donate “said lost item or money” to a parent who has great need to save the life of a loved one. 
+My friend sent me a message about how whenever I lose an item to a thief or to my unexpected stupidity I am being called by God to donate “said lost item or money” to a parent who had great need to save the life of a loved one. 
 
 God doesn’t force people. 
 
@@ -230,7 +230,7 @@ I went home and as I was on my way to the shuttle, (I’m not taking that route 
 
 I said okay and sent my response the next morning. 
 
-## Day four 
+## Day four
 
 I tell myself.
 
@@ -258,7 +258,7 @@ I tell myself God allowed it because I deserved a better phone and that I should
 
 I should quickly pay off all my debt and wait for the iPhone 6s to come out this November and December.
 
-## Day five. 
+## Day five.
 
 I’m not getting any help from insurance since I decided to cancel it. 
 
@@ -266,7 +266,7 @@ Although I’m disputing that they charged me and I should have coverage.
 
 Insurance will just return my money.
 
-## Day six. 
+## Day six.
 
 I receive a message about how someone had picked up my bag at SM City BF. 
 

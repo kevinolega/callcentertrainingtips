@@ -10,7 +10,7 @@ Have you ever asked yourself if you have what it takes to stick to improving you
 
 Perhaps you’ve gone as far as thinking that there is something wrong with you and that you simply are not capable of changing just like everyone you see who succeeds.
 
-The good news is **there is nothing wrong with you.** 
+The good news is **there is nothing wrong with you**. 
 
 You aren’t missing something in your brain that is needed to be successful. 
 
@@ -83,7 +83,7 @@ These guys wear the same thing everyday to make as few decisions as possible.
 
 Based on what they’ve accomplished, I believe they are doing something right.
 
-## 5. Get enough sleep. 
+## 5. Get enough sleep.
 
 Based on experience less sleep leads to a shit day. 
 
@@ -113,7 +113,7 @@ Google is your friend.
 
 This is a job-hunting tips site I don't need to explain here.
 
-## 7. Observe your breathing. 
+## 7. Observe your breathing.
 
 Take a deep breath now. 
 
