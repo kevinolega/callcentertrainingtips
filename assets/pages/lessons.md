@@ -4,6 +4,9 @@ title: IMPORTANT LESSONS
 permalink: lessons
 ---
 {% include email-signup.html %}
+<br>
+<br>
+<hr>
 This page contains over one thousand free lessons.
 
 Scroll down to read all the lessons.
