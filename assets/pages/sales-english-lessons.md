@@ -61,6 +61,28 @@ author: Kevin Olega
 <p>You will receive training materials, writing exercises, video guides, and live coaching.</p>
 <p>We'll sharpen your communication skills, fix your grammar and pronunciation.</p>
 
+<h3>What is the training schedule?</h3>
+<p>The writing exercises can be done anytime at your convenience. We recommend studying daily for 30 minutes to an hour if your schedule permits. However, you can work on your modules whenever you are free.</p>
+<p>We only have weekend schedule for coaching so far.</p>
+<p>Saturday Schedule:</p>
+<ul>
+	<li>4 pm to 5 pm</li>
+	<li>5 pm to 6 pm</li>
+	<li>6 pm to 7 pm</li>
+	<li>7 pm to 8 pm</li>
+	<li>8 pm to 9 pm</li>
+	<li>9 pm to 10 pm</li>
+</ul>
+<p>Sunday Schedule:</p>
+<ul>
+	<li>4 pm to 5 pm</li>
+	<li>5 pm to 6 pm</li>
+	<li>6 pm to 7 pm</li>
+	<li>7 pm to 8 pm</li>
+	<li>8 pm to 9 pm</li>
+	<li>9 pm to 10 pm</li>
+</ul>
+<p>We understand that you may have a different availability than what is offered. We are working on opening new schedules for our students. Please send us a message if you have more questions about the schedule or would like to propose a different time.</p>
 <h3>Why do you use writing exercises?</h3>
 <p>We use self-paced writing exercises to improve your grammar.</p>
 <p>It's easier to find and fix grammar errors in written form.</p>
