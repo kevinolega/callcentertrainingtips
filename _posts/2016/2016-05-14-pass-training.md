@@ -99,7 +99,7 @@ Not to sound hypocritical, I have borrowed anywhere from coins to two hundred bu
 
 Most people who borrowed money from me in the call center haven't paid me back. 
 
-To name a few, there are Edsil Pastoral, [Gian Baylon](https://web.facebook.com/profile.php?id=1628966375&ref=br_rs) [Myrtle Anne Ramos](https://web.facebook.com/profile.php?id=100002471294697&ref=br_rs), [Charlon Harvey Ocampo Punla](https://web.facebook.com/charlon.punla?ref=br_rs),Zenneth 
+To name a few, there are Edsil Pastoral, [Gian Baylon](https://web.facebook.com/profile.php?id=1628966375&ref=br_rs), [Charlon Harvey Ocampo Punla](https://web.facebook.com/charlon.punla?ref=br_rs),Zenneth 
 Hizon, [Russel "Raj" Ylannan](https://web.facebook.com/rushellraj.ylanan?ref=br_rs), and a lot more people owe me a significant amount of money. One of these people have also stolen my wallet, phone , and iPod.
 
 Most of these people never paid me back, have stopped responding to my messages and have just disappeared. 

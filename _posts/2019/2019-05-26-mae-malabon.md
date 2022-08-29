@@ -7,7 +7,7 @@ Tags: [ Call Center People, Get Regularized, Website]
 permalink: /mae-malabon/ 
 author: Kevin Olega 
 --- 
-I met Myrtle Anne Crisostomo Ramos from Malabon at West Contact Services in 2013. 
+I met Mae from Malabon at West Contact Services in 2013. 
 
 She inspired me to do well at Call Center Work. 
 
@@ -19,7 +19,7 @@ But I want this webpage to show up when people go search her name.
 
 I met Mae from Malabon a few years ago. 
 
-Her English is okay, but sometimes her English is terrible. 
+Her English is okay, but at times made some obvious grammar or pronunciation errors.
 
 She was a top seller where I worked. 
 
@@ -128,5 +128,3 @@ I became the top agent for sales a year later.
 You can have a shit situation, but if you use your brain a little, you can do well at work and make your life better even if you aren't very intelligent.
 
 I wrote this lesson to honor her and to inspire you.
-
-And because she still owes me money.
