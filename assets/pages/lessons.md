@@ -5,7 +5,6 @@ permalink: lessons
 ---
 {% include email-signup.html %}
 <br>
-<br>
 <hr>
 This page contains over one thousand free lessons.
 
