@@ -27,9 +27,9 @@ We also offered a seven day extension period.
 
 ## Here's what you can do.
 
-We have new modules for 2021.
+We have new modules for 2022.
 
-{% include el-promo-price.html %}
+[Click here for more info](https://callcentertrainingtips.com/english-lessons).
 
 You can also buy my book.
 
