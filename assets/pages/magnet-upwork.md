@@ -90,6 +90,9 @@ You'll need to up your writing skills to 9/10.
 
 I chose to work for a call center to save money, practice my skills, buy my computer and eventually get started.
 
+## HOW TO NEGOTIATE YOUR PAY
+
+[How I negotiate my pay](https://callcentertrainingtips.com/writer-pay).
 
 {% include about.html %}
 
