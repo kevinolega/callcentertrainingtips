@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: To your success in the call center industry!
+title: Praying for your success in the call center industry!
 date: 2022-09-10 12:11
 permalink: thank-you-hired
 author: Kevin Olega 
