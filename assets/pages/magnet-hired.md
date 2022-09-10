@@ -6,6 +6,16 @@ Tags: [ collections, blog ]
 permalink: /hired/ 
 author: Kevin Olega 
 --- 
+<h2>LEARN TO SURVIVE</h2>
+<p>Call center work is a high-stress, high-stakes, and high-reward environment.</p>
+<p>Many new call center agents worry about surviving because they don't have prior experience.</p>
+<p>Small mistakes can get you fired and it's unfortunate that are many errors are easily preventable.</p>
+<p>I documented my journey and organized different strategies and secrets that will allow you to get regularized and eventually become a top performer.</p>
+
+<p><a href="https://sendfox.com/lp/m48vjn" class="button focus">LEARN TO SURVIVE</a></p>
+
+
+
 Hi there!
 
 Congratulations for getting hired.
@@ -14,7 +24,7 @@ I put together this page for you.
 
 So you know what to do.
 
-Because 90% of your training batch won't get regularized or stay with the company after one year.
+90% of your training batch won't get regularized or stay with the company after one year.
 
 Out of almost thirty in our batch, only three of us were left working in the company after a year.
 
@@ -26,23 +36,18 @@ I had a big crush on our OM so I always looked at her when she's in the office.
 
 But because I was always looking at her... 
 
-I also saw the giant whiteboard near her office nobody bothered to clean from a recent meeting with the client.
+I also saw the giant whiteboard next to her office desk nobody bothered to clean from a recent client meeting.
 
-The whiteboard has the stats of our site.
+The whiteboard had:
+* The stats of our site.
+* It has the number of agents.
+* The overall AHT.
+* The overall customer feedback score.
+* The overall sales.
+* The overall attendance.
+* And all the other KPI.
 
-It has the number of agents.
-
-The overall AHT.
-
-The overall customer feedback score.
-
-The overall sales.
-
-The overall attendance.
-
-And all the other KPI.
-
-The whiteboard also said...
+The whiteboard also had...
 
 90% of the agents hired quit or get fired within one year.
 
@@ -54,7 +59,9 @@ In other words, 90% of agents are newbies.
 
 In other words, weaklings.
 
-In other words I have an opportunity to keep winning because I am only competing with the top 10% of the agents.
+This informations scared me at first and encouraged me after giving further consideration.
+
+I have an opportunity to keep winning because I am only competing with the top 10% of the agents.
 
 And 90% of all the people I've met have given up on improving themselves after they recieved this magical piece of paper called a DIPLOMA.
 
@@ -72,17 +79,27 @@ I am not Jesus.
 
 I'm just an asshole with a website.
 
-But if you follow my lessons, you'll build a better life.
+But if you follow my lessons, I can guarantee that you'll build a better life.
 
 I'm not trying to teach you how to become a millionaire.
 
-The only thing I can teach you is how to go from minimum wage to 35k/month.
+The only thing I can teach you is how to go from minimum wage to ₱35,000 a month.
 
-What can you do with 35k/month?
+What can you do with ₱35,000 a month?
 
 I don't know. Save that and in five years that's 2.2M.
 
 Don't count the money until after you're done the work.
+
+<h2>LEARN TO SURVIVE</h2>
+<p>Call center work is a high-stress, high-stakes, and high-reward environment.</p>
+<p>Many new call center agents worry about surviving because they don't have prior experience.</p>
+<p>Small mistakes can get you fired and it's unfortunate that are many errors are easily preventable.</p>
+<p>I documented my journey and organized different strategies and secrets that will allow you to get regularized and eventually become a top performer.</p>
+
+<p><a href="https://sendfox.com/lp/m48vjn" class="button focus">LEARN TO SURVIVE</a></p>
+
+
 
 So start reading and taking notes.
 
