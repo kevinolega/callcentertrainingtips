@@ -192,7 +192,7 @@ If you spend time studying and practicing English or any skill you desire to lea
 
 I did this every day until my skills were good enough.
 
-## English is a required life skill. 
+## English is a required life skill.
 
 That’s what I believe.
 
@@ -260,7 +260,7 @@ Its that terrible.
 
 If your English is not good then you’re not qualified.
 
-## Dishonest Employers Take Advantage of POORLY SKILLED EMPLOYEES. 
+## Dishonest Employers Take Advantage of POORLY SKILLED EMPLOYEES.
 
 They will hire you cheap because you can’t go to better employers. 
 
@@ -438,7 +438,7 @@ In the professional circle English is the preferred language.
 
 So if you would like to learn from higher performer you need to learn English.
 
-## The solution is getting educated. 
+## The solution is getting educated.
 
 > ”Formal education helps you get a living. Self education helps you make a fortune”  
 > - Jim Rohn

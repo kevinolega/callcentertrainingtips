@@ -41,7 +41,7 @@ PREVIEW:
 - I'm good at - 5 sentences
 - When I was younger, I wanted to be - 10 sentences.
 
-## LESSON 2 
+## LESSON 2
 
 20 Connecting Questions 
 
@@ -73,7 +73,7 @@ PREVIEW:
 
 
 
-## LESSON 3 
+## LESSON 3
 
 20 Sentence Instruction. 
 
@@ -83,7 +83,7 @@ PREVIEW:
 
 Write a twenty sentence instruction on how to get hired at your dream job.
 
-## LESSON 4 
+## LESSON 4
 
 20 Sentence Story.
 
