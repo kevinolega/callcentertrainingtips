@@ -19,11 +19,11 @@ Kevin
 
 <h2>RECEIVE PRACTICAL LESSONS ABOUT FREELANCING</h2>
 
-I'll email you some free lessons.
+I'll email you some free lessons and update you about job opportunities in my circle.
 
 <p><a href="https://sendfox.com/lp/3lw8ql" class="button focus">GET MY FREELANCE LESSONS</a></p>
 
-
+<br><br><br><br>
 Here are some sample lessons.
 
 ## HOW TO BECOME A SUCCESSFUL FREELANCER IN ONE MINUTE

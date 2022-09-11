@@ -1,12 +1,24 @@
 --- 
 layout: page
-title: THANK YOU FOR SUBSCRIBING!
-date: 2021-07-06 00:05
-search: exclude
-permalink: thank-you-free  
+title: Free Reviewer
+date: 2022-09-09 09:33
+permalink: thank-you-free-reviewer
 author: Kevin Olega 
 --- 
-{% include confirm-email.html %}
+Thank you!
+
+Here's your free reviewer.
+
+## UPDATE:
+
+2022-09-09
+
+The reviewer is being updated. 
+
+Visit this page for quick access.
+
+[Link to free reviewer](https://docs.google.com/document/d/14PSfHJyOyTOrgB9mSL8uF-NYK3q9SRgWoR8VhkXQ67Y/edit?usp=sharing).
+
 <h2>WE HAVE MORE FOR YOU</h2>
 <p>You may access all of our free training materials from this page.</p>
 <p>Scroll down to find more goodies!</p>
@@ -25,5 +37,11 @@ author: Kevin Olega
 When you get the chance, please enroll in our coaching to learn new skills and support our website.
 
 <a href="https://callcentertrainingtips.com/6WEL250/" class="button focus">CLICK HERE TO GET COACHING</a>
+
+![IMAGE TEXT]({{ site.url }}/assets/img/cctt.jpeg).
+
+When you get the chance, please enroll in our coaching to learn new skills and support our website.
+
+<a href="https://callcentertrainingtips.com/english-lessons/" class="button focus">CLICK HERE TO GET COACHING</a>
 
 ![IMAGE TEXT]({{ site.url }}/assets/img/cctt.jpeg).
