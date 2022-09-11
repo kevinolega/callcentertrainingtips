@@ -1,4 +1,3 @@
-magnet-student-bonus.md
 --- 
 layout: page
 title: Student Bonus Signup
