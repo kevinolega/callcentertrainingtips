@@ -47,9 +47,9 @@ author: Kevin Olega
 	<li>Join the live coaching sessions</li>
 </ol>
 <p>The sooner you learn, the sooner you can earn!</p>
-<p>Let me know you are ready to begin by<a href="https://www.facebook.com/callcentertrainingtips">sending a message</a>.</p>
+<p>Let me know you are ready to begin by <a href="https://www.facebook.com/callcentertrainingtips">sending a message</a>.</p>
 <p>Thanks!</p>
-<p>Send a message to <a href"https://www.facebook.com/callcentertrainingtips">ENROLL NOW</a>!!!</p>
+<p>Send a message to <a href="https://www.facebook.com/callcentertrainingtips">ENROLL NOW</a>!!!</p>
 
 
 {% include featured-testimonial-04.html %}
@@ -124,7 +124,7 @@ author: Kevin Olega
 <h3>What are the benefits of active learning?</h3>
 <p>👨🏻‍🎓👩🏻‍🎓  Active learning is the most effective method to sounding professional and confident at conversations, interviews, client meetings, customer service, sales & email.</p>
 
-
+<p>Send a message to <a href="https://www.facebook.com/callcentertrainingtips">INQUIRE NOW</a>!!!</p>
 
 
 <p><img src="{{ site.url }}/assets/img/2020-07-01-three-hundred.png" width="400"></p>
