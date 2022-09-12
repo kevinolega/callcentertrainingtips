@@ -47,15 +47,14 @@ author: Kevin Olega
 	<li>Join the live coaching sessions</li>
 </ol>
 <p>The sooner you learn, the sooner you can earn!</p>
-<p>Send me a message to let me know when you're ready to begin.</p>
+<p>Let me know you are ready to begin by<a href="https://www.facebook.com/callcentertrainingtips">sending a message</a>.</p>
 <p>Thanks!</p>
-<p></p>
-<p></p>
+<p>Send a message to <a href"https://www.facebook.com/callcentertrainingtips">ENROLL NOW</a>!!!</p>
 
 
 {% include featured-testimonial-04.html %}
 
-<h2>Frequently Asked Questions</h2>:
+<h2>Frequently Asked Questions</h2>
 
 <h3>What do I get for enrolling in your program?</h3>
 <p>You will receive training materials, writing exercises, video guides, and live coaching.</p>
