@@ -3,9 +3,6 @@ layout: page
 title: Private Library
 date: 2022-09-11 15:41
 permalink: thank-you-student-library-access
-redirect_from: 
-	- https://callcentertrainingtips.com/thank-you-student-access
-	- https://callcentertrainingtips.com/thank-you-student-acccess
 author: Kevin Olega 
 --- 
 
