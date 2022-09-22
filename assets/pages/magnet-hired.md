@@ -11,7 +11,7 @@ author: Kevin Olega
 <p>Many new call center agents worry about surviving because they don't have prior experience.</p>
 <p>Small mistakes can get you fired and it's unfortunate that are many errors are easily preventable.</p>
 <p>I documented my journey and organized different strategies and secrets that will allow you to get regularized and eventually become a top performer.</p>
-
+<p>Click the button to sign up and learn to survive call center work.</p>
 <p><a href="https://sendfox.com/lp/m48vjn" class="button focus">LEARN TO SURVIVE</a></p>
 
 <br>
@@ -100,6 +100,6 @@ Don't count the money until after you're done the work.
 <p>Many new call center agents worry about surviving because they don't have prior experience.</p>
 <p>Small mistakes can get you fired and it's unfortunate that are many errors are easily preventable.</p>
 <p>I documented my journey and organized different strategies and secrets that will allow you to get regularized and eventually become a top performer.</p>
-
+<p>Click the button to sign up and learn to survive call center work.</p>
 <p><a href="https://sendfox.com/lp/m48vjn" class="button focus">LEARN TO SURVIVE</a></p>
 
