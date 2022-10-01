@@ -167,7 +167,7 @@ I hope someone this site has helped gets to read this and consider contacting me
 
 [CLICK HERE if you want to donate and support my work](https://www.paypal.me/kevinolega).
 
-## My Call Center Training Credentials 
+## My Call Center Training Credentials
 
 I grew up with the reputation of having horrible communication skills.
 
@@ -281,7 +281,7 @@ I eventually worked in a call center. I have been working in a call center for t
 
 [READ: Full Story](https://callcentertrainingtips.com/gerry).
 
-### Update 2016: 
+### Update 2016:
 
 I WAS MENTIONED ON THE TIM FERRISS SHOW!!!
 

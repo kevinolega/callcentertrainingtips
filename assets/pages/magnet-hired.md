@@ -61,7 +61,7 @@ author: Kevin Olega
 <br>
 <br>
 
-
+<img src="{{ site.url }}/assets/img/Call Center Kevin.jpg" width="300">
 
 Hi there!
 
