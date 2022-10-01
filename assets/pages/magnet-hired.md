@@ -20,6 +20,49 @@ author: Kevin Olega
 <br>
 <br>
 
+<h2>What you can expect to learn:</h2>
+
+- How to survive call center training.
+- How to survive the night shift schedule.
+- Customer service tips
+- Technical support tips.
+- Sales tips.
+- How to build self-confidence when speaking to Americans
+- How to handle strict supervisors
+- How to manage your time
+- How to improve your spiel
+- How to handle angry customers
+- How to always get good customer service feedback
+- Customer service sentences that will help your pronunciation
+- Detailed explanation on customer service call flow
+- Lessons I learned from other top agents
+- Lessons I learned from top-tier team leaders and supervisors
+- Life lessons while working in a call center
+- Practical money management skills for call center income
+- Small purchases that made my life easier as a call center agent
+- When to leave the call center
+- Part-time jobs for call center agents
+- Business ideas for call center agents
+- Higher paying jobs for call center agents
+- How to set and achieve career goals
+- Importance of personal goals
+- How to survive burnout
+- What rules can you break while working in a call center?
+- and many more...
+
+<h2>LEARN TO SURVIVE</h2>
+<p>I documented my journey and organized different strategies and secrets that will allow you to get regularized and eventually become a top performer.</p>
+<p>Click the button to sign up and learn to survive call center work.</p>
+<p><a href="https://sendfox.com/lp/m48vjn" class="button focus">LEARN TO SURVIVE</a></p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
 Hi there!
 
 Congratulations for getting hired.
@@ -77,7 +120,7 @@ To the kind of WINNER who is always giving help.
 
 Jesus said:
 
-> "If You Abide in My Word, You Are Truly My Disciples"
+> "If you abide in my word, you are truly my disciples"
 
 I am not Jesus.
 
@@ -95,11 +138,7 @@ I don't know. Save that and in five years that's 2.2M.
 
 Don't count the money until after you're done the work.
 
-<h2>LEARN TO SURVIVE</h2>
-<p>Call center work is a high-stress, high-stakes, and high-reward environment.</p>
-<p>Many new call center agents worry about surviving because they don't have prior experience.</p>
-<p>Small mistakes can get you fired and it's unfortunate that are many errors are easily preventable.</p>
-<p>I documented my journey and organized different strategies and secrets that will allow you to get regularized and eventually become a top performer.</p>
+<h2>LAST CHANCE!!! LEARN TO SURVIVE</h2>
 <p>Click the button to sign up and learn to survive call center work.</p>
 <p><a href="https://sendfox.com/lp/m48vjn" class="button focus">LEARN TO SURVIVE</a></p>
 
