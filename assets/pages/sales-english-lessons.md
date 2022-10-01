@@ -28,11 +28,11 @@ author: Kevin Olega
 
 <p>✔️ - <strong>Step 1</strong>: Choose the number of weeks.</p>
 
-<p><strong>MORE SESSIONS MORE SAVINGS</strong> until September 30, 2022</p>
+<p><strong>MORE SESSIONS MORE SAVINGS</strong> until October 31, 2022</p>
 <p>1️⃣ - ₱587. intro session.</p>
-<p>2️⃣ - ₱999 two weeks. SAVE ₱175!</p>
-<p>4️⃣ - ₱1,899 four weeks. SAVE ₱449!</p>
-<p>6️⃣ - ₱2,699 six weeks. SAVE ₱823!</p>
+<p>2️⃣ - ₱1,099 two weeks. SAVE ₱75!</p>
+<p>4️⃣ - ₱2,099 four weeks. SAVE ₱249!</p>
+<p>6️⃣ - ₱3,099 six weeks. SAVE ₱423!</p>
 <p>8️⃣ - ₱3,499 - eight weeks. SAVE ₱1,197!</p>
 
 <p>✔️ - <strong>Step 2</strong>: Pay and Submit</p>
@@ -121,11 +121,29 @@ author: Kevin Olega
 <p><strong>Communicating with Confidence</strong>: Lessons on how to speak and write confidently. Become confident during interviews, client meetings, customer service, sales, email, and even casual conversations</p>
 <p><strong>Professional Communication</strong>: Personalized for roles with strict requirements. Ideal for professionals and business owners who are seeking to further their communication skills.</p>
 
+
+<h3>How many sessions do I need?</h3>
+<p>The answer to this question depends on the skill level you are aiming at.</p>
+<p>If you only have grammar and pronunciation issues, we can cover most problems in 4 sessions.</p>
+<p>If you need additional help with confidence and professional situations, I’d recommend 6-8 weeks.</p>
+
+<h3>Why do I need to pay if I can watch YouTube or read your lessons for free?</h3>
+<p>Training doesn't magically make your problems go away.</p>
+<p>You receive feedback and guidance when you pay for training.</p>
+<p>Communication has several moving parts and is complicated to learn on your own.</p>
+<p>Training is not like a magical ticket where you automatically add skills or guarantee jobs after you pay.</p>
+<p>I’m offering a service where I provide value through lessons, guidance, feedback, and correction.</p>
+
+<h3>Do I need to pay for the session before I start the training?</h3>
+<p>Yes. You need to pay for the session to join the training.</p>
+
+<h3>How much does the training cost?</h3>
+<p>I charge ₱587 per session. I offer discounts to students who purchase multiple sessions.</p>
+
 <h3>What are the benefits of active learning?</h3>
 <p>👨🏻‍🎓👩🏻‍🎓  Active learning is the most effective method to sounding professional and confident at conversations, interviews, client meetings, customer service, sales & email.</p>
 
 <p>Send a message to <a href="https://www.facebook.com/callcentertrainingtips">INQUIRE NOW</a>!!!</p>
-
 
 <p><img src="{{ site.url }}/assets/img/2020-07-01-three-hundred.png" width="400"></p>
 <p><a href="https://www.facebook.com/callcentertrainingtips/">CLICK HERE TO ASK QUESTIONS</a></p>
