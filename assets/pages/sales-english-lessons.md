@@ -55,7 +55,7 @@ author: Kevin Olega
 {% include featured-testimonial-04.html %}
 
 <h2>Frequently Asked Questions</h2>
-<p>Ask and you shall receive, seek and you shall find, knock and doors will open. Tap onto the question to get answers!</p>
+<p>Ask and you shall receive, seek and you shall find, knock and doors will open. Tap the question to get answers!</p>
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">What do I get for enrolling in your program?</summary>
 <p style="color:black;">You will receive training materials, writing exercises, video guides, and live coaching.</p>
