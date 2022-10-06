@@ -19,10 +19,10 @@ author: Kevin Olega
 
 <h2>SOLID STEP-BY-STEP TRAINING PLAN:</h2>
 <p>Our system follows a logical progression that allows you to become confident naturally.</p>
-<p>✍️ Fix Grammar Problems: Levels 1 & 2</p>
-<p>🗣️ Fix Pronunciation: Levels 3 & 4</p>
-<p>😎 Fix low self-confidence: Levels 5 & 6 </p>
-<p>👨‍💼 Professional Communication: Levels 7 up </p>
+<p>✍️ Fix Grammar Problems: <br>Levels 1 & 2</p>
+<p>🗣️ Fix Pronunciation: <br>Levels 3 & 4</p>
+<p>😎 Fix low self-confidence: <br>Levels 5 & 6 </p>
+<p>👨‍💼 Professional Communication: <br>Levels 7 up </p>
 
 <h2>ENROLLMENT INFORMATION:</h2>
 
@@ -33,11 +33,11 @@ author: Kevin Olega
 <p>2️⃣ - ₱1,099 two weeks. SAVE ₱75!</p>
 <p>4️⃣ - ₱2,099 four weeks. SAVE ₱249!</p>
 <p>6️⃣ - ₱3,099 six weeks. SAVE ₱423!</p>
-<p>8️⃣ - ₱3,499 - eight weeks. SAVE ₱1,197!</p>
+<p>8️⃣ - ₱3,499 - eight weeks. <br>SAVE ₱1,197!</p>
 
 <p>✔️ - <strong>Step 2</strong>: Pay and Submit</p>
 <ol>
-	<li>GCash & Maya: 09178952637, Direct transfer to BPI is also available.</li>
+	<li>GCash & Maya: 09178952637</li>
 	<li>Submit reference number, name, and email addresss</li>
 </ol>
 <p>✔️ - <strong>Step 3</strong>: START!</p>
@@ -142,6 +142,13 @@ author: Kevin Olega
 
 <h3>What are the benefits of active learning?</h3>
 <p>👨🏻‍🎓👩🏻‍🎓  Active learning is the most effective method to sounding professional and confident at conversations, interviews, client meetings, customer service, sales & email.</p>
+
+<details>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">This is a question</summary>
+<p>Line one.</p>
+<p>Line two.</p>
+<p>Line three.</p>
+</details>
 
 <p>Send a message to <a href="https://www.facebook.com/callcentertrainingtips">INQUIRE NOW</a>!!!</p>
 
