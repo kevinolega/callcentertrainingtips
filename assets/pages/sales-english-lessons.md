@@ -19,10 +19,10 @@ author: Kevin Olega
 
 <h2>SOLID STEP-BY-STEP TRAINING PLAN:</h2>
 <p>Our system follows a logical progression that allows you to become confident naturally.</p>
-<p>✍️ Fix Grammar Problems: <br>Levels 1 & 2</p>
-<p>🗣️ Fix Pronunciation: <br>Levels 3 & 4</p>
-<p>😎 Fix low self-confidence: <br>Levels 5 & 6 </p>
-<p>👨‍💼 Professional Communication: <br>Levels 7 up </p>
+<p>✍️ Fix Grammar Problems</p>
+<p>🗣️ Fix Pronunciation</p>
+<p>😎 Fix low self-confidence</p>
+<p>👨‍💼 Professional Communication</p>
 
 <h2>ENROLLMENT INFORMATION:</h2>
 
@@ -33,7 +33,7 @@ author: Kevin Olega
 <p>2️⃣ - ₱1,099 two weeks. SAVE ₱75!</p>
 <p>4️⃣ - ₱2,099 four weeks. SAVE ₱249!</p>
 <p>6️⃣ - ₱3,099 six weeks. SAVE ₱423!</p>
-<p>8️⃣ - ₱3,499 - eight weeks. <br>SAVE ₱1,197!</p>
+<p>8️⃣ - ₱3,499 - eight weeks. SAVE ₱1,197!</p>
 
 <p>✔️ - <strong>Step 2</strong>: Pay and Submit</p>
 <ol>
@@ -62,10 +62,11 @@ author: Kevin Olega
 <p style="color:black;">We'll sharpen your communication skills, fix your grammar and pronunciation.</p>
 </details>
 
-<h3>What is the training schedule?</h3>
-<p>The writing exercises can be done anytime at your convenience. We recommend studying daily for 30 minutes to an hour if your schedule permits. However, you can work on your modules whenever you are free.</p>
-<p>We only have weekend schedule for coaching so far.</p>
-<p>Saturday Schedule:</p>
+<details>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">What is the training schedule?</summary>
+<p style="color:black;">The writing exercises can be done anytime at your convenience. We recommend studying daily for 30 minutes to an hour if your schedule permits. However, you can work on your modules whenever you are free.</p>
+<p style="color:black;">We only have weekend schedule for coaching so far.</p>
+<p style="color:black;">Saturday Schedule:</p>
 <ul>
 	<li>4 pm to 5 pm</li>
 	<li>5 pm to 6 pm</li>
@@ -74,7 +75,7 @@ author: Kevin Olega
 	<li>8 pm to 9 pm</li>
 	<li>9 pm to 10 pm</li>
 </ul>
-<p>Sunday Schedule:</p>
+<p style="color:black;">Sunday Schedule:</p>
 <ul>
 	<li>4 pm to 5 pm</li>
 	<li>5 pm to 6 pm</li>
@@ -83,7 +84,9 @@ author: Kevin Olega
 	<li>8 pm to 9 pm</li>
 	<li>9 pm to 10 pm</li>
 </ul>
-<p>We understand that you may have a different availability than what is offered. We are working on opening new schedules for our students. Please send us a message if you have more questions about the schedule or would like to propose a different time.</p>
+<p style="color:black;">We understand that you may have a different availability than what is offered. We are working on opening new schedules for our students. If you have more questions about the schedule or would like to propose a different time, <a href="https://facebook.com/callcentertrainingtips">send us a message</a>.</p>
+</details>
+
 <h3>Why do you use writing exercises?</h3>
 <p>We use self-paced writing exercises to improve your grammar.</p>
 <p>It's easier to find and fix grammar errors in written form.</p>
@@ -150,9 +153,9 @@ author: Kevin Olega
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">This is a question</summary>
 <p style="color:black;"></p>
-<p></p>
-<p></p>
-<p></p>
+<p style="color:black;"></p>
+<p style="color:black;"></p>
+<p style="color:black;"></p>
 </details>
 
 
