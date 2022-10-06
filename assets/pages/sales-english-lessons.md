@@ -56,9 +56,11 @@ author: Kevin Olega
 
 <h2>Frequently Asked Questions</h2>
 
-<h3>What do I get for enrolling in your program?</h3>
-<p>You will receive training materials, writing exercises, video guides, and live coaching.</p>
-<p>We'll sharpen your communication skills, fix your grammar and pronunciation.</p>
+<details>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">What do I get for enrolling in your program?</summary>
+<p style="color:black;">You will receive training materials, writing exercises, video guides, and live coaching.</p>
+<p style="color:black;">We'll sharpen your communication skills, fix your grammar and pronunciation.</p>
+</details>
 
 <h3>What is the training schedule?</h3>
 <p>The writing exercises can be done anytime at your convenience. We recommend studying daily for 30 minutes to an hour if your schedule permits. However, you can work on your modules whenever you are free.</p>
@@ -143,12 +145,53 @@ author: Kevin Olega
 <h3>What are the benefits of active learning?</h3>
 <p>👨🏻‍🎓👩🏻‍🎓  Active learning is the most effective method to sounding professional and confident at conversations, interviews, client meetings, customer service, sales & email.</p>
 
+
+
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">This is a question</summary>
-<p>Line one.</p>
-<p>Line two.</p>
-<p>Line three.</p>
+<p style="color:black;"></p>
+<p></p>
+<p></p>
+<p></p>
 </details>
+
+
+<details>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">This is a question</summary>
+<p style="color:black;"></p>
+<p></p>
+<p></p>
+<p></p>
+</details>
+
+
+<details>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">This is a question</summary>
+<p style="color:black;"></p>
+<p></p>
+<p></p>
+<p></p>
+</details>
+
+
+<details>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">This is a question</summary>
+<p style="color:black;"></p>
+<p></p>
+<p></p>
+<p></p>
+</details>
+
+
+<details>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">This is a question</summary>
+<p style="color:black;"></p>
+<p></p>
+<p></p>
+<p></p>
+</details>
+
+
 
 <p>Send a message to <a href="https://www.facebook.com/callcentertrainingtips">INQUIRE NOW</a>!!!</p>
 
