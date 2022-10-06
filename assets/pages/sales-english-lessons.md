@@ -33,7 +33,7 @@ author: Kevin Olega
 <p>2️⃣ - ₱1,099 two weeks. SAVE ₱75!</p>
 <p>4️⃣ - ₱2,099 four weeks. SAVE ₱249!</p>
 <p>6️⃣ - ₱3,099 six weeks. SAVE ₱423!</p>
-<p>8️⃣ - ₱3,499 - eight weeks. SAVE ₱1,197!</p>
+<p>8️⃣ - ₱3,499 eight weeks. SAVE ₱1,197!</p>
 
 <p>✔️ - <strong>Step 2</strong>: Pay and Submit</p>
 <ol>
