@@ -57,13 +57,13 @@ https://docs.google.com/spreadsheets/d/1_HE5gCVP0cJVooBnswZhERYEndKwFK9QWdK0C6Iz
 <h2>Frequently Asked Questions</h2>
 <p>Ask and you shall receive, seek and you shall find, knock and doors will open. Tap the question to get answers!</p>
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">What do I get for enrolling in your program?</summary>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What do I get for enrolling in your program?</summary>
 <p style="color:black;">You will receive training materials, writing exercises, video guides, and live coaching.</p>
 <p style="color:black;">We'll sharpen your communication skills, fix your grammar and pronunciation.</p>
 </details>
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">What is the training schedule?</summary>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What is the training schedule?</summary>
 <p style="color:black;">The writing exercises can be done anytime at your convenience. We recommend studying daily for 30 minutes to an hour if your schedule permits. However, you can work on your modules whenever you are free.</p>
 <p style="color:black;">We only have weekend schedule for coaching so far.</p>
 <p style="color:black;">Saturday Schedule:</p>
@@ -91,7 +91,7 @@ https://docs.google.com/spreadsheets/d/1_HE5gCVP0cJVooBnswZhERYEndKwFK9QWdK0C6Iz
 
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">Why do you use writing exercises?</summary>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Why do you use writing exercises?</summary>
 <p style="color:black;">We use self-paced writing exercises to improve your grammar.</p>
 <p style="color:black;">It's easier to find and fix grammar errors in written form.</p>
 <p style="color:black;">We'll inspect your writing, you'll read each sentence aloud, we'll fix your grammar and pronunciation.</p>
@@ -100,12 +100,12 @@ https://docs.google.com/spreadsheets/d/1_HE5gCVP0cJVooBnswZhERYEndKwFK9QWdK0C6Iz
 </details>
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">May I see samples of your sessions?</summary>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">May I see samples of your sessions?</summary>
 <p style="color:black;">Here's a link to <a href="https://callcentertrainingtips.com/video">sample sessions in video format</a></p>
 </details>
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">What happens during live online coaching?</summary>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What happens during live online coaching?</summary>
 <p style="color:black;">We'll discuss your answers after you submit your first set of writing exercises.</p>
 <p style="color:black;">I will help correct your grammar and pronunciation during the live coaching session.</p>
 <p style="color:black;">Please make yourself available for 20 minutes to an hour once a week for coaching.</p>
@@ -113,7 +113,7 @@ https://docs.google.com/spreadsheets/d/1_HE5gCVP0cJVooBnswZhERYEndKwFK9QWdK0C6Iz
 
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">Will you guarantee that I'll improve and get hired after I pay?</summary>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Will you guarantee that I'll improve and get hired after I pay?</summary>
 <p style="color:black;">The student needs to participate to succeed.</p>
 <p style="color:black;">Your lessons are not limited to paying, reading, then watching videos after you enroll.</p>
 <p style="color:black;">You must participate in the writing exercises and phone coaching to sharpen your communication skills.</p>
@@ -122,7 +122,7 @@ https://docs.google.com/spreadsheets/d/1_HE5gCVP0cJVooBnswZhERYEndKwFK9QWdK0C6Iz
 </details>
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">What is the focus of the modules?</summary>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What is the focus of the modules?</summary>
 <p style="color:black;">LEVEL 1 Basic Grammar</p>
 <p style="color:black;">LEVEL 2 Intermediate Grammar</p>
 <p style="color:black;">LEVEL 3 Basic Pronunciation</p>
@@ -140,14 +140,14 @@ https://docs.google.com/spreadsheets/d/1_HE5gCVP0cJVooBnswZhERYEndKwFK9QWdK0C6Iz
 </details>
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">How many sessions do I need?</summary>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">How many sessions do I need?</summary>
 <p style="color:black;">The answer to this question depends on the skill level you are aiming at.</p>
 <p style="color:black;">If you only have grammar and pronunciation issues, we can cover most problems in 4 sessions.</p>
 <p style="color:black;">If you need additional help with confidence and professional situations, I’d recommend 6-8 weeks.</p>
 </details>
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">Why do I need to pay if I can watch YouTube or read your lessons for free?</summary>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Why do I need to pay if I can watch YouTube or read your lessons for free?</summary>
 <p style="color:black;">Training doesn't magically make your problems go away.</p>
 <p style="color:black;">You receive feedback and guidance when you pay for training.</p>
 <p style="color:black;">Communication has several moving parts and is complicated to learn on your own.</p>
@@ -156,18 +156,18 @@ https://docs.google.com/spreadsheets/d/1_HE5gCVP0cJVooBnswZhERYEndKwFK9QWdK0C6Iz
 </details>
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">Do I need to pay for the session before I start the training?</summary>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Do I need to pay for the session before I start the training?</summary>
 <p style="color:black;">Yes. You need to pay for the session to join the training.</p>
 </details>
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">How much does the training cost?</summary>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">How much does the training cost?</summary>
 <p style="color:black;">I charge ₱587 per session. I offer discounts to students who purchase multiple sessions.</p>
 </details>
 
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:42px;">What are the benefits of active learning?</summary>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What are the benefits of active learning?</summary>
 <p style="color:black;">👨🏻‍🎓👩🏻‍🎓  Active learning is the most effective method to sounding professional and confident at conversations, interviews, client meetings, customer service, sales & email.</p>
 </details>
 
