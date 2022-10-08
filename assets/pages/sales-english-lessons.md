@@ -27,7 +27,7 @@ author: Kevin Olega
 <h2>ENROLLMENT INFORMATION:</h2>
 
 <p>✔️ - <strong>Step 1</strong>: Choose the number of weeks.</p>
-
+https://docs.google.com/spreadsheets/d/1_HE5gCVP0cJVooBnswZhERYEndKwFK9QWdK0C6IzZQQ/edit#gid=0
 <p><strong>MORE SESSIONS MORE SAVINGS</strong> until October 31, 2022</p>
 <p>1️⃣ - ₱587. intro session.</p>
 <p>2️⃣ - ₱1,099 two weeks. SAVE ₱75!</p>
@@ -74,6 +74,7 @@ author: Kevin Olega
 	<li>7 pm to 8 pm</li>
 	<li>8 pm to 9 pm</li>
 	<li>9 pm to 10 pm</li>
+	<li>10 pm to 11 pm</li>
 </ul>
 <p style="color:black;">Sunday Schedule:</p>
 <ul>
@@ -83,6 +84,7 @@ author: Kevin Olega
 	<li>7 pm to 8 pm</li>
 	<li>8 pm to 9 pm</li>
 	<li>9 pm to 10 pm</li>
+	<li>10 pm to 11 pm</li>
 </ul>
 <p style="color:black;">We understand that you may have a different availability than what is offered. We are working on opening new schedules for our students. If you have more questions about the schedule or would like to propose a different time, <a href="https://facebook.com/callcentertrainingtips">send us a message</a>.</p>
 </details>
