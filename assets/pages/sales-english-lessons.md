@@ -28,12 +28,12 @@ author: Kevin Olega
 
 <p>✔️ - <strong>Step 1</strong>: Choose the number of weeks.</p>
 https://docs.google.com/spreadsheets/d/1_HE5gCVP0cJVooBnswZhERYEndKwFK9QWdK0C6IzZQQ/edit#gid=0
-<p><strong>MORE SESSIONS MORE SAVINGS</strong> until October 31, 2022</p>
-<p>1️⃣ - ₱587. intro session.</p>
-<p>2️⃣ - ₱1,099 two weeks. SAVE ₱75!</p>
-<p>4️⃣ - ₱2,099 four weeks. SAVE ₱249!</p>
-<p>6️⃣ - ₱3,099 six weeks. SAVE ₱423!</p>
-<p>8️⃣ - ₱3,499 eight weeks. SAVE ₱1,197!</p>
+<p><strong>MORE SESSIONS MORE SAVINGS</strong> until November 30, 2022</p>
+<p>1️⃣ - ₱697. intro session.</p>
+<p>2️⃣ - ₱1,099 two weeks. SAVE ₱295!</p>
+<p>4️⃣ - ₱2,099 four weeks. SAVE ₱689!</p>
+<p>6️⃣ - ₱3,099 six weeks. SAVE 1,083!</p>
+<p>8️⃣ - ₱3,499 eight weeks. SAVE ₱2,077!</p>
 
 <p>✔️ - <strong>Step 2</strong>: Pay and Submit</p>
 <ol>
