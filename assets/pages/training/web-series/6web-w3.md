@@ -133,7 +133,7 @@ Questions follow.
 29. What are the long-term effects?
 30. What are the intangible effects?
 
-## LESSON 3 
+## LESSON 3
 
 30 Sentence Advice
 
@@ -150,7 +150,7 @@ Answer this question in 10 sentences.
 
 I'm depressed. What is your advice?
 
-## LESSON 4 
+## LESSON 4
 
 How You Decided Your Career.
 

@@ -36,7 +36,7 @@ Minimum of 10 sentences needed in each section.
 
 Here's a list of problem solving questions. 
 
-### PART 1: 
+### PART 1:
 
 Please record yourself reading these questions.
 
@@ -52,7 +52,7 @@ Use the problem solving questions that I gave in the examples.
 
 [DOWNLOAD LESSON](https://docs.google.com/document/d/1m1jS4NcH0PggRQNgHcdhN4oX9JvD-OgwEeiezriCCbM/edit?usp=sharing)
 
-## LESSON 3 
+## LESSON 3
 
 Time Machine Activity
 
@@ -77,7 +77,7 @@ What is your advice to your future self?
 
 Write 20 sentences.
 
-## LESSON 4 
+## LESSON 4
 
 Career Stories
 

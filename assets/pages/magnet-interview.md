@@ -7,11 +7,11 @@ Tags: [ collections, index, website ]
 permalink: /interview/ 
 author: Kevin Olega 
 --- 
-Here's a big collection of lessons that you can learn.
+Here's a big collection of interview lessons.
 
-Every lesson here was learned from experience.
+Each lesson here was learned from experience.
 
-Every tip that led to success was paid for with my failure.
+Every tip that led to success was paid by my failure.
 
 ## How to Answer Random Questions or Out of The Box Questions at Call Center Interviews
 
@@ -196,6 +196,14 @@ Here's what you can learn from the experience.
 This is a skill I learned after I failed my interview at Teleperformance at Octagon Center Ortigas.
 
 [Learn this Interview Super Skill](https://callcentertrainingtips.com/finding-good/).
+
+## How do you handle stress?
+
+How I answer the question [how do you handle stress](https://callcentertrainingtips.com/how-to-handle-stress-interview)?
+
+## Don't just answer interview questions.
+
+Perfect English doesn't always mean good communication skills. Learn to [ask questions and share stories during your interview](https://callcentertrainingtips.com/jeans2/).
 
 ## More Call Center Interview Tips
 

@@ -129,7 +129,7 @@ You are allowed to give examples from personal experience.
 
 Share a non-sales application for some of these questions.
 
-## LESSON 3 
+## LESSON 3
 
 Perfect Attendance
 
@@ -138,7 +138,7 @@ Perfect Attendance
 3. What are the things that you need to avoid? 10 sentences.
 4. What will you do daily, weekly, and monthly to achieve perfect attendance. 40 sentences.
 
-## LESSON 4 
+## LESSON 4
 
 1. Tell me a story about a skill that you're proud of. 10 sentences.
 2. Tell me a story about a weakness, disaster, obstacle, or problem that you had to overcome. 30 sentences.
