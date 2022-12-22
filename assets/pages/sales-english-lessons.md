@@ -28,7 +28,7 @@ author: Kevin Olega
 
 <p>✔️ - <strong>Step 1</strong>: Choose the number of weeks.</p>
 
-<p><strong>MORE SESSIONS MORE SAVINGS</strong> until November 30, 2022</p>
+<p><strong>MORE SESSIONS MORE SAVINGS</strong> until January 31, 2023</p>
 <p>1️⃣ - ₱697. intro or single session.</p>
 <p>2️⃣ - ₱1,299 two weeks. SAVE ₱95!</p>
 <p>4️⃣ - ₱2,299 four weeks. SAVE ₱489!</p>
