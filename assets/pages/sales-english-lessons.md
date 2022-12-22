@@ -30,9 +30,9 @@ author: Kevin Olega
 
 <p><strong>MORE SESSIONS MORE SAVINGS</strong> until November 30, 2022</p>
 <p>1️⃣ - ₱697. intro or single session.</p>
-<p>2️⃣ - ₱1,099 two weeks. SAVE ₱295!</p>
-<p>4️⃣ - ₱2,099 four weeks. SAVE ₱689!</p>
-<p>6️⃣ - ₱3,099 six weeks. SAVE 1,083!</p>
+<p>2️⃣ - ₱1,299 two weeks. SAVE ₱95!</p>
+<p>4️⃣ - ₱2,299 four weeks. SAVE ₱489!</p>
+<p>6️⃣ - ₱3,299 six weeks. SAVE 883!</p>
 <p>8️⃣ - ₱3,499 eight weeks. SAVE ₱2,077!</p>
 
 <p>✔️ - <strong>Step 2</strong>: Pay and Submit</p>
