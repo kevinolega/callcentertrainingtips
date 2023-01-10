@@ -22,7 +22,6 @@ author: Kevin Olega
 <li>tools and technology</li>
 <li>BPO and call center work</li>
 <li>business correspondence like reports and email</li>
-<li>interview preparation</li>
 <li>project management and planning</li>
 <li>interview preparation and career planning</li>
 <li>sales and negotiation</li>
@@ -153,7 +152,7 @@ author: Kevin Olega
 <p style="color:black;">LEVEL 9 Professional Communication 3</p>
 <p style="color:black;">LEVEL 10 Professional Communication 4</p>
 <p style="color:black;">LEVEL 11 Professional Communication 5</p>
-<p style="color:black;"></p>LEVEL 12 Professional Communication 6</p>
+<p style="color:black;">LEVEL 12 Professional Communication 6</p>
 <p style="color:black;"><strong>Communicating with Confidence</strong>: Lessons on how to speak and write confidently. Become confident during interviews, client meetings, customer service, sales, email, and even casual conversations</p>
 <p style="color:black;"><strong>Professional Communication</strong>: Personalized for roles with strict requirements. Ideal for professionals and business owners who are seeking to further their communication skills.</p>
 </details>
