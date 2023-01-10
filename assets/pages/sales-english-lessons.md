@@ -12,6 +12,24 @@ author: Kevin Olega
 {% include el-promo-image.html %}
 
 <h2>TRAINING SUMMARY:</h2>
+<p style="color: darkseagreen;">Avoid embarrassing situations and awkward conversations!</p>
+<p>The training program improves your grammar, pronunciation, and confidence so you're fully-prepared for important conversations in your job (or future job) or business.</p>
+<p>I specialize in preparing for job interviews, presenting your positive qualities, and solving problems.</p>
+<p>I excel in business skills like sales, customer service, technical support, project management, communications, and training.</p>
+<p>I'm orignially an introvert but have advanced in my career using my communication skills. I can teach you how to do the same!</p>
+<p>I can also answer questions about:</p>
+<ul>
+<li>tools and technology</li>
+<li>BPO and call center work</li>
+<li>business correspondence like reports and email</li>
+<li>interview preparation</li>
+<li>project management and planning</li>
+<li>interview preparation and career planning</li>
+<li>sales and negotiation</li>
+<li>online freelancing and work from home opportunities</li>
+</ul>
+
+<h2>BENEFITS YOU RECEIVE:</h2>
 <p>📖 11 communication skills modules</p>
 <p>📱 1-to-1 grammar & pronunciation coaching</p>
 <p>📚 Easy to understand training materials</p>
@@ -59,13 +77,13 @@ author: Kevin Olega
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What do I get for enrolling in your program?</summary>
 <p style="color:black;">You will receive training materials, writing exercises, video guides, and live coaching.</p>
-<p style="color:black;">We'll sharpen your communication skills, fix your grammar and pronunciation.</p>
+<p style="color:black;">We'll sharpen your communication skills, fix your grammar and pronunciation. You'll naturally be more confident at the end of the program.</p>
 </details>
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What is the training schedule?</summary>
 <p style="color:black;">The writing exercises can be done anytime at your convenience. We recommend studying daily for 30 minutes to an hour if your schedule permits. However, you can work on your modules whenever you are free.</p>
-<p style="color:black;">We only have weekend schedule for coaching so far.</p>
+<p style="color:black;">We only have weekend coaching schedule so far.</p>
 <p style="color:black;">Saturday Schedule:</p>
 <ul>
 	<li>4 pm to 5 pm</li>
@@ -86,7 +104,7 @@ author: Kevin Olega
 	<li>9 pm to 10 pm</li>
 	<li>10 pm to 11 pm</li>
 </ul>
-<p style="color:black;">We understand that you may have a different availability than what is offered. We are working on opening new schedules for our students. If you have more questions about the schedule or would like to propose a different time, <a href="https://facebook.com/callcentertrainingtips">send us a message</a>.</p>
+<p style="color:black;">We understand that you may have a different availability than what is offered. However, we are working on opening new schedules for our students. If you have more questions about the schedule or would like to propose a different time, <a href="https://facebook.com/callcentertrainingtips">send us a message</a>.</p>
 </details>
 
 
@@ -94,20 +112,21 @@ author: Kevin Olega
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Why do you use writing exercises?</summary>
 <p style="color:black;">We use self-paced writing exercises to improve your grammar.</p>
 <p style="color:black;">It's easier to find and fix grammar errors in written form.</p>
-<p style="color:black;">We'll inspect your writing, you'll read each sentence aloud, we'll fix your grammar and pronunciation.</p>
+<p style="color:black;">We'll inspect your writing, one sentence at a time. You'll read each sentence aloud, we'll fix your grammar and pronunciation.</p>
 <p style="color:black;">I'll teach you techniques how to improve your sentences and sound more professional.</p>
-<p style="color:black;">Please schedule 30-45 minutes to write daily.</p>
+<p style="color:black;">We recommend you schedule 30-45 minutes to write daily.</p>
 </details>
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">May I see samples of your sessions?</summary>
-<p style="color:black;">Here's a link to <a href="https://callcentertrainingtips.com/video">sample sessions in video format</a></p>
+<p style="color:black;">Here's a link to <a href="https://callcentertrainingtips.com/video">sample sessions in video format</a>.</p>
 </details>
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What happens during live online coaching?</summary>
 <p style="color:black;">We'll discuss your answers after you submit your first set of writing exercises.</p>
 <p style="color:black;">I will help correct your grammar and pronunciation during the live coaching session.</p>
+<p style="color:black;">I will also answer your questions and assign personalized practice activities to help patch up your weaknesses at the end of each coaching session.</p>
 <p style="color:black;">Please make yourself available for 20 minutes to an hour once a week for coaching.</p>
 </details>
 
@@ -118,7 +137,7 @@ author: Kevin Olega
 <p style="color:black;">Your lessons are not limited to paying, reading, then watching videos after you enroll.</p>
 <p style="color:black;">You must participate in the writing exercises and phone coaching to sharpen your communication skills.</p>
 <p style="color:black;">You need to read and follow all the instructions carefully.</p>
-<p style="color:black;">Please give your best to complete all the written exercises and be on time during phone coaching.</p>
+<p style="color:black;">I recommend you give your best to complete all the written exercises and be on time during phone coaching for maximum results.</p>
 </details>
 
 <details>
@@ -141,7 +160,7 @@ author: Kevin Olega
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">How many sessions do I need?</summary>
-<p style="color:black;">The answer to this question depends on the skill level you are aiming at.</p>
+<p style="color:black;">The answer to this question depends on the skill level you're at, the skill level you are are aiming at, as well as your available time and resources to work on your communication skills.</p>
 <p style="color:black;">If you only have grammar and pronunciation issues, we can cover most problems in 4 sessions.</p>
 <p style="color:black;">If you need additional help with confidence and professional situations, I’d recommend 6-8 weeks.</p>
 </details>
@@ -151,6 +170,12 @@ author: Kevin Olega
 <p style="color:black;">Training doesn't magically make your problems go away.</p>
 <p style="color:black;">You receive feedback and guidance when you pay for training.</p>
 <p style="color:black;">Communication has several moving parts and is complicated to learn on your own.</p>
+<p style="color:black;">For example, the English skill level required to qualify for call center work is different in a business-to-customer (B2C) and business-to-business (B2B) situation.</p>
+<p style="color:black;">The skill level required for call center work and online freelancing are different.</p>
+<p style="color:black;">Higher skill levels are a valuable asset that allow professionals to command higher-tier compensation.</p>
+<p style="color:black;">Great communication skills solve a great number of business and personal problems as well.</p>
+<p style="color:black;">In the same way, poor communication leads to a great many losess. I'm sure you've seen many lost opportunities and broken relationships that could have easily been solved if one or both parties had good communication skills.</p>
+<p style="color:black;">Working on your communication is a worthwhile long-term pursuit.</p>
 <p style="color:black;">Training is not like a magical ticket where you automatically add skills or guarantee jobs after you pay.</p>
 <p style="color:black;">I’m offering a service where I provide value through lessons, guidance, feedback, and correction.</p>
 </details>
@@ -162,7 +187,7 @@ author: Kevin Olega
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">How much does the training cost?</summary>
-<p style="color:black;">I charge ₱587 per session. I offer discounts to students who purchase multiple sessions.</p>
+<p style="color:black;">I charge ₱697 per session. I offer discounts to students who purchase multiple sessions.</p>
 </details>
 
 
