@@ -1,11 +1,11 @@
---- 
+---
 layout: post 
 title: Use Simple Words
-date: 2023-01-16 09:47
+date: 2023-01-15 09:47
 Tags: [ English, blog ]
-permalink: sw 
+permalink: sw
 author: Kevin Olega 
---- 
+---
 Use simple words when communicating in a business setting like sales and customer service.
 
 The goal of business communication is to effectively convey the message to the other person.
