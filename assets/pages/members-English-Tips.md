@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: English Tips and Tricks - IN PROGRESS
+title: English Tips and Tricks
 description: This is an index post for English tips. All English tips will be added here eventually.
 Tags: [ english, collections, blog, directory ]
 date: 2018-03-28 08:53
@@ -15,6 +15,22 @@ Here are some tips and tricks on how to speak and sound better when you speak in
 - Celebrity mode
 - Smile to sound better when you talk
 - Learn Common English Pronunciation Errors
+- Simplify your communication format
+	+ Write single-sentences instead of paragraphs
+	+ Write short sentences
+	+ Use simple words
+	+ Use active voice instead of passive voice.
+	+ Be direct and specific with your message.
+- Practice English effectively
+	+ Read your sentences aloud
+	+ Record your conversations and practice sessions
+	+ Pay attention to how you speak
+	+ Review and correct each sentence
+
+
+## Grammar Tips for Adults
+
+[Click here to learn more](https://callcentertrainingtips.com/adult-grammar/)
 
 ## Five activities that improves your English
 
@@ -28,48 +44,19 @@ If you’re looking for ways to learn how to improve your English, here are some
 
 ## Think in English
 
-We all talk to ourselves in our head. 
-
-The question is what language are you using? 
+We all talk to ourselves in our head. The question is what language are you using? 
 
 [CLICK HERE TO LEARN THE BENEFITS OF THINKING IN ENGLISH](https://callcentertrainingtips.com/think-english/)
 
 ## Sossy Mode Gives You Powerful, Smooth, Confident English
 
-> You won’t get to use the blessings that you have if you hate them. -Kevin Olega
-
-We Filipinos have a pretty unique attitude when it comes to the English language. 
-
-We pick on grammar errors and call them “barok” or “carabao English”. 
-
-We pick on pronunciation errors and call them “Bisaya” or “probinsyano”. 
-
-Here’s the best part, **a lot of Filipinos don't have better speaking ability than the people they bully for speaking in English** and when they do encounter a local who speaks very well we call them “pa-social” (which implies that they are social climbers and trying to pretend to be rich) or we call their English “slang” (which I guess should be natural at that level) or worse we call them “maarte” (which means spoiled, high class, picky or hard to please). 
-
 [CLICK HERE TO LEARN THE SOSSY MODE TECHNIQUE](https://callcentertrainingtips.com/sossy/)
 
 ## Activate Celebrity Mode for Smooth Confident English
 
-Sometimes, we don’t feel like ourselves when we speak in English. 
-
-It’s as if we need to act out a new persona to do that. 
-
-I actually see nothing wrong with it.
-
-I was training a friend recently and he suddenly started making a lot of mistakes with his English. 
-
 [CLICK HERE TO LEARN HOW TO ENTER CELEBRITY MODE](https://callcentertrainingtips.com/celebrity/)
 
 ## Smile to sound better when you talk
-
-> A smile can often get you out of unfavorable situations.
--Sai (Naruto Shippuuden)
-
-Smile when you talk. 
-
-They say a smile can be heard on the phone.
-
-Why the heck is this important?
 
 [CLICK HERE TO LEARN MORE](https://callcentertrainingtips.com/smile-better/)
 
@@ -114,6 +101,18 @@ Bullying made me a superior English speaker. Don't fear it. Use it.
 
 [Click Here to Learn More](https://callcentertrainingtips.com/1sp/)
 
+## Shorten Sentences
+
+[Click here to learn more](https://callcentertrainingtips.com/ss/)
+
+## Shorten Sentences Part 2
+
+[Click here to learn more](https://callcentertrainingtips.com/ssse/)
+
+## Use Simple Words
+
+[Click here to learn more](https://callcentertrainingtips.com/sw)
+
 ## Good Friends Boost English Skills
 
 [Click Here to Learn More](https://callcentertrainingtips.com/english-friends/)
@@ -125,3 +124,4 @@ Bullying made me a superior English speaker. Don't fear it. Use it.
 ## Watch Cooking Shows To Learn How To Give Instructions Well
 
 [Click Here to Learn More](https://callcentertrainingtips.com/cooking-shows/)
+
