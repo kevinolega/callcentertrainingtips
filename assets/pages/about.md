@@ -9,7 +9,7 @@ Call Center Training Tips is the largest collection of lessons about call center
 
 Originally shared with four friends, this website grew into my personal library of career advice.
 
-The goal is to <mark>inspire friends build professional skills that will allow you to achieve your dream income</mark>.
+The goal is to <mark-yellow>inspire friends build professional skills that will allow you to achieve your dream income</mark-yellow>.
 
 I wrote the lessons that I wanted to read. 
 
@@ -57,11 +57,7 @@ This website was designed with shy Filipinos in mind.
 
 Most of my friends, including myself are introverts.
 
-A few years ago I accompanied friends to interviews.
-
-I gave them ideas on how to improve.
-
-I assisted them until they got hired. 
+A few years ago I accompanied friends to interviews, gave them ideas on how to improve, and assisted them until they got hired. 
 
 It normally takes us four to six call center companies until they get hired. 
 
@@ -91,15 +87,13 @@ Website maintenance [by Kevin Olega](https://kevinolega.com).
 
 ## About Kevin Olega
 
-I'm Kevin Olega.
-
-I'm the guy behind call center training tips. 
+I'm Kevin Olega, the guy behind call center training tips. 
 
 I work as a project manager and virtual assistant to various foreign entrepreneurs. 
 
 I enjoy writing, creating websites, learning new things, and meeting new people on my free time. 
 
-I'm from Paranaque City and I worked mostly in the Makati and Ortigas area.
+I'm from Paranaque City and worked mostly in the Makati and Ortigas area.
 
 [Here's what I'm doing now](https://olega.org/now).
 
@@ -109,7 +103,7 @@ I'm from Paranaque City and I worked mostly in the Makati and Ortigas area.
 
 Here are some things about me.
 
-- I'm 34
+- I'm 38
 - I'm a minimalist. I live with less than 250 things.
 - I like reading, writing, and talking to people.
 - I often order black brewed coffee at coffee shops and Chamomile tea in the evening.
