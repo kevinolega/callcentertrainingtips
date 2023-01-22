@@ -9,7 +9,7 @@ Call Center Training Tips is the largest collection of lessons about call center
 
 Originally shared with four friends, this website grew into my personal library of career advice.
 
-The goal is to inspire friends build professional skills that will allow you to achieve your dream income.
+The goal is to <mark>inspire friends build professional skills that will allow you to achieve your dream income</mark>.
 
 I wrote the lessons that I wanted to read. 
 
