@@ -12,12 +12,12 @@ author: Kevin Olega
 {% include el-promo-image.html %}
 
 <h2>TRAINING SUMMARY:</h2>
-<p style="color: darkseagreen;">Avoid embarrassing situations and awkward conversations!</p>
-<p>The training program improves your grammar, pronunciation, and confidence so you're fully-prepared for important conversations in your job (or future job) or business.</p>
-<p>I specialize in preparing for job interviews, presenting your positive qualities, and solving problems.</p>
-<p>I excel in business skills like sales, customer service, technical support, project management, communications, and training.</p>
-<p>I'm orignially an introvert but have advanced in my career using my communication skills. I can teach you how to do the same!</p>
-<p>I can also answer questions about:</p>
+<p style="color: darkseagreen;">No more embarrassing situations and awkward conversations!</p>
+<p>This training program helps you with grammar, pronunciation, and confidence. You'll be ready for important talks at work or in business</p>
+<p>We focus on job interviews, presenting your best qualities, and solving problems.</p>
+<p>We cover business skills like sales, customer service, tech support, project management, communication, and training.</p>
+<p>I used to be shy, but I grew in my career using good communication. I can teach you to do the same!</p>
+<p>I can also help you with:</p>
 <ul>
 <li>tools and technology</li>
 <li>BPO and call center work</li>
@@ -35,7 +35,7 @@ author: Kevin Olega
 <p>💁🏻‍♂️ Beginner-friendly instructions</p>
 
 <h2>SOLID STEP-BY-STEP TRAINING PLAN:</h2>
-<p>Our system follows a logical progression that allows you to become confident naturally.</p>
+<p>Our plan follows a clear path to help you become confident naturally.</p>
 <p>✍️ Fix Grammar Problems</p>
 <p>🗣️ Fix Pronunciation</p>
 <p>😎 Fix low self-confidence</p>
@@ -43,27 +43,28 @@ author: Kevin Olega
 
 <h2>ENROLLMENT INFORMATION:</h2>
 
-<p>✔️ - <strong>Step 1</strong>: Choose the number of weeks.</p>
+<p>✔️ - <strong>Step 1</strong>: Pick how many weeks you want.</p>
 
-<p><strong>MORE SESSIONS MORE SAVINGS</strong> until January 31, 2023</p>
-<p>1️⃣ - ₱697. intro or single session.</p>
-<p>2️⃣ - ₱1,299 two weeks. SAVE ₱95!</p>
-<p>4️⃣ - ₱2,299 four weeks. SAVE ₱489!</p>
-<p>6️⃣ - ₱3,299 six weeks. SAVE 883!</p>
-<p>8️⃣ - ₱3,499 eight weeks. SAVE ₱2,077!</p>
+<p><strong>SAVE MORE with MORE SESSIONS</strong> until May 31, 2023</p>
+<p>1️ - ₱697. intro or single session.</p>
+<p>2️ - ₱1,299 two weeks. SAVE ₱95!</p>
+<p>4️ - ₱2,299 four weeks. SAVE ₱489!</p>
+<p>6️ - ₱3,299 six weeks. SAVE 883!</p>
+<p>8️ - ₱3,499 eight weeks. SAVE ₱2,077!</p>
+<p>12 - ₱6,499 twelve weeks. SAVE ₱1,864!</p>
 
-<p>✔️ - <strong>Step 2</strong>: Pay and Submit</p>
+<p>✔️ - <strong>Step 2</strong>: Pay and Send Info</p>
 <ol>
 	<li>GCash & Maya: 09178952637</li>
 	<li>Submit reference number, name, and email addresss</li>
 </ol>
-<p>✔️ - <strong>Step 3</strong>: START!</p>
+<p>✔️ - <strong>Step 3</strong>: GET STARTED!</p>
 <ol>
 	<li>Study training materials</li>
-	<li>Practice writing daily</li>
-	<li>Join the live coaching sessions</li>
+	<li>Practice writing every day</li>
+	<li>Join live coaching sessions</li>
 </ol>
-<p>The sooner you learn, the sooner you can earn!</p>
+<p>Learn faster to earn sooner!</p>
 <p>Let me know you are ready to begin by <a href="https://www.facebook.com/callcentertrainingtips">sending a message</a>.</p>
 <p>Thanks!</p>
 <p>Send a message to <a href="https://www.facebook.com/callcentertrainingtips">ENROLL NOW</a>!!!</p>
@@ -72,17 +73,17 @@ author: Kevin Olega
 {% include featured-testimonial-04.html %}
 
 <h2>Frequently Asked Questions</h2>
-<p>Ask and you shall receive, seek and you shall find, knock and doors will open. Tap the question to get answers!</p>
+<p>Ask and you'll receive, seek and you'll find, knock and doors will open. Tap the question to get answers!</p>
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What do I get for enrolling in your program?</summary>
-<p style="color:black;">You will receive training materials, writing exercises, video guides, and live coaching.</p>
-<p style="color:black;">We'll sharpen your communication skills, fix your grammar and pronunciation. You'll naturally be more confident at the end of the program.</p>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What do I get when I join your program?</summary>
+<p style="color:black;">When you join our program, you'll get training materials, writing exercises, video guides, and live coaching sessions.</p>
+<p style="color:black;">We'll work on your communication skills, fix your grammar and pronunciation, and help you become more confident by the end of the program.</p>
 </details>
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What is the training schedule?</summary>
-<p style="color:black;">The writing exercises can be done anytime at your convenience. We recommend studying daily for 30 minutes to an hour if your schedule permits. However, you can work on your modules whenever you are free.</p>
-<p style="color:black;">We only have weekend coaching schedule so far.</p>
+<p style="color:black;">You can do the writing exercises anytime you want. We suggest studying for 30 minutes to an hour daily if you can. But you can work on your modules when you're free.</p>
+<p style="color:black;">Right now, we only have weekend coaching sessions.</p>
 <p style="color:black;">Saturday Schedule:</p>
 <ul>
 	<li>4 pm to 5 pm</li>
@@ -103,40 +104,37 @@ author: Kevin Olega
 	<li>9 pm to 10 pm</li>
 	<li>10 pm to 11 pm</li>
 </ul>
-<p style="color:black;">We understand that you may have a different availability than what is offered. However, we are working on opening new schedules for our students. If you have more questions about the schedule or would like to propose a different time, <a href="https://facebook.com/callcentertrainingtips">send us a message</a>.</p>
+<p style="color:black;">We understand you might have a different schedule. We're working on more options for students. If you have questions or want a different time, <a href="https://facebook.com/callcentertrainingtips">send us a message</a>.</p>
 </details>
-
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Why do you use writing exercises?</summary>
-<p style="color:black;">We use self-paced writing exercises to improve your grammar.</p>
-<p style="color:black;">It's easier to find and fix grammar errors in written form.</p>
-<p style="color:black;">We'll inspect your writing, one sentence at a time. You'll read each sentence aloud, we'll fix your grammar and pronunciation.</p>
-<p style="color:black;">I'll teach you techniques how to improve your sentences and sound more professional.</p>
-<p style="color:black;">We recommend you schedule 30-45 minutes to write daily.</p>
+<p style="color:black;">We use writing exercises because they help improve your grammar at your own pace.</p>
+<p style="color:black;">It's easier to spot and fix grammar mistakes in writing.</p>
+<p style="color:black;">We'll look at your writing, one sentence at a time. You'll read each sentence out loud, and we'll fix your grammar and pronunciation.</p>
+<p style="color:black;">I'll teach you ways to make your sentences better and sound more professional.</p>
+<p style="color:black;">We suggest setting aside 30-45 minutes each day for writing.</p>
 </details>
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">May I see samples of your sessions?</summary>
-<p style="color:black;">Here's a link to <a href="https://callcentertrainingtips.com/video">sample sessions in video format</a>.</p>
+<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Can I see samples of your sessions?</summary>
+<p style="color:black;">Sure! Here's a <a href="https://callcentertrainingtips.com/video">link to sample sessions in video format</a>.</p>
 </details>
 
-<details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What happens during live online coaching?</summary>
-<p style="color:black;">We'll discuss your answers after you submit your first set of writing exercises.</p>
-<p style="color:black;">I will help correct your grammar and pronunciation during the live coaching session.</p>
-<p style="color:black;">I will also answer your questions and assign personalized practice activities to help patch up your weaknesses at the end of each coaching session.</p>
+<p style="color:black;">During live online coaching, we'll discuss your answers after you submit your first set of writing exercises.</p>
+<p style="color:black;">I will help correct your grammar and pronunciation during the session.</p>
+<p style="color:black;">I will also answer your questions and assign personalized practice activities to help you improve your weak areas at the end of each coaching session.</p>
 <p style="color:black;">Please make yourself available for 20 minutes to an hour once a week for coaching.</p>
 </details>
 
-
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Will you guarantee that I'll improve and get hired after I pay?</summary>
-<p style="color:black;">The student needs to participate to succeed.</p>
-<p style="color:black;">Your lessons are not limited to paying, reading, then watching videos after you enroll.</p>
-<p style="color:black;">You must participate in the writing exercises and phone coaching to sharpen your communication skills.</p>
-<p style="color:black;">You need to read and follow all the instructions carefully.</p>
-<p style="color:black;">I recommend you give your best to complete all the written exercises and be on time during phone coaching for maximum results.</p>
+<p style="color:black;">Improvement and success depend on the student's active participation.</p>
+<p style="color:black;">Your lessons involve more than just paying, reading, and watching videos after you enroll.</p>
+<p style="color:black;">To sharpen your communication skills, you must participate in the writing exercises and phone coaching.</p>
+<p style="color:black;">It's essential to read and follow all the instructions carefully.</p>
+<p style="color:black;">For maximum results, I recommend giving your best effort to complete all the written exercises and being punctual for phone coaching sessions.</p>
 </details>
 
 <details>
@@ -153,46 +151,40 @@ author: Kevin Olega
 <p style="color:black;">LEVEL 10 Professional Communication 4</p>
 <p style="color:black;">LEVEL 11 Professional Communication 5</p>
 <p style="color:black;">LEVEL 12 Professional Communication 6</p>
-<p style="color:black;"><strong>Communicating with Confidence</strong>: Lessons on how to speak and write confidently. Become confident during interviews, client meetings, customer service, sales, email, and even casual conversations</p>
-<p style="color:black;"><strong>Professional Communication</strong>: Personalized for roles with strict requirements. Ideal for professionals and business owners who are seeking to further their communication skills.</p>
+<p style="color:black;"><strong>Communicating with Confidence</strong>: Lessons on how to speak and write confidently. Gain confidence during interviews, client meetings, customer service, sales, email, and even casual conversations.</p>
+<p style="color:black;"><strong>Professional Communication</strong>: Tailored for roles with strict requirements. Ideal for professionals and business owners seeking to enhance their communication skills.</p>
 </details>
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">How many sessions do I need?</summary>
-<p style="color:black;">The answer to this question depends on the skill level you're at, the skill level you are are aiming at, as well as your available time and resources to work on your communication skills.</p>
+<p style="color:black;">The number of sessions you need depends on your current skill level, your target skill level, and the time and resources you can dedicate to working on your communication skills.</p>
 <p style="color:black;">If you only have grammar and pronunciation issues, we can cover most problems in 4 sessions.</p>
 <p style="color:black;">If you need additional help with confidence and professional situations, I’d recommend 6-8 weeks.</p>
 </details>
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Why do I need to pay if I can watch YouTube or read your lessons for free?</summary>
-<p style="color:black;">Training doesn't magically make your problems go away.</p>
-<p style="color:black;">You receive feedback and guidance when you pay for training.</p>
-<p style="color:black;">Communication has several moving parts and is complicated to learn on your own.</p>
-<p style="color:black;">For example, the English skill level required to qualify for call center work is different in a business-to-customer (B2C) and business-to-business (B2B) situation.</p>
-<p style="color:black;">The skill level required for call center work and online freelancing are different.</p>
-<p style="color:black;">Higher skill levels are a valuable asset that allow professionals to command higher-tier compensation.</p>
-<p style="color:black;">Great communication skills solve a great number of business and personal problems as well.</p>
-<p style="color:black;">In the same way, poor communication leads to a great many losess. I'm sure you've seen many lost opportunities and broken relationships that could have easily been solved if one or both parties had good communication skills.</p>
-<p style="color:black;">Working on your communication is a worthwhile long-term pursuit.</p>
-<p style="color:black;">Training is not like a magical ticket where you automatically add skills or guarantee jobs after you pay.</p>
-<p style="color:black;">I’m offering a service where I provide value through lessons, guidance, feedback, and correction.</p>
+<p style="color:black;">While free resources like YouTube and online lessons can be helpful, paying for training offers personalized feedback and guidance.</p>
+<p style="color:black;">Communication is complex, and learning it on your own can be challenging. Different situations require different levels of English skills.</p>
+<p style="color:black;">For example, call center work in business-to-customer (B2C) and business-to-business (B2B) settings requires different skill levels, as does online freelancing.</p>
+<p style="color:black;">Improving your communication skills can lead to better job opportunities and higher pay. It can also help you avoid misunderstandings and lost opportunities in both business and personal relationships.</p>
+<p style="color:black;">Training is not a magic ticket that automatically grants you new skills or guarantees a job. Instead, it's a service that provides valuable lessons, guidance, feedback, and correction to help you grow and improve your communication abilities.</p>
 </details>
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Do I need to pay for the session before I start the training?</summary>
-<p style="color:black;">Yes. You need to pay for the session to join the training.</p>
+<p style="color:black;">Yes, you need to pay for the session before you can begin the training. This ensures you have access to all the resources, feedback, and guidance offered in the program.</p>
 </details>
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">How much does the training cost?</summary>
-<p style="color:black;">I charge ₱697 per session. I offer discounts to students who purchase multiple sessions.</p>
+<p style="color:black;">The cost of training starts at ₱697 for a single session. We offer discounts for multiple sessions, allowing you to save more when you commit to more weeks of training.</p>
 </details>
 
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What are the benefits of active learning?</summary>
-<p style="color:black;">👨🏻‍🎓👩🏻‍🎓  Active learning is the most effective method to sounding professional and confident at conversations, interviews, client meetings, customer service, sales & email.</p>
+<p style="color:black;">👨🏻‍🎓👩🏻‍🎓 Active learning helps you develop professional and confident communication skills for conversations, interviews, client meetings, customer service, sales, and email. It encourages you to participate, engage, and apply the lessons, which leads to better understanding, retention, and application of the skills you learn.</p>
 </details>
 
 <p>Send a message to <a href="https://www.facebook.com/callcentertrainingtips">INQUIRE NOW</a>!!!</p>
