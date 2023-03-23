@@ -49,7 +49,7 @@ author: Kevin Olega
 <p>1️ - ₱697. intro or single session.</p>
 <p>2️ - ₱1,299 two weeks. SAVE ₱95!</p>
 <p>4️ - ₱2,299 four weeks. SAVE ₱489!</p>
-<p>6️ - ₱3,299 six weeks. SAVE 883!</p>
+<p>6️ - ₱3,299 six weeks. SAVE ₱883!</p>
 <p>8️ - ₱3,499 eight weeks. SAVE ₱2,077!</p>
 <p>12 - ₱6,499 twelve weeks. SAVE ₱1,864!</p>
 
@@ -121,6 +121,7 @@ author: Kevin Olega
 <p style="color:black;">Sure! Here's a <a href="https://callcentertrainingtips.com/video">link to sample sessions in video format</a>.</p>
 </details>
 
+<details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What happens during live online coaching?</summary>
 <p style="color:black;">During live online coaching, we'll discuss your answers after you submit your first set of writing exercises.</p>
 <p style="color:black;">I will help correct your grammar and pronunciation during the session.</p>
