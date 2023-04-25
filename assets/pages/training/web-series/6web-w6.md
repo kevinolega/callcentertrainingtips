@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Week 6 Lessons and Exercises
+title: Assessment 6 Lessons and Exercises
 date: 2020-11-20 02:08
 permalink: /6webw6-hunter/ 
 author: Kevin Olega 
@@ -84,7 +84,7 @@ Please write 10 questions to break down the following general questions into mor
 9. How do I become a good writer?
 10. How do I become good with computers.
 
-## LESSON 3 
+## LESSON 3
 
 The goal is to write 100 sentences.
 
@@ -103,7 +103,7 @@ Give me advice on the following topics.
 5. Personal/Happiness
 
 
-## LESSON 4 
+## LESSON 4
 
 100 Sentences
 

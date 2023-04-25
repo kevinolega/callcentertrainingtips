@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Week 3 Lessons and Exercises
+title: Assessment 3 Lessons and Exercises
 date: 2020-11-20 02:08
 permalink: /6webw3-egg/ 
 author: Kevin Olega 

@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Week 5 Lessons and Exercises
+title: Assessment 5 Lessons and Exercises
 date: 2020-11-20 02:08
 permalink: /6webw5-lurker/ 
 author: Kevin Olega 
