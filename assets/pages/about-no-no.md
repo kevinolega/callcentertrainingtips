@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: Saying No To Other Commitments
 date: 2020-04-18 21:16
 Tags: [ uncategorized, blog ]
