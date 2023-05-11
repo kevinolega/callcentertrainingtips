@@ -23,8 +23,6 @@ I began publishing my lessons in 2012.
 
 ## The Story Behind Call Center Training Tips
 
-**My personal motivation**
-
 This is the website that I wish existed when I started looking for work.
 
 I wrote the lessons that I wanted to read. 
@@ -35,7 +33,7 @@ Many of my friends, including myself are introverts.
 
 I decided to write and organize the lessons instead of spending hours explaining to each friend how to get hired.
 
-**My writing process**
+### My writing process
 
 I ask and answer questions on my notebook.
 
@@ -47,7 +45,7 @@ I spend several hours every week writing and publishing new lessons.
 
 I read everything again and again so I can refine and adjust the old lessons.
 
-**How I discovered the secret to getting high paying jobs**
+### How I discovered the secret to getting high paying jobs
 
 I'll share with you how I discovered the secret to getting high-paying jobs.
 
@@ -67,7 +65,9 @@ I assisted students with the enrollment process and shared job application tips 
 
 Over the years, my experience, research, and the mistakes I made led me to accumulate a massive amount of lessons. 
 
-On this website, you'll find valuable lessons on:
+### What you'll learn
+
+On this website, you'll find lessons on:
 
 - How to improve your confidence
 - How to speak better English
