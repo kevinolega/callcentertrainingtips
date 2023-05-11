@@ -48,6 +48,8 @@ I spent the last fifteen years working in jobs that require high-level communica
 
 I teach how I communicate and the story behind my techniques.
 
+![IMAGE TEXT]({{ site.url }}/assets/img/My Gamer Mindset.png).
+
 My training focus on:
 
 - Building confidence while speaking in English.
