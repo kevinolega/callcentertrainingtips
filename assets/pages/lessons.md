@@ -21,4 +21,5 @@ I am praying for your success. God bless!
 {% include search.html %}
 {% include testimonial.html %}
 {% include latest-posts.html %}
-[READ ALL LESSONS](https://callcentertrainingtips.com/archive)
+
+<a href="https://callcentertrainingtips.com/archive" class="button">READ ALL LESSONS</a>
