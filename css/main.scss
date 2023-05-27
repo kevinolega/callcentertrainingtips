@@ -42,8 +42,6 @@ $on-laptop:        1000px;
 
 
 
-// Import partials from `sass_dir` (defaults to `_sass`)
+// Import Google Fonts and partials from `sass_dir` (defaults to `_sass`)
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap');
-
-        "style"
-;
+@import "style";
