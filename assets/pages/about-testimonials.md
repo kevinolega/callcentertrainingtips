@@ -41,12 +41,10 @@ I later decided to move all my testimonials into a Google Photos Album.
 > "Thank you so much, Kevin. I will not forget you! 
 You were my first mentor who first believed in me. God bless you!" - Katt C.
 
-> "I only completed 3 weeks of my activity. I was finally hired and got a job at Alorica! I start on April 6. Thank you for all the lessons. I learned a lot from you, especially in constructing my sentence. All the activities that you've given were very helpful! I'm more confident haha di po gaya noon na halos sobrang kabado. Simula nong natutunan ko sayo yung pag simplify ng words mas gumanda ung mga sagot ko pati pronunciation ko po."
-- Emi Z 
+> "I only completed 3 weeks of my activity. I was finally hired and got a job at Alorica! I start on April 6. Thank you for all the lessons. I learned a lot from you, especially in constructing my sentence. All the activities that you've given were very helpful! I'm more confident haha di po gaya noon na halos sobrang kabado. Simula nong natutunan ko sayo yung pag simplify ng words mas gumanda ung mga sagot ko pati pronunciation ko po." - Emi Z 
 
 
-> "Isa po akong tricycle driver ngayon nasa BPO industry na. Sir salamat po ng marami sa mga tips. Thank you for boosting my confidence at sa mga walang humpay na tips. Na-hire po ako sa iQor last November at ang ganda pong account which is T-Mobile and daming benefits sir."
-- Richard V
+> "Isa po akong tricycle driver ngayon nasa BPO industry na. Sir salamat po ng marami sa mga tips. Thank you for boosting my confidence at sa mga walang humpay na tips. Na-hire po ako sa iQor last November at ang ganda pong account which is T-Mobile and daming benefits sir." - Richard V
 
 
 [Link to Testimonials Album](https://photos.app.goo.gl/jfCLAgMzTHxtLW1F9)
