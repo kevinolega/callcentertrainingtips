@@ -5,8 +5,8 @@ date: 2022-09-11 15:05
 permalink: thank-you-upwork-circles  
 author: Kevin Olega 
 --- 
-
-
+<h2>ACCESS KNOWLEDGE THAT WILL GIVE YOU FREEDOM</h2>
+>>>[Freelance Guide](https://docs.google.com/document/d/1lgTlwCTNBDVeOPfdtS9ZGYsQEvhSoz-soz1HDCMkmC8/edit?usp=sharing)<<<
 
 <h2>WE HAVE MORE FOR YOU</h2>
 <p>You may access all of our free training materials from this page.</p>
