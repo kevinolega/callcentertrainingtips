@@ -19,7 +19,7 @@ Kevin
 
 <h2>RECEIVE PRACTICAL LESSONS ABOUT FREELANCING</h2>
 
-I'll email you some free lessons and update you about job opportunities in my circle.
+I'll email you some free lessons and update you about job opportunities in my circle. I'll give you access to all my freelancing notes, guides, and Discord server.
 
 <p><a href="https://sendfox.com/lp/3lw8ql" class="button focus">GET MY FREELANCE LESSONS</a></p>
 
@@ -96,12 +96,15 @@ I chose to work for a call center to save money, practice my skills, buy my comp
 
 {% include about.html %}
 
-- Three year top agent: Customer Service, Tech Support, and Sales.
+- Three-year top agent: Customer Service, Tech Support, and Sales.
 - Professional Freelance writer.
 - Upwork Top Freelancer
-- Upwork since 2011.
-- Location independend since 2016.
-- Project manager for an IT company.
+- Upwork account since 2011.
+- Location independent since 2016.
+- Project manager for an IT consulting company since 2016.
+- Project manager for a web development company since 2017.
+- Project manager for an upscale digital marketing and web development company since 2020.
+- Operations manager for a digital marketing agency since 2023.
 
 
 <p><img src="{{ site.url }}/assets/img/VOC Champion.jpg"></p>
@@ -118,7 +121,7 @@ I chose to work for a call center to save money, practice my skills, buy my comp
 
 <h2>JOIN MY PRIVATE SESSIONS ABOUT FREELANCING</h2>
 
-I'll email you some free lessons.
+I'll email you some free lessons. I'll give you access to all my freelancing notes, guides, and Discord server.
 
 <p><a href="https://sendfox.com/lp/3lw8ql" class="button focus">GET MY FREELANCE LESSONS</a></p>
 
