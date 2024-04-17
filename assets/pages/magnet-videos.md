@@ -17,9 +17,15 @@ Hit like and [subscribe](https://youtube.com/callcentertrainingtips?sub_confirma
 
 Take notes and you'll remember the important details.
 
-Please support us by leaving a comment.
+Engaging with this content—like, share, comment—enhances learning and unlocks more resources. I'm here for any questions. Let's keep in touch.
 
 Support the other students by sharing your notes in the comment section.
+
+## FREE ENGLISH LESSONS PLAYLIST
+
+To boost your English and interview prep, regularly visit my English Lessons playlist on YouTube. These videos, are the same lessons from my live classes, offer easy-to-follow guides to improve communication skills and interview readiness.
+
+[Watch the English Lessons Playlist](https://www.youtube.com/watch?v=N2-I8MXU2-A&list=PLBU9NmkmmIWlDwgIcSGuVyV88UP-Na6pa)
 
 ## PHONE COACHING SAMPLES
 
@@ -41,7 +47,7 @@ We also give interview and career advice.
 
 [WATCH ON YOUTUBE](https://www.youtube.com/watch?v=7X-XOJ1SCMc).
 
-### PRONUNICATION PHONE COACHING SOLO PRACTICE
+### PRONUNCIATION PHONE COACHING SOLO PRACTICE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xBFxOATikEI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -56,7 +62,7 @@ We also give interview and career advice.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j2r-JNolL5w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### PRONUNICATION PHONE COACHING 30 MINUTES
+### PRONUNCIATION PHONE COACHING 30 MINUTES
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fezqHqAwKqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
