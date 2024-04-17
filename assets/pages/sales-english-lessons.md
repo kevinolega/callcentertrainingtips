@@ -251,7 +251,7 @@ author: Kevin Olega
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">How much does the training cost?</summary>
-<p style="color:black;">The cost of training starts at ₱697 for a single session. We offer discounts for multiple sessions, allowing you to save more when you commit to more weeks of training.</p>
+<p style="color:black;">The cost of training starts at ₱897 for a single session. We offer discounts for multiple sessions, allowing you to save more when you commit to more weeks of training.</p>
 </details>
 
 
