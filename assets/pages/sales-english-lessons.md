@@ -1,4 +1,4 @@
---- 
+f--- 
 layout: page 
 title: ENGLISH LESSONS
 date: 2019-08-31 13:00
@@ -119,7 +119,7 @@ author: Kevin Olega
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Can I see samples of your sessions?</summary>
-<p style="color:black;">Sure! Here's a <a href="https://callcentertrainingtips.com/video">link to sample sessions in video format</a>.</p>
+<p style="color:black;">Sure! Here's a <a href="https://callcentertrainingtips.com/videos">link to sample sessions in video format</a>.</p>
 </details>
 
 <details>
