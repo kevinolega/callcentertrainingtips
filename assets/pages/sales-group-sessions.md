@@ -5,7 +5,7 @@ date: 2024-08-12 13:00
 description: Information about our group sessions lessons including pricing, modules, and how to enroll.
 Tags: [ CTA, sales page ]
 search: exclude
-permalink: group-session
+permalink: group-sessions
 author: Kevin Olega 
 --- 
 {% include el-promo-image.html %}
