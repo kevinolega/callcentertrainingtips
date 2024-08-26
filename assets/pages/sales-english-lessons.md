@@ -45,14 +45,16 @@ author: Kevin Olega
 
 <p>✔️ - <strong>Step 1</strong>: Pick how many weeks you want.</p>
 
-<p><strong>SAVE MORE with MORE SESSIONS</strong> until May 31, 2024</p>
-<p>1️ - ₱897. intro or single session.</p>
-<p>2️ - ₱1,299 two weeks. SAVE ₱1,794!</p>
-<p>4️ - ₱2,299 four weeks. SAVE ₱1,289!</p>
-<p>6️ - ₱3,299 six weeks. SAVE ₱2,083!</p>
-<p><strong>8️ - ₱3,499 eight weeks. SAVE ₱3,667!</strong></p>
-<p>12 - ₱6,499 twelve weeks. SAVE ₱4,265!</p>
-<p>24 - ₱13,499 twenty four weeks. SAVE ₱8,029!</p>
+<p><strong>SAVE MORE with MORE SESSIONS</strong> until November 30, 2024</p>
+<p>1️ - ₱1,320. intro or single session.</p>
+<p>2️ - ₱2,299 two sessions. SAVE ₱341!</p>
+<p>4️ - ₱3,999 four sessions. SAVE ₱1,281!</p>
+<p>6️ - ₱4,999 six sessions. SAVE ₱2,921!</p>
+<p><strong>8️ - ₱5,999 eight sessions. SAVE ₱5,561!</strong></p>
+<p>12 - ₱8,999 twelve sessions. SAVE ₱6,841!</p>
+<p>24 - ₱18,999 twenty four sessions. SAVE ₱12,681!</p>
+
+<p><strong>Limited budget?</strong> <a href="https://callcentertrainingtips.com/group-sessions">Join our group sessions</a>.</p>
 
 <p>✔️ - <strong>Step 2</strong>: Pay and Send Info</p>
 <ol>
@@ -266,4 +268,5 @@ author: Kevin Olega
 <p><a href="https://www.facebook.com/callcentertrainingtips/">CLICK HERE TO ASK QUESTIONS</a></p>
 
 {% include el-signup.html %}
+<p><strong>Limited budget?</strong> <a href="https://callcentertrainingtips.com/group-sessions">Join our group sessions</a>.</p>
 {% include el-nobudget.html %}
