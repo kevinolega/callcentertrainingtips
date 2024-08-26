@@ -28,7 +28,7 @@ author: Kevin Olega
 
 <h2>WHO'S THIS NOT FOR?</h2>
 <ul>
-    <li>You want 1-on-1 coaching.</li>
+    <li>You want 1-on-1 coaching. <a href="https://callcentertrainingtips.com/english-lessons">Private lessons are available.</a></li>
     <li>You're already at an advanced level.</li>
     <li>You're expecting a magic pill to solve your English challenges.</li>
 </ul>
@@ -103,8 +103,8 @@ author: Kevin Olega
 <p style="color:black;">Right now, we only have Sunday sessions.</p>
 <p style="color:black;">Sunday Schedule:</p>
 <ul>
-	<li>6 pm to 7 pm</li>
-	<li>8 pm to 9 pm</li>
+  <li>6 pm to 7 pm</li>
+  <li>8 pm to 9 pm</li>
 </ul>
 <p style="color:black;">We understand you might have a different schedule. We're working on more options for students. If you have questions or want a different time, <a href="https://facebook.com/callcentertrainingtips">send us a message</a>.</p>
 </details>
