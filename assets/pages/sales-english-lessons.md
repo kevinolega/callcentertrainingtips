@@ -43,7 +43,7 @@ author: Kevin Olega
 
 <h2>ENROLLMENT INFORMATION:</h2>
 
-<p>✔️ - <strong>Step 1</strong>: Pick how many weeks you want.</p>
+<p>✔️ - <strong>Step 1</strong>: Pick how many sessions you want.</p>
 
 <p><strong>SAVE MORE with MORE SESSIONS</strong> until November 30, 2024</p>
 <p>1️ - ₱1,320. intro or single session.</p>
@@ -234,7 +234,7 @@ author: Kevin Olega
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">How many sessions do I need?</summary>
 <p style="color:black;">The number of sessions you need depends on your current skill level, your target skill level, and the time and resources you can dedicate to working on your communication skills.</p>
 <p style="color:black;">If you only have grammar and pronunciation issues, we can cover most problems in 4 sessions.</p>
-<p style="color:black;">If you need additional help with confidence and professional situations, I’d recommend 6-8 weeks.</p>
+<p style="color:black;">If you need additional help with confidence and professional situations, I’d recommend 6-8 weeks/sessions.</p>
 </details>
 
 <details>
