@@ -13,7 +13,7 @@ My lessons already helped [hundreds of Filipinos get hired in a call center](htt
 
 If you want to support me and you would like more direct and active personal assistance, here are your options.
 
-## INEXPENSIVE ENGLISH LESSONS
+## INEXPENSIVE ENGLISH LESSONS VIA GROUP SESSION
 
 <img src="{{ site.url }}/assets/img/Affordable-English-Lessons.png" width="400">
 
@@ -21,9 +21,21 @@ We offer affordable English lessons to help support job applicants and professio
 
 <details>
 	<summary>Click to read more.</summary>
-	<p>We help our students prepare for interviews and call center work.</p>
-	<p>We will be correcting your mistakes, and I'll guide you until you get hired.</p>
-	<p><a href="https://callcentertrainingtips.com/6WEL250/" class="button focus">CLICK HERE TO RECEIVE TRAINING</a></p>
+	<p>In a group session format, we help our students prepare for interviews and call center work.</p>
+	<p>We will be correcting your mistakes, and guide you until you get hired.</p>
+	<p><a href="https://callcentertrainingtips.com/group-sessions/" class="button focus">CLICK HERE TO JOIN SESSIONS</a></p>
+</details>
+<br>
+
+## ONE-TO-ONE COMMUNICATIONS COACHING
+
+We offer one-to-one English coaching to help support job applicants and professionals who want to upgrade their careers.
+
+<details>
+	<summary>Click to read more.</summary>
+	<p>We will help you prepare for interviews, call center work, promotion, and online freelancing .</p>
+	<p>We will be correcting your mistakes, and I'll personally guide you until you get hired.</p>
+	<p><a href="https://callcentertrainingtips.com/english-lessons/" class="button focus">CLICK HERE FOR MORE INFORMATION</a></p>
 </details>
 <br>
 
@@ -65,12 +77,12 @@ INCLUSIONS:
 
 ## HOURLY CONSULTATION
 
-₱975.50 per hour.
+₱1,360 per hour.
 
 [APPLY FOR CONSULTATION](https://forms.gle/tnbBqJcKSyxGMK9K8)
 
-## ENGLISH TUTORIAL SERVICE
+## ONLINE FREELANCING COMMUNICATION SKILLS PREP
 
-[CLICK HERE TO VISIT OUR AFFILIATE TUTORIAL WEBSITE](https://philippinesprivateenglishtutors.com/)
+Ready to enter the world of online freelancing?
 
 [Please send an email](mailto:kevin@callcentertrainingtips.com) or a [Facebook message](https://www.facebook.com/callcentertrainingtips/) to inquire.
