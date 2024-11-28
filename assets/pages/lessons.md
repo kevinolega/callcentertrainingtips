@@ -2,6 +2,27 @@
 layout: page
 title: IMPORTANT LESSONS
 permalink: lessons
+redirect_from:
+    - /inv1k 
+    - /pray-am/
+    - /no-enhance/
+    - /media-sucks/
+    - /commitment/
+    - /6webw1-hatch/
+    - /smarter/
+    - /mentor/
+    - /cs-sample/
+    - /send-pdf's
+    - /books/
+    - //faq6bstudents/
+    - /both/
+    - /2webw1-bar/
+    - /waste/
+    - /w01l15r
+    - /2webguide
+    - /escape-fear/
+    - /w01l6r
+    - /w01l7r
 ---
 {% include email-signup.html %}
 <br>

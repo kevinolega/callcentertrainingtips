@@ -6,6 +6,8 @@ description: Information about our group sessions lessons including pricing, mod
 Tags: [ CTA, sales page ]
 search: exclude
 permalink: group-sessions
+redirect_from:
+  - /group-sessions/
 author: Kevin Olega 
 --- 
 {% include el-promo-image.html %}
