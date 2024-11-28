@@ -6,7 +6,9 @@ description: Information about our English lessons including pricing, modules, a
 Tags: [ CTA, sales page ]
 search: exclude
 permalink: english-lessons
-redirect_from: /6WEL250/ 
+redirect_from: 
+  - /6WEL250/ 
+  - /english-lessons/
 author: Kevin Olega 
 --- 
 {% include el-promo-image.html %}
