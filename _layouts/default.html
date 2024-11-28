@@ -9,26 +9,43 @@ layout: compress
   <link href="https://fonts.googleapis.com/css?family=Lato:900|Work+Sans" rel="stylesheet">
   <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
   {% seo %}
+  
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "{{ site.title }}",
+    "url": "{{ site.url }}",
+    "description": "{{ site.description }}",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "{{ site.url }}/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+
   <!-- Facebook Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '226695315460996');
-fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=226695315460996&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
+  <script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '226695315460996');
+  fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=226695315460996&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Facebook Pixel Code -->
 </head>
 <body style="background-color: rgb(255, 255, 255)">
- <script src="{{site.baseurl}}/js/theme.min.js"></script>
+  <script src="{{site.baseurl}}/js/theme.min.js"></script>
   <header>
       <a href="{{site.baseurl}}/"><div class="home"></div></a>
          <div class="links">
@@ -39,8 +56,6 @@ src="https://www.facebook.com/tr?id=226695315460996&ev=PageView&noscript=1"
         <a href="{{site.baseurl}}/contact/">CONTACT</a>
         <a href="{{site.baseurl}}/promos/">TRAINING</a>
         <a href="{{site.baseurl}}/books">BOOKS</a>
-
-
     </div>
   </header>
 
