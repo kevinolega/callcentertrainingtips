@@ -1,7 +1,7 @@
 --- 
 layout: post 
-title: Call Simulation Tips
-date: 2018-07-11 07:43
+title: Call Simulation Tips 
+date: 2018-07-11 07:43 
 permalink: /call-simulation/ 
 author: Kevin Olega 
 --- 
@@ -9,285 +9,249 @@ author: Kevin Olega
 
 Call simulation is one of the most intimidating parts of the call center screening process.
 
-If you haven't experienced call simulation, you'll be asked to go to a space like a desk, cubicle or phone booth, put on the headset and wait for the phone to ring. 
+If you haven't experienced call simulation, you'll be asked to go to a space like a desk, cubicle, or phone booth, put on the headset, and wait for the phone to ring.
 
-In some situations the phone is identical to the standard call center headset, in some situations, it's a regular phone.
+In some situations, the phone is identical to the standard call center headset. In others, it's a regular phone.
 
-In some situations you're just talking to the same interviewer, sometimes it's a recruitment manager, sometimes it's a production team leader, sometimes it's a foreign staff. 
+Sometimes, you're just talking to the same interviewer, a recruitment manager, a production team leader, or even a foreign staff member. 
 
-I have once had a call simulation with an American and an Indian manager or client.
+I’ve even had a call simulation with an American and an Indian manager or client.
 
-In the screening process, call simulation is what most looks like the actual call center work.
+The screening process is designed to simulate the actual call center work. The call simulation gives the recruiter a chance to evaluate how you handle calls. 
 
-The call, will be what you will be doing for work everyday.
+When hired in a call center, you’ll be taking calls for eight hours a day, five days a week. 
 
-When you get hired in a call center, you will be taking calls eight hours a day, five days a week.
+Many people fail during the call simulation process because they’re unprepared. 
 
-Many people report that they fail in the call simulation process. 
+To ensure you never panic, we’ll prepare you for what to expect and how to respond effectively. Knowing the elements in advance will help you stay calm and perform better.
 
-The call simulation is a way for the recruiter to check how you handle calls. 
+---
 
-To prepare you for the call simulation screening we need to prepare you so you never panic. 
+## General Rules for Call Simulations
 
-When you know the elements in advance, you will be better prepared.
+### Never Panic
 
-Here are some rules that we follow during a call.
+You learn to avoid panic by becoming familiar with the situation. 
 
-## Never panic. 
+Familiarity comes through study and experience. 
 
-You learn to do this by being familiar with the situation. 
+I failed several times before I understood the common patterns in calls. 
 
-You become familiar with the situation by study and experience. 
+Take deep breaths before answering. Smile to calm your nerves.
 
-In my case, I failed a few times until I understood common patterns. 
+---
 
-Take deep breaths before a call. 
+### Never Get Angry
 
-Smile when you get nervous.
+Customers might love you, hate you, or remain neutral. 
 
-## Never get angry. 
+Never get angry, no matter the situation.
 
-In a customer service situation, some customers will love you.
+The customer isn’t angry at you personally; they’re in pain or frustration. Your job is to fix the problem.
 
-Some customers will hate you.
+If the customer says something offensive, remember it’s unintentional—pain makes people lash out.
 
-Some customers aren't emotionally involved in a call. 
+Also, if a customer loses control and says words that you find offensive, remind yourself that people unintentionally hurt others when they are in pain.
 
-Whatever the situation is,
+---
 
-Never get angry at the customer. 
+### Reframe the Situation
 
-The customer is having the worst day of his or her life and only you can fix the problem. 
+Instead of viewing a customer as "angry," think of them as "passionate."
 
-The customer is not angry at you. 
+- A passionate customer wants their service restored.
+- A passionate customer wants the best deal.
+- A passionate customer needs their request completed today.
 
-The customer is in pain. 
+This mental shift makes interactions less intimidating. I imagine Antonio Banderas, whose passionate tone often sounds angry but isn’t. 
 
-Your job is to fix it. 
+Whenever I use the word passionate, it puts a smile on my face and makes me less likely to take things personally. 
 
-## Here's a tip. 
+This approach helped me see irate customers as passionate problem solvers. It also earned me recognition as a "super-agent" due to my top feedback scores and sales.
 
-Call center agents describe this situation as "angry customer" or "irate customer." In my mind, I replace the word "angry" and "irate" or "upset" with the word "passionate" to describe the situation.
+---
 
-The customer is passionate about getting his service back.
+### Use Positive Phrasing
 
-The customer is passionate about getting the best rates from our company.
+How you phrase information matters.
 
-The customer is passionate about getting his request accomplished today.
+Instead of: "Your package will be delayed by four days."
+Say: "In four days, you’ll enjoy your package."
 
-The customer is passionate about his desire to speak with a manager.
+Always phrase things positively to avoid triggering negative emotions.
 
-There's something about the word passionate that puts a smile to my face.
+I make it a habit to reflect on situations where customers became angry. During my commute home, I think about how I could have phrased bad news better or avoided offensive statements. 
 
-I imagine the actor Antonio Banderas because when he talks, he sounds really angry but he's really passionate.
+Constantly ask yourself: **"How can I say this better?"**
 
-Whenever I use the word passionate to describe the situation, I'm able to see the customer as someone who is simply passionate about trying to get something done or to get a solution to his or her problem.
+---
 
-This makes the call less serious.
+### Use Simple Words
 
-This makes the idea of facing an angry customer less scary.
+Avoid overcomplicated language. Speak plainly and clearly. Grade two English is better than intellectual snobbery.
 
-The customer might raise his or her voice and perhaps use some profanity but that's not because he or she is angry, he is passionate.
+Keep your language appropriate and accessible. Five-syllable words may confuse customers, so focus on simplicity.
 
-You are likely to get offended or upset by someone who is angry but you are also likely to forgive someone who is passionate. 
+---
 
-Adding the word passionate makes a scary call a fun one for me.
+### Say it with a Smile
 
-This tip had made the senior team leader refer to me as "the super-agent" because I had the highest amount of good customer service feedback and the highest amount of sales in the entire account for that day. 
+Smiling while you speak makes your tone more positive, which customers can perceive even over the phone. 
 
-## Another tip. 
+Try it consistently and notice the difference.
 
-Angry customers are customers who will most likely give "feedback about the customer service representative" and how well you handle the call will reflect your customer service score. 
+---
 
-This is the reason why I love passionate customers. 
+### Speak Loud and Clear
 
-They are responsible for my 20-30% pay increase.
+Project your voice confidently, especially if you’re shy. 
 
-## Use positive phrasing. 
+Practice increasing your volume and clarity.
 
-Don't say "your package will be delayed by four days." Instead, say "In four days you'll get to enjoy your package" The glass is half full not empty. 
+You're projecting your voice to be heard in another country. This isn't the time for whispering or muttering. Speak with confidence and clarity.
 
-You need to master this because positively phrasing things will allow you to communicate your message without being interrupted by negative emotions. 
+---
 
-You can learn this. 
+### Avoid Dead Air
 
-I'm giving you instructions you can do this yourself.
+While waiting for systems to load, engage the customer by sharing process details or building rapport.
 
-Is a lot better than. 
+Ask simple questions like: 
+- "How’s your day going so far?" 
+- "How do you use this product/service?"
 
-You suck. 
+This ensures the call remains active and professional.
 
-## Use simple words. 
+---
 
-College English with five-syllable words that nobody but intellectual snobs use anyone? 
+### Build Rapport
 
-No thanks. 
+Talk to the customer about their needs and preferences. Building rapport creates a smoother interaction.
 
-Use the simplest words that you can. 
+Find opportunities to connect on a human level. For example, ask the customer about their experience with the product or service.
 
-## Say it with a smile. 
+---
 
-Your smile can be heard over the phone. 
+### Use Common Sense
 
-## Speak loud and clear. 
+Stick to what’s necessary. Focus on resolving the issue quickly and moving on to the next step.
 
-You're projecting your voice to be heard in another country. 
+Avoid unnecessary comments or oversharing. The goal is resolution, not endless conversation.
 
-Speak loud and clear. 
+---
 
-We're not in school anymore passing test answers with our classmates. 
+## Elements of an Inbound Customer Service Call
 
-Seriously, speak loud and clear. 
+### Introduction
 
-Practice it. 
+Thank the customer for calling. Introduce yourself clearly:
 
-You need to be heard and understood. 
+> "Thank you for calling [company name]. My name is Kevin. How can I help you?"
 
-Inhale before you speak and increase the volume louder than you're used to especially if you're a shy person like me. 
+---
 
+### Acknowledge
 
-## Avoid dead air. 
+Let the customer know you hear them. Simple phrases like:
+> "Okay, I see."
 
-While waiting for things to load provide the customer with important information about the process or procedures and/or build rapport.
+---
 
-How is your day going so far? 
+### Clarify
 
+Rephrase the customer’s issue to ensure understanding:
+> "Just to make sure I understand, you’re saying [restate the issue]. Did I get that right?"
 
-## Use common sense. 
+---
 
-Only say what is needed and nothing more. 
+### Probe
 
-Your goal is to get to a resolution or the next step as quickly as possible. 
+Ask questions to gather more information:
+> "Can you tell me more about what happened?"
 
-**Think solutions not excuses**
+Probe deeply and efficiently. Use open-ended questions to uncover details and fully understand the customer’s situation.
 
+---
 
-### Elements of an Inbound Customer Service Call
+### Apologize
 
-Now here are some parts of a typical inbound customer service call and tech support call. 
+Express a specific apology:
+> "I’m sorry you’re experiencing [specific issue]. I’ll work on getting this resolved."
 
-These elements are commonly used in a customer service situation and call simulation.
+Specific apologies demonstrate sincerity and build trust.
 
-Once you are familiar with the parts you will be familiar how to do it properly and eventually do it well all the time. 
+---
 
-Once you are very familiar with these elements you can pass this test all the time. 
+### Empathize
 
+Show understanding of their frustration:
+> "I know how upsetting this must be. If I were in your shoes, I’d feel the same way."
 
-## Introduction.  
+Empathy makes customers feel heard and valued.
 
-Thank you for calling (possibly or if needed insert company name). 
+---
 
-My name is Kevin. 
+### Assure
 
-How can I help you? 
+Reassure the customer:
+> "You’ve reached the right person. I’ll make sure your issue is addressed."
 
-## Acknowledge. 
+---
 
-Okay. 
+### Verify the Customer
 
-I see. 
+Confirm account details:
+> "May I have your [specific information] to ensure I’m accessing the correct account?"
 
-Let the customer know that you hear them. 
+Verification prevents errors and ensures accuracy.
 
-## Clarify. 
+---
 
-So you calling regarding... 
+### Hold Procedure
 
-Rephrase the situation or customer concern. 
+Request permission to place the customer on hold:
+> "May I place you on hold for two minutes while I check some information?"
 
-Just to make sure I understand the situation correctly. 
+Always thank them for waiting and set clear expectations.
 
-Rephrase the situation. 
+---
 
-You may further clarify by asking did I get that correctly? 
+### Solve the Issue
 
-## Probe. 
+Provide clear instructions or transfer them to the correct department.
 
-Can you tell me more about you. 
+---
 
-Insert issue or problem you are experiencing. 
+### Transfer Procedure
 
-## Apologize. 
+When transferring, explain the next step:
+> "To best assist you, I’ll connect you with [specific department]. Please stay on the line."
 
-I'm sorry to hear about that. 
+Alternative phrasing: "I’ll get you some help by transferring your call."
 
-I'm sorry you are encountering some issues with your service. 
+---
 
-I'm sorry for the specific experience you are encountering. 
+### Summarize
 
-I apologize for (specific issue). 
+Recap what was discussed:
+> "You called about [specific issue]. We [specific action], and your concern is resolved."
 
-Avoid saying, I'm sorry for that or I apologize for that.
+Summarizing ensures clarity and reinforces resolution.
 
-Always refer to the specific issue. 
+---
 
-I'm sorry to hear that the delivery wasn't on time. 
+### Provide Additional Assistance
 
-I apologize that you are experiencing difficulty with your service.
- 
-## Empathize. 
+End with:
+> "Is there anything else I can help you with?"
 
-I understand why you are upset. 
+---
 
-I'm a customer as well and I know how frustrating it is when the product or service is not going or working smoothly. 
+### Personalize
 
-If I was in your situation I would be upset as well. 
+Use the customer’s name. Avoid "sir" or "ma’am" unless necessary.
 
-## Assure. 
-
-But don't worry you have reached the right person or department. 
-
-I'll work on getting insert specific issue fixed. 
-
-## Verify the customer. 
-
-May I have your name address last four digits of your social , please. 
-
-Just to make sure I have the right account may I have your insert required information. 
-
-## Hold procedure.
-
-May I place you on hold for two minutes? 
-
-I just need to double-check some information related to (their specific question)
-
-## Thank the customer for complying.
-
-If they give you their address or agree to wait on hold, always thank the customer. 
-
-## Solve the issue. 
-
-Provide the information or instructions needed or transfer the customer to the right department. 
-
-## Transfer procedures. 
-
-To best assist you I'll transfer your call to specific department. 
-
-They will be able to assist you with your specific concern. 
-
-Please stay on the line I'll transfer your call now. 
-
-## Summarize.
-
-I'll just place some notes on the account. 
-
-You called today about specific concern. 
-
-We did specific action and your concern is now addressed. Or fixed. 
-
-## Provide additional assistance.
-
-Would there be anything else that I can assist you with? 
-
-Or do you have any other questions that I can answer for you? 
-
-## Personalise.
-
-Use the customer's name. 
-
-It's Mr. Smith or Ms. Smith. 
-
-Or their first name if they tell you that you can call them by they're first name. 
+This makes the interaction feel genuine and professional.
 
 Don't use ma'am or sir.  
 
@@ -305,13 +269,26 @@ Using sir and ma'am tells them that you didn't bother to remember their name whe
 
 Using sir and ma'am is only allowed if the customer has a name that sounds like a curse word. 
 
-## Closing spiel.
 
-Thank you for calling (insert company name). 
+---
 
-## Branding.
+### Closing Spiel
 
-Insert the company name at the opening and closing spiel as needed. 
+> "Thank you for calling [company name]."
+
+Include branding as needed, ensuring consistency with the company’s style.
+
+---
+
+## Practice Makes Perfect
+
+These steps are common in customer service calls. Practice them with a friend or mentor familiar with call center procedures.
+
+Ask yourself after each call:
+- "How can I phrase this better?"
+- "Did I fully address the customer’s concerns?"
+
+By consistently refining your skills, you’ll excel in call simulations and customer interactions.
 
 Call handling procedure is different from company to company. 
 
@@ -338,5 +315,6 @@ You can customize the spiel by always asking yourself "How can I say it better?"
 Understand each element and practice using them. 
 
 Practice with a friend with good English or someone who knows customer service procedure.
+
 
 [Watch Call Simulation Video on YouTube](https://youtu.be/_D3er4rmPlg)
