@@ -7,4 +7,8 @@ author: Kevin Olega
 redirect_from:
 	- /books 
 --- 
-Testing this page with simple text for troubleshooting reasons.
+Here's a list of our available books.
+
+{% include shy-book.html %}
+{% include night-shift-book.html %}
+{% include blessings-book.html %}
