@@ -13,7 +13,6 @@ redirect_from:
     - /mentor/
     - /cs-sample/
     - /send-pdf's
-    - /books/
     - //faq6bstudents/
     - /both/
     - /2webw1-bar/
