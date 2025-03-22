@@ -24,8 +24,33 @@ Visit this page for quick access.
 <p>Scroll down to find more goodies!</p>
 {% include community-service.html %}
 {% include no-pressure.html %}
-{% include night-shift-book.html %}
-{% include blessings-book.html %}
+
+### How to Survive Night Shift Work
+
+**A New Call Center Agent's Guide to Working, Sleeping, and Thriving with Night Shift Hours**
+
+[![Night Shift Book Cover](https://callcentertrainingtips.com/assets/img/Night%20Shift%20Book%20Cover-Sample.png)](https://callcentertrainingtips.com/night-shift-book)
+
+Download the free guide and learn how to adapt to night shift faster.
+
+[More Info »](https://callcentertrainingtips.com/night-shift-book)  
+[Free Download »](https://sendfox.com/lp/1g6pd2)
+
+### Small Book of Blessings – Free
+**How to Convince the Interviewer That You're the Perfect Fit for the Job**  
+Written by Kevin Olega
+
+[![Book of Blessings Cover](https://callcentertrainingtips.com/assets/img/Book-of-Blessings-cover.png)](https://sendfox.com/lp/mnoe5q)
+
+This free book teaches you how to build a winning mindset for job interviews.
+
+- Learn how to position yourself as a future leader.
+- Use proven tactics to stay confident under pressure.
+- Stop negative thoughts from sabotaging your success.
+
+[More Info »](https://callcentertrainingtips.com/sbb-book/)  
+[Free Download »](https://sendfox.com/lp/mnoe5q)
+
 {% include featured-videos.html %}
 {% include about.html %}
 {% include history.html %}

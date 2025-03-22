@@ -58,4 +58,15 @@ Please complete your lessons within the 90-day time frame to avoid expiration an
 <br>
 
 
-{% include shy-book.html %}
+<h3>PRACTICAL CALL CENTER JOB HUNTING STRATEGIES</h3>
+**A Shy Person's Guide on How to Get Hired in a Call Center**  
+Written by Kevin Olega
+<p><a href="https://callcentertrainingtips.com/shy-book"><img src="{{ site.url }}/assets/img/Shy-Person-book-cover.png"></a></p>
+- Learn how the call center industry works.
+- Discover what to say and do to stand out in interviews.
+- Master simple techniques that confuse most Filipino applicants.
+- Use one trick that makes interviewers want to hire you.
+- Become the survivor in your training batch.
+- Stop worrying about job security.
+<p><a href="https://callcentertrainingtips.com/shy-book" class="button focus">BUY BOOK for ₱1,667!</a></p>
+

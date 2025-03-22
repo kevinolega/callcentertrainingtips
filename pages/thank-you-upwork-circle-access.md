@@ -13,8 +13,34 @@ author: Kevin Olega
 <p>Scroll down to find more goodies!</p>
 {% include community-service.html %}
 {% include no-pressure.html %}
-{% include night-shift-book.html %}
-{% include blessings-book.html %}
+
+### How to Survive Night Shift as an Online Freelancer
+
+**A Practical Guide to Sleeping, Working, and Staying Healthy When You Work All Night**
+
+[![Night Shift Book Cover](https://callcentertrainingtips.com/assets/img/Night%20Shift%20Book%20Cover-Sample.png)](https://callcentertrainingtips.com/night-shift-book)
+
+If your clients are overseas and your work hours start at midnight, this free guide is for you.  
+Learn how to build better sleep habits, improve your focus, and avoid burnout.
+
+[More Info »](https://callcentertrainingtips.com/night-shift-book)  
+[Free Download »](https://sendfox.com/lp/1g6pd2)
+
+### Small Book of Blessings – Free
+**How to Convince Clients That You're the Right Freelancer for the Job**  
+Written by Kevin Olega
+
+[![Book of Blessings Cover](https://callcentertrainingtips.com/assets/img/Book-of-Blessings-cover.png)](https://sendfox.com/lp/mnoe5q)
+
+This free book teaches you how to build the right mindset for getting hired online.
+
+- Learn how to present yourself as a reliable, long-term freelancer.  
+- Use simple mental shifts to stay calm during proposals and interviews.  
+- Stop negative thoughts that make you hesitate, undercharge, or self-sabotage.
+
+[More Info »](https://callcentertrainingtips.com/sbb-book/)  
+[Free Download »](https://sendfox.com/lp/mnoe5q)
+
 {% include featured-videos.html %}
 {% include about.html %}
 {% include history.html %}
