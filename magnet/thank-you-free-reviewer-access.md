@@ -17,7 +17,7 @@ The reviewer is being updated.
 
 Visit this page for quick access.
 
-[Link to free reviewer](https://docs.google.com/document/d/14PSfHJyOyTOrgB9mSL8uF-NYK3q9SRgWoR8VhkXQ67Y/edit?usp=sharing).
+[Link to free reviewer](https://github.com/kevinolega/reviewer/blob/main/README.md).
 
 <h2>WE HAVE MORE FOR YOU</h2>
 <p>You may access all of our free training materials from this page.</p>
