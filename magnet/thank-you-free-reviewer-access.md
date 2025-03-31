@@ -11,11 +11,9 @@ Here's your free reviewer.
 
 ## UPDATE:
 
-2022-09-09
+2025-03-31
 
-The reviewer is being updated. 
-
-Visit this page for quick access.
+The reviewer is being updated. Save this page and check back soon to access the free reviewer, new lessons, and fresh resources.
 
 [Link to free reviewer](https://github.com/kevinolega/reviewer/blob/main/README.md).
 
