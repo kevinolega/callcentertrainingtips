@@ -9,7 +9,7 @@ Suitable fonts are selected for better readability. Since the theme is created f
 The theme comes with pre-installed analytics, disqus and html compressor. But make sure you change key parameters in the _config.yml file.
 
 
-# Installation: 
+# Installation:
 Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
 
 Watch my video on instlallation
@@ -48,3 +48,5 @@ Make changes to the **master** branch and create a pull request. Do not use **gh
 
 # License
 Read LICENSE file
+
+Forcing Site Rebuild
