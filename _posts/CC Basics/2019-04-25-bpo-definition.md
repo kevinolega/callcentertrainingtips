@@ -3,6 +3,7 @@ layout: post
 title: What is BPO?
 date: 2019-04-25 10:34
 permalink: /bpo-definition/ 
+redirect_to: /call-center-basics/
 author: Kevin Olega 
 --- 
 One question I often get asked is: 

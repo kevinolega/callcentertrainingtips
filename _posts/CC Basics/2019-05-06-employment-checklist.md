@@ -1,11 +1,15 @@
 --- 
 layout: post 
 title: PRE-EMPLOYMENT CHECKLIST
+description: A complete pre-employment checklist for call center applicants in the Philippines. Learn what documents to prepare before training or your first day at work.
 date: 2019-05-06 16:14
 permalink: /employment-checklist/ 
-author: Kevin Olega 
+author: Kevin Olega
 --- 
 When you look for work, aside from passing interviews and exams, you’ll need to submit some pre-employment requirements.
+
+> 📦 This checklist is also part of the full guide: [Call Center Job Application & Interview](/call-center-job-application-interview/)
+
 
 Pre-employment requirements are a common chore that needs to be done to finalize your job-hunting process.
 
@@ -17,7 +21,14 @@ I took this list from a couple of my past employers.
 
 I found some lists as I was sorting my paper documents.
 
-Primary requirements are often required immediately (usually the same week or the week) after the hire date.
+Primary requirements are usually needed right after your hire date—often within the same week.
+
+This list applies to most entry-level BPO jobs and pre-employment requirements in the Philippines.
+
+## Pre-Employment Checklist for Call Center Applicants in the Philippines
+
+Here’s a breakdown of the most common requirements you’ll need to submit before you can start training or begin work at your new call center job.
+
 
 ## THESE ARE CALL CENTER PRE-EMPLOYMENT REQUIREMENTS IN THE PHILIPPINES.
 
@@ -37,7 +48,7 @@ You may visit BIR for more information.
 
 In many situations, you can get this same day and in other situations, the office will require you to return after three days or so.
 
-I recommend paying the extra 100 pesos or so to have your NBI clearance delivered. 
+I recommend paying the extra ₱100 or so to have your NBI clearance delivered. 
 
 It will often cost you more than ₱200 if you go back to just pick it up.
 
@@ -61,24 +72,25 @@ Include both front and back of your ID’s when you submit photocopies of your I
 
 ## Samples of Primary ID’s include:
 
-	•	Unified or Digitized SSSID
-	•	Drivers license.Should be current. By current, they mean not expired.
-	•	Passport.Should be current. By current, they mean not expired.
-	•	PRC ID.Should be current. By current, they mean not expired. Secondary ID’s include:
-	•	Postal ID. I got mine at a post office. Paid about Php 200.
-	•	Voter’s ID.I don’t have one.
-	•	TIN ID.I don’t have one.
-	•	Philhealth ID with photo. Provided by my previous employer.
-	•	Updated NBI Clearance. 
+* Unified or Digitized SSSID
+* Drivers license.Should be current. By current, they mean not expired.
+* Passport.Should be current. By current, they mean not expired.
+* PRC ID.Should be current. By current, they mean not expired. Secondary ID’s include:
+* Postal ID – I got mine at a post office and paid about ₱200 at the time.  
+  As of 2020, the fee has increased to **₱550** for regular and **₱650** for rush applications.
+* Voter’s ID.I don’t have one.
+* TIN ID.I don’t have one.
+* Philhealth ID with photo. Provided by my previous employer.
+* Updated NBI Clearance. 
 
-Turns out you can use your NBI clearance as additional ID Secondary pre-employment requirements often required before hitting the end of your training or before you start production work.
+Turns out you can use your NBI clearance as an additional ID. Secondary pre-employment requirements are often needed before the end of training or before you start production work.
 
 Samples of secondary Pre Employment requirements include.
 
-**Philhealth.** Just give a photocopy to your HR.
-**Marriage contract.** I don’t have one so just submit yours to HR.
-**Transcript of Records or Diploma.** Photocopy and give to HR.
-Loan Information (from SSS, Pagibig, or others).
+- **Philhealth.** Just give a photocopy to your HR.
+- **Marriage contract.** I don’t have one so just submit yours to HR.
+- **Transcript of Records or Diploma.** Photocopy and give to HR.
+- Loan Information (from SSS, Pagibig, or others).
 
 Submit your information if you have any.
 
@@ -124,7 +136,7 @@ I would encourage you to review the list so you can review the cost or the amoun
 
 I recommend getting a job offer before worrying about requirements.
 
-I often save about Php 3,000 extra on top of my job-hunting expenses to pay for requirements so I don’t get pressed for money whenever I need to switch jobs.
+I often save about  ₱3,000 extra on top of my job-hunting expenses to pay for requirements so I don’t get pressed for money whenever I need to switch jobs.
 
 If you’re looking for required skills in getting hired in a call center please visit this link.
 
@@ -148,3 +160,32 @@ If you have questions just Google “how to get (insert requirement),” and you
 If you’ve ever taken a job with a company before, chances are you are already familiar with this process.
 
 I wish you the best in your job hunt.
+
+
+---
+
+🧠 **Want more job hunting tips?**  
+Check out the full guide here: [Call Center Job Application & Interview](/call-center-job-application-interview/)
+
+If you're preparing for your first day or waiting for your job offer, use this checklist to stay ahead. Getting hired is one thing—**staying hired starts with being ready.**
+
+### Frequently Asked Questions
+
+**🟩 What is a pre-employment checklist?**  
+It’s a list of documents, steps, and tasks you need to complete before officially starting your job at a call center.
+
+---
+
+**🟩 What should I bring on my first day?**  
+   > Prepare your valid IDs, pre-employment medical results (if required), signed documents, black pen, and notebook.  
+   > ✅ Tip: Bring extra copies of everything, and arrive at least 30 minutes early.
+
+---
+
+**🟩 Is there a dress code before training starts?**  
+Yes. Most companies still expect business casual—even on your first day. Avoid slippers, ripped jeans, or T-shirts with offensive prints.
+
+---
+
+**🟩 What happens if I miss a pre-employment requirement?**  
+Delays in submission may delay your training or even result in a withdrawal of your job offer. Always double-check with HR.
