@@ -2,7 +2,7 @@
 layout: page
 title: Call Center Basics
 date: 2025-04-05 20:11
-permalink: call-center-basics
+permalink: /call-center-basics/
 description: Learn everything you need to know about call center jobs in the Philippines. Understand BPO, job requirements, common roles, the application process, and more in one complete guide.
 author: Kevin Olega 
 --- 
