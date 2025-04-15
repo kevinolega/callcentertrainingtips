@@ -1,11 +1,11 @@
---- 
+---
 layout: page
 title: Call Center Resume Tips
 description: How to write a winning call center resume: includes templates, real-life examples, formatting tips, and answers to common questions
 date: 2025-04-06 05:03
 permalink: /call-center-resume/  
 author: Kevin Olega 
---- 
+---
 ## Call Center Resume Tips That Get You Hired
 
 Want to get hired in a call center—even if you have no experience?  
