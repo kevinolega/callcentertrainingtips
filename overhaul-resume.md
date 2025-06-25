@@ -2,8 +2,17 @@
 layout: page 
 title: Call Center Resume
 permalink: /resume/ 
+redirect_to: https://callcentertrainingtips.com/call-center-resume/
 author: Kevin Olega 
 --- 
+
+
+**The contents of this page have moved.**
+You can now find them at:
+👉 [https://callcentertrainingtips.com/call-center-resume/](https://callcentertrainingtips.com/call-center-resume/)
+
+Please update your bookmarks.
+
 Video migrated. 
 
 ## BEST RESUME FORMAT FOR CALL CENTER JOB APPLICATION
