@@ -15,7 +15,7 @@ Here's your free reviewer.
 
 The reviewer is being updated. Save this page and check back soon to access the free reviewer, new lessons, and fresh resources.
 
-[Link to free reviewer](https://github.com/kevinolega/reviewer/blob/main/README.md).
+[Link to free reviewer](https://drive.google.com/drive/folders/1X5dQD0UAlcSFryPpaFw4-ethf6mZc-lA?usp=drive_link).
 
 <h2>WE HAVE MORE FOR YOU</h2>
 <p>You may access all of our free training materials from this page.</p>
