@@ -72,17 +72,18 @@ author: Kevin Olega
 <p>😎 Fix Low Self-Confidence</p>
 <p>👨‍💼 Master Professional Communication</p>
 
-<h2>REGISTRATION INFORMATION:</h2>
+<h2>REGISTRATION INFORMATION:</h2> 
 <p>✔️ <strong>Step 1</strong>:</p>
-<p>₱352/month for Four Sunday Sessions.</p>
+<p>₱352/month - 4 Sunday Sessions.</p>
+<p>₱557/month - 12 Sessions (Tuesday, Thursday, Saturday)
 <p>✔️ <strong>Step 2</strong>: Pay and Send Your Info</p>
 <ol>
-    <li>GCash & Maya: 09178952637</li>
+    <li>Send payment via GCash or Maya: 09178952637</li>
     <li>Submit your reference number, name, and email address.</li>
 </ol>
 <p>✔️ <strong>Step 3</strong>: Get Started!</p>
 <ol>
-    <li>Study training materials</li>
+    <li>Study the training materials</li>
     <li>Practice writing daily</li>
     <li>Join live coaching sessions</li>
 </ol>
@@ -101,14 +102,23 @@ author: Kevin Olega
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What is the training schedule?</summary>
-<p style="color:black;">You can do the writing exercises anytime you want. We suggest studying for 30 minutes to an hour daily if you can. But you can work on your modules when you're free.</p>
-<p style="color:black;">Right now, we only have Sunday sessions.</p>
-<p style="color:black;">Sunday Schedule:</p>
+<p style="color:black;">You can do the writing exercises anytime. We suggest 30 minutes to 1 hour of study per day, but you're free to work on the modules at your own pace.</p>
+
+<p style="color:black;">Live Coaching Sessions:</p>
+
+<p style="color:black;"><strong>Sunday Sessions</strong></p>
 <ul>
-  <li>6 pm to 7 pm</li>
-  <li>8 pm to 9 pm</li>
+  <li>6:00 PM – 7:00 PM</li>
+  <li>8:00 PM – 9:00 PM</li>
 </ul>
-<p style="color:black;">We understand you might have a different schedule. We're working on more options for students. If you have questions or want a different time, <a href="https://facebook.com/callcentertrainingtips">send us a message</a>.</p>
+
+<p style="color:black;"><strong>Tuesday, Thursday, Saturday Sessions</strong></p>
+<ul>
+  <li>8:00 AM – 9:00 AM</li>
+  <li>9:00 PM – 10:00 PM</li>
+</ul>
+
+<p style="color:black;">If you need a different time, <a href="https://facebook.com/callcentertrainingtips">send us a message</a>. We're working on more options for students with different schedules.</p>
 </details>
 
 <details>

@@ -45,9 +45,19 @@ author: Kevin Olega
 
 <h2>ENROLLMENT INFORMATION:</h2>
 
+<h3>📞 1-on-1 Call Center Prep Pricing</h3> 
+<p>Perfect for beginners preparing for interviews or job applications.</p> 
+<ul> 
+  <li><strong>Intro Session (2 hours):</strong> ₱667</li> 
+  <li><strong>Next Sessions (1 hour each):</strong> ₱367</li> 
+</ul> 
+<p><a href="https://www.facebook.com/callcentertrainingtips">Message us to book your call center prep session</a>.</p>
+
+<h3>🚀 Advanced Communication Packages (Freelancers, Professionals, Entrepreneurs)</h3>
+
 <p>✔️ - <strong>Step 1</strong>: Pick how many sessions you want.</p>
 
-<p><strong>SAVE MORE with MORE SESSIONS</strong> until November 30, 2024</p>
+<p><strong>SAVE MORE with MORE SESSIONS</strong> until August 30, 2025</p>
 <p>1️ - ₱1,320. intro or single session.</p>
 <p>2️ - ₱2,299 two sessions. SAVE ₱341!</p>
 <p>4️ - ₱3,999 four sessions. SAVE ₱1,281!</p>
@@ -255,7 +265,7 @@ author: Kevin Olega
 
 <details>
 <summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">How much does the training cost?</summary>
-<p style="color:black;">The cost of training starts at ₱897 for a single session. We offer discounts for multiple sessions, allowing you to save more when you commit to more weeks of training.</p>
+<p style="color:black;">The cost of training starts at ₱667 for a 2-hour intro session (Call Center Prep), or ₱1,320 for a regular advanced single session. We offer discounts for multiple sessions, allowing you to save more when you commit to more weeks of training.</p>
 </details>
 
 
