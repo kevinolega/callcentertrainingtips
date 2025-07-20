@@ -37,7 +37,7 @@ If you want private coaching, I offer one-to-one training for different goals:
 - [Hired Call Center Agents – Regularization or KPI Support](https://callcentertrainingtips.com/english-lessons-call-center-agent)
 - [Online Freelancers / VAs / Digital Workers](https://callcentertrainingtips.com/english-lessons-online-freelancer)
 - [Working Professionals](https://callcentertrainingtips.com/english-lessons-working-professional)
-- [Business Owners](https://callcentertrainingtips.com/english-lessons-business-owner)
+- [Business Owners](https://callcentertrainingtips.com/english-lessons-business-owners)
 - [Martial Arts Coaches](https://callcentertrainingtips.com/english-lessons-martial-arts-coach)
 
 Each program helps you fix grammar, speak clearly, and build confidence in your work.
