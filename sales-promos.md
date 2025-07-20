@@ -88,9 +88,13 @@ We offer training for:
 - Writers
 - Remote workers
 
+[Learn more about how to communicate better to online clients](https://callcentertrainingtips.com/english-lessons-online-freelancer)
+
+## ⚠️ NEED HELP FOR A SPECIFIC SITUATION?
+
 [Message us on Facebook](https://www.facebook.com/callcentertrainingtips)  
 or  
 [Email kevin@callcentertrainingtips.com](mailto:kevin@callcentertrainingtips.com)
 ```
 
-Let me know when you're ready to create the `/english-lessons-fitness-coach` version or need promo images.
+

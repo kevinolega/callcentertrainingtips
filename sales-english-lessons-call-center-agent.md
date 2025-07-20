@@ -71,13 +71,11 @@ You can ask questions, practice real scenarios, and get direct feedback on what 
 
 ---
 
-**PRICING (1-on-1 Call Center Prep):**
+**BIG PROMO GIANT SAVINGS**
 
-<ul> 
-  <li><strong>Intro Session (2 hours):</strong> ₱667</li> 
-  <li><strong>Next Sessions (1 hour each):</strong> ₱367</li> 
-</ul>  
-<a href="https://www.facebook.com/callcentertrainingtips">Message me to book</a>.
+Get your first 4 sessions for ₱1,999 (save ₱3,401)
+
+Offer valid until August 15.
 
 ---
 
