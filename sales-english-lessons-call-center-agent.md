@@ -2,7 +2,7 @@
 layout: page 
 title: English Skills for Call Center Agents
 date: 2019-08-31 13:00
-description: Information about our English lessons including pricing, modules, and how to enroll.
+description: English skills training for call center agents working toward regularization or promotion. Fix your grammar, improve pronunciation, and build confidence with personalized 1-on-1 coaching and practice calls
 Tags: [ CTA, sales page ]
 search: exclude
 permalink: /english-lessons-call-center-agent

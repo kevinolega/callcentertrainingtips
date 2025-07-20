@@ -2,7 +2,7 @@
 layout: page
 title: English Skills for Working Professionals
 date: 2025-07-21 01:26
-description: 
+description: English training for working professionals aiming for a raise, promotion, or better job. Speak clearly, sound more professional, and finally get noticed at work
 Tags: [ CTA, sales page ]
 search: exclude
 permalink:  english-lessons-working-professional

@@ -2,7 +2,7 @@
 layout: page
 title: English Skills for Martial Arts Coaches
 date: 2025-07-21 01:37
-description: 
+description: English communication training for martial arts coaches and gym owners. Learn to explain techniques clearly, give instructions without confusion, and promote your program with more impact—online and in person
 Tags: [ CTA, sales page ]
 search: exclude
 permalink: english-lessons-martial-arts-coach 

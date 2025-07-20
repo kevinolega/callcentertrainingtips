@@ -2,7 +2,7 @@
 layout: page
 title: English Skills for Business Owners
 date: 2025-07-21 01:53
-description: 
+description: English communication training for business owners who want to speak clearly, lead better, and avoid confusion in client and staff conversations. This program helps small business owners improve grammar, pronunciation, and business messaging through focused 1-on-1 coaching
 Tags: [ CTA, sales page ]
 search: exclude
 permalink: english-lessons-business-owners 

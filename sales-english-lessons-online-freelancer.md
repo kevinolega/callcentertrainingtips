@@ -2,7 +2,7 @@
 layout: page
 title: English Skills for Online Freelancers
 date: 2025-07-21 01:45
-description: 
+description: English training for online freelancers who want to win more jobs, communicate clearly with clients, and raise their rates. Improve your proposals, interviews, and client messages with targeted practice and support
 Tags: [ CTA, sales page ]
 search: exclude
 permalink: english-lessons-online-freelancer 

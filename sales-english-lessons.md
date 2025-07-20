@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title: ENGLISH LESSONS
+title: ENGLISH LESSONS FOR CALL CENTER JOB APPLICANTS
 date: 2019-08-31 13:00
 description: Information about our English lessons including pricing, modules, and how to enroll.
 Tags: [ CTA, sales page ]
@@ -12,8 +12,6 @@ redirect_from:
 author: Kevin Olega 
 --- 
 {% include el-promo-image.html %}
-
-Here’s the updated version with the **Advanced Package section removed**. This version is now focused only on **job applicants** (e.g. call center, entry-level, BPO):
 
 ---
 
