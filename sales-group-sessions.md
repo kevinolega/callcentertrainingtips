@@ -72,21 +72,86 @@ author: Kevin Olega
 <p>😎 Fix Low Self-Confidence</p>
 <p>👨‍💼 Master Professional Communication</p>
 
-<h2>REGISTRATION INFORMATION:</h2> 
-<p>✔️ <strong>Step 1</strong>:</p>
-<p>₱352/month - 4 Sunday Sessions.</p>
-<p>₱557/month - 12 Sessions (Tuesday, Thursday, Saturday)
-<p>✔️ <strong>Step 2</strong>: Pay and Send Your Info</p>
-<ol>
-    <li>Send payment via GCash or Maya: 09178952637</li>
-    <li>Submit your reference number, name, and email address.</li>
-</ol>
-<p>✔️ <strong>Step 3</strong>: Get Started!</p>
-<ol>
-    <li>Study the training materials</li>
-    <li>Practice writing daily</li>
-    <li>Join live coaching sessions</li>
-</ol>
+<h2>GROUP SESSIONS 📚</h2> 
+<p><strong>Schedule. Topics. How to join.</strong></p> 
+<p><strong>✅ Prices valid until February 28, 2026</strong><br> 
+    <strong>📈 Price increase starts March 2026</strong>
+</p> <h3>PLAN A — 8 to 12 sessions per month 🔥</h3> 
+<p><strong>₱687 per month</strong></p> 
+    <ul> 
+        <li>Tuesday, Thursday, Saturday (Saturday optional)</li> 
+        <li>9:00 PM</li> 
+        <li>1 hour per session</li> 
+        <li>Sessions start on time</li> 
+    </ul> 
+<h3>PLAN B — 4 sessions per month 🌙</h3> 
+<p><strong>₱557 per month</strong></p> 
+<ul> 
+    <li>Saturday only <strong>or</strong> Sunday only</li> 
+    <li>Saturday: 9:00 PM</li> 
+    <li>Sunday: 8:00 PM</li> 
+    <li>1 hour per session</li> 
+    <li>Sessions start on time</li> 
+</ul> 
+<h2>WHAT YOU TRAIN 🎯</h2> 
+<ul> 
+    <li>Grammar</li> 
+    <li>Pronunciation</li> 
+    <li>Interview preparation</li> 
+    <li>Job search skills</li> 
+</ul> 
+
+<p><strong>Goal:</strong> Get hired. Get paid.</p> 
+<h2>WEEKLY TOPICS (PLAN A)</h2> <p><strong>Tuesday — Grammar</strong></p> 
+<ul> 
+    <li>Sentence building</li> 
+    <li>Work vocabulary</li> 
+    <li>Roles: customer service, tech support, sales, marketing, VA, and higher-paying roles</li> 
+</ul> 
+<p><strong>Thursday — Pronunciation</strong></p> 
+<ul> 
+    <li>Pronunciation and accent</li> 
+    <li>Confidence training</li> 
+    <li>Goal: sound clear and natural</li> 
+</ul> 
+<p><strong>Saturday (Optional) — Career & Interviews</strong></p> 
+<ul> 
+    <li>Interview skills</li> 
+    <li>Job search tactics</li> 
+    <li>Career growth</li> 
+    <li>Extra help for weak spots</li> 
+</ul> 
+<h2>HOMEWORK AND PRACTICE 📝</h2> 
+<ul> 
+    <li>Writing drills and homework provided</li> 
+    <li>Self-paced practice during the week</li> 
+    <li>Support during sessions and in the group chat</li> 
+</ul> 
+<h2>ASSESSMENTS AND LEVEL-UPS 🧪</h2> 
+<ul> 
+    <li>Assessments during training</li> 
+    <li>Pass to unlock advanced topics</li> 
+    <li>Advanced topics include KPIs, regularization, promotions, online freelancing, and marketing</li> 
+    <li>If you fail, we fix weak spots during Saturday sessions</li> 
+    <li>Retake after practice</li> </ul> 
+    <h2>HOW TO JOIN 🚪</h2> 
+    <p><strong>Step 1: Pick a plan</strong></p> 
+    <ul> 
+        <li>PLAN A: Tuesday & Thursday 9:00 PM + Saturday 9:00 PM (optional)</li> 
+        <li>PLAN B: Saturday 9:00 PM only</li> <li>PLAN B: Sunday 8:00 PM only</li> 
+    </ul> 
+    <p><strong>Step 2: Send payment</strong></p> 
+    <ul> 
+        <li>₱687 — PLAN A</li> 
+        <li>₱557 — PLAN B</li> </ul> 
+    <p><strong>Step 3: Send proof and details</strong></p> 
+    <ul> 
+        <li>Screenshot or reference number</li> 
+        <li>Full name</li> 
+        <li>Email address</li> 
+        <li>Phone number</li> 
+    </ul> 
+    <p><strong>Step 4: Get access and join</strong></p>
 <p>Learn faster to earn sooner!</p>
 <p>Send a message to <a href="https://www.facebook.com/callcentertrainingtips">JOIN NOW</a> and let’s get started!</p>
 
@@ -108,13 +173,11 @@ author: Kevin Olega
 
 <p style="color:black;"><strong>Sunday Sessions</strong></p>
 <ul>
-  <li>6:00 PM – 7:00 PM</li>
   <li>8:00 PM – 9:00 PM</li>
 </ul>
 
 <p style="color:black;"><strong>Tuesday, Thursday, Saturday Sessions</strong></p>
 <ul>
-  <li>8:00 AM – 9:00 AM</li>
   <li>9:00 PM – 10:00 PM</li>
 </ul>
 
@@ -158,7 +221,7 @@ author: Kevin Olega
 <p style="color:black;">Yes, you need to pay for the session before you can join the sessions. This ensures you have access to all the resources, feedback, and guidance offered in the program.</p>
 </details>
 
-<p>Send a message to <a href="https://www.facebook.com/callcentertrainingtips">INQUIRE NOW</a>!!!</p>
+<p>Send a message to <a href="https://www.facebook.com/callcentertrainingtips">JOIN NOW</a>!!!</p>
 
 <p><img src="{{ site.url }}/assets/img/2020-07-01-three-hundred.png" width="400"></p>
-<p><a href="https://www.facebook.com/callcentertrainingtips/">CLICK HERE TO ASK QUESTIONS</a></p>
+<p><a href="https://www.facebook.com/callcentertrainingtips/">CLICK HERE TO JOIN</a></p>
