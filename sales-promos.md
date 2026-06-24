@@ -3,6 +3,8 @@ layout: page
 title: TRAINING OFFERS
 description: These are our current English communication training offers for job seekers, freelancers, and professionals.
 permalink: /promos/
+redirect_from:
+  - /courses/
 ---
 
 ## WHAT ARE PEOPLE SAYING ABOUT OUR TRAINING
@@ -71,7 +73,7 @@ Includes habit coaching and live feedback.
 
 Need help reviewing your resume, mock call answers, or specific work situations?
 
-**₱1,360 per hour.**
+**₱1,560 per hour.**
 
 [Apply for Consultation](https://forms.gle/tnbBqJcKSyxGMK9K8)
 
