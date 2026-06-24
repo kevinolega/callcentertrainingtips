@@ -77,7 +77,7 @@ author: Kevin Olega
 <p><strong>✅ Prices valid until February 28, 2026</strong><br> 
     <strong>📈 Price increase starts March 2026</strong>
 </p> <h3>PLAN A — 8 to 12 sessions per month 🔥</h3> 
-<p><strong>₱687 per month</strong></p> 
+<p><strong>₱857 per month</strong></p> 
     <ul> 
         <li>Tuesday, Thursday, Saturday (Saturday optional)</li> 
         <li>9:00 PM</li> 
@@ -142,7 +142,7 @@ author: Kevin Olega
     </ul> 
     <p><strong>Step 2: Send payment</strong></p> 
     <ul> 
-        <li>₱687 — PLAN A</li> 
+        <li>₱857 — PLAN A</li> 
         <li>₱557 — PLAN B</li> </ul> 
     <p><strong>Step 3: Send proof and details</strong></p> 
     <ul> 
