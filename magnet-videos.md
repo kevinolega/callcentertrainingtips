@@ -17,9 +17,50 @@ Hit like and [subscribe](https://youtube.com/callcentertrainingtips?sub_confirma
 
 Take notes and you'll remember the important details.
 
-Engaging with this content—like, share, comment—enhances learning and unlocks more resources. I'm here for any questions. Let's keep in touch.
+Like, comment, share, and ask questions. This helps you remember the lesson and helps other students find the videos.
 
 Support the other students by sharing your notes in the comment section.
+
+
+<!-- TikTok section -->
+## FOLLOW ME ON TIKTOK
+
+I also post short tips and go live on TikTok.
+
+Follow me here:
+
+[FOLLOW CALL CENTER TRAINING TIPS ON TIKTOK](https://www.tiktok.com/@cctrainingtips)
+
+When I go live, you can join, ask questions, and practice with us.
+
+I usually talk about English, interviews, call center work, resumes, job applications, and common mistakes applicants make.
+
+## HOW TO DOWNLOAD THE FREE REVIEWER
+
+Watch this short guide first.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grVSRc0yd5c?si=-hz_WK-jdferrZyq" title="How to Download the Free Reviewer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Follow these steps to get the free reviewer:
+
+1. Go to this website.
+2. Click **Free Reviewer**.
+3. Type your first name and email.
+4. Click **Subscribe**.
+5. Check your email inbox.
+6. Look for the confirmation email.
+7. Click **Confirm**.
+8. Wait for the second email.
+9. Open the email that says **Welcome to Call Center Training Tips Study Group**.
+10. Click the free reviewer link inside.
+
+The free reviewer includes guides for call center applicants.
+
+You can use it to study English, interview answers, call flow, call simulation, resumes, assessments, and other common call center application topics.
+
+If you do not see the email, check your spam, promotions, or updates folder.
+
+If you still need help, comment **REVIEWER** or send me a message.
 
 ## FREE ENGLISH LESSONS PLAYLIST
 
