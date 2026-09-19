@@ -63,7 +63,7 @@ Do the following steps:
 - Attend 16 interviews.
 - Expect 5 interviews to be terrible, 5 job offers to be terrible and the last 5 companies to have good job offers.
 
-[Download my free reviewer for more information](https://sendfox.com/callcentertrainingtips)
+[Download my free reviewer for more information](https://forms.gle/sJDPEd9sD9Yf3g3J8)
 
 
 ### Sir Kevin...
@@ -78,7 +78,7 @@ I talked about it in detail on this lesson.
 
 Don't watch English movies. Here are better ways to use your time.
 
-[Download my free reviewer](https://sendfox.com/callcentertrainingtips) or [join my weekend English lessons](https://callcentertrainingtips.com/english-lessons)
+[Download my free reviewer](https://forms.gle/sJDPEd9sD9Yf3g3J8) or [join my weekend English lessons](https://callcentertrainingtips.com/english-lessons)
 
 ### How do I Pass Call Center Training
 

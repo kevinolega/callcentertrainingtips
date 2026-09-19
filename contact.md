@@ -34,7 +34,7 @@ So really the main reason to contact me is to **introduce yourself**, which I ho
 
 If you want the announcements and opportunities that I never post publicly:
 
-[Click here to join my private email list](https://sendfox.com/callcentertrainingtips).
+[Click here to join my private email list](https://forms.gle/sJDPEd9sD9Yf3g3J8).
 
 
 ### … or just follow
