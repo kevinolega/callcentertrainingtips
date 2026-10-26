@@ -5,9 +5,6 @@ description: "Free call center reviewer, interview lessons, videos, assessments,
 author: Kevin Olega
 permalink: /start/
 ---
-
-# Start Here: Free Call Center Training and Interview Preparation
-
 **You do not need to pay for training to start preparing for a call center job.**
 
 Call Center Training Tips provides free lessons, interview guides, practice resources, and assessments.
@@ -26,11 +23,15 @@ It covers common interview questions, sample answers, and basic information abou
 
 ## Step 2. Read the Lessons on the Website
 
-The CCTT website contains a large collection of free lessons, guides, explanations, and examples.
+The Call Center Training Tips website contains a large collection of free lessons, guides, explanations, and examples.
+
+**Not sure where to begin?**
+
+Start with the [Lesson Library](https://callcentertrainingtips.com/lessons). It contains our most popular lessons and recommended videos about call center interviews, English communication, and customer service.
+
+If you want to explore everything I've written, visit the [Complete Lesson Archive](https://callcentertrainingtips.com/archive). It contains all published lessons, with the newest articles first.
 
 Read as much as you can. Take notes. Practice what you learn.
-
-**[Visit the CCTT Website](https://callcentertrainingtips.com/lessons)**
 
 ## Step 3. Watch the YouTube Videos
 
@@ -77,17 +78,13 @@ Keep learning and improving.
 
 ## Interested in Freelancing?
 
-You can also use our free self-study resources to learn about freelancing, remote work, and working with international clients.
+I also share free lessons about freelancing, remote work, finding clients, and working with international businesses.
 
-These resources cover freelancing basics, finding clients, communication skills, and preparing for remote work.
+You can study these resources on your own.
 
 **[Sign Up for Free Freelancing Resources](https://sendfox.com/lp/3lw8ql)**
 
-Enter your email address to get access to the free resources.
-
-Study the lessons at your own pace. Take notes and practice the skills you need for the type of work you want.
-
-You do not need to pay for training to get started.
+Enter your email address to get started.
 
 ## What If I Cannot Afford Paid Training?
 

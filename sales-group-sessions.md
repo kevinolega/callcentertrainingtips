@@ -1,227 +1,195 @@
---- 
-layout: page 
+
+---
+layout: page
 title: GROUP SESSIONS
-date: 2024-08-12 13:00
-description: Information about our group sessions lessons including pricing, modules, and how to enroll.
-Tags: [ CTA, sales page ]
+description: Live group English communication, pronunciation, and interview practice. View our schedule, pricing, and enrollment instructions.
+tags: [CTA, sales page]
 search: exclude
-permalink: group-sessions
-redirect_from:
-  - /group-sessions/
-author: Kevin Olega 
---- 
+permalink: /group-sessions/
+author: Kevin Olega
+---
+
 {% include el-promo-image.html %}
 
-<h2>STRUGGLES YOU FACE:</h2>
-<p style="color: darkseagreen;">You’ve tried watching English movies, TV shows, and following English-speaking influencers, but you still struggle to understand native speakers.</p>
-<p>You’ve used English learning apps, but the progress is slow, and you’re still uncomfortable speaking in real conversations.</p>
-<p>You don’t have friends or colleagues to practice with, and it feels like your English is stuck at the same level.</p>
-<p>You know you need to improve your English, but staying motivated without seeing results is tough.</p>
-<p>You’re doing your best, but the frustration of not getting the results you need is holding you back from advancing in your career.</p>
+<h2>GROUP ENGLISH TRAINING</h2>
 
-<h2>WHO'S THIS FOR?</h2>
+<p>Do you struggle to speak English confidently during job interviews, customer conversations, or professional discussions?</p>
+
+<p>Our live group sessions give you opportunities to practice speaking English, receive feedback, and improve your communication skills.</p>
+
+<p>You can study our free lessons on your own. Group training is for students who want live practice, guidance, and corrections.</p>
+
+<h2>WHO IS THIS FOR?</h2>
+
 <ul>
-    <li>You're preparing for interviews and want to improve your English.</li>
-    <li>You're looking for people to practice speaking English with.</li>
-    <li>You need BPO/Call Center career advice.</li>
-    <li>You're preparing for online freelancing and WFH opportunities.</li>
-    <li>You're shy and introverted, trying to step out of your comfort zone.</li>
+  <li>Call center applicants preparing for job interviews.</li>
+  <li>People who struggle to express their ideas in English.</li>
+  <li>Beginners who want to improve their grammar and pronunciation.</li>
+  <li>Shy or introverted students who need speaking practice.</li>
+  <li>Freelancers who want to communicate more professionally.</li>
 </ul>
 
-<h2>WHO'S THIS NOT FOR?</h2>
+<h2>WHAT WILL YOU PRACTICE?</h2>
+
 <ul>
-    <li>You want 1-on-1 coaching. <a href="https://callcentertrainingtips.com/english-lessons">Private lessons are available.</a></li>
-    <li>You're already at an advanced level.</li>
-    <li>You're expecting a magic pill to solve your English challenges.</li>
+  <li>Introducing yourself and answering interview questions.</li>
+  <li>Explaining your experiences using clear examples.</li>
+  <li>Building sentences and improving grammar.</li>
+  <li>Pronouncing common English words and professional phrases.</li>
+  <li>Handling conversations with customers, coworkers, and employers.</li>
+  <li>Speaking with greater confidence through regular practice.</li>
 </ul>
 
-<h2>PLANNED SESSIONS:</h2>
-<p>Self-Expression Sessions to Fix Your Grammar:</p>
+<h2>GROUP TRAINING SCHEDULE</h2>
+
+<h3>Tuesday, 8:00 PM: Communication Skills</h3>
+
+<p>Practice sentence building, grammar, storytelling, interview answers, and professional conversations.</p>
+
+<h3>Thursday, 8:00 PM: Pronunciation Practice</h3>
+
+<p>Practice commonly used English words, customer service phrases, interview phrases, and clear pronunciation.</p>
+
+<p>Each session lasts approximately one hour. All schedules follow Philippine time.</p>
+
+<h3>Optional Saturday Sessions</h3>
+
+<p>I occasionally offer Saturday sessions depending on my availability and the number of interested students.</p>
+
+<p>Saturday sessions are not guaranteed and are not part of the regular weekly schedule.</p>
+
+<h2>TRAINING FEES</h2>
+
+<h3>Monthly Training: ₱857</h3>
+
+<p>Attend our regular Tuesday and Thursday group sessions during your paid enrollment period.</p>
+
+<h3>Weekly Training: ₱357</h3>
+
+<p>For students who prefer to pay weekly instead of committing to a full month.</p>
+
+<p><strong>The monthly plan offers better value.</strong> Both options cover the same regular group training sessions.</p>
+
+<h2>HOW DOES THE TRAINING WORK?</h2>
+
+<ol>
+  <li>Attend the scheduled live group sessions.</li>
+  <li>Participate in speaking and pronunciation exercises.</li>
+  <li>Receive feedback and corrections during training.</li>
+  <li>Practice independently between sessions.</li>
+  <li>Apply what you learn to job interviews and professional conversations.</li>
+</ol>
+
+<p>Training requires active participation. Paying for lessons alone will not improve your English. You need to practice regularly.</p>
+
+<h2>WHAT IF THE SCHEDULE DOESN'T WORK FOR YOU?</h2>
+
+<p>If you cannot attend the regular group sessions, I also offer private one-on-one coaching.</p>
+
+<p>Private coaching allows us to arrange a mutually available schedule and focus on your specific communication challenges.</p>
+
+<p><a href="https://callcentertrainingtips.com/english-lessons/">View One-on-One Coaching</a></p>
+
+<h2>HOW TO JOIN GROUP TRAINING</h2>
+
+<ol>
+  <li>Review the schedule and training fees above.</li>
+  <li>Check my background, free lessons, and student testimonials.</li>
+  <li>Contact me on Facebook and say you want to join group training.</li>
+  <li>I'll confirm availability and your selected training plan.</li>
+  <li>Once enrollment is confirmed, follow the payment instructions below.</li>
+  <li>After payment confirmation, you'll receive instructions for joining the sessions.</li>
+</ol>
+
+<h3>Payment Instructions</h3>
+
+<p><strong>Please confirm your enrollment before sending payment.</strong></p>
+
+<p>Once your enrollment is confirmed, you can pay through:</p>
+
 <ul>
-    <li>Introducing yourself during interviews</li>
-    <li>Carrying on professional conversations</li>
-    <li>Writing and sharing stories to gain cooperation from interviewers, bosses, buyers, employers, and customers</li>
-    <li>Writing detailed, step-by-step instructions to pass technical assessments</li>
-    <li>Interview clinic</li>
-    <li>Sales and Customer Service workshop</li>
-    <li>Basic writing skills</li>
+  <li><strong>GCash:</strong> 09178952637</li>
+  <li><strong>Maya:</strong> 09178952637</li>
 </ul>
 
-<p>Pronunciation Sessions:</p>
+<p>
+  <a href="https://drive.google.com/drive/folders/13FLtLNLd0TdQtFt1dCyzxxQFWIYWLGgU?usp=sharing"
+     target="_blank"
+     rel="noopener noreferrer">
+    View Payment QR Codes and Instructions
+  </a>
+</p>
+
+<p>After paying, please send:</p>
+
 <ul>
-    <li>100 most-used English words</li>
-    <li>Customer service phrases</li>
-    <li>Sales phrases</li>
-    <li>Interview phrases</li>
+  <li>Payment screenshot or reference number.</li>
+  <li>Full name.</li>
+  <li>Email address.</li>
+  <li>Selected plan: ₱857 monthly or ₱357 weekly.</li>
 </ul>
 
-<h2>WHAT YOU GET:</h2>
-<p>This training program will improve your grammar, pronunciation, and confidence. You’ll be ready for important conversations at work or in business.</p>
-<p>I used to be shy, but I grew in my career using strong communication skills. I can teach you to do the same!</p>
+<p>Send your payment confirmation through our <a href="https://facebook.com/callcentertrainingtips">Facebook page</a>.</p>
 
-<h2>BENEFITS YOU RECEIVE:</h2>
-<p>📖 11 communication skills modules</p>
-<p>📱 Small group grammar & pronunciation coaching</p>
-<p>📚 Easy-to-understand training materials</p>
-<p>💁🏻‍♂️ Beginner-friendly instructions</p>
+<h2>BACKGROUND AND TESTIMONIALS</h2>
 
-<h2>SOLID STEP-BY-STEP TRAINING PLAN:</h2>
-<p>Our plan follows a clear path to help you build confidence naturally.</p>
-<p>✍️ Fix Grammar Problems</p>
-<p>🗣️ Fix Pronunciation</p>
-<p>😎 Fix Low Self-Confidence</p>
-<p>👨‍💼 Master Professional Communication</p>
+<p>Want to know more about Call Center Training Tips before enrolling?</p>
 
-<h2>GROUP SESSIONS 📚</h2> 
-<p><strong>Schedule. Topics. How to join.</strong></p> 
-<p><strong>✅ Prices valid until February 28, 2026</strong><br> 
-    <strong>📈 Price increase starts March 2026</strong>
-</p> <h3>PLAN A — 8 to 12 sessions per month 🔥</h3> 
-<p><strong>₱857 per month</strong></p> 
-    <ul> 
-        <li>Tuesday, Thursday, Saturday (Saturday optional)</li> 
-        <li>9:00 PM</li> 
-        <li>1 hour per session</li> 
-        <li>Sessions start on time</li> 
-    </ul> 
-<h3>PLAN B — 4 sessions per month 🌙</h3> 
-<p><strong>₱557 per month</strong></p> 
-<ul> 
-    <li>Saturday only <strong>or</strong> Sunday only</li> 
-    <li>Saturday: 9:00 PM</li> 
-    <li>Sunday: 8:00 PM</li> 
-    <li>1 hour per session</li> 
-    <li>Sessions start on time</li> 
-</ul> 
-<h2>WHAT YOU TRAIN 🎯</h2> 
-<ul> 
-    <li>Grammar</li> 
-    <li>Pronunciation</li> 
-    <li>Interview preparation</li> 
-    <li>Job search skills</li> 
-</ul> 
-
-<p><strong>Goal:</strong> Get hired. Get paid.</p> 
-<h2>WEEKLY TOPICS (PLAN A)</h2> <p><strong>Tuesday — Grammar</strong></p> 
-<ul> 
-    <li>Sentence building</li> 
-    <li>Work vocabulary</li> 
-    <li>Roles: customer service, tech support, sales, marketing, VA, and higher-paying roles</li> 
-</ul> 
-<p><strong>Thursday — Pronunciation</strong></p> 
-<ul> 
-    <li>Pronunciation and accent</li> 
-    <li>Confidence training</li> 
-    <li>Goal: sound clear and natural</li> 
-</ul> 
-<p><strong>Saturday (Optional) — Career & Interviews</strong></p> 
-<ul> 
-    <li>Interview skills</li> 
-    <li>Job search tactics</li> 
-    <li>Career growth</li> 
-    <li>Extra help for weak spots</li> 
-</ul> 
-<h2>HOMEWORK AND PRACTICE 📝</h2> 
-<ul> 
-    <li>Writing drills and homework provided</li> 
-    <li>Self-paced practice during the week</li> 
-    <li>Support during sessions and in the group chat</li> 
-</ul> 
-<h2>ASSESSMENTS AND LEVEL-UPS 🧪</h2> 
-<ul> 
-    <li>Assessments during training</li> 
-    <li>Pass to unlock advanced topics</li> 
-    <li>Advanced topics include KPIs, regularization, promotions, online freelancing, and marketing</li> 
-    <li>If you fail, we fix weak spots during Saturday sessions</li> 
-    <li>Retake after practice</li> </ul> 
-    <h2>HOW TO JOIN 🚪</h2> 
-    <p><strong>Step 1: Pick a plan</strong></p> 
-    <ul> 
-        <li>PLAN A: Tuesday & Thursday 9:00 PM + Saturday 9:00 PM (optional)</li> 
-        <li>PLAN B: Saturday 9:00 PM only</li> <li>PLAN B: Sunday 8:00 PM only</li> 
-    </ul> 
-    <p><strong>Step 2: Send payment</strong></p> 
-    <ul> 
-        <li>₱857 — PLAN A</li> 
-        <li>₱557 — PLAN B</li> </ul> 
-    <p><strong>Step 3: Send proof and details</strong></p> 
-    <ul> 
-        <li>Screenshot or reference number</li> 
-        <li>Full name</li> 
-        <li>Email address</li> 
-        <li>Phone number</li> 
-    </ul> 
-    <p><strong>Step 4: Get access and join</strong></p>
-<p>Learn faster to earn sooner!</p>
-<p>Send a message to <a href="https://www.facebook.com/callcentertrainingtips">JOIN NOW</a> and let’s get started!</p>
+<p><a href="https://tools.callcentertrainingtips.com/legit/">Is Call Center Training Tips Legit? Check Our Background and Testimonials</a></p>
 
 {% include featured-testimonial-04.html %}
 
-<h2>Frequently Asked Questions</h2>
-<p>Ask and you'll receive, seek and you'll find, knock and doors will open. Tap the question to get answers!</p>
+<p><a href="https://facebook.com/callcentertrainingtips"><strong>CONTACT ME TO JOIN GROUP TRAINING</strong></a></p>
+
+<h2>FREQUENTLY ASKED QUESTIONS</h2>
+
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What do I get when I join your program?</summary>
-<p style="color:black;">When you join our program, you'll get training materials, writing exercises, video guides, and live coaching sessions.</p>
-<p style="color:black;">We'll work on your communication skills, fix your grammar and pronunciation, and help you become more confident by the end of the program.</p>
+  <summary>Do you offer free training?</summary>
+  <p>Yes. You can access our free lessons, videos, reviewer, and self-study resources without paying for group training.</p>
+  <p><a href="https://callcentertrainingtips.com/start/">Start with our Free Training Guide</a>.</p>
 </details>
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">What is the training schedule?</summary>
-<p style="color:black;">You can do the writing exercises anytime. We suggest 30 minutes to 1 hour of study per day, but you're free to work on the modules at your own pace.</p>
-
-<p style="color:black;">Live Coaching Sessions:</p>
-
-<p style="color:black;"><strong>Sunday Sessions</strong></p>
-<ul>
-  <li>8:00 PM – 9:00 PM</li>
-</ul>
-
-<p style="color:black;"><strong>Tuesday, Thursday, Saturday Sessions</strong></p>
-<ul>
-  <li>9:00 PM – 10:00 PM</li>
-</ul>
-
-<p style="color:black;">If you need a different time, <a href="https://facebook.com/callcentertrainingtips">send us a message</a>. We're working on more options for students with different schedules.</p>
+  <summary>What's the difference between free lessons and paid group training?</summary>
+  <p>Our free resources help you study independently. Paid group training provides live speaking practice, feedback, corrections, and guidance.</p>
 </details>
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Why do you use writing exercises?</summary>
-<p style="color:black;">We use writing exercises because they help improve your grammar at your own pace.</p>
-<p style="color:black;">It's easier to spot and fix grammar mistakes in writing.</p>
-<p style="color:black;">We'll look at your writing, one sentence at a time. You'll read each sentence out loud, and we'll fix your grammar and pronunciation.</p>
-<p style="color:black;">I'll teach you ways to make your sentences better and sound more professional.</p>
-<p style="color:black;">We suggest setting aside 30-45 minutes each day for writing.</p>
+  <summary>Can I join if I'm a beginner?</summary>
+  <p>Yes. The sessions are beginner-friendly, but you must be willing to participate, follow instructions, and practice speaking English.</p>
 </details>
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Can I see samples of your sessions?</summary>
-<p style="color:black;">Sure! Here's a <a href="https://callcentertrainingtips.com/videos">link to sample sessions in video format</a>.</p>
+  <summary>What if I miss a session?</summary>
+  <p>If you miss a session, you can attend the next available session to complete your remaining sessions.</p>
+  <p>You won't lose a session just because you couldn't attend. Simply continue attending until you've completed your paid session count.</p>
 </details>
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Will you guarantee that I'll improve and get hired after I pay?</summary>
-<p style="color:black;">Improvement and success depend on your active participation.</p>
-<p style="color:black;">Your lessons involve more than just paying, reading, and watching videos after you join</p>
-<p style="color:black;">To sharpen your communication skills, you must participate in the writing exercises and group sessions</p>
-<p style="color:black;">It's essential to read and follow all the instructions carefully.</p>
-<p style="color:black;">For maximum results, I recommend giving your best effort to complete all the written exercises and being punctual for all sessions.</p>
+  <summary>Can I request a different schedule?</summary>
+  <p>Our regular group sessions are Tuesday and Thursday at 8:00 PM Philippine time. Saturday sessions are occasionally available.</p>
+  <p>If you need a different schedule, please consider <a href="https://callcentertrainingtips.com/english-lessons/">private one-on-one coaching</a>.</p>
 </details>
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Why do I need to pay if I can watch YouTube or read your lessons for free?</summary>
-<p style="color:black;">While free resources like YouTube and online lessons can be helpful, paying for training offers personalized feedback and guidance.</p>
-<p style="color:black;">Communication is complex, and learning it on your own can be challenging. Different situations require different levels of English skills.</p>
-<p style="color:black;">For example, call center work in business-to-customer (B2C) and business-to-business (B2B) settings requires different skill levels, as does online freelancing.</p>
-<p style="color:black;">Improving your communication skills can lead to better job opportunities and higher pay. It can also help you avoid misunderstandings and lost opportunities in both business and personal relationships.</p>
-<p style="color:black;">Training is not a magic ticket that automatically grants you new skills or guarantees a job. Instead, it's a service that provides valuable lessons, guidance, feedback, and correction to help you grow and improve your communication abilities.</p>
+  <summary>Will I be guaranteed a call center job?</summary>
+  <p>No. Training can help you improve your communication and interview skills, but employment depends on your qualifications, performance, employer requirements, and available opportunities.</p>
 </details>
 
 <details>
-<summary style="color:#61c17d; font-family:Lato; font-size:23px; line-height:22px;">Do I need to pay for the session before I start the training?</summary>
-<p style="color:black;">Yes, you need to pay for the session before you can join the sessions. This ensures you have access to all the resources, feedback, and guidance offered in the program.</p>
+  <summary>Can I watch samples of your training sessions?</summary>
+  <p>Yes. <a href="https://callcentertrainingtips.com/videos/">Watch our sample training videos</a> before deciding whether to enroll.</p>
 </details>
 
-<p>Send a message to <a href="https://www.facebook.com/callcentertrainingtips">JOIN NOW</a>!!!</p>
+<details>
+  <summary>Do I need to pay before joining?</summary>
+  <p>Yes. Payment is required before attending paid group sessions. Please confirm enrollment availability before sending payment.</p>
+</details>
 
-<p><img src="{{ site.url }}/assets/img/2020-07-01-three-hundred.png" width="400"></p>
-<p><a href="https://www.facebook.com/callcentertrainingtips/">CLICK HERE TO JOIN</a></p>
+<h2>NOT READY TO ENROLL?</h2>
+
+<p>You don't need to pay for training to start improving your English.</p>
+
+<p>Use our free reviewer, study the lessons, watch the videos, and practice speaking every day.</p>
+
+<p><a href="https://callcentertrainingtips.com/start/"><strong>START WITH FREE TRAINING</strong></a></p>
