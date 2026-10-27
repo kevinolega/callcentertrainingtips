@@ -1,102 +1,103 @@
 ---
 layout: page
-title: TRAINING OFFERS
-description: These are our current English communication training offers for job seekers, freelancers, and professionals.
+title: ENGLISH COACHING AND TRAINING
+description: Practice English communication and prepare for call center interviews with group sessions, private coaching, or consultation.
 permalink: /promos/
 redirect_from:
   - /courses/
 ---
 
-## WHAT ARE PEOPLE SAYING ABOUT OUR TRAINING
+# English Coaching and Interview Practice
+
+Prepare for call center interviews, practice speaking English, and get feedback on the skills you need to improve.
+
+**Start with group coaching if you want regular practice at a lower cost.** If you need help with a specific goal, review the private coaching and consultation options below.
+
+## 1. Group Coaching
+
+<img src="{{ site.url }}/assets/img/Affordable-English-Lessons.png" width="400" alt="Affordable English lessons">
+
+Practice grammar, pronunciation, and interview answers with other students.
+
+**Best for:** Job applicants who want regular speaking practice and feedback.
+
+Sessions run on **Tuesday, Thursday, and Saturday**. Check the group sessions page for current prices, session times, and enrollment details.
+
+**[View Group Coaching Details and Join](https://callcentertrainingtips.com/group-sessions/)**
+
+---
+
+## 2. Private Coaching
+
+Get one-on-one help with your communication skills and work goals.
+
+Choose the program that fits your situation:
+
+- [Call Center Job Applicants](https://callcentertrainingtips.com/english-lessons)
+- [Hired Call Center Agents: Regularization and KPI Support](https://callcentertrainingtips.com/english-lessons-call-center-agent)
+- [Online Freelancers, VAs, and Remote Workers](https://callcentertrainingtips.com/english-lessons-online-freelancer)
+- [Working Professionals](https://callcentertrainingtips.com/english-lessons-working-professional)
+- [Business Owners](https://callcentertrainingtips.com/english-lessons-business-owners)
+- [Martial Arts Coaches](https://callcentertrainingtips.com/english-lessons-martial-arts-coach)
+
+Review the program details before contacting us. Private coaching depends on available slots.
+
+### For Hired Call Center Agents: Top Agent Program
+
+This program focuses on English skills and call center performance.
+
+**Weeks 1–2: English Fast-Track**
+- Grammar assessment and corrections
+- Pronunciation practice and evaluation
+
+**Weeks 3–4: KPI Improvement**
+- Customer service, sales, or technical support call scripts
+- Practice related to AHT, QA, CSAT, and conversion
+
+The program also includes habit coaching and live feedback.
+
+**[View the Call Center Agent Program](https://callcentertrainingtips.com/english-lessons-call-center-agent)**
+
+---
+
+## 3. Hourly Consultation
+
+Need help with a resume, mock interview, mock call, or a specific workplace situation?
+
+**₱1,560 per hour**
+
+Use the application form to explain what you need help with.
+
+**[Apply for Consultation](https://forms.gle/tnbBqJcKSyxGMK9K8)**
+
+---
+
+## Student Feedback and Experience
+
+Read what students say about the lessons and training.
 
 {% include featured-testimonial-01.html %}
 {% include featured-testimonial-02.html %}
 {% include featured-testimonial-03.html %}
 {% include featured-testimonial-04.html %}
 
-My lessons have helped [hundreds of Filipinos get hired in a call center](https://callcentertrainingtips.com/testimonials).
+[Read more student testimonials](https://callcentertrainingtips.com/testimonials).
 
-If you want my help and need more support, here are your options:
+### Call Center Work and Performance
 
----
-
-## 📅 GROUP SESSIONS – AFFORDABLE TRAINING
-
-<img src="{{ site.url }}/assets/img/Affordable-English-Lessons.png" width="400">
-
-Practice grammar, pronunciation, and interview answers in a group format.  
-Best for job applicants who want weekly coaching at a low price.
-
-[Join the Group Session](https://callcentertrainingtips.com/group-sessions/)
-
----
-
-## 🧑‍💻 1-ON-1 TRAINING FOR SPECIFIC GOALS
-
-If you want private coaching, I offer one-to-one training for different goals:
-
-- [Job Applicants / Call Center Applicants](https://callcentertrainingtips.com/english-lessons)
-- [Hired Call Center Agents – Regularization or KPI Support](https://callcentertrainingtips.com/english-lessons-call-center-agent)
-- [Online Freelancers / VAs / Digital Workers](https://callcentertrainingtips.com/english-lessons-online-freelancer)
-- [Working Professionals](https://callcentertrainingtips.com/english-lessons-working-professional)
-- [Business Owners](https://callcentertrainingtips.com/english-lessons-business-owners)
-- [Martial Arts Coaches](https://callcentertrainingtips.com/english-lessons-martial-arts-coach)
-
-Each program helps you fix grammar, speak clearly, and build confidence in your work.
-
----
-
-## 🏆 TOP AGENT PROGRAM
-
-For hired agents aiming to improve KPIs and performance.
-
-**Week 1–2: English Fast-Track**
-- Grammar refresher, assessment, and corrections
-- Pronunciation module and evaluation
-
-**Week 3–4: KPI Improvement**
-- Customer Service, Sales, or Tech Support call scripts
-- Focus on AHT, QA, CSAT, and conversion
-
-Includes habit coaching and live feedback.
-
-![VOC Champion]({{ site.url }}/assets/img/VOC Champion.jpg)  
-![Top Agent Award]({{ site.url }}/assets/img/Me Sharing my Top Agent Award.png)  
-![Top Agent Sales]({{ site.url }}/assets/img/Top Agent Sales.png)  
+![VOC Champion]({{ site.url }}/assets/img/VOC Champion.jpg)
+![Top Agent Award]({{ site.url }}/assets/img/Me Sharing my Top Agent Award.png)
+![Top Agent Sales]({{ site.url }}/assets/img/Top Agent Sales.png)
 ![Top Agent Sales Board]({{ site.url }}/assets/img/Top Agent Sales Board.png)
 
-➡️ [Learn more about the Call Center Agent Program](https://callcentertrainingtips.com/english-lessons-call-center-agent)
-
 ---
 
-## 🕐 HOURLY CONSULTATION
+## Not Ready for Paid Coaching?
 
-Need help reviewing your resume, mock call answers, or specific work situations?
+You can study on your own first. We have free reviewers, lessons, videos, and assessments for call center applicants and online freelancers.
 
-**₱1,560 per hour.**
+**[Start with Free Lessons](https://callcentertrainingtips.com/start/)**
 
-[Apply for Consultation](https://forms.gle/tnbBqJcKSyxGMK9K8)
+## Questions About a Training Offer?
 
----
-
-## 🧰 ONLINE FREELANCING PREP
-
-New to freelancing? Need help talking to clients or doing interviews?
-
-We offer training for:
-- Virtual Assistants
-- Video Editors
-- Graphic Designers
-- Writers
-- Remote workers
-
-[Learn more about how to communicate better to online clients](https://callcentertrainingtips.com/english-lessons-online-freelancer)
-
-## ⚠️ NEED HELP FOR A SPECIFIC SITUATION?
-
-[Message us on Facebook](https://www.facebook.com/callcentertrainingtips)  
-or  
-[Email kevin@callcentertrainingtips.com](mailto:kevin@callcentertrainingtips.com)
-```
-
-
+Please review the program page, price, and schedule first. If you have a specific question that the page does not answer, you can [message CCTT on Facebook](https://www.facebook.com/callcentertrainingtips) or [email kevin@callcentertrainingtips.com](mailto:kevin@callcentertrainingtips.com).
