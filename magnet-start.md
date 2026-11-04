@@ -1,17 +1,68 @@
 ---
 layout: page
-title: "Start Here: Free Call Center Training and Interview Preparation"
-description: "Free call center reviewer, interview lessons, videos, assessments, and self-study resources."
+title: "Start Here: Call Center Training and Interview Preparation"
+description: "Prepare for your dream call center job. Access free lessons, reviewers, assessments, group training, and private coaching."
 author: Kevin Olega
 permalink: /start/
 ---
-**You do not need to pay for training to start preparing for a call center job.**
 
-Call Center Training Tips provides free lessons, interview guides, practice resources, and assessments.
+# Get Ready for Your Dream Call Center Job
 
-I created these resources so people could prepare for call center interviews without needing to contact me for every question.
+I've been helping people get hired in call centers since 2005.
 
-If you are willing to put in the time and effort, you can study on your own.
+In fact, I helped five people get hired before I even landed my first call center job.
+
+I've also been publishing free lessons through Call Center Training Tips since 2011.
+
+Over the years, many readers and students have contacted me to say they finally got hired.
+
+Some attended my classes. Others studied my free lessons, watched my videos, and practiced on their own.
+
+I've seen this happen over and over again.
+
+**Give me 30 days of serious effort, and I guarantee you will get your dream call center job.**
+
+But you have to do the work. If you refuse to study and practice, even paid coaching won't help you.
+
+## Choose How You Want to Prepare
+
+You have three options.
+
+### 1. Free Self-Study
+
+Follow the study guide below. Read the lessons, watch the videos, take the assessments, and practice on your own.
+
+You can access the free resources immediately.
+
+**[START FREE SELF-STUDY](#step-1-download-the-free-reviewer)**
+
+### 2. Group Training
+
+Join our live classes to practice English grammar, pronunciation, and job interviews.
+
+Follow a class schedule, practice with other students, ask questions, and receive feedback.
+
+**[VIEW GROUP TRAINING AND ENROLLMENT](https://callcentertrainingtips.com/group-sessions/)**
+
+### 3. One-on-One Coaching
+
+Work directly with me on your specific problems.
+
+Practice interview questions, improve your English communication, and receive personal feedback.
+
+We can focus on the skills you need to improve before your next interview.
+
+**[VIEW PRIVATE COACHING AND ENROLLMENT](https://callcentertrainingtips.com/english-lessons/)**
+
+You can start with any of these options. You don't have to complete the free lessons before enrolling in a class.
+
+---
+
+# Your Free Call Center Training Guide
+
+I've organized these resources so you can prepare for call center interviews without needing to contact me for every question.
+
+Follow the steps below and practice what you learn.
 
 ## Step 1. Download the Free Reviewer
 
@@ -76,6 +127,28 @@ If you fail an interview, review what happened. Find the lessons that address yo
 
 Keep learning and improving.
 
+---
+
+## Want More Help? Join Our Live Training
+
+If you want a teacher to guide your practice, correct your mistakes, and help you prepare for interviews, you can enroll in our live sessions.
+
+**Group Training**
+
+Join scheduled classes to practice English communication, pronunciation, grammar, and job interviews with other students.
+
+**[VIEW GROUP TRAINING](https://callcentertrainingtips.com/group-sessions/)**
+
+**One-on-One Coaching**
+
+Work directly with me. We'll focus on your specific problems, practice your answers, and prepare for your next interview.
+
+**[VIEW PRIVATE COACHING](https://callcentertrainingtips.com/english-lessons/)**
+
+Both training pages include the session details, prices, and enrollment information.
+
+---
+
 ## Interested in Freelancing?
 
 I also share free lessons about freelancing, remote work, finding clients, and working with international businesses.
@@ -85,30 +158,6 @@ You can study these resources on your own.
 **[Sign Up for Free Freelancing Resources](https://sendfox.com/lp/3lw8ql)**
 
 Enter your email address to get started.
-
-## What If I Cannot Afford Paid Training?
-
-That's fine.
-
-You can use the free resources without paying anything.
-
-You do not need my permission to study.
-
-You do not need to enroll in a class.
-
-You do not need to send me a message before you begin.
-
-Everything listed above is available for you to use.
-
-## What If I Want Personal Coaching?
-
-I occasionally offer paid group training and one-on-one coaching.
-
-These sessions provide live practice, feedback, and help with specific communication problems.
-
-Availability depends on my schedule.
-
-If you want coaching, review the free resources first, then [contact me](https://callcentertrainingtips.com/contact/) to ask about available sessions.
 
 ## Want to Say Thank You?
 
@@ -124,9 +173,11 @@ Donations are not required.
 
 ## Have a Question?
 
-Please check the website, videos, reviewer, and assessments before contacting me.
+Please review the training guide, lessons, reviewer, videos, and assessments before contacting me.
 
-I created these resources to answer the questions people commonly ask.
+I've organized these resources to answer the questions people commonly ask.
+
+If you want to enroll in group training or private coaching, review the training pages and send me your preferred option so we can confirm availability.
 
 If you still need help, use the [contact page](https://callcentertrainingtips.com/contact/) or send a message on [Facebook](https://facebook.com/callcentertrainingtips).
 
@@ -134,4 +185,4 @@ I may not be able to respond to every message.
 
 **Your progress depends on what you practice, not how often you contact me.**
 
-Good luck with your applications.
+**Give me 30 days of serious effort, and I guarantee you will get your dream call center job.**
