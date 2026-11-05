@@ -51,13 +51,23 @@ author: Kevin Olega
 
 <p><strong>But you have to do the work.</strong></p>
 
+<h3>SPECIAL PRIVATE COACHING DISCOUNT FOR JOB APPLICANTS</h3>
+
+<p>My standard private coaching rate is <strong>₱1,647 per hour</strong>.</p>
+
+<p>But I know that looking for a job is difficult, especially when you're unemployed and have limited money.</p>
+
+<p>That's why I offer call center job applicants a special rate of <strong>₱885 per session</strong>.</p>
+
+<p>You save ₱762 (46%) on a single session.</p>
+
 <h3>FOUR-SESSION PACKAGE: ₱2,547</h3>
 
-<p>Regular price: ₱885 per session.</p>
-
-<p>Four individual sessions cost ₱3,540.</p>
+<p>Four individual sessions at the job applicant rate cost ₱3,540.</p>
 
 <p><strong>SAVE ₱993 WITH THE FOUR-SESSION PACKAGE.</strong></p>
+
+<p>Compared with four sessions at my standard rate of ₱6,588, you save ₱4,041 (61%).</p>
 
 <p><a href="#how-to-book-private-coaching"><strong>BOOK PRIVATE COACHING</strong></a></p>
 
@@ -343,17 +353,27 @@ author: Kevin Olega
 
 <h2>PRIVATE COACHING FEES</h2>
 
+<h3>STANDARD PRIVATE COACHING RATE: ₱1,647 PER HOUR</h3>
+
+<p>I offer a special discount to call center job applicants because I know that job hunting can be difficult when money is limited.</p>
+
+<p><strong>JOB APPLICANT RATE: ₱885 PER 60-MINUTE SESSION</strong></p>
+
+<p>That's ₱762 (46%) less than my standard rate.</p>
+
 <h3>FOUR-SESSION PACKAGE: ₱2,547</h3>
 
-<p><strong>Regular price: ₱3,540</strong></p>
-
-<p>Four individual sessions normally cost ₱885 each.</p>
+<p>Four individual sessions at the applicant rate cost ₱3,540.</p>
 
 <p>₱885 × 4 sessions = ₱3,540</p>
 
 <p><strong>PACKAGE PRICE: ₱2,547</strong></p>
 
-<p><strong>YOUR SAVINGS: ₱993 (28%)</strong></p>
+<p><strong>YOUR ADDITIONAL PACKAGE SAVINGS: ₱993 (28%)</strong></p>
+
+<p>Four sessions at my standard rate would cost ₱6,588.</p>
+
+<p><strong>TOTAL SAVINGS VERSUS STANDARD RATE: ₱4,041 (61%)</strong></p>
 
 <p>Your package includes:</p>
 
@@ -374,7 +394,9 @@ author: Kevin Olega
 
 <h3>SINGLE PRIVATE SESSION: ₱885</h3>
 
-<p>Book one 60-minute session if you need help with a specific problem.</p>
+<p>My standard rate is ₱1,647 per hour. As a call center job applicant, you pay only ₱885 for one 60-minute session.</p>
+
+<p>Book one session if you need help with a specific problem.</p>
 
 <p>Examples include:</p>
 
@@ -635,8 +657,15 @@ author: Kevin Olega
 
 <details>
   <summary>Do I need to buy the Four-Session Package?</summary>
-  <p>No. You can book a single session for ₱885 or choose the Four-Session Package for ₱2,547.</p>
-  <p>The Four-Session Package saves you ₱993 compared with buying four individual sessions.</p>
+  <p>No. You can book a single job applicant session for ₱885 or choose the Four-Session Package for ₱2,547.</p>
+  <p>The Four-Session Package saves you ₱993 compared with buying four sessions at the discounted applicant rate.</p>
+</details>
+
+<details>
+  <summary>Why is the job applicant rate lower than your standard hourly rate?</summary>
+  <p>My standard private coaching rate is ₱1,647 per hour.</p>
+  <p>I offer call center job applicants a special rate of ₱885 per session because I know that looking for work can be difficult when money is limited.</p>
+  <p>You receive the same personal coaching, feedback, and practice exercises at the discounted rate.</p>
 </details>
 
 <details>
@@ -743,13 +772,19 @@ author: Kevin Olega
 
 <p><strong>Give me 30 days of serious effort, and I guarantee you will get your dream call center job.</strong></p>
 
+<p>Standard private coaching: ₱1,647 per hour.</p>
+
+<p><strong>Special job applicant rate: ₱885 per session.</strong></p>
+
 <h3>FOUR-SESSION PACKAGE: ₱2,547</h3>
 
-<p>Regular price: ₱3,540</p>
+<p>Four single sessions at the job applicant rate: ₱3,540.</p>
 
-<p><strong>SAVE ₱993</strong></p>
+<p><strong>SAVE ₱993 ON THE FOUR-SESSION PACKAGE.</strong></p>
 
-<p>Or book one private session for ₱885.</p>
+<p>Compared with the standard four-session value of ₱6,588, you save ₱4,041 (61%).</p>
+
+<p>Or book one private job applicant session for ₱885.</p>
 
 <p>Each session lasts 60 minutes.</p>
 

@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "Group English Training for Call Center Applicants"
@@ -27,6 +26,16 @@ Here's something I want you to understand.
 You can spend hundreds of hours practicing English and still make the same mistakes.
 
 **Because practicing the wrong thing over and over won't fix the problem.**
+
+You may already know hundreds of English words.
+
+You may already understand grammar rules.
+
+You may already know the answers to common interview questions.
+
+**But do you know which mistakes keep causing you to fail?**
+
+If nobody identifies those mistakes, you may continue repeating them for months or years.
 
 You need someone who can listen to your answers, identify what's wrong, explain how to correct it, and give you exercises to practice.
 
@@ -110,6 +119,64 @@ Our group training is also for:
 You don't need perfect English to join.
 
 **You need to show up, participate, follow instructions, and practice.**
+
+---
+
+## FREE LESSONS, GROUP TRAINING, OR PRIVATE COACHING?
+
+I've published free lessons, videos, and reviewers for years.
+
+You can use these resources to study on your own.
+
+Many readers have used them to prepare for interviews and get hired.
+
+But some students need more than another lesson.
+
+**They need someone to identify the mistakes they don't know they're making.**
+
+### FREE LESSONS: STUDY ON YOUR OWN
+
+Read the lessons.
+
+Watch the videos.
+
+Download the reviewers.
+
+Practice the exercises.
+
+You choose what to study and when to practice.
+
+[ACCESS OUR FREE TRAINING RESOURCES](https://callcentertrainingtips.com/start/)
+
+### GROUP TRAINING: PRACTICE AND RECEIVE CORRECTIONS
+
+Join live sessions with other students.
+
+Practice speaking English.
+
+Answer interview questions.
+
+Receive corrections.
+
+Complete writing exercises.
+
+Learn from the questions and mistakes of other students.
+
+**Choose group training if you want regular practice, feedback, and guidance.**
+
+### PRIVATE COACHING: WORK ON YOUR SPECIFIC PROBLEMS
+
+Private coaching gives you my individual attention.
+
+We'll focus on your grammar, pronunciation, interview answers, and communication problems.
+
+I'll assign exercises based on your weak areas.
+
+We can also arrange a schedule based on our mutual availability.
+
+**Choose private coaching if you need personal attention for a specific problem.**
+
+[VIEW PRIVATE ENGLISH AND INTERVIEW COACHING](https://callcentertrainingtips.com/english-lessons/)
 
 ---
 
@@ -527,6 +594,8 @@ Students also complete exercises between sessions.
 **Daily writing submissions are part of the 30-day challenge.**
 
 ---
+
+<a id="how-to-enroll"></a>
 
 # HOW TO ENROLL
 
