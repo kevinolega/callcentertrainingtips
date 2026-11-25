@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: The Kind of Community I Want to Build
-date: 2026-11-25 20:21
+date: 2026-11-24 20:21
 description: 
 Tags: [ faq, blog ]
 permalink: community-build
